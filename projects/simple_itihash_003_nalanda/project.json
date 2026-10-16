@@ -1,0 +1,2328 @@
+{
+  "project_id": "simple_itihash_003_nalanda",
+  "brand": "Simple History Teller Network",
+  "channels": {
+    "bn": "Simple History Teller Bangla",
+    "en": "Simple History Teller",
+    "hi": "Simple History Teller Hindi"
+  },
+  "style_preset": "PRESET_SIMPLE_HISTORY",
+  "target_duration_seconds": 1100,
+  "total_duration_seconds": 1019.3,
+  "language_total_durations": {
+    "bn": 1133.8,
+    "en": 1007.92,
+    "hi": 1110.92
+  },
+  "metadata": {
+    "title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+    "title_en": "Nalanda: The University That Burned for 3 Months",
+    "title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "parent_beat": 1,
+      "sub_id": 1,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আমি সময়ের সাক্ষী হয়ে মহাকালের ধুলোমাখা হাজার বছরের পথ পেরিয়ে বিহারের নালন্দার হারানো সত্য ইতিহাস তোমাদের শোনাতে আজ এই প্রাচীন প্রান্তরে এসেছি।",
+        "en": "I am the Time Chronicler crossing a thousand years of dust and darkness to tell you the true lost history of Nalanda in Bihar today.",
+        "hi": "मैं समय का साक्षी बनकर महाकाल की धूल भरी हज़ार साल लंबी राह पार करके बिहार के नालंदा का भूला हुआ सच्चा इतिहास तुम्हें सुनाने आज इस प्राचीन धरती पर आया हूँ।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, Time Chronicler, the bald elderly human scholar with long white beard, round glasses and brown robe holding torch and ancient book (match the attached character design exactly; human face only), emerging from swirling cosmic clock mist, starry time-tunnel, welcoming gesture, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, no clock face, no clock head, no egg head",
+      "asset_file": "visual_assets/clip_shot_0001.mp4",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "ai_video",
+      "duration": 10.74,
+      "language_durations": {
+        "bn": 12.8,
+        "en": 10.32,
+        "hi": 13.2
+      },
+      "timestamp_start": 0,
+      "timestamp_end": 10.74
+    },
+    {
+      "scene_id": 2,
+      "parent_beat": 1,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কল্পনা করো তালপাতার পুঁথিতে ঠাসা সেই বিশাল গ্রন্থাগারের কথা যেখানে একবার আগুন লাগার পর পোড়া তেলের ধোঁয়ার মাঝে টানা তিন মাস ধরে রাতদিন লেলিহান শিখা থামেনি।",
+        "en": "Imagine that vast library packed with palm-leaf manuscripts where once a fire started and the raging flames did not stop for three full months.",
+        "hi": "ताड़पत्र पांडुलिपियों से ठसाठस भरे उस विशाल पुस्तकालय की कल्पना करो जहाँ एक बार आग लगने के बाद जले तेल के धुएँ के बीच पूरे तीन महीनों तक रातदिन लपटें शांत नहीं हुईं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, colossal ancient Indian library hall, endless wooden shelves of palm-leaf manuscripts, warm lamp light, immense scale, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0002.jpg",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "zoom_out",
+      "duration": 11.56,
+      "language_durations": {
+        "bn": 11.96,
+        "en": 11.08,
+        "hi": 15.72
+      },
+      "timestamp_start": 10.74,
+      "timestamp_end": 22.3
+    },
+    {
+      "scene_id": 3,
+      "parent_beat": 1,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "প্রায় নব্বই লাখ তালপাতার পুঁথি আর হাজার বছরের পণ্ডিতদের চোখের জলমাখা কঠোর সাধনা বিহারের মাটিতে একটিমাত্র ভয়াবহ বিপর্যয়ে ধূসর ছাইয়ের স্তূপে পরিণত হয়েছিল।",
+        "en": "Nearly nine million palm-leaf manuscripts with a thousand years of scholarly effort turned into piles of grey ash in a single tragic disaster.",
+        "hi": "लगभग नब्बे लाख ताड़पत्र पांडुलिपियाँ और हज़ार साल की विद्वानों की आँसुओं से सींची कठोर साधना बिहार की धरती पर एक ही भीषण विपत्ति में धूसर राख के ढेर में बदल गईं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, macro close-up of palm-leaf manuscripts curling into grey ash, glowing embers and smoke, dramatic light, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0003.jpg",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "pan_left",
+      "duration": 11.63,
+      "language_durations": {
+        "bn": 14.24,
+        "en": 10.4,
+        "hi": 14.64
+      },
+      "timestamp_start": 22.3,
+      "timestamp_end": 33.93
+    },
+    {
+      "scene_id": 4,
+      "parent_beat": 1,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "এটা কোনো বানানো রূপকথা নয়, এটা বিহারের মাটিতে লাল ইটের সুবিশাল স্তূপে দাঁড়িয়ে থাকা মগধের নালন্দার খননে প্রমাণিত প্রাচীন সত্য ইতিহাসের আখ্যান।",
+        "en": "This is no invented fairy tale but the proven true story of Nalanda standing in red brick on the ancient red soil of Bihar in India.",
+        "hi": "यह कोई गढ़ी हुई काल्पनिक कहानी नहीं है बल्कि बिहार की मिट्टी पर लाल ईंटों के ढेर पर खड़े नालंदा का खुदाई में प्रमाणित प्राचीन सच्चा इतिहास है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, ancient Bihar countryside with grand monastery silhouette on horizon at dawn, pilgrims on path, documentary mood, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0004.jpg",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "pan_right",
+      "duration": 10.67,
+      "language_durations": {
+        "bn": 12.84,
+        "en": 9.92,
+        "hi": 10.88
+      },
+      "timestamp_start": 33.93,
+      "timestamp_end": 44.6
+    },
+    {
+      "scene_id": 5,
+      "parent_beat": 1,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "পৃথিবীর প্রথম বিশ্ববিদ্যালয় জ্ঞানের সেই উজ্জ্বল প্রদীপঘর প্রাচীন বিহারের বুকে কার লাগানো ভয়াবহ আগুনে পুড়ে এক রাতেই নিঃশব্দ ছাই হয়ে গেল?",
+        "en": "Whose set fire turned the radiant lighthouse of the first university on earth into silent ash and drifting smoke in a single night in Bihar?",
+        "hi": "पृथ्वी के पहले विश्वविद्यालय रूपी ज्ञान के उस जगमगाते दीपघर को बिहार की धरती पर किसकी लगाई आग ने एक ही रात में जलाकर शांत राख बना दिया?"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, young student pointing at massive burnt university gate asking why, broken walls and beams, curious mood, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0005.jpg",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "zoom_in",
+      "duration": 10.3,
+      "language_durations": {
+        "bn": 12,
+        "en": 11.28,
+        "hi": 10.88
+      },
+      "timestamp_start": 44.6,
+      "timestamp_end": 54.9
+    },
+    {
+      "scene_id": 6,
+      "parent_beat": 1,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "চলো আজ আমার হাত শক্ত করে ধরে সোনালি সময়সুড়ঙ্গের ঘূর্ণি পেরিয়ে তেরোশো বছর পেছনে গুপ্ত যুগের প্রাচীন মগধের সবুজ মাটির বুকে এখন ফিরে যাই।",
+        "en": "Come hold my hand and pass through the golden tunnel of time back thirteen hundred years to the green ancient soil of Magadha in Bihar.",
+        "hi": "चलो आज मेरा हाथ पकड़कर सुनहरे समय-सुरंग के भँवर को पार करके तेरह सौ साल पीछे गुप्त युग के प्राचीन मगध की हरी-भरी धरती की गोद में लौट चलें।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, golden time-portal vortex swirling over ancient Magadha plains, birds in flight, journey-to-past energy, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0006.jpg",
+      "sfx": "library_fire_crackle_intro",
+      "motion_effect": "zoom_out",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 11.12,
+        "en": 11.16,
+        "hi": 11.56
+      },
+      "timestamp_start": 54.9,
+      "timestamp_end": 65.05
+    },
+    {
+      "scene_id": 7,
+      "parent_beat": 2,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আজ বিহারের নালন্দায় গেলে শুধু লাল ইটের সুবিশাল ধ্বংসস্তূপ, ভাঙা প্রাচীন স্তূপ আর মগধের শূন্য প্রাঙ্গণের উপর ভোরের হালকা কুয়াশা ভাসতে দেখবে।",
+        "en": "If you visit Nalanda in Bihar today you will see only red-brick ruins with broken stupas and empty courtyards under light morning mist.",
+        "hi": "आज बिहार के नालंदा जाओगे तो सिर्फ लाल ईंटों के विशाल खंडहर, टूटे प्राचीन स्तूप और मगध के भोर की हल्की धुंध से ढके सूने आँगन ही तैरते देखोगे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, wide morning view of red-brick Nalanda ruins, broken stupas and empty courtyards, light mist, tiny visitors, 16:9 documentary illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0007.jpg",
+      "sfx": "wind_over_ruins_ambient",
+      "motion_effect": "pan_left",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 11.92,
+        "en": 9.72,
+        "hi": 12.28
+      },
+      "timestamp_start": 65.05,
+      "timestamp_end": 75.49
+    },
+    {
+      "scene_id": 8,
+      "parent_beat": 2,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তবু বিশ্বাস করো প্রাচীন মগধের এই নীরব প্রাঙ্গণেই একদিন দশ হাজার ছাত্র আর দুই হাজার শিক্ষক মিলে বিহারের বুকে একসঙ্গে প্রতিদিন পড়াশোনা করতেন।",
+        "en": "Yet believe this truth that these silent courtyards once held ten thousand students and two thousand teachers studying together daily.",
+        "hi": "फिर भी यह सच मानो कि प्राचीन मगध के इन्हीं शांत आँगनों में कभी दस हज़ार छात्र और दो हज़ार शिक्षक मिलकर बिहार की धरती पर रोज़ साथ बैठकर पढ़ाई करते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic Ghost-overlay of ten thousand students and two thousand teachers filling ancient courtyard, past-meets-present, 16:9 historical illustration, crowd of ten thousand students and teachers surging with life, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0008.mp4",
+      "sfx": "wind_over_ruins_ambient",
+      "motion_effect": "ai_video",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 12.04,
+        "en": 9.04,
+        "hi": 11.68
+      },
+      "timestamp_start": 75.49,
+      "timestamp_end": 85.86
+    },
+    {
+      "scene_id": 9,
+      "parent_beat": 2,
+      "sub_id": 3,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সুদূর চীন, কোরিয়া, তিব্বত আর পারস্য থেকে জ্ঞানপিপাসু পথিকরা মাসের পর মাস ধুলোমাখা দীর্ঘ বিপজ্জনক পথ হেঁটে নালন্দার দুয়ারে এসে দাঁড়াতেন।",
+        "en": "Thirsty seekers from China, Korea, Tibet and Persia walked long dusty roads for many months until they reached the ancient gates of Nalanda.",
+        "hi": "चीन, कोरिया, तिब्बत और फ़ारस जैसे दूर देशों से ज्ञान के प्यासे यात्री महीनों तक धूल भरी लंबी राह पैदल चलकर नालंदा के द्वार पर आकर खड़े होते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic Long caravan of scholar travellers from China Korea Tibet Persia walking dusty road to Indian monastery, 16:9 historical illustration, caravan journey across deserts and mountains, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0009.mp4",
+      "sfx": "wind_over_ruins_ambient",
+      "motion_effect": "ai_video",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 12.68,
+        "en": 10.36,
+        "hi": 11.64
+      },
+      "timestamp_start": 85.86,
+      "timestamp_end": 96.08
+    },
+    {
+      "scene_id": 10,
+      "parent_beat": 2,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এটা ছিল প্রাচীন পৃথিবীর অক্সফোর্ড আর হার্ভার্ড একসঙ্গে, যেখানে দেশি-বিদেশি পণ্ডিতরা প্রাচীন বটছায়ায় বসে হাসিমুখে পুঁথি বিনিময় করতেন।",
+        "en": "It was the Oxford and Harvard of the ancient world combined where Indian and foreign scholars exchanged manuscripts under banyan shade.",
+        "hi": "यह प्राचीन दुनिया का ऑक्सफ़ोर्ड और हार्वर्ड एक साथ था जहाँ देशी-विदेशी विद्वान प्राचीन बरगद की छाँव में बैठकर मुस्कुराते हुए पांडुलिपियाँ बाँटते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, ancient Indian teachers exchanging scrolls with foreign scholars under peepal tree, fusion of worlds, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0010.jpg",
+      "sfx": "wind_over_ruins_ambient",
+      "motion_effect": "zoom_out",
+      "duration": 10,
+      "language_durations": {
+        "bn": 10.6,
+        "en": 8.72,
+        "hi": 10.72
+      },
+      "timestamp_start": 96.08,
+      "timestamp_end": 106.08
+    },
+    {
+      "scene_id": 11,
+      "parent_beat": 3,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "অনেকে ভাবেন বিশ্ববিদ্যালয় মানে ব্রিটিশদের দান ১৮৫৭ সালের কলকাতা বা মুম্বাই নগরী, কিন্তু ইতিহাসের নিরপেক্ষ বিচারে এই সরল ধারণা একেবারেই ভুল।",
+        "en": "Many think university means a British gift like Calcutta or Bombay of 1857, but in the judgment of history this idea is fully wrong.",
+        "hi": "बहुत लोग मानते हैं कि विश्वविद्यालय का मतलब अंग्रेज़ों की देन 1857 का कलकत्ता या मुंबई शहर है पर इतिहास की निष्पक्ष कसौटी पर यह सरल सोच बिल्कुल ग़लत है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, colonial-era Calcutta university building with pillars beside ancient timeline scroll, myth-busting mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0011.jpg",
+      "sfx": "ancient_gong_resonance",
+      "motion_effect": "pan_left",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.2,
+        "en": 10.08,
+        "hi": 12.56
+      },
+      "timestamp_start": 106.08,
+      "timestamp_end": 116.45
+    },
+    {
+      "scene_id": 12,
+      "parent_beat": 3,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এই ধারণা একেবারেই ভুল, কারণ ব্রিটিশ অক্সফোর্ড নগরীর জন্মের সাতশো বছর আগেই ভারতের মাটিতে প্রাচীন মগধের নালন্দার জ্ঞানপ্রদীপ গর্বে জ্বলে উঠেছিল।",
+        "en": "This idea is fully wrong because the lamp of Nalanda was already burning bright in India seven hundred years before Oxford was even born.",
+        "hi": "यह सोच बिल्कुल ग़लत है क्योंकि ऑक्सफ़ोर्ड शहर के जन्म से सात सौ साल पहले ही भारत की धरती पर नालंदा का ज्ञानदीप गर्व से ही जल उठा था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, court scholar making emphatic cross-arms denial gesture, comic exaggerated expression, ancient court, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0012.jpg",
+      "sfx": "ancient_gong_resonance",
+      "motion_effect": "pan_right",
+      "duration": 10.52,
+      "language_durations": {
+        "bn": 11.8,
+        "en": 9.8,
+        "hi": 9.68
+      },
+      "timestamp_start": 116.45,
+      "timestamp_end": 126.97
+    },
+    {
+      "scene_id": 13,
+      "parent_beat": 3,
+      "sub_id": 3,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "৪২৭ খ্রিস্টাব্দে গুপ্ত সম্রাট প্রথম কুমারগুপ্ত মগধের মাটিতে সোনালি ভোরে পুরোহিতদের পবিত্র মন্ত্র আর শঙ্খধ্বনির মাঝে প্রথম ভিত্তি-ইট বসান।",
+        "en": "In 427 CE Gupta emperor Kumaragupta the First placed the first foundation brick at golden sunrise amid chanting priests and conch shells.",
+        "hi": "427 ईस्वी में गुप्त सम्राट कुमारगुप्त प्रथम ने मगध की धरती पर सुनहरी भोर में पुरोहितों के मंत्रों और शंखनाद के बीच पहली नींव-ईंट रखी थी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic Gupta emperor Kumaragupta in silk robes and gold crown laying foundation brick of grand monastery at sunrise, priests chanting, 16:9 historical art, foundation-brick laying construction ceremony, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0013.mp4",
+      "sfx": "ancient_gong_resonance",
+      "motion_effect": "ai_video",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 12.48,
+        "en": 11,
+        "hi": 11.24
+      },
+      "timestamp_start": 126.97,
+      "timestamp_end": 137.12
+    },
+    {
+      "scene_id": 14,
+      "parent_beat": 3,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তারপর প্রায় আটশো বছর ধরে ঋতুর পর ঋতু বদলালেও এখানে প্রদীপের উজ্জ্বল আলোয় ভোর থেকে মধ্যরাত পর্যন্ত প্রতিদিন নিরবচ্ছিন্ন পড়াশোনা চলেছিল।",
+        "en": "Then for nearly eight hundred years through changing seasons and kings, study here continued daily from dawn lamps to midnight without break.",
+        "hi": "फिर लगभग आठ सौ सालों तक मगध में ऋतुएँ और राजा बदलते रहे पर यहाँ दीपों की उज्ज्वल रोशनी में भोर से आधी रात तक रोज़ लगातार पढ़ाई चलती रही।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, same monastery across seasons and centuries, monks studying ceaselessly in shifting light, 800-year continuity, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0014.jpg",
+      "sfx": "ancient_gong_resonance",
+      "motion_effect": "zoom_out",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 12.88,
+        "en": 10.72,
+        "hi": 13.92
+      },
+      "timestamp_start": 137.12,
+      "timestamp_end": 147.27
+    },
+    {
+      "scene_id": 15,
+      "parent_beat": 3,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তাহলে ৪২৭ সালে এই মহান প্রতিষ্ঠানের জন্মমুহূর্ত কেমন ছিল আর সম্রাট কুমারগুপ্তের কোন দাতব্য দানে মগধের বুকে এর বিশাল কাঠের ফটক প্রথম খুলেছিল?",
+        "en": "So what did the birth moment of this great institution in Magadha look like and whose donation first opened its huge wooden gates?",
+        "hi": "तो 427 में इस महान संस्थान के जन्म का पल कैसा था और मगध की धरती पर सम्राट कुमारगुप्त के किस दान से इसके विशाल लकड़ी के द्वार पहली बार खुले थे?"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, curious student pushing open giant carved wooden door revealing sunrise-lit monastery birth scene, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0015.jpg",
+      "sfx": "ancient_gong_resonance",
+      "motion_effect": "pan_left",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 12.64,
+        "en": 8.44,
+        "hi": 13.36
+      },
+      "timestamp_start": 147.27,
+      "timestamp_end": 157.64
+    },
+    {
+      "scene_id": 16,
+      "parent_beat": 4,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "নালন্দা শুধু বৌদ্ধ ভিক্ষুদের প্রার্থনাঘর ছিল না, এটা ছিল পূর্ণাঙ্গ প্রাচীন বিশ্ববিদ্যালয় যেখানে চিকিৎসক আর জ্যোতির্বিদরা পাশাপাশি বসতেন।",
+        "en": "Nalanda was never only a prayer hall for Buddhist monks but a full university where physicians and astronomers sat side by side daily.",
+        "hi": "नालंदा सिर्फ बौद्ध भिक्षुओं का प्रार्थनाघर नहीं था बल्कि पूर्ण प्राचीन विश्वविद्यालय था जहाँ वैद्य और खगोलविद रोज़ पास-पास साथ बैठते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, grand pillared debate hall with monks, physicians, astronomers, logicians and mathematicians, lamps and conch, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0016.jpg",
+      "sfx": "peaceful_chanting_bells",
+      "motion_effect": "pan_right",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 10.68,
+        "en": 9.2,
+        "hi": 11.36
+      },
+      "timestamp_start": 157.64,
+      "timestamp_end": 167.79
+    },
+    {
+      "scene_id": 17,
+      "parent_beat": 4,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "এখানে বৌদ্ধ দর্শনের পাশাপাশি চিকিৎসাশাস্ত্র, জ্যোতির্বিজ্ঞান, যুক্তিবিদ্যা, ব্যাকরণ আর গণিত কালির গন্ধমাখা প্রাচীন শ্রেণিকক্ষে প্রতিদিন পড়ানো হতো।",
+        "en": "Here besides Buddhist philosophy, medicine, astronomy, logic, Sanskrit grammar and mathematics were taught in ink-scented classrooms daily.",
+        "hi": "यहाँ बौद्ध दर्शन के साथ चिकित्सा, खगोल विज्ञान, तर्कशास्त्र, व्याकरण और गणित स्याही की गंध वाली प्राचीन कक्षाओं में रोज़ पढ़ाए जाते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, brass armillary sphere, herbal medicine bowls and palm-leaf grammar sutras on low table, warm daylight, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0017.jpg",
+      "sfx": "peaceful_chanting_bells",
+      "motion_effect": "zoom_in",
+      "duration": 10.89,
+      "language_durations": {
+        "bn": 12.72,
+        "en": 10.36,
+        "hi": 10.28
+      },
+      "timestamp_start": 167.79,
+      "timestamp_end": 178.68
+    },
+    {
+      "scene_id": 18,
+      "parent_beat": 4,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আর্যভট্টের শূন্য আর গ্রহগণনার বিস্ময় এখানকার আচার্যরা পাথরের স্লেটে খড়ির বিন্দু এঁকে মনোযোগী শিষ্যদের হাতে যত্নে পরের প্রজন্মে তুলে দিতেন।",
+        "en": "Masters here passed Aryabhata's wonder of zero and planetary reckoning to the next generation by drawing chalk dots on stone slates.",
+        "hi": "आर्यभट के शून्य और ग्रह-गणना के चमत्कार को यहाँ के आचार्य पत्थर की पट्टी पर खड़िया से बिंदु बनाकर ध्यानमग्न शिष्यों के हाथों अगली पीढ़ी को सौंपते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, elder scholar demonstrating zero and planetary orbits with chalk dots on stone slate, students watching wide-eyed, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0018.jpg",
+      "sfx": "peaceful_chanting_bells",
+      "motion_effect": "zoom_out",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.28,
+        "en": 9.32,
+        "hi": 11.72
+      },
+      "timestamp_start": 178.68,
+      "timestamp_end": 189.05
+    },
+    {
+      "scene_id": 19,
+      "parent_beat": 4,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "সব ধর্মের ছাত্রদের জন্য মগধের নালন্দার ভারী কাঠের প্রাচীন ফটক সারাদিন খোলা ছিল আর ভিনদেশি পথিকরা মালা পরে হাসিমুখে সম্মানের সঙ্গে ভেতরে ঢুকতেন।",
+        "en": "The heavy wooden gates of Nalanda stayed open for students of every faith while foreign travellers entered wearing garlands with respect.",
+        "hi": "हर धर्म के छात्रों के लिए नालंदा के भारी लकड़ी के द्वार दिनभर खुले रहते थे और विदेशी यात्री मालाएँ पहनकर मुस्कुराते हुए सम्मान के साथ अंदर आते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, open monastery gates welcoming students of every faith, travellers entering together with garlands, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0019.jpg",
+      "sfx": "peaceful_chanting_bells",
+      "motion_effect": "pan_left",
+      "duration": 10.59,
+      "language_durations": {
+        "bn": 13.2,
+        "en": 9.56,
+        "hi": 10.36
+      },
+      "timestamp_start": 189.05,
+      "timestamp_end": 199.64
+    },
+    {
+      "scene_id": 20,
+      "parent_beat": 5,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সবচেয়ে চমকপ্রদ সত্য হলো নালন্দায় পড়াশোনা ছিল সম্পূর্ণ বিনামূল্যে, যা শুনে মগধে আসা নতুন ছাত্রদের দুই চোখ বিস্ময় ও আনন্দে বড় হয়ে যেত।",
+        "en": "The most astonishing truth is that study at Nalanda was completely free, a promise that widened the eyes of every newcomer with joy.",
+        "hi": "सबसे हैरान करने वाला सच यह है कि नालंदा में पढ़ाई पूरी तरह मुफ़्त थी जिसे सुनकर मगध आए नए छात्रों की दोनों आँखें खुशी से फैल जाती थीं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, astonished student hearing education is free, food bowls lodging rooms medicine jars shown joyful, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0020.jpg",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "pan_right",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 11.56,
+        "en": 9.12,
+        "hi": 9.92
+      },
+      "timestamp_start": 199.64,
+      "timestamp_end": 209.86
+    },
+    {
+      "scene_id": 21,
+      "parent_beat": 5,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "থাকা, গরম ভাতের গন্ধমাখা প্রতিদিনের খাওয়া আর ভেষজ ওষুধ সব বিশ্ববিদ্যালয় বিনামূল্যে দিত আর মগধের শত শত ছাত্র লম্বা ভোজনশালায় একসঙ্গে বসতেন।",
+        "en": "Lodging, warm rice meals and herbal medicine were all given by the university while hundreds of students sat together in long dining halls.",
+        "hi": "रहना, गरम भात वाला रोज़ का खाना और जड़ी-बूटी की दवा सब विश्वविद्यालय मुफ़्त देता था और मगध के सैकड़ों छात्र लंबे भोजनालय में साथ बैठते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic Monks serving free meals and medicine to students in long dining hall, warm community mood, 16:9 illustration, festive communal feast in long dining hall, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0021.mp4",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "ai_video",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 12.96,
+        "en": 8.76,
+        "hi": 12
+      },
+      "timestamp_start": 209.86,
+      "timestamp_end": 220.3
+    },
+    {
+      "scene_id": 22,
+      "parent_beat": 5,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এই বিশাল বার্ষিক খরচ চলত প্রায় দুশোটি গ্রামের রাজস্বদানে, যা ধর্মপ্রাণ গুপ্ত রাজা আর দানশীল বণিকরা শ্রদ্ধাভরে বিশ্ববিদ্যালয়কে দিয়েছিলেন।",
+        "en": "This vast yearly expense came from the revenue of nearly two hundred donated villages gifted with devotion by Gupta kings and rich merchants.",
+        "hi": "यह विशाल सालाना खर्च लगभग दो सौ गाँवों के राजस्व दान से चलता था जो धर्मपरायण गुप्त राजाओं और दानी व्यापारियों ने श्रद्धा से दिया था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, aerial view of 200 green villages, golden revenue streams flowing to monastery, kings and merchants donating, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0022.jpg",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "zoom_out",
+      "duration": 10.3,
+      "language_durations": {
+        "bn": 9.96,
+        "en": 10.16,
+        "hi": 9.6
+      },
+      "timestamp_start": 220.3,
+      "timestamp_end": 230.6
+    },
+    {
+      "scene_id": 23,
+      "parent_beat": 5,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তবে ভর্তি ছিল ভয়ংকর কঠিন, প্রধান ফটকের সামনে দাঁড়িয়ে কঠোর মৌখিক পরীক্ষার কথা ভেবে আবেদনকারীদের কপালে বিন্দু বিন্দু ঠান্ডা ঘাম জমে যেত।",
+        "en": "Yet admission was formidably tough as nervous applicants sweated before the main gate thinking of the stern test of the gatekeepers.",
+        "hi": "लेकिन दाख़िला बेहद कठिन था और मुख्य द्वार के सामने खड़े आवेदकों के माथे पर कठोर मौखिक परीक्षा की सोच से बूँद-बूँद पसीना छलक आता था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, nervous applicant sweating before stern scholar gatekeepers at grand arched gateway, tense test, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0023.jpg",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "pan_left",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 12.2,
+        "en": 8.84,
+        "hi": 11.2
+      },
+      "timestamp_start": 230.6,
+      "timestamp_end": 240.75
+    },
+    {
+      "scene_id": 24,
+      "parent_beat": 5,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রধান ফটকে পণ্ডিত দ্বাররক্ষীরা তালপাতার পুঁথি হাতে প্রতিটি পথিককে সূক্ষ্ম প্রশ্নে যাচাই করতেন আর পেছনে গাঁটরি কাঁধে শত প্রার্থী দাঁড়াতেন।",
+        "en": "At the main gate scholar gatekeepers tested each traveller with subtle questions from scrolls while a hundred hopefuls waited with bundles.",
+        "hi": "मुख्य द्वार पर विद्वान द्वारपाल ताड़पत्र पांडुलिपि हाथ में लिए हर यात्री को सूक्ष्म प्रश्नों से परखते थे और पीछे गठरी लिए सौ उम्मीदवार खड़े रहते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, scholar gatekeeper quizzing traveller with scroll, applicants waiting with bundles, examination mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0024.jpg",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "pan_right",
+      "duration": 10.3,
+      "language_durations": {
+        "bn": 11.24,
+        "en": 8.6,
+        "hi": 11.88
+      },
+      "timestamp_start": 240.75,
+      "timestamp_end": 251.05
+    },
+    {
+      "scene_id": 25,
+      "parent_beat": 5,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "দশজনে মাত্র দু-তিনজন ভেতরে ঢুকতে পারতেন, নির্বাচিতরা আনন্দে একে অপরকে জড়িয়ে ধরতেন আর বাকিরা ভারী ক্লান্ত মনে ধুলোমাখা পথে ফিরে যেতেন।",
+        "en": "Only two or three out of ten could step inside as the chosen hugged each other in delight while the rest returned with heavy hearts.",
+        "hi": "दस में से सिर्फ दो-तीन ही अंदर जा पाते थे चुने हुए खुशी से गले लगते थे और बाकी थके भारी उदास मन से धूल भरे लंबे रास्ते लौट जाते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, two chosen students entering gate celebrating while others walk away, tough selection reality, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0025.jpg",
+      "sfx": "crowd_murmur_gate_test",
+      "motion_effect": "zoom_in",
+      "duration": 10,
+      "language_durations": {
+        "bn": 11.12,
+        "en": 8.6,
+        "hi": 11.12
+      },
+      "timestamp_start": 251.05,
+      "timestamp_end": 261.05
+    },
+    {
+      "scene_id": 26,
+      "parent_beat": 6,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মগধের নালন্দার প্রাণ ছিল প্রাঙ্গণে তিনটি সুবিশাল গ্রন্থাগারে, রত্নসাগর, রত্নোদধি আর রত্নরঞ্জক, যাদের উঁচু ছায়ায় বিকেলের সোনা রোদ ঝরত।",
+        "en": "The soul of Nalanda lived in three towering libraries called Ratnasagara, Ratnodadhi and Ratnaranjaka under golden afternoon sunlight.",
+        "hi": "नालंदा की जान उसके तीन ही विशाल पुस्तकालयों में थी रत्नसागर, रत्नोदधि और रत्नरंजक जिनकी ऊँची छाया पर हर शाम की सुनहरी धूप उतरती थी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, three majestic library towers Ratnasagara Ratnodadhi Ratnaranjaka over monastery, birds circling, golden afternoon, 16:9 epic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0026.jpg",
+      "sfx": "library_pages_flipping_soft",
+      "motion_effect": "zoom_out",
+      "duration": 10,
+      "language_durations": {
+        "bn": 12.52,
+        "en": 11.36,
+        "hi": 11.4
+      },
+      "timestamp_start": 261.05,
+      "timestamp_end": 271.05
+    },
+    {
+      "scene_id": 27,
+      "parent_beat": 6,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তার মধ্যে রত্নোদধি ছিল নয়তলা উঁচু সুবিশাল ইট ও কাঠের ভবন, যার খাড়া সিঁড়ি বেয়ে ভিক্ষুরা প্রতিদিন গাঁটরি কাঁধে জ্ঞানের খোঁজে উপরে উঠতেন।",
+        "en": "Among them Ratnodadhi rose nine storeys high in brick and timber with steep stairs climbed daily by monks carrying bundles for wisdom.",
+        "hi": "उनमें रत्नोदधि नौ मंज़िल ऊँचा ईंट और लकड़ी का विशाल भवन था जिसकी खड़ी सीढ़ियाँ भिक्षु रोज़ गठरियाँ लादे ज्ञान की खोज में ऊपर चढ़ते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, towering nine-storey Ratnodadhi brick library close-up, monks climbing stairs with bundles, 16:9 epic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0027.jpg",
+      "sfx": "library_pages_flipping_soft",
+      "motion_effect": "pan_left",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 11.28,
+        "en": 9.56,
+        "hi": 11.64
+      },
+      "timestamp_start": 271.05,
+      "timestamp_end": 281.27
+    },
+    {
+      "scene_id": 28,
+      "parent_beat": 6,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কাঠের তাকে সারি সারি লাখ লাখ তালপাতার পুঁথি রাখা ছিল দর্শন, ব্যাকরণ, চিকিৎসা আর জ্যোতিষশাস্ত্রের উপর, প্রদীপ হাতে প্রহরী নিঃশব্দে ঘুরতেন।",
+        "en": "Row upon row of wooden shelves held millions of palm-leaf manuscripts on philosophy, grammar, medicine and astronomy under lamplight.",
+        "hi": "लकड़ी की अलमारियों में दर्शन, व्याकरण, चिकित्सा और ज्योतिष पर लाखों ताड़पत्र पांडुलिपियाँ कतारों में रखी थीं और दीप लिए पहरेदार चुपचाप घूमते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, endless wooden shelves of palm-leaf manuscripts on philosophy grammar medicine astronomy, monk librarian with lamp, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0028.jpg",
+      "sfx": "library_pages_flipping_soft",
+      "motion_effect": "pan_right",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 12.68,
+        "en": 9.84,
+        "hi": 11.68
+      },
+      "timestamp_start": 281.27,
+      "timestamp_end": 291.42
+    },
+    {
+      "scene_id": 29,
+      "parent_beat": 6,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ইতিহাসের পণ্ডিতরা বলেন এই সংগ্রহ ছিল প্রায় নব্বই লাখ গ্রন্থের সমান বিশাল, যা গুনতে গিয়ে বৃদ্ধ প্রবীণদের হাতের সব মালার গুটি ফুরিয়ে যেত।",
+        "en": "Scholars estimate this collection equalled nearly nine million volumes, a vast number that exhausted the counting beads of the elders.",
+        "hi": "विद्वान कहते हैं कि यह संग्रह लगभग नब्बे लाख ग्रंथों के बराबर विशाल था जिसे गिनते-गिनते बुज़ुर्गों के हाथों की माला के मनके चुक जाते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, elder scholars estimating ninety-lakh volumes, scroll piles and counting beads, awe mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0029.jpg",
+      "sfx": "library_pages_flipping_soft",
+      "motion_effect": "zoom_in",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 10.8,
+        "en": 8.44,
+        "hi": 10.08
+      },
+      "timestamp_start": 291.42,
+      "timestamp_end": 301.64
+    },
+    {
+      "scene_id": 30,
+      "parent_beat": 6,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এটাই ছিল মানব ইতিহাসের সবচেয়ে বড় প্রাচীন জ্ঞানভান্ডার, যার সোনালি পুঁথির সুবিশাল উঁচু পাহাড় থেকে মগধের মাটিতে যুগের পর যুগ আলো ছড়িয়েছিল।",
+        "en": "It was the greatest treasure house of knowledge in human history whose golden mountain of manuscripts spread light across long centuries.",
+        "hi": "यह मानव इतिहास का सबसे बड़ा प्राचीन ज्ञान भंडार था जिसके सुनहरी पांडुलिपियों के विशाल ऊँचे पहाड़ से मगध की धरती पर युगों तक रोशनी फैलती रही।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, glowing mountain of golden manuscripts radiating light over history timeline, greatest treasure of knowledge, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0030.jpg",
+      "sfx": "library_pages_flipping_soft",
+      "motion_effect": "zoom_out",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 11.68,
+        "en": 8.72,
+        "hi": 11.16
+      },
+      "timestamp_start": 301.64,
+      "timestamp_end": 312.08
+    },
+    {
+      "scene_id": 31,
+      "parent_beat": 7,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "XUANZANG",
+      "narration": {
+        "bn": "আমি হিউয়েন সাং, ৬৩০ সালে সুদূর চীন থেকে আসা বৌদ্ধ তীর্থযাত্রী, বাদামি চীবর গায়ে নালন্দার পবিত্র দুয়ারে দাঁড়িয়ে ইতিহাসকে প্রণাম জানাই।",
+        "en": "I am Xuanzang the Buddhist pilgrim from distant China standing in brown robes at the ancient gates of Nalanda to bow humbly to history.",
+        "hi": "मैं ह्वेनसांग हूँ 630 में दूर चीन से आया बौद्ध तीर्थयात्री जो भूरे चीवर में नालंदा के पवित्र द्वार पर खड़ा इतिहास को प्रणाम करता है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, chinese pilgrim monk Xuanzang in brown robes with straw hat at monastery gate introducing himself, horse behind, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0031.jpg",
+      "sfx": "desert_wind_caravan_bells",
+      "motion_effect": "pan_left",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 12.92,
+        "en": 10.56,
+        "hi": 11.04
+      },
+      "timestamp_start": 312.08,
+      "timestamp_end": 322.3
+    },
+    {
+      "scene_id": 32,
+      "parent_beat": 7,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "XUANZANG",
+      "narration": {
+        "bn": "জ্বলন্ত মরুভূমি আর বরফঢাকা সুদীর্ঘ উঁচু পাহাড় পেরিয়ে কঠোর তৃষ্ণা আর তুষারঝড় সয়ে ৬৩০ সালে আমি অবশেষে নালন্দার পবিত্র মাটিতে পা রাখি।",
+        "en": "Across scorching deserts and frozen mountain passes bearing thirst and blizzards I finally set foot on the holy soil of Nalanda in 630 CE.",
+        "hi": "जलते रेगिस्तान और बर्फ़ से ढके ऊँचे पहाड़ पार करके प्यास और बर्फ़ीले तूफ़ान सहकर 630 ईस्वी में मैंने आख़िर नालंदा की पवित्र धरती पर कदम रखा।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic: pilgrim monk with laden horse crossing burning desert dunes then icy mountain passes toward distant stupas, seasons changing, epic journey, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0032.mp4",
+      "sfx": "desert_wind_caravan_bells",
+      "motion_effect": "ai_video",
+      "duration": 10,
+      "language_durations": {
+        "bn": 11.52,
+        "en": 11.16,
+        "hi": 12.6
+      },
+      "timestamp_start": 322.3,
+      "timestamp_end": 332.3
+    },
+    {
+      "scene_id": 33,
+      "parent_beat": 7,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "XUANZANG",
+      "narration": {
+        "bn": "টানা পাঁচ বছর নালন্দায় থেকে প্রদীপ জ্বলা পাঠকক্ষে তালপাতার পুঁথির স্তূপের পাশে বসে আচার্য শীলভদ্রের নিকট যোগাচার দর্শনের শিক্ষা গ্রহণ করেছিলাম।",
+        "en": "I remained at Nalanda for five continuous years and received instruction in Yogachara philosophy from Master Shilabhadra in a lamp-lit manuscript study hall.",
+        "hi": "मैं लगातार पाँच वर्षों तक नालंदा में रहा और दीपों से प्रकाशित पांडुलिपि अध्ययन कक्ष में आचार्य शीलभद्र से योगाचार दर्शन की शिक्षा ग्रहण की।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, xuanzang studying at feet of master Shilabhadra learning Yogachara, lamp-lit cell, scroll piles, devoted mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0033.jpg",
+      "sfx": "desert_wind_caravan_bells",
+      "motion_effect": "pan_right",
+      "duration": 10.67,
+      "language_durations": {
+        "bn": 11.84,
+        "en": 10.32,
+        "hi": 11.52
+      },
+      "timestamp_start": 332.3,
+      "timestamp_end": 342.97
+    },
+    {
+      "scene_id": 34,
+      "parent_beat": 7,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "XUANZANG",
+      "narration": {
+        "bn": "ফেরার সময় সূর্যোদয়ের আলোয় ঘোড়া ও বাহকদের কাফেলার সঙ্গে ছয়শত সাতান্নটি পবিত্র পুঁথি ও বুদ্ধমূর্তি যত্নে কাপড়ে বেঁধে নালন্দা থেকে বিদায় নিয়েছিলাম।",
+        "en": "At sunrise I left Nalanda with a caravan of horses and porters carrying six hundred fifty-seven sacred manuscripts and Buddha images tied carefully in cloth bundles.",
+        "hi": "सूर्योदय के समय मैं घोड़ों और भारवाहकों के काफिले के साथ छह सौ सत्तावन पवित्र पांडुलिपियाँ और बुद्ध मूर्तियाँ कपड़े में बाँधकर नालंदा से विदा हुआ।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic: caravan of porters and horses carrying 657 manuscript bundles and Buddha statues leaving Nalanda gates at sunrise, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0034.mp4",
+      "sfx": "desert_wind_caravan_bells",
+      "motion_effect": "ai_video",
+      "duration": 11.26,
+      "language_durations": {
+        "bn": 12.88,
+        "en": 11.16,
+        "hi": 11.6
+      },
+      "timestamp_start": 342.97,
+      "timestamp_end": 354.23
+    },
+    {
+      "scene_id": 35,
+      "parent_beat": 7,
+      "sub_id": 5,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "XUANZANG",
+      "narration": {
+        "bn": "আমার ভ্রমণবৃত্তান্তের লিখিত পুঁথি থেকে বহির্বিশ্ব প্রথম নালন্দার মহিমার বিবরণ জেনেছিল, যা চীনা অনুবাদকদের হাতে পৌঁছে দূরদেশে সংরক্ষিত হয়েছিল।",
+        "en": "The outer world first learned the glory of Nalanda from my written travel records, which reached Chinese translators and were kept safely in distant archives.",
+        "hi": "बाहरी दुनिया ने पहली बार नालंदा की महिमा का विस्तृत वर्णन मेरे लिखित यात्रा वृत्तांत से जाना, जो चीनी अनुवादकों तक पहुँचकर दूर देश में सुरक्षित रखा गया।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic: glowing travel-record scroll unrolling over Asia map, light paths from Nalanda to China Korea Tibet, world discovering glory, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0035.mp4",
+      "sfx": "desert_wind_caravan_bells",
+      "motion_effect": "ai_video",
+      "duration": 10.52,
+      "language_durations": {
+        "bn": 10.96,
+        "en": 9.84,
+        "hi": 12.32
+      },
+      "timestamp_start": 354.23,
+      "timestamp_end": 364.75
+    },
+    {
+      "scene_id": 36,
+      "parent_beat": 8,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "নালন্দায় পরীক্ষা হতো পাথরের প্রাঙ্গণে খোলা তর্কযুদ্ধের মাধ্যমে, যেখানে শঙ্খধ্বনির পর দুই পণ্ডিত এগিয়ে এলে শত শত ছাত্র গোল হয়ে বসে শুনতেন।",
+        "en": "Examinations at Nalanda took the form of debate contests in the stone courtyard, where two scholars advanced after the conch call while hundreds sat around to listen.",
+        "hi": "नालंदा में परीक्षा पत्थर के आँगन में खुले शास्त्रार्थ के रूप में होती थी, जहाँ शंखनाद के बाद दो विद्वान आगे आते और सैकड़ों छात्र घेरा बनाकर सुनते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, open stone courtyard debate arena, two scholars stepping forward as conch blows, hundreds gathering, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0036.jpg",
+      "sfx": "courtyard_debate_murmur",
+      "motion_effect": "zoom_in",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.2,
+        "en": 11,
+        "hi": 11.4
+      },
+      "timestamp_start": 364.75,
+      "timestamp_end": 375.12
+    },
+    {
+      "scene_id": 37,
+      "parent_beat": 8,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "খোলা প্রাঙ্গণে দুপুরের রোদে দুই পণ্ডিত তীক্ষ্ণ যুক্তির ব্যাখ্যা উপস্থাপন করতেন, আর শত শত ছাত্র তালপাতার পুঁথি হাতে নীরবে প্রতিটি বক্তব্য মনোযোগ দিয়ে শুনতেন।",
+        "en": "In the courtyard under midday sun two scholars presented sharp logical arguments, while hundreds holding palm notes listened silently to each statement with attention.",
+        "hi": "खुले आँगन में दोपहर की धूप में दो विद्वान तीखे तर्क प्रस्तुत करते थे, और ताड़पत्र नोट लिए सैकड़ों छात्र चुपचाप प्रत्येक कथन को ध्यान से सुनते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic Two elderly scholar monks duelling with logic gestures, hundreds of seated students listening breathless, midday, 16:9 illustration, fierce open-courtyard logic debate duel, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0037.mp4",
+      "sfx": "courtyard_debate_murmur",
+      "motion_effect": "ai_video",
+      "duration": 11.63,
+      "language_durations": {
+        "bn": 12.92,
+        "en": 11.8,
+        "hi": 12.56
+      },
+      "timestamp_start": 375.12,
+      "timestamp_end": 386.75
+    },
+    {
+      "scene_id": 38,
+      "parent_beat": 8,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পরাজিত পণ্ডিত কখনো বিনয়ের সঙ্গে বিজয়ীকে ফুলের মালা পরিয়ে তাঁর শিষ্যত্ব গ্রহণ করতেন, যা প্রাঙ্গণে উপস্থিত সকলে নত মস্তকে শ্রদ্ধার সঙ্গে প্রত্যক্ষ করতেন।",
+        "en": "A defeated scholar sometimes garlanded the victor with flowers and accepted his discipleship with humility, which all present witnessed with bowed heads and respect.",
+        "hi": "पराजित विद्वान कभी विनम्रता से विजेता को फूलों की माला पहनाकर उसका शिष्यत्व स्वीकार करता था, जिसे आँगन में उपस्थित सभी नत मस्तक होकर शांत सम्मान से देखते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, defeated scholar bowing to become disciple of victor, garland exchange, honourable ritual, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0038.jpg",
+      "sfx": "courtyard_debate_murmur",
+      "motion_effect": "pan_left",
+      "duration": 11.41,
+      "language_durations": {
+        "bn": 12.48,
+        "en": 9.92,
+        "hi": 13.72
+      },
+      "timestamp_start": 386.75,
+      "timestamp_end": 398.16
+    },
+    {
+      "scene_id": 39,
+      "parent_beat": 8,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ন্যায়শাস্ত্র, বিতর্কবিদ্যা ও জ্যোতির্বিজ্ঞানে নালন্দার আচার্যরা শ্রেষ্ঠ বলে গণ্য হতেন, কারণ বিদেশি অতিথিরা তাঁদের হাতে আঁকা তারার মানচিত্র মনোযোগ দিয়ে পর্যবেক্ষণ করতেন।",
+        "en": "In logic, dialectics and astronomy the masters of Nalanda were regarded as foremost, for foreign guests observed the hand-drawn star charts kept on wooden tables.",
+        "hi": "न्यायशास्त्र, तर्कविद्या और खगोल विज्ञान में नालंदा के आचार्य सर्वश्रेष्ठ माने जाते थे, क्योंकि विदेशी अतिथि लकड़ी की मेज पर रखे हस्तलिखित तारा-मानचित्र देखते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, nalanda masters demonstrating logic and star charts, awestruck foreign visitors watching, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0039.jpg",
+      "sfx": "courtyard_debate_murmur",
+      "motion_effect": "pan_right",
+      "duration": 12.59,
+      "language_durations": {
+        "bn": 11.44,
+        "en": 12.48,
+        "hi": 12.48
+      },
+      "timestamp_start": 398.16,
+      "timestamp_end": 410.75
+    },
+    {
+      "scene_id": 40,
+      "parent_beat": 8,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এখানকার তালপাতার সনদধারী স্নাতক ডিগ্রি সমগ্র এশিয়ায় সম্মানের সোনালি চাবিকাঠি হিসেবে গণ্য হতো, যার মাধ্যমে স্নাতকরা দূরদেশে শিক্ষকতার সুযোগ লাভ করতেন।",
+        "en": "A palm-leaf degree from Nalanda was valued as a golden key to honour across Asia, through which graduates obtained teaching opportunities in monasteries and courts.",
+        "hi": "नालंदा की ताड़पत्र उपाधि पूरे एशिया में सम्मान की सुनहरी कुंजी मानी जाती थी, जिससे स्नातकों को दूर देश में अध्यापन के अवसर प्राप्त होते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, graduate receiving palm-leaf degree as golden key opening doors across Asia map, honour concept, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0040.jpg",
+      "sfx": "courtyard_debate_murmur",
+      "motion_effect": "zoom_in",
+      "duration": 11.19,
+      "language_durations": {
+        "bn": 12.44,
+        "en": 10.6,
+        "hi": 10.28
+      },
+      "timestamp_start": 410.75,
+      "timestamp_end": 421.94
+    },
+    {
+      "scene_id": 41,
+      "parent_beat": 9,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ATISHA",
+      "narration": {
+        "bn": "আমি অতীশ দীপঙ্কর বাংলার বিক্রমপুরে পদ্মপুকুর ও নারকেলগাছ ঘেরা গ্রামে জন্মগ্রহণ করেছিলাম, যেখানে শৈশবে মায়ের নিকট করুণার প্রাথমিক পাঠ শিখেছিলাম।",
+        "en": "I am Atisha Dipankara, born in a lotus-pond and coconut-palm village of Vikrampur in Bengal, where in childhood I learned the first lessons of compassion from my mother.",
+        "hi": "मैं अतिश दीपंकर बंगाल के विक्रमपुर में कमल-तालाबों और नारियल के पेड़ों से घिरे गाँव में जन्मा था, जहाँ बचपन में माँ से करुणा का पहला पाठ सीखा था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, atisha Dipankara in maroon-saffron robes, Vikrampur Bengal village with ponds and palms behind, 16:9 respectful illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0041.jpg",
+      "sfx": "himalayan_wind_prayer_bowls",
+      "motion_effect": "zoom_out",
+      "duration": 10.67,
+      "language_durations": {
+        "bn": 12.48,
+        "en": 13.72,
+        "hi": 11.4
+      },
+      "timestamp_start": 421.94,
+      "timestamp_end": 432.61
+    },
+    {
+      "scene_id": 42,
+      "parent_beat": 9,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ATISHA",
+      "narration": {
+        "bn": "আমি নালন্দা ও বিক্রমশীলায় আচার্যের দায়িত্ব পালন করেছিলাম, যেখানে প্রতিদিন পাথরের বেদিতে বসে সারিবদ্ধ ভিক্ষুদের করুণা ও প্রজ্ঞার পাঠ প্রদান করতাম।",
+        "en": "I served as master at both Nalanda and Vikramashila, where each day I taught compassion and wisdom to rows of monks from a stone teaching seat in the hall.",
+        "hi": "मैंने नालंदा और विक्रमशिला दोनों में आचार्य का दायित्व निभाया था, जहाँ प्रतिदिन पत्थर के आसन से कतारबद्ध भिक्षुओं को करुणा और प्रज्ञा का पाठ पढ़ाता था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, master Atisha teaching rows of monks, Nalanda and Vikramashila banners behind throne-seat, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0042.jpg",
+      "sfx": "himalayan_wind_prayer_bowls",
+      "motion_effect": "pan_left",
+      "duration": 10.89,
+      "language_durations": {
+        "bn": 11.6,
+        "en": 10.36,
+        "hi": 10.32
+      },
+      "timestamp_start": 432.61,
+      "timestamp_end": 443.5
+    },
+    {
+      "scene_id": 43,
+      "parent_beat": 9,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ATISHA",
+      "narration": {
+        "bn": "এক হাজার বিয়াল্লিশ সালে তিব্বতের রাজার আমন্ত্রণে প্রৌঢ় বয়সে শিষ্যদের সঙ্গে হিমালয়ের বরফঢাকা গিরিপথ অতিক্রম করে ধর্মসংস্কারের উদ্দেশ্যে যাত্রা করেছিলাম।",
+        "en": "In ten forty-two I journeyed for religious reform across the snow-covered Himalayan passes with disciples at the invitation of the Tibetan king in my advanced age.",
+        "hi": "दस बयालीस में तिब्बत के राजा के निमंत्रण पर प्रौढ़ आयु में शिष्यों के साथ हिमालय के बर्फ़ीले दर्रे पार करके धर्म-सुधार के उद्देश्य से यात्रा की थी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, elderly Atisha crossing snowy Himalayan pass in 1042, disciples with scripture bundles, prayer flags, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0043.jpg",
+      "sfx": "himalayan_wind_prayer_bowls",
+      "motion_effect": "pan_right",
+      "duration": 11.48,
+      "language_durations": {
+        "bn": 11.96,
+        "en": 11.24,
+        "hi": 10.92
+      },
+      "timestamp_start": 443.5,
+      "timestamp_end": 454.98
+    },
+    {
+      "scene_id": 44,
+      "parent_beat": 9,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ATISHA",
+      "narration": {
+        "bn": "তিব্বতের পাহাড়ি গুম্ফায় ভিক্ষুরা ঘিয়ের প্রদীপ ও ধূপকাঠি নিবেদনের মাধ্যমে আমার প্রতিকৃতির সামনে নত হয়ে শ্রদ্ধা জানান, যা শিষ্য পরম্পরায় রক্ষিত রীতি।",
+        "en": "In Tibetan mountain monasteries monks bow before my portrait with butter lamps and incense sticks, a ritual kept through successive generations of disciples.",
+        "hi": "तिब्बत के पहाड़ी गोम्पाओं में भिक्षु घी के दीप और अगरबत्ती अर्पित करके मेरे चित्र के सामने नत होकर श्रद्धा व्यक्त करते हैं, जो शिष्य परंपरा में सुरक्षित रीति है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, tibetan monks offering butter lamps to Atisha portrait in mountain monastery, deep devotion, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0044.jpg",
+      "sfx": "himalayan_wind_prayer_bowls",
+      "motion_effect": "zoom_in",
+      "duration": 11.26,
+      "language_durations": {
+        "bn": 11.76,
+        "en": 11.88,
+        "hi": 11.64
+      },
+      "timestamp_start": 454.98,
+      "timestamp_end": 466.24
+    },
+    {
+      "scene_id": 45,
+      "parent_beat": 9,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ATISHA",
+      "narration": {
+        "bn": "বাংলার এই সন্তান নালন্দার জ্ঞানপ্রদীপ হিমালয়ের ওপারে বহন করে নিয়ে গিয়েছিল, যার সংরক্ষিত পুঁথি থেকে তিব্বতের গুম্ফায় প্রতিদিন প্রভাতি পাঠ পরিচালিত হয়।",
+        "en": "This son of Bengal carried the lamp of Nalanda wisdom beyond the Himalayas, from whose preserved manuscripts morning lessons are conducted daily in Tibetan monasteries.",
+        "hi": "बंगाल के इस सपूत ने नालंदा का ज्ञानदीप हिमालय के पार पहुँचाया था, जिसकी संरक्षित पांडुलिपियों से तिब्बत के गोम्पाओं में प्रतिदिन प्रभात पाठ संचालित होता है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, son of Bengal carrying glowing lamp of Nalanda across Himalayas lighting Tibetan monasteries, sunrise finale, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0045.jpg",
+      "sfx": "himalayan_wind_prayer_bowls",
+      "motion_effect": "zoom_out",
+      "duration": 11.41,
+      "language_durations": {
+        "bn": 11.36,
+        "en": 11.28,
+        "hi": 11.56
+      },
+      "timestamp_start": 466.24,
+      "timestamp_end": 477.65
+    },
+    {
+      "scene_id": 46,
+      "parent_beat": 10,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ভোরের হালকা কুয়াশায় ঘণ্টাধ্বনি ও পাঠের গুঞ্জনে নালন্দার বিশাল প্রাঙ্গণ জেগে উঠত, যেখানে হাজারো ভিক্ষু ইটের সারিবদ্ধ মন্দিরের ছায়ায় সুশৃঙ্খলভাবে দিন শুরু করতেন।",
+        "en": "At dawn amid light mist the courtyards of Nalanda awoke to bells and recitation murmurs, where thousands of monks began the day in orderly rows beneath brick temples.",
+        "hi": "भोर की हल्की धुंध में घंटानाद और पाठ की गूँज से नालंदा का विशाल प्रांगण जाग उठता था, जहाँ हज़ारों भिक्षु ईंट के मंदिरों की छाया में अनुशासन से दिन आरंभ करते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, peaceful dawn overview of vast ancient Nalanda monastery courtyard, disciplined rows of brick temples and stupas in soft morning mist, birds flying, calm atmosphere, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0046.jpg",
+      "sfx": "morning_courtyard_birds",
+      "motion_effect": "zoom_in",
+      "duration": 12.07,
+      "language_durations": {
+        "bn": 13.44,
+        "en": 11.76,
+        "hi": 12.4
+      },
+      "timestamp_start": 477.65,
+      "timestamp_end": 489.72
+    },
+    {
+      "scene_id": 47,
+      "parent_beat": 10,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ভোরের ঘণ্টা বাজামাত্র সারিবদ্ধ ভিক্ষু স্তম্ভঘেরা প্রার্থনাগৃহে ধ্যানে বসতেন, তখন জানালার ফাঁক দিয়ে আসা সোনালি রোদ তাঁদের গেরুয়া চীবরে শান্ত আলোর প্রলেপ দিত।",
+        "en": "As the dawn bell rang rows of monks settled into meditation in the pillared prayer hall, while golden sunlight through window gaps cast a glow upon their ochre robes.",
+        "hi": "भोर का घंटा बजते ही कतारबद्ध भिक्षु स्तंभों वाले प्रार्थना भवन में ध्यान में बैठ जाते थे, तब खिड़कियों से आती सुनहरी धूप उनके गेरुए चीवरों पर शांत उजाला डालती थी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, close view of large bronze monastery bell ringing at sunrise, young monks in ochre robes sitting in meditation rows under pillared hall, misty sun rays, 16:9 calm historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0047.jpg",
+      "sfx": "dawn_bell_meditation",
+      "motion_effect": "zoom_out",
+      "duration": 11.7,
+      "language_durations": {
+        "bn": 13.8,
+        "en": 11.32,
+        "hi": 14.32
+      },
+      "timestamp_start": 489.72,
+      "timestamp_end": 501.42
+    },
+    {
+      "scene_id": 48,
+      "parent_beat": 10,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এরপর পাঠ, শাস্ত্রার্থ ও তর্কযুদ্ধের অধিবেশন শুরু হতো, যেখানে লিপিকররা কাঠের ডেস্কে বসে দিনের আলোয় তালপাতার পুঁথি মনোযোগ দিয়ে নকল করতেন।",
+        "en": "Then sessions of lessons, scriptural debate and logic contests began, where scribes seated at wooden desks copied palm-leaf manuscripts attentively in daylight.",
+        "hi": "फिर पाठ, शास्त्रार्थ और तर्क-वितर्क के सत्र आरंभ होते थे, जहाँ लिपिकर लकड़ी की मेज पर बैठकर दिन के प्रकाश में ताड़पत्र पांडुलिपियों की प्रतिलिपि ध्यान से बनाते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, ancient Indian classroom scene, teacher monk unrolling palm-leaf manuscript, students debating with hand gestures, scribes copying texts on wooden desks, warm daylight, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0048.jpg",
+      "sfx": "classroom_debate_scribes",
+      "motion_effect": "pan_left",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 11.36,
+        "en": 11.16,
+        "hi": 13.4
+      },
+      "timestamp_start": 501.42,
+      "timestamp_end": 511.57
+    },
+    {
+      "scene_id": 49,
+      "parent_beat": 10,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "দুপুরে সারিবদ্ধ ভিক্ষুরা মাটির ভিক্ষাপাত্র হাতে বিনম্রভাবে অন্ন গ্রহণ করতেন, যেখানে সামান্য ভাত ও ডালের ভাগ থেকে সংযম ও তৃপ্তির শিক্ষা দেওয়া হতো।",
+        "en": "At midday monks in long rows humbly accepted food with clay begging bowls, where measured portions of rice and lentils taught lessons of restraint and contentment.",
+        "hi": "दोपहर में भिक्षु लंबी कतारों में मिट्टी के भिक्षापात्र लेकर विनम्रता से भोजन ग्रहण करते थे, जहाँ नपी हुई चावल-दाल से संयम और संतोष की शिक्षा दी जाती थी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, rows of seated monks holding simple clay begging bowls receiving plain midday rice meal in monastery refectory, humble serving, soft noon light, 16:9 respectful historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0049.jpg",
+      "sfx": "refectory_bowls_clatter",
+      "motion_effect": "pan_right",
+      "duration": 10.81,
+      "language_durations": {
+        "bn": 11.64,
+        "en": 10.52,
+        "hi": 11.4
+      },
+      "timestamp_start": 511.57,
+      "timestamp_end": 522.38
+    },
+    {
+      "scene_id": 50,
+      "parent_beat": 10,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সন্ধ্যায় তেলের প্রদীপের আলোয় পাঠচক্র আবার বসত, যেখানে গুরু ও শিষ্যরা কাঠের মঞ্চে বসে দিনের পাঠ ঝালিয়ে সূত্রগুলি সমস্বরে আবৃত্তি করতেন।",
+        "en": "In the evening study circles gathered again under oil-lamp light, where teachers and pupils seated on wooden platforms revised lessons and chanted verses in unison.",
+        "hi": "शाम को तेल के दीयों के प्रकाश में अध्ययन चक्र फिर बैठता था, जहाँ गुरु और शिष्य लकड़ी के मंच पर बैठकर दिन का पाठ दोहराते और सूत्रों का समवेत पाठ करते थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, evening oil-lamp study circle in monastery hall, monks reading palm manuscripts around flickering lamps, moonlight through windows, cozy scholarly mood, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0050.jpg",
+      "sfx": "evening_lamps_crickets",
+      "motion_effect": "zoom_in",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 11.68,
+        "en": 11.88,
+        "hi": 10.72
+      },
+      "timestamp_start": 522.38,
+      "timestamp_end": 532.53
+    },
+    {
+      "scene_id": 51,
+      "parent_beat": 10,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কোরিয়া, জাভা, তিব্বত ও পারস্য থেকে আসা ছাত্ররা একই প্রাঙ্গণে বাস করতেন, যেখানে ভিন্ন ভাষা সত্ত্বেও পুঁথি বিনিময়ের অভ্যাস তাঁদের মধ্যে ঘনিষ্ঠ বন্ধন গড়েছিল।",
+        "en": "Students from Korea, Java, Tibet and Persia lived in the same courtyards, where despite different tongues exchanging manuscripts built close bonds among them.",
+        "hi": "कोरिया, जावा, तिब्बत और फ़ारस से आए छात्र एक ही प्रांगण में रहते थे, जहाँ भिन्न भाषाओं के बावजूद पांडुलिपि आदान-प्रदान से उनमें घनिष्ठ बंधन बनता था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, diverse group of ancient foreign students from Korea, Java, Tibet and Persia sharing food and manuscripts in courtyard, different robes and faces, friendship mood, sunset light, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0051.jpg",
+      "sfx": "foreign_students_chatter",
+      "motion_effect": "zoom_out",
+      "duration": 11.63,
+      "language_durations": {
+        "bn": 13.76,
+        "en": 12.48,
+        "hi": 12.24
+      },
+      "timestamp_start": 532.53,
+      "timestamp_end": 544.16
+    },
+    {
+      "scene_id": 52,
+      "parent_beat": 10,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "নানা দেশ, নানা ভাষা ও নানা পোশাকের এই মিলনমেলা নালন্দাকে যুগের তুলনায় অগ্রসর সত্যিকারের আন্তর্জাতিক শিক্ষাকেন্দ্রে পরিণত করেছিল, যা শিলালিপিতে লিপিবদ্ধ আছে।",
+        "en": "This gathering of many lands, many tongues and varied robes made Nalanda an international learning centre ahead of its age, as recorded in stone inscriptions and notes.",
+        "hi": "अनेक देशों, अनेक भाषाओं और विविध वेशभूषाओं के इस संगम ने नालंदा को अपने युग से आगे का सच्चा अंतरराष्ट्रीय शिक्षा केंद्र बनाया था, जैसा शिलालेखों में दर्ज है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, joyful wide celebration of international campus, monks waving from balconies, flags fluttering, doves flying over Nalanda rooftops at golden hour, 16:9 epic historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0052.jpg",
+      "sfx": "campus_celebration_conch",
+      "motion_effect": "pan_left",
+      "duration": 11.63,
+      "language_durations": {
+        "bn": 13.48,
+        "en": 12.92,
+        "hi": 11.92
+      },
+      "timestamp_start": 544.16,
+      "timestamp_end": 555.79
+    },
+    {
+      "scene_id": 53,
+      "parent_beat": 11,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "দ্বাদশ শতাব্দীর দিকে নালন্দার আকাশে ঘন কালো মেঘের মতো সংকট ঘনিয়ে আসে, তখন পুরোনো স্তূপে ফাটল দেখা দেয় ও আবাসিক ভিক্ষুর সংখ্যা ধীরে ধীরে কমতে থাকে।",
+        "en": "By the twelfth century crisis gathered over Nalanda like dark clouds, when cracks appeared on old stupas and the number of resident monks steadily declined.",
+        "hi": "बारहवीं सदी तक नालंदा के आकाश में काले बादलों जैसा संकट घिर आया था, तब पुराने स्तूपों में दरारें दिखीं और निवासी भिक्षुओं की संख्या धीरे-धीरे घटने लगी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, ageing Nalanda monastery under dark monsoon clouds, fewer monks, cracked stupa, dry garden, melancholic dusk, sense of decline, 16:9 atmospheric illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0053.jpg",
+      "sfx": "decline_wind_monsoon",
+      "motion_effect": "pan_right",
+      "duration": 10.96,
+      "language_durations": {
+        "bn": 13.64,
+        "en": 9.52,
+        "hi": 12.04
+      },
+      "timestamp_start": 555.79,
+      "timestamp_end": 566.75
+    },
+    {
+      "scene_id": 54,
+      "parent_beat": 11,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "পাল রাজাদের রাজকীয় পৃষ্ঠপোষকতা কমে যাওয়ায় কোষাগারের সঞ্চয় ফুরিয়ে আসে, আর পাশেই বিক্রমশীলা নতুন রাজকীয় শিক্ষাকেন্দ্র হিসেবে প্রাধান্য লাভ করতে থাকে।",
+        "en": "As royal patronage from the Pala kings declined and treasury reserves dwindled, nearby Vikramashila gained prominence as the new favoured royal centre of learning.",
+        "hi": "पाल राजाओं का शाही संरक्षण घटने से कोष का संचय चुकने लगा, और पास ही विक्रमशिला नए चहेते शाही शिक्षा केंद्र के रूप में प्रमुखता पाने लगी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, elderly Pala king in royal robes turning away from monks, courtiers pointing toward new Vikramashila temple in distance, tense court mood, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0054.jpg",
+      "sfx": "court_tension_strings",
+      "motion_effect": "zoom_in",
+      "duration": 11.33,
+      "language_durations": {
+        "bn": 10.96,
+        "en": 11,
+        "hi": 10.76
+      },
+      "timestamp_start": 566.75,
+      "timestamp_end": 578.08
+    },
+    {
+      "scene_id": 55,
+      "parent_beat": 11,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "দুইশত গ্রামের দানের আয়েও বিশাল মঠ, হাজারো ছাত্র ও প্রতিদিনের অতিথিদের চাল, ডাল ও বস্ত্রের নিয়মিত ব্যয় বহন করা ক্রমে কঠিন হয়ে পড়েছিল।",
+        "en": "Even with revenue from two hundred endowed villages it became increasingly hard to meet the regular costs of rice, lentils and robes for the vast monastery and guests.",
+        "hi": "दो सौ गाँवों के दान की आय से भी विशाल मठ, हज़ारों छात्रों और रोज़ आने वाले अतिथियों के चावल, दाल और वस्त्र का नियमित खर्च उठाना कठिन होता जा रहा था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, empty grain storehouse with scattered rice sacks and account palm-leaves, worried monk steward counting, ledger of village donations, dim lamplight, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0055.jpg",
+      "sfx": "empty_granary_echo",
+      "motion_effect": "zoom_out",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 11.64,
+        "en": 10.4,
+        "hi": 12.36
+      },
+      "timestamp_start": 578.08,
+      "timestamp_end": 588.23
+    },
+    {
+      "scene_id": 56,
+      "parent_beat": 11,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "একই সময়ে উত্তর ভারতজুড়ে রাজনৈতিক অস্থিরতা, যুদ্ধ ও ক্ষমতার টানাপোড়েন বাড়তে থাকে, ফলে বাণিজ্যপথ ও তীর্থযাত্রার পথ পথিকদের জন্য অনিরাপদ হয়ে ওঠে।",
+        "en": "At the same time political unrest, wars and power struggles increased across northern India, making trade routes and pilgrim roads unsafe for ordinary travellers.",
+        "hi": "उसी समय उत्तर भारत में राजनीतिक अस्थिरता, युद्ध और सत्ता संघर्ष बढ़ते गए, जिससे व्यापार मार्ग और तीर्थ यात्राएँ सामान्य यात्रियों के लिए असुरक्षित हो गईं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, map-style view of northern India with dust storms, marching banners far away, anxious villagers, turbulent sky, symbolic political unrest, 16:9 painterly illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0056.jpg",
+      "sfx": "distant_army_drums",
+      "motion_effect": "pan_left",
+      "duration": 10.89,
+      "language_durations": {
+        "bn": 11.92,
+        "en": 10.88,
+        "hi": 12.2
+      },
+      "timestamp_start": 588.23,
+      "timestamp_end": 599.12
+    },
+    {
+      "scene_id": 57,
+      "parent_beat": 11,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "অন্ধকার করিডোরে জ্ঞানের প্রদীপ ঝোড়ো বাতাসে নিভু নিভু করছিল, আর দূর থেকে ভেসে আসা যুদ্ধের দামামা আসন্ন ভয়ংকর আঘাতের সংকেত ঘোষণা করছিল।",
+        "en": "In dark corridors the lamp of learning flickered in stormy winds, while war drums heard from afar announced signs of a terrible assault soon to come.",
+        "hi": "अँधेरे गलियारे में ज्ञान का दीया तूफ़ानी हवा में टिमटिमा रहा था, और दूर से आते युद्ध के नगाड़े निकट भयानक आघात के संकेत घोषित कर रहे थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, single flickering oil lamp in dark monastery corridor, long shadows, storm wind through window, ominous glow, foreshadowing tragedy, 16:9 cinematic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0057.jpg",
+      "sfx": "flickering_lamp_wind",
+      "motion_effect": "pan_right",
+      "duration": 10,
+      "language_durations": {
+        "bn": 11.08,
+        "en": 10.88,
+        "hi": 12.12
+      },
+      "timestamp_start": 599.12,
+      "timestamp_end": 609.12
+    },
+    {
+      "scene_id": 58,
+      "parent_beat": 12,
+      "sub_id": 1,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "KHALJI",
+      "narration": {
+        "bn": "এবার আমরা বখতিয়ার খিলজির বাহিনীর সঙ্গে যুক্ত অভিযান যুগের কথা শান্ত ঐতিহাসিক দৃষ্টিতে বলছি, পূর্ণ মর্যাদা ও সংযম বজায় রেখে কোনো বিদ্বেষ ছাড়াই।",
+        "en": "We now speak of the campaign era linked to the forces of Bakhtiyar Khalji in a calm historical view, maintaining full dignity and restraint without any hatred.",
+        "hi": "अब हम बख़्तियार ख़िलजी की सेना से जुड़े अभियान युग की बात शांत ऐतिहासिक दृष्टि से करते हैं, बिना किसी द्वेष के पूरी गरिमा और संयम बनाए रखते हुए।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic cinematic wide shot, medieval cavalry column with banners moving through dust haze toward distant brick monastery at dusk, respectful tragic mood, no gore, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0058.mp4",
+      "sfx": "cavalry_gallop_dust",
+      "motion_effect": "ai_video",
+      "duration": 10.74,
+      "language_durations": {
+        "bn": 11,
+        "en": 10.28,
+        "hi": 10.4
+      },
+      "timestamp_start": 609.12,
+      "timestamp_end": 619.86
+    },
+    {
+      "scene_id": 59,
+      "parent_beat": 12,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "KHALJI",
+      "narration": {
+        "bn": "ফার্সি ঐতিহাসিক গ্রন্থ তবকাত-ই-নাসিরি লিপিবদ্ধ করেছে, এগারোশো তিরানব্বই থেকে বারোশো খ্রিস্টাব্দের মধ্যে বিহার অঞ্চলে ধারাবাহিক সামরিক অভিযান সংঘটিত হয়েছিল।",
+        "en": "The Persian chronicle Tabaqat-i-Nasiri records that sustained military campaigns took place across Bihar between 1193 and 1200 CE.",
+        "hi": "फ़ारसी ऐतिहासिक ग्रंथ तबक़ात-ए-नासिरी दर्ज करता है कि ग्यारह सौ तिरानवे से बारह सौ ईस्वी के बीच इस बिहार क्षेत्र में लगातार सैन्य अभियान हुए थे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, Time Chronicler, dynamic close shot, ancient Persian manuscript pages turning in wind, ink calligraphy glowing, hands of chronicler writing peacefully, candle light, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, no clock face, no clock head, no egg head",
+      "asset_file": "visual_assets/clip_shot_0059.mp4",
+      "sfx": "manuscript_pages_wind",
+      "motion_effect": "ai_video",
+      "duration": 11.56,
+      "language_durations": {
+        "bn": 12.44,
+        "en": 10.32,
+        "hi": 11.24
+      },
+      "timestamp_start": 619.86,
+      "timestamp_end": 631.42
+    },
+    {
+      "scene_id": 60,
+      "parent_beat": 12,
+      "sub_id": 3,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "KHALJI",
+      "narration": {
+        "bn": "ঐতিহাসিকদের ব্যাখ্যা অনুযায়ী দূর থেকে সৈন্যরা উঁচু প্রাচীরঘেরা মঠকে সুরক্ষিত দুর্গ ভেবে ভুল করেছিল, আর সেই ভুল বোঝাবুঝি থেকে আকস্মিক সশস্ত্র সংঘর্ষের সূত্রপাত হয়।",
+        "en": "Historians explain that soldiers from afar mistook the high-walled monastery for a fortified fort, and from that misunderstanding an armed clash began near the gate.",
+        "hi": "इतिहासकार बताते हैं कि सैनिकों ने दूर से ऊँची दीवारों वाले मठ को सुरक्षित किला समझने की भूल की थी, और उसी भूल से द्वार के पास अचानक सशस्त्र टकराव शुरू हुआ।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic shot, confused soldiers halting before tall monastery gate mistaking carved towers for fort bastions, monks watching calmly from balcony, dusty noon, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0060.mp4",
+      "sfx": "gate_confrontation_tension",
+      "motion_effect": "ai_video",
+      "duration": 12.15,
+      "language_durations": {
+        "bn": 12.48,
+        "en": 10.92,
+        "hi": 12.64
+      },
+      "timestamp_start": 631.42,
+      "timestamp_end": 643.57
+    },
+    {
+      "scene_id": 61,
+      "parent_beat": 12,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "KHALJI",
+      "narration": {
+        "bn": "নালন্দার ভিক্ষুরা ছিলেন সম্পূর্ণ নিরস্ত্র জ্ঞানসাধক, শাস্ত্র ও করুণায় নিবেদিতপ্রাণ, তাই তাঁদের স্মৃতির প্রতি আমরা বিনম্র শ্রদ্ধা নিবেদন করি।",
+        "en": "The monks of Nalanda were wholly unarmed seekers of wisdom devoted to scriptures and compassion, and to their memory we offer sincere respectful homage in silence.",
+        "hi": "नालंदा के भिक्षु पूरी तरह निहत्थे ज्ञान-साधक थे, शास्त्रों और करुणा को समर्पित, इसलिए उनकी स्मृति को हम विनम्र श्रद्धा अर्पित करते हैं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic emotional shot, unarmed elderly monks in ochre robes walking peacefully holding manuscripts to chest, soldiers lowering weapons respectfully aside, soft dusk light, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0061.mp4",
+      "sfx": "weapons_lowered_silence",
+      "motion_effect": "ai_video",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 10.68,
+        "en": 11.32,
+        "hi": 10.68
+      },
+      "timestamp_start": 643.57,
+      "timestamp_end": 654.01
+    },
+    {
+      "scene_id": 62,
+      "parent_beat": 13,
+      "sub_id": 1,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "আমি সেই ভয়াল দিন থেকে বেঁচে যাওয়া একজন বৃদ্ধ ভিক্ষু, যিনি জ্বলন্ত গ্রন্থাগারের ছায়ায় দাঁড়িয়ে নিজ চোখে দেখা সত্য ঘটনার সাক্ষ্য প্রদান করছি।",
+        "en": "I am an aged monk who survived those dreadful days, standing in the shadow of the burning library to bear witness to true events seen with my own eyes.",
+        "hi": "मैं उन भयानक दिनों से बचा एक वृद्ध भिक्षु हूँ, जो जलते पुस्तकालय की छाया में खड़ा होकर अपनी आँखों देखी सच्ची घटनाओं की गवाही दे रहा है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic intimate shot, old surviving monk with tearful eyes looking at camera holding burnt manuscript edge, forest background, moonlight, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0062.mp4",
+      "sfx": "survivor_breath_forest",
+      "motion_effect": "ai_video",
+      "duration": 10.67,
+      "language_durations": {
+        "bn": 11.24,
+        "en": 11.6,
+        "hi": 10.56
+      },
+      "timestamp_start": 654.01,
+      "timestamp_end": 664.68
+    },
+    {
+      "scene_id": 63,
+      "parent_beat": 13,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "হঠাৎ দেখলাম নয়তলা রত্নোদধি গ্রন্থাগার ভবনে লেলিহান আগুন ছড়িয়ে পড়েছে, আর ঝোড়ো বাতাসে ফুলকি উড়ে গিয়ে রাতের আকাশ লালচে আলোয় ভরে তুলেছে।",
+        "en": "Suddenly I saw raging flames spread through the nine-storey Ratnodadhi library building, while sparks flying in stormy winds filled the night sky with reddish light.",
+        "hi": "अचानक मैंने देखा कि नौ मंज़िला रत्नोदधि पुस्तकालय भवन में भयंकर आग फैल गई है, और तूफ़ानी हवा में उड़ती चिंगारियों से रात का आकाश लाल उजाले से भर गया है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic tragic night scene, nine-storey brick library tower engulfed in tall flames, embers swirling into sky, dramatic fire glow, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0063.mp4",
+      "sfx": "tower_fire_roar",
+      "motion_effect": "ai_video",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.92,
+        "en": 12.44,
+        "hi": 11.76
+      },
+      "timestamp_start": 664.68,
+      "timestamp_end": 675.05
+    },
+    {
+      "scene_id": 64,
+      "parent_beat": 13,
+      "sub_id": 3,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "লক্ষ লক্ষ তালপাতার পুঁথি, কাঠের তাক ও ঘিয়ের প্রদীপ একসঙ্গে জ্বলায় ধোঁয়ার কালো স্তম্ভ আকাশ ঢেকে রেখেছিল, যা বহু সপ্তাহ ধরে বাতাসে ভাসমান ছিল।",
+        "en": "Millions of palm-leaf manuscripts, wooden racks and ghee lamps burned together, so towering columns of black smoke covered the sky and drifted in winds for many weeks.",
+        "hi": "लाखों ताड़पत्र पांडुलिपियाँ, लकड़ी की अलमारियाँ और घी के दीये एक साथ जले, इसलिए काले धुएँ के ऊँचे स्तंभों ने आकाश ढक लिया था और हफ़्तों तक तैरते रहे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic aerial shot, thick black smoke column rising for months over monastery, grey sky, birds fleeing, embers drifting, somber mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0064.mp4",
+      "sfx": "smoke_column_wind",
+      "motion_effect": "ai_video",
+      "duration": 10.59,
+      "language_durations": {
+        "bn": 11.72,
+        "en": 11.28,
+        "hi": 13.36
+      },
+      "timestamp_start": 675.05,
+      "timestamp_end": 685.64
+    },
+    {
+      "scene_id": 65,
+      "parent_beat": 13,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "জনশ্রুতি বলে রত্নোদধি গ্রন্থাগারের আগুন প্রায় তিন মাস ধরে জ্বলেছিল। কাঠের তাক ও কোটি তালপাতা একসঙ্গে জ্বলায় আগুন দীর্ঘস্থায়ী হয়েছিল।",
+        "en": "Folk memory says the Ratnodadhi library fire smouldered for nearly three months. Wooden racks and tightly packed palm leaves together kept the blaze alive.",
+        "hi": "लोक स्मृति कहती है रत्नोदधि पुस्तकालय की आग लगभग तीन महीने सुलगती रही। लकड़ी की अलमारियाँ और ठसाठस ताड़पत्र एक साथ जलने से आग लंबी चली।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic time-lapse of burning ruins, sun moon cycling over smoking library mound, ashes drifting, three-month passage feel, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0065.mp4",
+      "sfx": "timelapse_fire_crackle",
+      "motion_effect": "ai_video",
+      "duration": 10.07,
+      "language_durations": {
+        "bn": 11.4,
+        "en": 9.32,
+        "hi": 11.32
+      },
+      "timestamp_start": 685.64,
+      "timestamp_end": 695.71
+    },
+    {
+      "scene_id": 66,
+      "parent_beat": 13,
+      "sub_id": 5,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "কয়েকজন ভিক্ষু কাঁধে পুঁথির বোঝা বেঁধে গভীর রাতে জঙ্গলের পথে পালিয়ে যান। তাঁরা জীবনের ঝুঁকি নিয়ে নেপাল ও তিব্বতের মঠে পাণ্ডুলিপি পৌঁছে দেন।",
+        "en": "A few monks tied manuscript bundles on their shoulders and fled at night through dense forest trails. They risked their lives to carry those texts toward Nepal and Tibet.",
+        "hi": "कुछ भिक्षु कंधों पर पांडुलिपियों की गठरी बाँधकर गहरी रात में जंगल के रास्ते भाग निकले। जान जोखिम में डालकर वे ग्रंथ नेपाल और तिब्बत के मठों तक पहुँचाने बढ़े।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic escape shot, small group of monks moving through forest path at night carrying manuscript bundles on shoulders toward Himalayan foothills, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0066.mp4",
+      "sfx": "forest_escape_footsteps",
+      "motion_effect": "ai_video",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 10.64,
+        "en": 11.08,
+        "hi": 11.44
+      },
+      "timestamp_start": 695.71,
+      "timestamp_end": 706.15
+    },
+    {
+      "scene_id": 67,
+      "parent_beat": 13,
+      "sub_id": 6,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "বৃদ্ধ ভিক্ষুর কাঁপা হাতে রত্নোদধির পোড়া তালপাতার কালো ছাই এখনও লেগে আছে। হারানো গুরু ও সহপাঠীদের স্মৃতি তাঁকে প্রতিদিন নীরব কষ্ট দেয়।",
+        "en": "Black ash of burnt palm leaves still clings to the old monk's trembling hands. Memories of his lost teachers and fellow monks give him silent pain daily.",
+        "hi": "वृद्ध भिक्षु के काँपते हाथों में जले ताड़पत्रों की काली राख अब भी लगी है। बिछड़े गुरुओं और साथियों की याद उन्हें रोज़ मौन पीड़ा देती है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic slow-motion close-up, burnt palm-leaf ash crumbling in monk's trembling hands, tears, glowing embers background, heartbreak mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0067.mp4",
+      "sfx": "ash_crumbling_sob",
+      "motion_effect": "ai_video",
+      "duration": 10,
+      "language_durations": {
+        "bn": 12.2,
+        "en": 13.6,
+        "hi": 11.52
+      },
+      "timestamp_start": 706.15,
+      "timestamp_end": 716.15
+    },
+    {
+      "scene_id": 68,
+      "parent_beat": 14,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "এক জনশ্রুতি বলে বৈদ্য পুঁথির পাতায় প্রলেপ দেওয়া ওষুধে অসুস্থ সেনাপতিকে সারিয়েছিলেন। কেউ কেউ সেই ঘটনার ক্ষোভকে গ্রন্থাগার পোড়ানোর কারণ বলে দাবি করেন।",
+        "en": "A folk tale says a physician cured a sick commander with medicine coated on manuscript pages. Some claim anger over that episode caused the library burning.",
+        "hi": "एक जनश्रुति कहती है वैद्य ने पांडुलिपि के पन्नों पर लेप की दवा से बीमार सेनापति को ठीक किया। कुछ उसी घटना के क्रोध को पुस्तकालय जलने का कारण बताते हैं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, elderly Indian physician in white robes offering herbal medicine bowl to resting medieval commander inside tent, manuscripts stacked aside, balanced respectful mood, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0068.jpg",
+      "sfx": "tent_medicine_pour",
+      "motion_effect": "zoom_in",
+      "duration": 11.26,
+      "language_durations": {
+        "bn": 12.04,
+        "en": 10.16,
+        "hi": 10.96
+      },
+      "timestamp_start": 716.15,
+      "timestamp_end": 727.41
+    },
+    {
+      "scene_id": 69,
+      "parent_beat": 14,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "তবে এই চমকপ্রদ গল্প মেনে নেওয়ার আগে একটু থেমে গিয়ে যাচাই করা দরকার। ইতিহাসে ক্ষণিক আবেগের চেয়ে যাচাইকৃত প্রমাণের মূল্য সবসময় অনেক বেশি।",
+        "en": "But before accepting this startling tale we must pause and verify the facts. In history verified evidence always holds far more value than emotion.",
+        "hi": "पर इस चौंकाने वाली कथा को स्वीकारने से पहले रुककर तथ्य जाँचना ज़रूरी है। इतिहास में भावना से ज़्यादा सत्यापित प्रमाण का मूल्य हमेशा अधिक होता है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, Time Chronicler, raised caution hand gesture of wise chronicler before blurred burning library, questioning expression, warm light, symbolic warning mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, no clock face, no clock head, no egg head",
+      "asset_file": "visual_assets/shot_0069.jpg",
+      "sfx": "caution_chime_pause",
+      "motion_effect": "zoom_out",
+      "duration": 10.3,
+      "language_durations": {
+        "bn": 11.24,
+        "en": 11.28,
+        "hi": 11.8
+      },
+      "timestamp_start": 727.41,
+      "timestamp_end": 737.71
+    },
+    {
+      "scene_id": 70,
+      "parent_beat": 14,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "গুরুত্বপূর্ণ তথ্য হলো সমসাময়িক তবকাত-ই-নাসিরিতে এই চিকিৎসার গল্প নেই। বইটিতে বিহার অভিযানের বর্ণনা আছে, কিন্তু অলৌকিক নিরাময়ের উল্লেখ নেই।",
+        "en": "Crucially the contemporary Tabaqat-i-Nasiri carries no such healing story at all. It describes the Bihar campaigns but mentions no miraculous cure anywhere.",
+        "hi": "महत्वपूर्ण तथ्य है समकालीन तबक़ात-ए-नासिरी में इलाज की यह कथा कहीं नहीं है। उसमें बिहार अभियान का वर्णन है, पर चमत्कारी इलाज का उल्लेख नहीं मिलता।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, open ancient Persian chronicle book with empty blank page section, magnifier over text, questioning light rays, symbolic absence of legend, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0070.jpg",
+      "sfx": "blank_page_flip",
+      "motion_effect": "pan_left",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 10.8,
+        "en": 10.84,
+        "hi": 10.64
+      },
+      "timestamp_start": 737.71,
+      "timestamp_end": 748.08
+    },
+    {
+      "scene_id": 71,
+      "parent_beat": 14,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "তাই আধুনিক ঐতিহাসিকরা একে পরবর্তীকালের লোককথা বলে মনে করেন। শীতের রাতে বনফায়ারের পাশে মুখে মুখে প্রচারে গল্পে রঙিন অতিরঞ্জন যুক্ত হয়েছে।",
+        "en": "Modern historians therefore treat this story as a later folk legend only. Colourful exaggeration joined the tale along its long oral journey.",
+        "hi": "इसलिए आधुनिक इतिहासकार इस कहानी को बाद के समय की लोककथा ही मानते हैं। रात में अलाव के पास लंबी मौखिक यात्रा में कथा से रंगीन अतिशयोक्ति जुड़ती गई।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, village storytellers around night bonfire narrating folk legend, children listening wide-eyed, stars above, oral tradition mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0071.jpg",
+      "sfx": "bonfire_storyteller",
+      "motion_effect": "pan_right",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 11.56,
+        "en": 10.4,
+        "hi": 11.44
+      },
+      "timestamp_start": 748.08,
+      "timestamp_end": 758.3
+    },
+    {
+      "scene_id": 72,
+      "parent_beat": 14,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SURVIVOR_MONK",
+      "narration": {
+        "bn": "সব সম্প্রদায়ের প্রতি পূর্ণ সম্মান রেখে বলা যায়, সত্য যাই হোক ক্ষতি সম্পূর্ণ অপূরণীয় ছিল। জ্ঞানের এই ভয়াবহ ধ্বংস সমগ্র মানবতার যৌথ শোক।",
+        "en": "With full respect for every community we say, whatever the truth, the loss was irreplaceable. This terrible ruin of knowledge was humanity's shared grief.",
+        "hi": "सभी समुदायों के प्रति पूर्ण सम्मान रखकर कहें, सच जो भी हो क्षति पूरी तरह अपूरणीय थी। ज्ञान का यह भयानक विनाश समूची मानवता का साझा शोक था।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, diverse people of many faiths lighting candles together before Nalanda ruins at dusk, shared mourning, peaceful unity glow, 16:9 emotional illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0072.jpg",
+      "sfx": "unity_candles_choir",
+      "motion_effect": "zoom_in",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 12.68,
+        "en": 11.52,
+        "hi": 13.16
+      },
+      "timestamp_start": 758.3,
+      "timestamp_end": 768.52
+    },
+    {
+      "scene_id": 73,
+      "parent_beat": 15,
+      "sub_id": 1,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ভয়াবহ ধ্বংসের পরও নালন্দা সম্পূর্ণ নিভে যায়নি। ভাঙা ছাদ ও ধসে পড়া স্তূপের মধ্যে অল্প ভিক্ষু থেকে যান। তাঁরা উদ্ধার করা পুঁথি থেকে প্রতিদিন পাঠ চালিয়ে যান।",
+        "en": "Even after terrible ruin Nalanda did not vanish fully. A few monks stayed among broken roofs and fallen stupas. They held daily lessons from rescued manuscripts.",
+        "hi": "भयानक विनाश के बाद भी नालंदा इतिहास से पूरी तरह नहीं मिटा। टूटी छतों और ढहे स्तूपों के बीच कुछ भिक्षु टिके रहे। वे बचाई पांडुलिपियों से रोज़ पाठ चलाते रहे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic cinematic collapse shot, cracked monastery roofs and stupas crumbling with dust clouds, debris falling in slow motion, embers glowing, tragic epic mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0073.mp4",
+      "sfx": "broken_hall_sunbeam",
+      "motion_effect": "ai_video",
+      "duration": 11.7,
+      "language_durations": {
+        "bn": 13.2,
+        "en": 12.04,
+        "hi": 12.56
+      },
+      "timestamp_start": 768.52,
+      "timestamp_end": 780.22
+    },
+    {
+      "scene_id": 74,
+      "parent_beat": 15,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১২৩৫ সালে তিব্বতি পর্যটক ধর্মস্বামিন কঠিন পথ পেরিয়ে ভাঙা মঠে পৌঁছান। তিনি দেখেন নব্বই বছরের আচার্য রাহুলশ্রীভদ্র সত্তরজন ছাত্রকে নিষ্ঠায় পড়াচ্ছেন।",
+        "en": "In 1235 the Tibetan traveller Dharmaswamin crossed hard roads to reach the broken monastery. He saw ninety-year-old Rahulashribhadra sincerely teaching seventy pupils.",
+        "hi": "1235 में तिब्बती यात्री धर्मस्वामिन कठिन मार्ग पार करके टूटे मठ में पहुँचे। उन्होंने देखा नब्बे वर्ष के राहुलश्रीभद्र निष्ठा से सत्तर छात्रों को पढ़ा रहे हैं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, tibetan pilgrim Dharmaswamin in travel robes bowing before frail old master Rahulashribhadra teaching students in broken hall, 16:9 respectful illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0074.jpg",
+      "sfx": "pilgrim_bow_bell",
+      "motion_effect": "pan_left",
+      "duration": 11.04,
+      "language_durations": {
+        "bn": 12.4,
+        "en": 12.56,
+        "hi": 14.12
+      },
+      "timestamp_start": 780.22,
+      "timestamp_end": 791.26
+    },
+    {
+      "scene_id": 75,
+      "parent_beat": 15,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ভাঙা পুরোনো কক্ষে তাঁর নিবেদিত শিষ্যরা উদ্ধার করা পুঁথি বুকে আগলে রাখতেন। সীমিত আলো ও সামান্য খাদ্যের মধ্যেও নিয়মিত পাঠচক্র কখনও বন্ধ হয়নি।",
+        "en": "In broken rooms his devoted pupils guarded rescued manuscripts against their chests. Study circles never stopped daily despite scarce light and meagre food.",
+        "hi": "टूटे कक्षों में उनके समर्पित शिष्य बचाई पांडुलिपियों को सीने से लगाए रखते थे। सीमित रोशनी और अल्प भोजन में भी रोज़ पाठचक्र बंद नहीं हुआ।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, devoted young disciples clutching rescued palm manuscripts to chests, protective embrace, dusty light, quiet resilience, 16:9 close illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0075.jpg",
+      "sfx": "manuscripts_clutch_rustle",
+      "motion_effect": "pan_right",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 13.72,
+        "en": 10.64,
+        "hi": 9.12
+      },
+      "timestamp_start": 791.26,
+      "timestamp_end": 801.7
+    },
+    {
+      "scene_id": 76,
+      "parent_beat": 15,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ধীরে ধীরে বেঁচে যাওয়া ভিক্ষুরা নেপাল, তিব্বত ও দক্ষিণ-পূর্ব এশিয়ায় ছড়িয়ে পড়েন। তাঁদের সঙ্গে নালন্দার জ্ঞান নতুন কেন্দ্রে পৌঁছায়।",
+        "en": "Slowly the surviving monks scattered toward Nepal, Tibet and Southeast Asia. Nalanda's learning travelled with them and took root in new centres.",
+        "hi": "धीरे-धीरे बचे हुए भिक्षु नेपाल, तिब्बत और दक्षिण-पूर्व एशिया में फैल गए। उनके साथ नालंदा का ज्ञान नए केंद्रों तक पहुँचा और वहाँ जड़ जमाई।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic escape flight shot, surviving monks fleeing with manuscript bundles across rivers and hills toward Nepal Tibet, robes fluttering, dawn chase light, hopeful urgent mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0076.mp4",
+      "sfx": "seeds_wind_chime",
+      "motion_effect": "ai_video",
+      "duration": 10,
+      "language_durations": {
+        "bn": 11,
+        "en": 11.2,
+        "hi": 12.24
+      },
+      "timestamp_start": 801.7,
+      "timestamp_end": 811.7
+    },
+    {
+      "scene_id": 77,
+      "parent_beat": 16,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এরপর শতাব্দীর পর শতাব্দী নালন্দা মাটির টিলার নিচে চাপা পড়ে ঘুমিয়ে ছিল। উপরে ঘাস, পিপুলগাছ ও কৃষকের হালচাষ চলত নির্বিঘ্নে বছরের পর বছর ধরে।",
+        "en": "After that Nalanda lay buried under soil for many long centuries. Grass, peepal trees and farmers' ploughs kept moving above it year after year.",
+        "hi": "उसके बाद नालंदा कई लंबी सदियों तक मिट्टी के नीचे दबा पड़ा रहा। ऊपर घास, पीपल के पेड़ और किसानों के हल साल-दर-साल अनजाने ही चलते रहे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, nalanda ruins buried under earth mounds and grass, peepal trees, farmers walking unaware, centuries of sleep, hazy noon, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0077.jpg",
+      "sfx": "buried_mound_wind",
+      "motion_effect": "zoom_out",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.08,
+        "en": 10.44,
+        "hi": 12.4
+      },
+      "timestamp_start": 811.7,
+      "timestamp_end": 822.07
+    },
+    {
+      "scene_id": 78,
+      "parent_beat": 16,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৮৬০-এর দশকে ব্রিটিশ প্রত্নতত্ত্ববিদ আলেকজান্ডার কানিংহাম এই ঢিবি জরিপ করেন। তিনি এগুলোকে প্রাচীন নালন্দার ধ্বংসাবশেষ হিসেবে শনাক্ত করেন।",
+        "en": "In the 1860s British archaeologist Alexander Cunningham surveyed these huge mounds. He identified them as the buried remains of ancient Nalanda.",
+        "hi": "1860 के दशक में ब्रिटिश पुरातत्वविद अलेक्ज़ेंडर कनिंघम ने इन विशाल टीलों का सर्वेक्षण किया। उन्होंने इन्हें प्राचीन नालंदा के दबे अवशेष के रूप में पहचाना।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, 1860s British surveyor Alexander Cunningham with notebook and local assistants measuring red-brick stupa ruins, tents tools, bright daylight, 16:9 historical illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0078.jpg",
+      "sfx": "surveyor_compass_chisel",
+      "motion_effect": "pan_left",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 11.4,
+        "en": 9.92,
+        "hi": 10.68
+      },
+      "timestamp_start": 822.07,
+      "timestamp_end": 832.22
+    },
+    {
+      "scene_id": 79,
+      "parent_beat": 16,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পরবর্তী খননে মাটির নিচ থেকে মঠ, মন্দির, ব্রোঞ্জমূর্তি ও সিলমোহর বেরিয়ে আসে। সঙ্গে পাওয়া যায় অসংখ্য পোড়া পুঁথির খণ্ড ও পুরু ছাইয়ের স্তর।",
+        "en": "Later excavations unearthed monasteries, temples, bronze statues and clay seals. Diggers also found countless burnt manuscript pieces and ash layers.",
+        "hi": "बाद की खुदाई में मठ, मंदिर, कांस्य मूर्तियाँ और मिट्टी की मुहरें बाहर आईं। साथ ही जली पांडुलिपियों के असंख्य टुकड़े और राख की परतें मिलीं।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, excavation workers brushing soil off serene large Buddha statue and seals, baskets of artefacts, joyful discovery mood, daylight, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0079.jpg",
+      "sfx": "excavation_brush_discovery",
+      "motion_effect": "pan_right",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.2,
+        "en": 10.92,
+        "hi": 12.04
+      },
+      "timestamp_start": 832.22,
+      "timestamp_end": 842.59
+    },
+    {
+      "scene_id": 80,
+      "parent_beat": 16,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এই অসামান্য আবিষ্কারের বিশ্ব স্বীকৃতি আসে ২০১৬ সালে। সেই বছর ইউনেস্কো বিহারের নালন্দাকে আনুষ্ঠানিকভাবে বিশ্ব ঐতিহ্যবাহী স্থান ঘোষণা করে।",
+        "en": "World recognition for this rare discovery arrived in the year 2016. UNESCO then declared Nalanda a World Heritage Site of global value.",
+        "hi": "इस असाधारण खोज को विश्व मान्यता वर्ष 2016 में मिली। तब यूनेस्को ने बिहार के नालंदा को वैश्विक महत्व का विश्व धरोहर स्थल घोषित किया।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, uNESCO World Heritage plaque ceremony before Nalanda ruins, officials and monks applauding, flags, bright celebration daylight, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0080.jpg",
+      "sfx": "unesco_applause_fanfare",
+      "motion_effect": "zoom_in",
+      "duration": 10.07,
+      "language_durations": {
+        "bn": 12.28,
+        "en": 9.24,
+        "hi": 12.44
+      },
+      "timestamp_start": 842.59,
+      "timestamp_end": 852.66
+    },
+    {
+      "scene_id": 81,
+      "parent_beat": 16,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এভাবেই মাটির নিচ থেকে পৃথিবীর প্রথম আবাসিক বিশ্ববিদ্যালয় জেগে ওঠে। ভোরের সূর্যোদয়ের আলোয় প্রাচীন লাল ইটের সিঁড়ি ও মন্দির আবার দেখা যায়।",
+        "en": "Thus the world's first residential university rose again from the soil. Its ancient brick stairs and temples reappeared in the sunrise glow.",
+        "hi": "इस तरह मिट्टी के नीचे से दुनिया का पहला आवासीय विश्वविद्यालय फिर जाग उठा। सूर्योदय की रोशनी में उसकी ईंट-सीढ़ियाँ और मंदिर फिर दिखने लगे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, sunrise over excavated Nalanda grand staircase and temples rising from earth, light rays, triumphant rebirth mood, 16:9 epic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0081.jpg",
+      "sfx": "rebirth_sunrise_orchestra",
+      "motion_effect": "zoom_out",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 10.68,
+        "en": 10.76,
+        "hi": 10.08
+      },
+      "timestamp_start": 852.66,
+      "timestamp_end": 863.03
+    },
+    {
+      "scene_id": 82,
+      "parent_beat": 17,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আটশো বছরের দীর্ঘ গল্প ধ্বংসস্তূপে শেষ হয়নি। পুরোনো ভিত্তির পাশে নতুন ক্যাম্পাসের ছাত্রদের পদচারণায় উজ্জ্বল এক নতুন অধ্যায় শুরু হয়েছে।",
+        "en": "The long story did not end among the silent ruins. Beside the old foundations a fresh chapter began with students walking a modern campus.",
+        "hi": "आठ सौ साल लंबी कहानी मौन खंडहरों में खत्म नहीं हुई। पुरानी नींव के पास आधुनिक परिसर में छात्रों की चहल-पहल से नया अध्याय शुरू हुआ।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, split view ancient ruins transforming into modern glass university building, dawn light bridge between past and present, hopeful, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0082.jpg",
+      "sfx": "past_present_whoosh",
+      "motion_effect": "pan_left",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 10.76,
+        "en": 9.64,
+        "hi": 10.32
+      },
+      "timestamp_start": 863.03,
+      "timestamp_end": 873.18
+    },
+    {
+      "scene_id": 83,
+      "parent_beat": 17,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "২০১৪ সালে ধ্বংসস্তূপের পাশে নতুন নালন্দা বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয়। ভারতসহ এশিয়ার বহু দেশ অর্থ ও শিক্ষক দিয়ে সক্রিয় যৌথ সহযোগিতা করে।",
+        "en": "In 2014 the new Nalanda University opened its doors beside the ruins. India and many Asian nations supported it with funds and teachers.",
+        "hi": "2014 में खंडहरों के पास नए नालंदा विश्वविद्यालय की स्थापना हुई। भारत सहित एशिया के कई देशों ने धन और शिक्षकों से सक्रिय सहयोग किया।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, modern Nalanda University inauguration 2014, Asian delegates planting tree together beside ancient stupas, festive morning, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0083.jpg",
+      "sfx": "inauguration_cheer_tree",
+      "motion_effect": "pan_right",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 10.84,
+        "en": 9.44,
+        "hi": 10.92
+      },
+      "timestamp_start": 873.18,
+      "timestamp_end": 883.55
+    },
+    {
+      "scene_id": 84,
+      "parent_beat": 17,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আজ সেখানে দেশ-বিদেশের ছাত্ররা আবার জড়ো হচ্ছেন। উজ্জ্বল শ্রেণিকক্ষে প্রতিদিন প্রাণবন্ত বিতর্ক হচ্ছে ও প্রাচীন পুঁথি নতুন আলোয় পড়া হচ্ছে।",
+        "en": "Today students from many lands gather on that campus again. Bright classrooms host lively debates and readings of ancient manuscripts.",
+        "hi": "आज वहाँ देश-विदेश के छात्र फिर से जुट रहे हैं। उज्ज्वल कक्षाओं में जीवंत वाद-विवाद और प्राचीन पांडुलिपियों का पाठ नई रोशनी में हो रहा है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, lively modern classroom debate, international students raising hands, teacher smiling, palm manuscripts and laptops on desks, bright daylight, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0084.jpg",
+      "sfx": "classroom_debate_energy",
+      "motion_effect": "zoom_in",
+      "duration": 10.22,
+      "language_durations": {
+        "bn": 12.48,
+        "en": 9.6,
+        "hi": 10.8
+      },
+      "timestamp_start": 883.55,
+      "timestamp_end": 893.77
+    },
+    {
+      "scene_id": 85,
+      "parent_beat": 17,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "প্রায় আটশো বছর পর নিভে যাওয়া মাটির প্রদীপ আবার নতুন করে জ্বলেছে। নতুন প্রজন্মের উজ্জ্বল মুখে এই আলো আশার উজ্জ্বল নতুন দীপ্তি ছড়াচ্ছে।",
+        "en": "After nearly eight hundred years the extinguished lamp burns brightly again. Its warm light spreads clear hope across young faces today.",
+        "hi": "लगभग आठ सौ साल बाद बुझा हुआ मिट्टी का दीया फिर से नए सिरे से जल उठा है। नई पीढ़ी के उज्ज्वल चेहरों पर यह रोशनी नई आशा बिखेर रही है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, single bright oil lamp rekindled in dark ancient hall, flame growing, rows of lamps lighting one by one, rekindling symbolism, 16:9 cinematic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0085.jpg",
+      "sfx": "lamp_rekindle_flame",
+      "motion_effect": "zoom_out",
+      "duration": 10.07,
+      "language_durations": {
+        "bn": 12.08,
+        "en": 9.84,
+        "hi": 10.48
+      },
+      "timestamp_start": 893.77,
+      "timestamp_end": 903.84
+    },
+    {
+      "scene_id": 86,
+      "parent_beat": 17,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "ইতিহাস চূড়ান্ত প্রমাণ দিল, বই পোড়ানো যায়, তৃষ্ণা কখনও পোড়ানো যায় না। মানুষের মনে জ্ঞানের আকাঙ্ক্ষা প্রতিটি ভয়াবহ আগুনের চেয়ে স্থায়ী।",
+        "en": "History gave its final proof: books can burn, but thirst can never burn. The human craving for knowledge outlives each fire it faces.",
+        "hi": "इतिहास ने अंतिम प्रमाण दिया: किताबें जल सकती हैं, प्यास कभी नहीं जलती। मन में ज्ञान की चाह सामना की हर भयानक आग से ज़्यादा टिकती है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, open burnt book with unburnt glowing words rising as light birds into sky, thirst for knowledge symbolism, starry night, 16:9 poetic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0086.jpg",
+      "sfx": "glowing_words_rise",
+      "motion_effect": "pan_left",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.36,
+        "en": 10.28,
+        "hi": 11.8
+      },
+      "timestamp_start": 903.84,
+      "timestamp_end": 914.21
+    },
+    {
+      "scene_id": 87,
+      "parent_beat": 18,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "একবার শান্ত মনে ভাবুন, পুঁথি ও কাঠের বিশাল ভাণ্ডার একসঙ্গে জ্বলেছিল। তাই নালন্দার আগুন প্রায় তিন মাস ধরে থামেনি বলে অনেক ঐতিহাসিক বলেন।",
+        "en": "Think once: vast stores of manuscripts and timber burned there together. That is why Nalanda's fire reportedly burned for nearly three months.",
+        "hi": "एक बार सोचिए, पांडुलिपियों और लकड़ी के विशाल भंडार वहाँ एक साथ जले। इसलिए कहा जाता है नालंदा की आग लगभग तीन महीने तक लगातार जलती रही।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, Time Chronicler, the bald elderly human scholar with long white beard, round glasses and brown robe holding torch and ancient book (match the attached character design exactly; human face only), pointing toward long fire timeline visualized as burning scroll, questioning pose, night library background, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, no clock face, no clock head, no egg head",
+      "asset_file": "visual_assets/shot_0087.jpg",
+      "sfx": "timeline_scroll_unroll",
+      "motion_effect": "pan_right",
+      "duration": 10.07,
+      "language_durations": {
+        "bn": 10.28,
+        "en": 10.8,
+        "hi": 12.12
+      },
+      "timestamp_start": 914.21,
+      "timestamp_end": 924.28
+    },
+    {
+      "scene_id": 88,
+      "parent_beat": 18,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "সেখানে জমে ছিল প্রায় হাজার বছরের স্বপ্ন, কঠোর সাধনা, ত্যাগ ও শ্রম। একটিমাত্র দিনের আগুন এই বিশাল সঞ্চয় কোনোভাবেই সম্পূর্ণ ছাই করতে পারেনি।",
+        "en": "There lay nearly a thousand years of dreams, discipline and labour. A single day's fire could not reduce that vast reserve to ash.",
+        "hi": "वहाँ लगभग हज़ार साल के सपने, कठिन साधना, त्याग और श्रम जमा थे। एक दिन की आग उस विशाल संचय को किसी भी तरह पूरी तरह राख नहीं कर सकी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, thousand years of dreams as glowing stars gathering above Nalanda towers into giant luminous cloud, timeless accumulation, night sky, 16:9 poetic illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0088.jpg",
+      "sfx": "dreams_stars_shimmer",
+      "motion_effect": "zoom_in",
+      "duration": 10.37,
+      "language_durations": {
+        "bn": 11.8,
+        "en": 9.84,
+        "hi": 11.64
+      },
+      "timestamp_start": 924.28,
+      "timestamp_end": 934.65
+    },
+    {
+      "scene_id": 89,
+      "parent_beat": 18,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "পুঁথি ছাই হলেও জ্ঞান সাধারণ মানুষের মনে বেঁচে থাকে। তিব্বতি মঠের সান্ধ্য মন্ত্র ও বাংলার গ্রামীণ বাউলগানে নালন্দার পাঠ এখনও স্পষ্ট শোনা যায়।",
+        "en": "Though manuscripts turned to ash, knowledge lives on in human minds. Nalanda's lessons echo in Tibetan chants and Bengal Baul songs.",
+        "hi": "पांडुलिपियाँ राख हुईं पर ज्ञान मानव मन में जीवित रहता है। तिब्बती मठों के मंत्रों और बंगाल के बाउल गीतों में नालंदा का पाठ गूँजता है।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, ashes of books transforming into living faces, Tibetan monastery chants, Bengali folk singers with ektara, wisdom surviving in people, warm montage light, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0089.jpg",
+      "sfx": "folk_song_ektara",
+      "motion_effect": "zoom_out",
+      "duration": 10.44,
+      "language_durations": {
+        "bn": 11.28,
+        "en": 10.4,
+        "hi": 10.84
+      },
+      "timestamp_start": 934.65,
+      "timestamp_end": 945.09
+    },
+    {
+      "scene_id": 90,
+      "parent_beat": 18,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "এবার তোমার মতামত চাই, বর্তমান ডিজিটাল যুগে জ্ঞান রক্ষার শ্রেষ্ঠ উপায় কোনটি। স্ক্যান, অনুবাদ, নাকি মুক্ত অনলাইন ভান্ডার, তুমি কোনটি বেছে নেবে।",
+        "en": "Now we ask your view: what best protects knowledge in this digital age. Scanned copies, translations or open online archives, which do you pick.",
+        "hi": "अब आपकी राय चाहिए, इस डिजिटल युग में ज्ञान बचाने का सर्वोत्तम उपाय क्या है। स्कैन प्रतियाँ, अनुवाद या खुला ऑनलाइन भंडार, आप क्या चुनेंगे।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, thoughtful young Bangladeshi student holding tablet and ancient manuscript together, curiosity glow, modern library background, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0090.jpg",
+      "sfx": "curious_student_gasp",
+      "motion_effect": "pan_left",
+      "duration": 10.52,
+      "language_durations": {
+        "bn": 11.24,
+        "en": 11.52,
+        "hi": 10.12
+      },
+      "timestamp_start": 945.09,
+      "timestamp_end": 955.61
+    },
+    {
+      "scene_id": 91,
+      "parent_beat": 18,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "তোমার পছন্দের উত্তরটি নিচে কমেন্টে লিখে জানাও। একটি ভাবনামূলক মন্তব্যও পরের পর্বের পরিকল্পনা অনেক সমৃদ্ধ করতে পারে। সেরা মন্তব্য পরের ভিডিওতে পড়া হবে।",
+        "en": "Write your chosen answer in the comments section below. Even one thoughtful remark can greatly enrich our next episode plan. Best remarks will feature in the next video.",
+        "hi": "अपना चुना हुआ उत्तर नीचे कमेंट में लिखकर बताइए। एक सोची-समझी टिप्पणी भी अगले एपिसोड की योजना बहुत बेहतर कर सकती है। श्रेष्ठ टिप्पणी अगले वीडियो में पढ़ी जाएगी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, warm close-up of hand typing comment on smartphone showing history channel, cozy home background, invitation mood, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0091.jpg",
+      "sfx": "keyboard_typing_pop",
+      "motion_effect": "pan_right",
+      "duration": 11.19,
+      "language_durations": {
+        "bn": 11.04,
+        "en": 10.16,
+        "hi": 10.28
+      },
+      "timestamp_start": 955.61,
+      "timestamp_end": 966.8
+    },
+    {
+      "scene_id": 92,
+      "parent_beat": 18,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "সহজ ভাষায় ইতিহাস জানতে ইউটিউবে Simple History Teller Bangla চ্যানেল সাবস্ক্রাইব করো। পাশের বেল আইকন চাপলে প্রতি সপ্তাহে নতুন পর্ব তুমি সবার আগে পাবে।",
+        "en": "To learn history in simple words subscribe to the Simple History Teller channel. Press the side bell icon to receive a new episode each week.",
+        "hi": "आसान भाषा में इतिहास जानने के लिए Simple History Teller Hindi चैनल सब्सक्राइब कीजिए। पास वाला बेल आइकन दबाने पर हर हफ़्ते नया एपिसोड सबसे पहले मिलेगा।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, Time Chronicler, the bald elderly human scholar with long white beard, round glasses and brown robe holding torch and ancient book (match the attached character design exactly; human face only), with open arms welcoming viewers, glowing bell symbol light behind, Nalanda ruins to modern campus background, warm hopeful, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, no clock face, no clock head, no egg head",
+      "asset_file": "visual_assets/shot_0092.jpg",
+      "sfx": "welcome_embrace_chime",
+      "motion_effect": "zoom_in",
+      "duration": 10,
+      "language_durations": {
+        "bn": 9.08,
+        "en": 9.12,
+        "hi": 9.96
+      },
+      "timestamp_start": 966.8,
+      "timestamp_end": 976.8
+    },
+    {
+      "scene_id": 93,
+      "parent_beat": 18,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কোন বিবরণ তোমার স্মৃতিতে শক্তভাবে গেঁথে আছে, কারণসহ নিচে কমেন্ট বাক্সে লেখো। তোমার বিস্তারিত যুক্তি আমাদের পরের গবেষণার দিক ঠিক করে দেবে।",
+        "en": "Which detail stays firmly in your memory, write it with its reason. Your reasoning will fix the direction of our next research work.",
+        "hi": "कौन-सा विवरण आपकी स्मृति में दृढ़ता से बसा है, कारण सहित नीचे कमेंट में लिखिए। आपका विस्तृत तर्क हमारे अगले शोध कार्य की दिशा तय करेगा।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon 16:9: Nalanda monastery courtyard free meal serving scene, monks ladling rice from giant pots to students, blank wooden signboard with no writing, warm daylight --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0093.jpg",
+      "sfx": "collage_question_pop",
+      "motion_effect": "zoom_out",
+      "duration": 10.15,
+      "language_durations": {
+        "bn": 10.64,
+        "en": 8.08,
+        "hi": 9.48
+      },
+      "timestamp_start": 976.8,
+      "timestamp_end": 986.95
+    },
+    {
+      "scene_id": 94,
+      "parent_beat": 18,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "এই পর্বের তথ্য নেওয়া হয়েছে হিউয়েন সাঙের বিবরণ, তবকাত-ই-নাসিরি, ধর্মস্বামিনের স্মৃতি ও ইউনেস্কো প্রতিবেদন থেকে। প্রতিটি দাবি এই চারটি উৎসে যাচাই করা হয়েছে।",
+        "en": "This episode draws on Xuanzang's account, the Tabaqat-i-Nasiri, Dharmaswamin's memoir and UNESCO reports. Every claim was checked against these four sources.",
+        "hi": "इस एपिसोड की जानकारी ह्वेनसांग के विवरण, तबक़ात-ए-नासिरी, धर्मस्वामिन के संस्मरण और यूनेस्को रिपोर्टों से ली गई है। हर दावा इन्हीं चार स्रोतों से जाँचा गया।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, happy family subscribing to history channel on TV at home, pressing bell icon, warm living room, excitement, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0094.jpg",
+      "sfx": "subscribe_bell_ring",
+      "motion_effect": "pan_left",
+      "duration": 11.7,
+      "language_durations": {
+        "bn": 11.16,
+        "en": 10.6,
+        "hi": 11.08
+      },
+      "timestamp_start": 986.95,
+      "timestamp_end": 998.65
+    },
+    {
+      "scene_id": 95,
+      "parent_beat": 18,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কোন তথ্যটি তোমাকে সবচেয়ে অবাক করল, নিচে কমেন্টে সরাসরি লেখো। তোমার সংক্ষিপ্ত মন্তব্য পরের পর্বের বিষয় বাছতে আমাদের অনেক সাহায্য করবে।",
+        "en": "Which fact surprised you the most, write it in the comments below. Your short remark will help our team select the next episode topic.",
+        "hi": "किस जानकारी ने आपको सबसे ज़्यादा हैरान किया, नीचे कमेंट में लिखिए। आपकी संक्षिप्त टिप्पणी हमारी टीम को अगला विषय चुनने में सहायता करेगी।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, mysterious distant Vikramashila ruins in fog with glowing question light, teaser next-episode mood, monk silhouette, dusk, 16:9 illustration --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0095.jpg",
+      "sfx": "teaser_mystery_drone",
+      "motion_effect": "pan_right",
+      "duration": 10,
+      "language_durations": {
+        "bn": 9.28,
+        "en": 8.12,
+        "hi": 9.44
+      },
+      "timestamp_start": 998.65,
+      "timestamp_end": 1008.65
+    },
+    {
+      "scene_id": 96,
+      "parent_beat": 18,
+      "sub_id": 10,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "পরের পর্বে: ৩১৩ বনাম ১০০০, বদরের সেই সকাল যেখানে সংখ্যা হেরেছিল বিশ্বাসের কাছে। যুদ্ধের আগের রাতের দোয়া ও প্রস্তুতি জানতে সাবস্ক্রাইব করে রাখো।",
+        "en": "Next episode: 313 versus 1000, the morning of Badr where numbers lost to faith. Subscribe now to hear the night prayers and prep before the battle.",
+        "hi": "अगले एपिसोड में: 313 बनाम 1000, बद्र की वह सुबह जहाँ संख्या ईमान से हार गई। युद्ध से पहले रात की दुआ जानने के लिए सब्सक्राइब रखिए।"
+      },
+      "visual_prompt": "Simple History cutout vector cartoon, clean shapes, warm parchment tones, dynamic 2D cartoon: two armies facing across Badr valley at dawn, small faithful band of 313 against vast arrogant host of 1000, dust and banners, teaser energy, 24fps motion --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0096.mp4",
+      "sfx": "sources_pages_stack",
+      "motion_effect": "ai_video",
+      "duration": 10.67,
+      "language_durations": {
+        "bn": 12.24,
+        "en": 11.88,
+        "hi": 12.44
+      },
+      "timestamp_start": 1008.65,
+      "timestamp_end": 1019.32
+    }
+  ]
+}

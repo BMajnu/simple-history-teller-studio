@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+:root{--bg:#0e1014;--bar:#161a22;--tab:#1e2330;--active:#2a3040;--line:rgba(255,255,255,.08);--txt:#e8eaf0;--dim:#9aa3b8;--acc:#4c8dff}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--txt);font:12.5px 'Segoe UI',system-ui,sans-serif;overflow:hidden;user-select:none}
+#tabs{display:flex;align-items:center;gap:6px;padding:8px 10px 0;overflow-x:auto;scrollbar-width:none}
+#tabs::-webkit-scrollbar{display:none}
+.tab{display:flex;align-items:center;gap:8px;max-width:200px;min-width:44px;padding:7px 10px;background:transparent;border-radius:10px 10px 0 0;cursor:pointer;color:var(--dim);border:1px solid transparent;border-bottom:0}
+.tab:hover{background:var(--tab)}
+.tab.active{background:var(--active);color:var(--txt);box-shadow:inset 0 2px 0 var(--acc)}
+.dot{width:9px;height:9px;border-radius:50%;flex:none}
+.tab .t{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tab .x{border:0;background:transparent;color:var(--dim);font-size:14px;line-height:1;cursor:pointer;border-radius:50%;width:20px;height:20px;display:flex;align-items:center;justify-content:center}
+.tab .x:hover{background:rgba(255,255,255,.12);color:#fff}
+#newtab{border:0;background:transparent;color:var(--dim);font-size:16px;cursor:pointer;width:28px;height:28px;border-radius:8px;flex:none}
+#newtab:hover{background:var(--tab);color:#fff}
+.tab .nm{flex:none;font-size:10px;background:rgba(76,141,255,.18);color:#9fc0ff;border-radius:5px;padding:1px 6px}
+#newtab:hover{background:var(--tab);color:#fff}
+#nav{display:flex;align-items:center;gap:4px;padding:8px 10px;background:var(--bar);border-top:1px solid var(--line)}
+.nbtn{border:0;background:transparent;color:var(--dim);font-size:15px;cursor:pointer;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center}
+.nbtn:hover{background:rgba(255,255,255,.09);color:#fff}
+#addrwrap{flex:1;display:flex;align-items:center;gap:8px;background:#0b0d12;border:1px solid var(--line);border-radius:999px;padding:0 14px;height:34px}
+#addrwrap:focus-within{border-color:var(--acc)}
+#lock{font-size:12px;color:#7ee2a8;flex:none}
+#addr{flex:1;background:transparent;border:0;color:var(--txt);font-size:13px;outline:none;min-width:0}
+#plus{margin-left:2px}
+</style></head><body>
+<div id="tabs"></div>
+<div id="nav">
+<button class="nbtn" id="back" title="Back">←</button><button class="nbtn" id="fwd" title="Forward">→</button><button class="nbtn" id="rel" title="Reload">⟳</button>
+<div id="addrwrap"><span id="lock">🔒</span><input id="addr" spellcheck="false" placeholder="Search or enter address"/></div>
+<button class="nbtn" id="repair" title="Repair page layout">⌗</button>
+<button class="nbtn" id="plus" title="New tab">＋</button>
+</div>
+<script>
+const $ = (s) => document.querySelector(s);
+let tabs = [], active = null;
+function esc(s){return String(s||'').replace(/[&<>"]/g,(c)=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function color(u){let h=0;u=String(u||'');for(let i=0;i<u.length;i++)h=(h*31+u.charCodeAt(i))>>>0;return 'hsl('+(h%360)+',60%,55%)'}
+function short(u){try{const x=new URL(u);return x.hostname.replace(/^www\./,'')}catch{return u||'New tab'}}
+function render(){
+  $('#tabs').innerHTML = tabs.map((t)=>'<div class="tab'+(t.id===active?' active':'')+'" data-id="'+t.id+'" title="'+esc((t.name?t.name+' • ':'')+(t.url||''))+'">'+(t.name?'<span class="nm">'+esc(t.name)+'</span>':'')+(t.accountSlot && t.accountSlot !== 'unknown'?'<span class="nm">u'+esc(t.accountSlot)+'</span>':'')+'<span class="dot" style="background:'+color(t.url)+'"></span><span class="t">'+esc(t.title||short(t.url))+'</span><span class="x" data-x="'+t.id+'">×</span></div>').join('') + '<button id="newtab" title="New tab">＋</button>';
+  const a = tabs.find((t)=>t.id===active);
+  if (a && document.activeElement !== $('#addr')) $('#addr').value = a.url || '';
+  $('#lock').textContent = a && a.url && a.url.startsWith('https') ? '🔒' : '🌐';
+  document.querySelectorAll('.tab').forEach((el)=>{ el.onclick = (e)=>{ const x = e.target.getAttribute('data-x'); if (x) window.stb.close(+x); else window.stb.activate(+el.getAttribute('data-id')); }; });
+  $('#newtab').onclick = () => window.stb.newTab('about:blank');
+}
+function go(){ let v = $('#addr').value.trim(); if (!v) return; if (!/^[a-z]+:\/\//i.test(v) && v.includes('.') && !v.includes(' ')) v = 'https://' + v; if (!/^[a-z]+:\/\//i.test(v)) v = 'https://www.google.com/search?q=' + encodeURIComponent(v); const a = tabs.find((t)=>t.id===active); if (a) window.stb.nav(a.id, v); }
+$('#back').onclick = () => { const a = tabs.find((t)=>t.id===active); if (a) window.stb.back(a.id); };
+$('#fwd').onclick = () => { const a = tabs.find((t)=>t.id===active); if (a) window.stb.fwd(a.id); };
+$('#rel').onclick = () => { const a = tabs.find((t)=>t.id===active); if (a) window.stb.reload(a.id); };
+$('#repair').onclick = async () => { const b = $('#repair'); b.disabled = true; b.title = 'Repairing layout…'; try { await window.stb.repairLayout('manual-toolbar'); } finally { setTimeout(()=>{ b.disabled = false; b.title = 'Repair page layout'; }, 500); } };
+$('#plus').onclick = () => window.stb.newTab('about:blank');
+$('#addr').addEventListener('keydown', (e)=>{ if (e.key === 'Enter') go(); });
+window.stb.onUpdate((t, act)=>{ tabs = t; active = act; render(); });
+window.stb.refresh();
+</script>
+</body></html>

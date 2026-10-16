@@ -1,0 +1,11 @@
+@echo off
+title Simple Itihash - Production Studio
+cd /d "%~dp0"
+
+where node >nul 2>nul || (echo [!] Node.js not found. Install from https://nodejs.org & pause & exit /b 1)
+if not exist node_modules (echo Installing dependencies... & call npm install || (pause & exit /b 1))
+if not exist "projects\sample_first_king\project.json" (echo Building sample project... & node tools\build_sample_project.js)
+
+start "" http://localhost:4000
+node server.js
+pause

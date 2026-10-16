@@ -1,0 +1,69 @@
+================================================================================
+GOOGLE FLOW DYNAMIC AI VIDEO MOTION PROMPTS (16 SCENES = EXACTLY 20%)
+Aspect Ratio: 16:9 | Framerate: 24fps Motion Clip
+Master System Prompt Anchor: Bold 5px outlines, egg-shaped white heads, 2D flat vector
+================================================================================
+
+### Scene 1 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0001.mp4
+Action Description: আমি সময়ের সাক্ষী।
+Prompt: Dynamic cartoon 2D animation in OverSimplified style. The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) stepping through a glowing mystical cosmic library portal, brass spectacles gleaming, opening a heavy illuminated history journal, warm comic lighting, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 6 [CLIP CANDIDATE] (10.5s) -> visual_assets/clip_scene_0006.mp4
+Action Description: যদি কোনো অহংকারী শিকারি সেখানে বুক ফুলিয়ে চিৎকার করে বলত: 'আমিই এই দলের নেতা!'—তবে কী ঘটত জানো?
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, muscular primitive stickman aggressively kicking the dirt, waving a heavy bone club in the air, comic fiery red eyes, shouting angrily, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 12 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0012.mp4
+Action Description: কোনো দক্ষ শিকারি যদি একাই একটা প্রকাণ্ড জিরাফ শিকার করে আনত, তবে গোত্রের লোকেরা উল্লাসের বদলে তার মুখে থুতু ফেলে হাসত!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, tribe stick figures slapping their knees and rolling on the sand laughing wildly at an astonished hunter holding a spear, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 18 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0018.mp4
+Action Description: যদি কোনো ব্যক্তি একাধিক সতর্কবার্তার পরও দলনেতা সাজার চেষ্টা করত, তবে গোত্রের সবাই মিলে এক রাতে তাকে বন থেকে তাড়িয়ে দিত!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, three angry stickmen chasing an arrogant cartoon bully carrying sticks and stones out of the campfire perimeter into the dark night, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 24 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0024.mp4
+Action Description: অথচ কৃষক হওয়ার সাথে সাথেই শুরু হলো ভোর থেকে সন্ধ্যা পর্যন্ত রোদ-বৃষ্টিতে পিঠ বাঁকিয়ে একটানা হাড়ভাঙা দাসত্ব!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, torrential rain and blistering heat alternating over a stickman farmer bent double swinging a crude stone hoe into muddy earth, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 30 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0030.mp4
+Action Description: একজন কৃষক নয় মাস ধরে মাথার ঘাম পায়ে ফেলে ফসল ফলাত, আর একরাতে ঘোড়সওয়ার ডাকাতরা এসে পুরো ফসল লুটে নিয়ে চলে যেত!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, chaotic burning village night, masked stickman raiders galloping past waving torches, snatching grain sacks as farmers run in terror, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 36 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0036.mp4
+Action Description: শুরু হলো পৃথিবীর প্রথম প্রাতিষ্ঠানিক চাঁদাবাজি বা 'প্রোটেকশন র্যাকেট'—যা আজ আমরা সভ্য ভাষায় 'ট্যাক্স' বা কর বলে চিনি!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, armed stickman brutes forcefully marching through village lanes, taking heavy burlap sacks from wooden carts, dust kicking up, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 42 [CLIP CANDIDATE] (10.5s) -> visual_assets/clip_scene_0042.mp4
+Action Description: লুগাল ঘোষণা করল: 'এই মাটির প্রতিটি কণা আমার, আর তোমাদের বেঁচে থাকা নির্ভর করছে আমার মর্জির ওপর!'
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, the massive cartoon Lugal slamming his bronze war-axe into a solid stone altar, stone chips flying, shouting aggressively, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 48 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0048.mp4
+Action Description: পুরোহিতরা মন্দিরের চূড়ায় দাঁড়িয়ে সাধারণ মানুষকে বোঝাল: 'এই শহর আমাদের নয়, এই নদী এবং ফসলের মালিক খোদ স্বর্গের দেবতারা!'
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, ancient high priest waving burning incense over a golden fire basket atop the Ziggurat, billowing white smoke against dramatic storm clouds, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 54 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0054.mp4
+Action Description: কিন্তু এর চেয়েও ভয়াবহ আগ্রাসনের জন্ম দিলেন মেসোপটেমিয়ার প্রথম দিগ্বিজয়ী সম্রাট—সার্গন অফ আক্কাদ!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, King Sargon with a braided bronze beard riding a roaring chariot drawn by four armored equids across dusty desert battlefields, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 60 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0060.mp4
+Action Description: নারমার প্যালেটে খোদাই করা ছবিতে দেখা যায়—রাজা একা এক হাতে বিশালাকার গদা উঁচিয়ে শত্রুদের মাটিতে পিষে ফেলছেন!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, OverSimplified Pharaoh Narmer swinging a heavy white stone mace overhead, comic dramatic impact shockwaves, kneeling cartoon captives trembling, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 66 [CLIP CANDIDATE] (11.5s) -> visual_assets/clip_scene_0066.mp4
+Action Description: মিশরের ফারাও নিজের অহংকারে প্রজাদের ক্রীতদাস বানিয়েছিল, কিন্তু লাল সাগরের বুকচেরা জলোচ্ছ্বাসে তার অহংকার চূর্ণ হয়ে সলিল সমাধি ঘটেছিল।
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, massive towering blue tidal waves crashing down over ornate golden Egyptian royal chariots and fleeing soldiers, water splashing, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 70 [CLIP CANDIDATE] (12s) -> visual_assets/clip_scene_0070.mp4
+Action Description: আমরা রাজার যুগ থেকে বের হয়ে এসেছি সত্যি, কিন্তু আমাদের তৈরি আধুনিক সমাজ কি সেই আদিম শস্যরক্ষকের প্রভাব থেকে পুরোপুরি মুক্ত?
+Prompt: Dynamic cartoon 2D animation, The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) standing before a giant antique mechanical clockwork mechanism with revolving bronze gears, looking thoughtfully at viewer, 24fps. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 74 [CLIP CANDIDATE] (11.5s) -> visual_assets/clip_scene_0074.mp4
+Action Description: কিন্তু ইতিহাস বারবার একটি সত্য প্রমাণ করেছে—যেকোনো শাসকের ক্ষমতা ততক্ষণই বৈধ, যতক্ষণ পর্যন্ত সে ন্যায়বিচার ও জনকল্যাণ নিশ্চিত করে।
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, an oversized ancient stone statue of a tyrant suddenly cracking down the center, crumbling into dust as warm sunrise beams pierce through, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 78 [CLIP CANDIDATE] (11s) -> visual_assets/clip_scene_0078.mp4
+Action Description: আজকের যুগে যদি কোনো প্রাচীন সুমেরীয় রাজা তোমার শহরে হেঁটে আসত, তবে সে হয়তো মুকুট ছেড়ে একটি সাধারণ স্যুট পরে নির্বাচনে দাঁড়িয়ে যেত!
+Prompt: OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, ancient horned stone crown magically morphing into a sharp modern business suit and necktie on an energetic stickman smiling on TV, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 80 [CLIP CANDIDATE] (11.5s) -> visual_assets/clip_scene_0080.mp4
+Action Description: ইতিহাসের আরও রোমাঞ্চকর ও বিস্ময়কর সত্য জানতে এখনই সাবস্ক্রাইব করে সঙ্গে থাকো সিম্পল হিস্ট্রি টেলার বাংলা চ্যানেলে। দেখা হচ্ছে পরের পর্বে!
+Prompt: Dynamic cartoon 2D animation, The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) enthusiastically snapping his leather history journal shut with a crisp thud, winking and pointing directly at the camera as dynamic golden subscribe bells and stars sparkle, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients

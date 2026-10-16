@@ -1,0 +1,18 @@
+{
+  "video_en.mp4": {
+    "parts": 3,
+    "size": 223050486
+  },
+  "video_hi.mp4": {
+    "parts": 3,
+    "size": 253959473
+  },
+  "visual_master_en.mp4": {
+    "parts": 3,
+    "size": 204250504
+  },
+  "visual_master_hi.mp4": {
+    "parts": 3,
+    "size": 235955668
+  }
+}

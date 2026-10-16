@@ -1,0 +1,96 @@
+# Deps / toolchain (reinstall / redownload)
+node_modules/
+bin/
+
+# Build / portable outputs — NEVER commit (regenerable, huge)
+dist/
+release/
+exports/
+--hash/
+.hash/
+
+# Regenerable heavies (runners rebuild these; see README)
+projects/*/renders/.cache/
+projects/*/renders/_history/
+projects/*/renders/concat*.txt
+projects/*/renders/*_179*.mp4
+# NOTE: final renders/*.mp4 are split into <100MB chunks (JOIN_CLIPS.*) so GitHub accepts them.
+# ponytail: codebase-only repo — ALL video/audio skipped, renders visual masters skipped too
+projects/*/renders/*.mp4
+!projects/*/renders/*.mp4.part-*
+projects/*/renders/**/*.jpg
+projects/*/renders/**/*.jpeg
+projects/*/renders/**/*.png
+projects/*/renders/**/*.webp
+projects/*/audio/raw/
+projects/*/audio/padded/
+projects/*/audio/raw_*/
+projects/*/audio/shots_*/
+projects/*/audio/temp_*
+projects/*/audio/*_narration.wav
+projects/*/visual_assets/
+projects/*/automation_runs/
+projects/_automation/
+projects/automation/
+scratch/
+.tmp_uploads/
+
+# Video — সব ভিডিও স্কিপ (সাইজ বড়, কোডবেস-অনলি)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+*.flv
+*.wmv
+*.ts
+*.m2ts
+
+# Audio — সব অডিও স্কিপ (সাইজ বড়, কোডবেস-অনলি)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.m4a
+*.wma
+*.opus
+*.aiff
+*.aif
+
+# Unnecessary images — অপ্রয়োজনীয়/জেনারেটেড ইমেজ স্কিপ
+# (references/ + banner_assets/ মাস্কট ও রেফারেন্স ইমেজ + public/assets + projects/*/metadata থাম্বনেইল ট্র্যাক হবে)
+tools/*.png
+tools/*.jpg
+tools/*.jpeg
+tools/*.webp
+tools/test_video_u/
+banner_assets/scene_*.jpg
+banner_assets/*_179*.jpg
+
+# Build artifacts / logs
+*.exe
+*.blockmap
+*.part-*
+*.log
+dist_loop.*
+studio.log
+*.bak
+
+# Secrets — NEVER commit (contains account passwords)
+*Google Accounts*.txt
+*.env
+.env*
+
+# Temp / backup artifacts
+*.bak
+.fc_*.txt
+.part_*.wav
+.DS_Store
+Thumbs.db
+*cookies*.json
+*session*.json

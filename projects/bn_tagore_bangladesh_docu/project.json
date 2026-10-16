@@ -1,0 +1,2465 @@
+{
+  "brand": "Simple History Teller Network",
+  "category": "POLITICAL_DOCUMENTARY_NEW",
+  "channels": {
+    "bn": "Simple History Teller Bangla"
+  },
+  "language_mode": "bn_only",
+  "metadata": {
+    "title_bn": "রবীন্দ্রনাথ কি বাংলাদেশের বিরুদ্ধে ছিলেন? দলিলে যা আছে (পার্ট-১)"
+  },
+  "project_id": "bn_tagore_bangladesh_docu",
+  "scenes": [
+    {
+      "asset_file": "visual_assets/clip_shot_0001.mp4",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "duration": 10.52,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "আমি সময়ের সাক্ষী! ১৯০৫ সালে ঢাকা প্রথমবার প্রদেশের রাজধানী হলো, আর সেই সিদ্ধান্তের বিরুদ্ধেই কলকাতায় ঝড় উঠল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 1,
+      "sfx": "portal_mystic_whoosh",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Stylized 2D flat vector documentary illustration, elderly male Time Chronicler bald crown white side hair bushy white beard round spectacles brown scholar robe opening antique history journal, glowing library portal, 16:9, 4k. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic — Time Chronicler host (no archival claim)",
+      "courtesy_burnin": "AI symbolic — Time Chronicler host (no archival claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 0,
+      "timestamp_end": 10.52,
+      "language_durations": {
+        "bn": 10.52
+      },
+      "claims": [
+        "L04"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0002.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.52,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "বাংলা প্রেসিডেন্সি তখন ফ্রান্সের সমান বড়, আট কোটির বেশি মানুষ এক লেফটেন্যান্ট গভর্নরের অধীনে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 2,
+      "sfx": "paper_map_unfold",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D documentary map illustration, 1905 Bengal Presidency oversized province, Calcutta bright Dacca dim, aged parchment texture, 16:9, 4k. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "Map recreation — source: Britannica Partition of Bengal",
+      "courtesy_burnin": "Map recreation — source: Britannica Partition of Bengal",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 10.52,
+      "timestamp_end": 17.04,
+      "language_durations": {
+        "bn": 6.52
+      },
+      "claims": [
+        "L01"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0003.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 8.2,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "ব্যবসা, কলেজ আর আদালত সব কলকাতায় জমা ছিল, আর পূর্ববঙ্গের মহকুমায় পৌঁছাত না রাস্তা-স্কুল-আলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 3,
+      "sfx": "city_village_contrast",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D documentary split illustration, left Calcutta lit offices right Dacca dark river village, flat vector, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic split — source: Britannica / GlobalSecurity",
+      "courtesy_burnin": "AI symbolic split — source: Britannica / GlobalSecurity",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 17.04,
+      "timestamp_end": 25.24,
+      "language_durations": {
+        "bn": 8.2
+      },
+      "claims": [
+        "L02"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/shot_0004.jpg",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 7.84,
+      "motion_effect": "zoom_in",
+      "narration": {
+        "bn": "কার্জন প্রকাশ্যে বললেন প্রশাসন হালকা করতে ভাগ দরকার, কিন্তু চিঠিতে লিখলেন বাঙালি জাতীয়তাবাদ ভাঙাই লক্ষ্য।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 4,
+      "sfx": "quill_letter",
+      "type": "STATIC_IMAGE",
+      "visual_prompt": "Archival style still, Lord Curzon portrait desk with sealed letter, courtesy burn-in space, photorealistic archive photo treatment, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: Lord Curzon portrait — Wikimedia Commons (PD)",
+      "courtesy_burnin": "ARCHIVAL STILL: Lord Curzon portrait — Wikimedia Commons (PD)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 25.24,
+      "timestamp_end": 33.08,
+      "language_durations": {
+        "bn": 7.84
+      },
+      "claims": [
+        "L03"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0005.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 7.36,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "১৯০৫ সালের ৭ জুলাই ঘোষণা এলো, ১৬ অক্টোবর থেকে পূর্ববঙ্গ-আসাম নতুন প্রদেশ হবে, রাজধানী ঢাকা।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 5,
+      "sfx": "proclamation_drum",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Archival still, Dacca 1905 river skyline with boats, vintage photo grain, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: Dacca 1905 skyline — British Library Flickr (PD)",
+      "courtesy_burnin": "ARCHIVAL STILL: Dacca 1905 skyline — British Library Flickr (PD)",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 33.08,
+      "timestamp_end": 40.44,
+      "language_durations": {
+        "bn": 7.36
+      },
+      "claims": [
+        "L04"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/shot_0006.jpg",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 7.44,
+      "motion_effect": "zoom_in",
+      "narration": {
+        "bn": "নতুন প্রদেশে তিন কোটি দশ লাখ মানুষ, যার মধ্যে এক কোটি আশি লাখ মুসলমান আর এক কোটি বিশ লাখ হিন্দু।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 6,
+      "sfx": "ledger_page",
+      "type": "STATIC_IMAGE",
+      "visual_prompt": "2D documentary ledger bars faceless village icons, neutral palette, text-free infographic, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "Data graphic — figures: archive.org PDF Partition of Bengal 1905-11 (31M/18M/12M)",
+      "courtesy_burnin": "Data graphic — figures: archive.org PDF Partition of Bengal 1905-11 (31M/18M/12M)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 40.44,
+      "timestamp_end": 47.88,
+      "language_durations": {
+        "bn": 7.44
+      },
+      "claims": [
+        "L05"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0007.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.24,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "ঢাকার মুসলমান নেতারা একে শিক্ষা আর চাকরিতে এগোনোর সুযোগ হিসেবে স্বাগত জানালেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 7,
+      "sfx": "crowd_hopeful",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D animation, Dacca 1905 river ghat crowd in period attire welcoming proclamation, flags waving, 24fps. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI recreation of 1905 Dacca reception — no real footage claimed",
+      "courtesy_burnin": "AI recreation of 1905 Dacca reception — no real footage claimed",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 47.88,
+      "timestamp_end": 54.12,
+      "language_durations": {
+        "bn": 6.24
+      },
+      "claims": [
+        "L06"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0008.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 7.2,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "১৯০৬ সালের ডিসেম্বরে ঢাকাতেই জন্ম নিলো মুসলিম লীগ, পূর্ববঙ্গের নতুন রাজনৈতিক কণ্ঠস্বর হিসেবে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 8,
+      "sfx": "meeting_gavel",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Archival still, Nawab Salimullah portrait framed, 1906 Dacca meeting hall symbolic, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: Nawab Salimullah portrait — Wikimedia Commons (PD)",
+      "courtesy_burnin": "ARCHIVAL STILL: Nawab Salimullah portrait — Wikimedia Commons (PD)",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 54.12,
+      "timestamp_end": 61.32,
+      "language_durations": {
+        "bn": 7.2
+      },
+      "claims": [
+        "L06"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0009.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 4.6,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "কলকাতার ভদ্রলোক নেতারা একে মাতৃ-অঙ্গচ্ছেদ বলে ঘোষণা দিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 9,
+      "sfx": "protest_murmur",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D documentary illustration, Calcutta 1905 town hall protest crowd banners without text, storm over split map, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI recreation Calcutta protest — source: Rediff 2025 / Britannica",
+      "courtesy_burnin": "AI recreation Calcutta protest — source: Rediff 2025 / Britannica",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 61.32,
+      "timestamp_end": 65.92,
+      "language_durations": {
+        "bn": 4.6
+      },
+      "claims": [
+        "L07"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0010.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 5.52,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "১৯০৫ সালের ৭ আগস্ট কলকাতার সভা থেকে বিদেশি পণ্য বয়কটের ডাক এলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 10,
+      "sfx": "bonfire_crackle",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D documentary illustration, symbolic bonfire of foreign cloth swadeshi shop queue, faceless crowd, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI recreation boycott — source: Daily Star McLane / India Today 2018",
+      "courtesy_burnin": "AI recreation boycott — source: Daily Star McLane / India Today 2018",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 65.92,
+      "timestamp_end": 71.44,
+      "language_durations": {
+        "bn": 5.52
+      },
+      "claims": [
+        "L07"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0011.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.68,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "রবীন্দ্রনাথ ১৯০৪ সালের স্বদেশী সমাজ বক্তৃতায় পল্লীর আত্মশক্তির বিকল্প প্রস্তাব দিয়েছিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 11,
+      "sfx": "lecture_hall",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Archival still, Tagore 1905 photograph Minerva Theatre stage symbolic, vintage treatment, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: Tagore 1905 photo — Wikimedia Commons (PD) + Minerva Theatre record",
+      "courtesy_burnin": "ARCHIVAL STILL: Tagore 1905 photo — Wikimedia Commons (PD) + Minerva Theatre record",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 71.44,
+      "timestamp_end": 78.12,
+      "language_durations": {
+        "bn": 6.68
+      },
+      "claims": [
+        "L08"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0012.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.6,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "১৯০৫ সালে তিনি বঙ্গভঙ্গ-বিরোধী একাধিক সভায় সভাপতিত্ব করলেন, দলিলে এটুকু প্রমাণিত।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 12,
+      "sfx": "meeting_applause",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Archival still, 1905 Calcutta meeting hall audience from back, speaker silhouette, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: 1905 Calcutta hall photo — British Library (PD); gap filled with AI only if missing",
+      "courtesy_burnin": "ARCHIVAL STILL: 1905 Calcutta hall photo — British Library (PD); gap filled with AI only i",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 78.12,
+      "timestamp_end": 84.72,
+      "language_durations": {
+        "bn": 6.6
+      },
+      "claims": [
+        "L09"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0013.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 5.88,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "১৬ অক্টোবরকে তিনি রাখিবন্ধন দিবস ঘোষণা করে হিন্দু-মুসলমান সবাইকে রাখি পরাতে ডাক দিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 13,
+      "sfx": "temple_river_morning",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D symbolic illustration, two faceless hands tying rakhi thread, river ghat dawn, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic rakhi hands — source: Indian Express 2017 (Rakhi call)",
+      "courtesy_burnin": "AI symbolic rakhi hands — source: Indian Express 2017 (Rakhi call)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 84.72,
+      "timestamp_end": 90.6,
+      "language_durations": {
+        "bn": 5.88
+      },
+      "claims": [
+        "L10"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0014.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 5.8,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "কলকাতা-ঢাকা-সিলেটে শত শত মানুষ রাখি পরে বঙ্গভাগ মানি না মিছিলে নামল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 14,
+      "sfx": "march_chant_soft",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D animation, 1905 street procession with rakhi threads on wrists, dust flags marching, 24fps. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI recreation procession — source: Indian Express / SabrangIndia",
+      "courtesy_burnin": "AI recreation procession — source: Indian Express / SabrangIndia",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 90.6,
+      "timestamp_end": 96.4,
+      "language_durations": {
+        "bn": 5.8
+      },
+      "claims": [
+        "L11"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/shot_0015.jpg",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 4.88,
+      "motion_effect": "zoom_in",
+      "narration": {
+        "bn": "ওই আন্দোলনের মধ্যেই তিনি লিখলেন বাংলার মাটি বাংলার জল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 15,
+      "sfx": "song_hum_soft",
+      "type": "STATIC_IMAGE",
+      "visual_prompt": "Archival still, 1905 song booklet cover aged paper, courtesy space, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL DOCUMENT: 1905 song booklet — Banglapedia scan (CC-BY)",
+      "courtesy_burnin": "ARCHIVAL DOCUMENT: 1905 song booklet — Banglapedia scan (CC-BY)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 96.4,
+      "timestamp_end": 101.28,
+      "language_durations": {
+        "bn": 4.88
+      },
+      "claims": [
+        "L12"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0016.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 7.72,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "একই বছর গগন হরকরার আমি কোথায় পাব তারে সুরে তিনি লিখলেন আমার সোনার বাংলা।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 16,
+      "sfx": "ektara_pluck",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D symbolic illustration, faceless baul with ektara silhouette Padma riverside dusk, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic baul-Padma — tune debt: Gagan Harkara (Britannica Kids)",
+      "courtesy_burnin": "AI symbolic baul-Padma — tune debt: Gagan Harkara (Britannica Kids)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 101.28,
+      "timestamp_end": 109,
+      "language_durations": {
+        "bn": 7.72
+      },
+      "claims": [
+        "L13"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0017.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 4.96,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "গানটি অখণ্ড বাংলার মায়ের প্রশস্তি, ঢাকার আলাদা রাজধানীর পক্ষে নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 17,
+      "sfx": "wind_paddy_soft",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D symbolic illustration, golden Bengal paddy banyan river mother symbol no face, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic golden Bengal — lyric: Amar Sonar Bangla 1905",
+      "courtesy_burnin": "AI symbolic golden Bengal — lyric: Amar Sonar Bangla 1905",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 109,
+      "timestamp_end": 113.96,
+      "language_durations": {
+        "bn": 4.96
+      },
+      "claims": [
+        "L13",
+        "L14"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0018.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.2,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "এই বিরোধিতার চাপে ছয় বছর পর ১৯১১ সালের ১২ ডিসেম্বর বঙ্গভঙ্গ রদ হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 18,
+      "sfx": "royal_proclamation",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D animation, 1911 Delhi Durbar proclamation torn map rejoining, crowd reaction, 24fps. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI recreation Delhi Durbar 1911 — source: Britannica annulment 12 Dec 1911",
+      "courtesy_burnin": "AI recreation Delhi Durbar 1911 — source: Britannica annulment 12 Dec 1911",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 113.96,
+      "timestamp_end": 120.16,
+      "language_durations": {
+        "bn": 6.2
+      },
+      "claims": [
+        "L15"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0019.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.48,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "ঢাকা হারাল রাজধানীর মর্যাদা, আর ক্ষুব্ধ মুসলমান নেতারা শিক্ষার ক্ষতিপূরণ দাবি করলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 19,
+      "sfx": "empty_hall_echo",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, 2D symbolic illustration, empty secretariat chairs fading capital seal, text-free, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "AI symbolic empty secretariat — consequence: Dhaka loss of capital",
+      "courtesy_burnin": "AI symbolic empty secretariat — consequence: Dhaka loss of capital",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 120.16,
+      "timestamp_end": 126.64,
+      "language_durations": {
+        "bn": 6.48
+      },
+      "claims": [
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "asset_file": "visual_assets/clip_shot_0020.mp4",
+      "dialogue_speaker": "NARRATOR",
+      "duration": 6.88,
+      "motion_effect": "ai_video",
+      "narration": {
+        "bn": "পরের ধাপে আসবে ঢাকা বিশ্ববিদ্যালয়ের প্রতিশ্রুতি ও বিরোধিতার দলিল, কোনটা প্রমাণিত আর কোনটা গুজব।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "scene_id": 20,
+      "sfx": "page_turn_bridge",
+      "type": "DYNAMIC_AI_VIDEO",
+      "visual_prompt": "Dynamic 2D documentary motion, Archival still, Curzon Hall 1921 foundation photograph, vintage treatment, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "source": "ARCHIVAL STILL: Curzon Hall 1921 — DU Archive (bridge to Part-2)",
+      "courtesy_burnin": "ARCHIVAL STILL: Curzon Hall 1921 — DU Archive (bridge to Part-2)",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 126.64,
+      "timestamp_end": 133.52,
+      "language_durations": {
+        "bn": 6.88
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 21,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৮৯০ সালের নভেম্বরে রবীন্দ্রনাথ প্রথম শিলাইদহের জমিদারি দেখতে এলেন, সঙ্গে শাহজাদপুর ও পতিসরের দায়িত্ব।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1890 Padma river houseboat approaching Shilaidaha Kuthibari three-storey house, faceless landlord figure on deck, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0021.mp4",
+      "sfx": "river_boat_oar",
+      "motion_effect": "ai_video",
+      "duration": 8.36,
+      "source": "ARCHIVAL STILL: Shilaidaha Kuthibari — Wikimedia Commons / Dept. of Archaeology; Dhaka Tribune 2026 (Nov 1890 first arrival)",
+      "courtesy_burnin": "ARCHIVAL STILL: Shilaidaha Kuthibari — Wikimedia Commons / Dept. of Archaeology; Dhaka Tri",
+      "video_origin": "ARCHIVAL_STILL_TO_VIDEO",
+      "timestamp_start": 133.52,
+      "timestamp_end": 141.88,
+      "language_durations": {
+        "bn": 8.36
+      },
+      "claims": [
+        "L17"
+      ]
+    },
+    {
+      "scene_id": 22,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পদ্মার বোটে বসে তিনি প্রজাদের অভাব ও মহাজন-পুলিশ-পুরুতের শোষণ নিজের চোখে দেখলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, faceless peasants in field, moneylender ledger, policeman silhouette, priest silhouette, Padma boat background, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0022.mp4",
+      "sfx": "village_morning",
+      "motion_effect": "ai_video",
+      "duration": 6.48,
+      "source": "Tagore letters + New Nation/Amartya Sen essay: money-lender holds him, policeman fleeces him (Tier2)",
+      "courtesy_burnin": "Tagore letters + New Nation/Amartya Sen essay: money-lender holds him, policeman fleeces h",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 141.88,
+      "timestamp_end": 148.36,
+      "language_durations": {
+        "bn": 6.48
+      },
+      "claims": [
+        "L18"
+      ]
+    },
+    {
+      "scene_id": 23,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তিনি লিখলেন গ্রামের মানুষ নিজের জীবনের দায়িত্ব নেওয়ার শক্তিই হারিয়ে ফেলেছে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, elderly poet hand writing in diary, fading village self-help symbols rekindling, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0023.mp4",
+      "sfx": "quill_write",
+      "motion_effect": "ai_video",
+      "duration": 5.68,
+      "source": "Tagore on village decay — NIScPR paper: villagers lost ability to help themselves (Tier2)",
+      "courtesy_burnin": "Tagore on village decay — NIScPR paper: villagers lost ability to help themselves (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 148.36,
+      "timestamp_end": 154.04,
+      "language_durations": {
+        "bn": 5.68
+      },
+      "claims": [
+        "L18"
+      ]
+    },
+    {
+      "scene_id": 24,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯০৪ সালের জুলাইয়ে মিনার্ভা থিয়েটারে স্বদেশী সমাজ ভাষণে তিনি পল্লীর আত্মশক্তির ডাক দিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1904 Calcutta theatre stage speaker silhouette, faceless audience, samaj-circle diagram animating, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0024.mp4",
+      "sfx": "lecture_hall",
+      "motion_effect": "ai_video",
+      "duration": 7.72,
+      "source": "Swadeshi Samaj July 1904 Minerva Theatre — Gitanjali & Beyond Issue 10 / Wikipedia political views (Tier1-2)",
+      "courtesy_burnin": "Swadeshi Samaj July 1904 Minerva Theatre — Gitanjali & Beyond Issue 10 / Wikipedia politic",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 154.04,
+      "timestamp_end": 161.76,
+      "language_durations": {
+        "bn": 7.72
+      },
+      "claims": [
+        "L08"
+      ]
+    },
+    {
+      "scene_id": 25,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "নোবেলের টাকা তিনি পতিসরের কৃষি ব্যাংকে কৃষিঋণ হিসেবে দিলেন, কিন্তু ১৯৩৮ হিসাবে এক লাখ তেত্রিশ হাজার টাকা আদায়-অযোগ্য হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, Archival still, Patisar Krishi Bank ledger close-up figures, vintage paper, courtesy space, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0025.jpg",
+      "sfx": "ledger_page",
+      "motion_effect": "zoom_in",
+      "duration": 11.28,
+      "source": "EPW 2014 Swati Ganguly, Rabindra-Bhavana archive: Patisar Krishi Bank loss Rs 1,33,571-4-6 (Tier1)",
+      "courtesy_burnin": "EPW 2014 Swati Ganguly, Rabindra-Bhavana archive: Patisar Krishi Bank loss Rs 1,33,571-4-6",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 161.76,
+      "timestamp_end": 173.04,
+      "language_durations": {
+        "bn": 11.28
+      },
+      "claims": [
+        "L19"
+      ]
+    },
+    {
+      "scene_id": 26,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সুদসহ দায় দাঁড়াল এক লাখ তিরানব্বই হাজার টাকা, কৃষকরা শোধ দিতে পারেনি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, debt ledger numbers dissolving into empty paddy field, faceless farmer family, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0026.mp4",
+      "sfx": "ledger_page",
+      "motion_effect": "ai_video",
+      "duration": 5.52,
+      "source": "EPW 2014: liability Rs 1,93,228-4-10 on 12 Feb 1938, peasants could not repay (Tier1)",
+      "courtesy_burnin": "EPW 2014: liability Rs 1,93,228-4-10 on 12 Feb 1938, peasants could not repay (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 173.04,
+      "timestamp_end": 178.56,
+      "language_durations": {
+        "bn": 5.52
+      },
+      "claims": [
+        "L19"
+      ]
+    },
+    {
+      "scene_id": 27,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সদিচ্ছা ছিল, কিন্তু পূর্ববঙ্গের কৃষকের কাঠামোগত মুক্তি আসেনি, এটাই দলিলের রায়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, small lamp of goodwill vs vast dark field, scale contrast, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0027.mp4",
+      "sfx": "wind_paddy_soft",
+      "motion_effect": "ai_video",
+      "duration": 6.72,
+      "source": "Editorial synthesis of EPW + Sriniketan 8-village limit (eagri PDF Drawbacks) — marked as analysis, not quote",
+      "courtesy_burnin": "Editorial synthesis of EPW + Sriniketan 8-village limit (eagri PDF Drawbacks) — marked as ",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 178.56,
+      "timestamp_end": 185.28,
+      "language_durations": {
+        "bn": 6.72
+      },
+      "claims": [
+        "L20"
+      ]
+    },
+    {
+      "scene_id": 28,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সমালোচকরা বলেন তিনি মুসলমান প্রজাদের প্রতি কঠোর জমিদার ছিলেন, তবে এটি মতামত, দলিলি প্রমাণ নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, two faceless debate podiums, allegation papers vs archive stamp missing-proof, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0028.mp4",
+      "sfx": "debate_murmur",
+      "motion_effect": "ai_video",
+      "duration": 7.72,
+      "source": "Tier3 opinion: Taj Hashmi / Abdullah charges compiled in Taylor & Francis 2024 — framed as critics say (NOT fact)",
+      "courtesy_burnin": "Tier3 opinion: Taj Hashmi / Abdullah charges compiled in Taylor & Francis 2024 — framed as",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 185.28,
+      "timestamp_end": 193,
+      "language_durations": {
+        "bn": 7.72
+      },
+      "claims": [
+        "L21"
+      ]
+    },
+    {
+      "scene_id": 29,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৩৯ সালে শ্রীনিকেতনে তিনি নিজেই বললেন শিলাইদহের দিনগুলোতে গ্রামের দুঃখ দেখে তিনি অস্থির হয়ে উঠেছিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, aged poet recalling riverside youth memories, dissolving to village lanes, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0029.mp4",
+      "sfx": "elderly_recall",
+      "motion_effect": "ai_video",
+      "duration": 7.4,
+      "source": "Tagore 1939 Sriniketan address recalling Shilaidaha restlessness — New Nation / Sriniketan histories (Tier2)",
+      "courtesy_burnin": "Tagore 1939 Sriniketan address recalling Shilaidaha restlessness — New Nation / Sriniketan",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 193,
+      "timestamp_end": 200.4,
+      "language_durations": {
+        "bn": 7.4
+      },
+      "claims": [
+        "L22"
+      ]
+    },
+    {
+      "scene_id": 30,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯০৬ সালে তিনি তিন যুবককে আমেরিকার ইলিনয়ে কৃষি পড়তে পাঠালেন, গ্রামে ফিরে কাজ করবে বলে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1906 steamship leaving, three faceless students with seed bags, Illinois fields ahead, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0030.mp4",
+      "sfx": "ship_departure",
+      "motion_effect": "ai_video",
+      "duration": 7.24,
+      "source": "Uma Das Gupta History of Sriniketan via The Print 2022: Rathi, Nagendranath, Santosh to Univ. of Illinois 1906 (Tier2)",
+      "courtesy_burnin": "Uma Das Gupta History of Sriniketan via The Print 2022: Rathi, Nagendranath, Santosh to Un",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 200.4,
+      "timestamp_end": 207.64,
+      "language_durations": {
+        "bn": 7.24
+      },
+      "claims": [
+        "L23"
+      ]
+    },
+    {
+      "scene_id": 31,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু সবাই ম্যালেরিয়ায় পড়লেন, প্রাথমিক উদ্যোগ সেখানেই থেমে গেল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, marshy Birbhum digging for rail line, mosquito swarm symbolic, workers resting, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0031.mp4",
+      "sfx": "rain_mosquito",
+      "motion_effect": "ai_video",
+      "duration": 4.88,
+      "source": "Uma Das Gupta / Elmhirst diary: workers down with malaria, early attempt stalled (Tier2)",
+      "courtesy_burnin": "Uma Das Gupta / Elmhirst diary: workers down with malaria, early attempt stalled (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 207.64,
+      "timestamp_end": 212.52,
+      "language_durations": {
+        "bn": 4.88
+      },
+      "claims": [
+        "L23"
+      ]
+    },
+    {
+      "scene_id": 32,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ফলে শিলাইদহের অভিজ্ঞতা কবিতায় ফললেও পূর্ববঙ্গের চাষির হাটে-মাঠে ফলেনি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, manuscript pages turning into poems, parallel empty East Bengal market field, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0032.mp4",
+      "sfx": "page_turn_bridge",
+      "motion_effect": "ai_video",
+      "duration": 5.48,
+      "source": "Editorial synthesis (Shilaidaha masterpieces Sonar Tari/Gitanjali vs no East Bengal structural change) — analysis",
+      "courtesy_burnin": "Editorial synthesis (Shilaidaha masterpieces Sonar Tari/Gitanjali vs no East Bengal struct",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 212.52,
+      "timestamp_end": 218,
+      "language_durations": {
+        "bn": 5.48
+      },
+      "claims": [
+        "L20"
+      ]
+    },
+    {
+      "scene_id": 33,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯১১ সালের ১২ ডিসেম্বর বঙ্গভঙ্গ রদ হলো, মুসলমান নেতারা একে গুরুতর অবিচার বললেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1911 Delhi Durbar announcement, Dacca capital lights dimming, protest petitions rising, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0033.mp4",
+      "sfx": "royal_proclamation",
+      "motion_effect": "ai_video",
+      "duration": 7,
+      "source": "Daily Star / TBS 2021: annulment 12 Dec 1911 viewed as grievous wrong; Britannica (Tier1)",
+      "courtesy_burnin": "Daily Star / TBS 2021: annulment 12 Dec 1911 viewed as grievous wrong; Britannica (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 218,
+      "timestamp_end": 225,
+      "language_durations": {
+        "bn": 7
+      },
+      "claims": [
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "scene_id": 34,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯১২ সালের ৩১ জানুয়ারি সলিমুল্লাহ, নবাব আলী চৌধুরী ও ফজলুল হক ঢাকায় হার্ডিঞ্জের কাছে শিক্ষার ক্ষতিপূরণ চাইলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, three faceless Muslim leaders delegation meeting Viceroy Hardinge in Dacca hall, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0034.mp4",
+      "sfx": "meeting_gavel",
+      "motion_effect": "ai_video",
+      "duration": 8.44,
+      "source": "DU official Historical Outline: 31 Jan 1912 deputation demands university (Tier1)",
+      "courtesy_burnin": "DU official Historical Outline: 31 Jan 1912 deputation demands university (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 225,
+      "timestamp_end": 233.44,
+      "language_durations": {
+        "bn": 8.44
+      },
+      "claims": [
+        "L24"
+      ]
+    },
+    {
+      "scene_id": 35,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "২ ফেব্রুয়ারি সরকারি বিজ্ঞপ্তিতে ঢাকায় বিশ্ববিদ্যালয়ের প্রতিশ্রুতি এলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, official communique paper unfolding, Dacca university dome vision rising, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0035.mp4",
+      "sfx": "proclamation_drum",
+      "motion_effect": "ai_video",
+      "duration": 5.4,
+      "source": "Official communique 2 Feb 1912 — DU official history (Tier1)",
+      "courtesy_burnin": "Official communique 2 Feb 1912 — DU official history (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 233.44,
+      "timestamp_end": 238.84,
+      "language_durations": {
+        "bn": 5.4
+      },
+      "claims": [
+        "L25"
+      ]
+    },
+    {
+      "scene_id": 36,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৬ ফেব্রুয়ারি রাসবিহারী ঘোষের নেতৃত্বে হিন্দু জমিদার প্রতিনিধিরা বললেন ঢাকায় বিশ্ববিদ্যালয় হবে অভ্যন্তরীণ বঙ্গভঙ্গ।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, delegation handing memorandum to Viceroy, split-map emblem flashing, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0036.mp4",
+      "sfx": "protest_murmur",
+      "motion_effect": "ai_video",
+      "duration": 8.8,
+      "source": "Daily Star / TBS: 16 Feb 1912 delegation, internal partition of Bengal apprehension (Tier1)",
+      "courtesy_burnin": "Daily Star / TBS: 16 Feb 1912 delegation, internal partition of Bengal apprehension (Tier1",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 238.84,
+      "timestamp_end": 247.64,
+      "language_durations": {
+        "bn": 8.8
+      },
+      "claims": [
+        "L26"
+      ]
+    },
+    {
+      "scene_id": 37,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কলকাতা বিশ্ববিদ্যালয় কমিশনের রেকর্ডে লেখা আছে তাদের যুক্তি ছিল সংখ্যাগরিষ্ঠ চাষি মুসলমানের বিশ্ববিদ্যালয়ে লাভ নেই।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, Archival still, Calcutta University Commission report page excerpt, vintage print, courtesy space, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0037.jpg",
+      "sfx": "ledger_page",
+      "motion_effect": "zoom_in",
+      "duration": 8.12,
+      "source": "Calcutta University Commission report quoted in Daily Star/TBS (Tier1) — presented as their recorded argument",
+      "courtesy_burnin": "Calcutta University Commission report quoted in Daily Star/TBS (Tier1) — presented as thei",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 247.64,
+      "timestamp_end": 255.76,
+      "language_durations": {
+        "bn": 8.12
+      },
+      "claims": [
+        "L27"
+      ]
+    },
+    {
+      "scene_id": 38,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "২৭ মে ১৯১২ তেরো সদস্যের নাথান কমিটি ঢাকা বিশ্ববিদ্যালয়ের পূর্ণ পরিকল্পনা তৈরির দায়িত্ব পেল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, thirteen faceless committee members around table, Dacca plan map unrolling, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0038.mp4",
+      "sfx": "meeting_gavel",
+      "motion_effect": "ai_video",
+      "duration": 6.76,
+      "source": "Resolution 27 May 1912, Robert Nathan committee of 13 — DU official / TBS (Tier1)",
+      "courtesy_burnin": "Resolution 27 May 1912, Robert Nathan committee of 13 — DU official / TBS (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 255.76,
+      "timestamp_end": 262.52,
+      "language_durations": {
+        "bn": 6.76
+      },
+      "claims": [
+        "L28"
+      ]
+    },
+    {
+      "scene_id": 39,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রচলিত বয়ান বলে ২৮ মার্চ গড়ের মাঠে তিনি সভাপতিত্ব করেছিলেন — এই বয়ান পরের বইপত্রে আছে, কিন্তু দলিলে তিনি তখন শিলাইদহে, চিঠিতেই তারিখ।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, Archival still, 1912 dated letter close-up vs meeting-claim stamp unverified, side by side, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0039.jpg",
+      "sfx": "quill_write",
+      "motion_effect": "zoom_in",
+      "duration": 8.64,
+      "source": "Allegation (Gen. Matin narrative) vs alibi: Shilaidaha 24 Mar-12 Apr 1912 letter; Dhaka Tribune 2018 no solid evidence (Tier1-2)",
+      "courtesy_burnin": "Allegation (Gen. Matin narrative) vs alibi: Shilaidaha 24 Mar-12 Apr 1912 letter; Dhaka Tr",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 262.52,
+      "timestamp_end": 271.16,
+      "language_durations": {
+        "bn": 8.64
+      },
+      "claims": [
+        "C17",
+        "C16"
+      ]
+    },
+    {
+      "scene_id": 40,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বিবিসি ও ঢাবি-গবেষকরা বলেন প্রমাণ মেলেনি, তবু বয়ানটি টিকে আছে — অপ্রমাণিত মানেই মিথ্যা প্রমাণিত নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, magnifier over empty archive shelf, no-proof stamp, BBC-Bangla masthead symbolic without text, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0040.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 5.96,
+      "source": "BBC Bangla 1 July 2018 + Prof. Bishwajit Ghose: no proof; Dhaka Tribune 2018 (Tier1)",
+      "courtesy_burnin": "BBC Bangla 1 July 2018 + Prof. Bishwajit Ghose: no proof; Dhaka Tribune 2018 (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 271.16,
+      "timestamp_end": 277.12,
+      "language_durations": {
+        "bn": 5.96
+      },
+      "claims": [
+        "C17"
+      ]
+    },
+    {
+      "scene_id": 41,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রমাণিত বিরোধী হিসেবে নাম আসে আশুতোষ মুখোপাধ্যায় ও সুরেন্দ্রনাথ ব্যানার্জির।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, two archival portraits (PD) with naming captions space, Calcutta University dome behind, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0041.mp4",
+      "sfx": "gavel_hit",
+      "motion_effect": "ai_video",
+      "duration": 6.28,
+      "source": "Syed Abul Maksud book via BBC: Ashutosh + Surendranath named opponents (Tier1-2)",
+      "courtesy_burnin": "Syed Abul Maksud book via BBC: Ashutosh + Surendranath named opponents (Tier1-2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 277.12,
+      "timestamp_end": 283.4,
+      "language_durations": {
+        "bn": 6.28
+      },
+      "claims": [
+        "L32"
+      ]
+    },
+    {
+      "scene_id": 42,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯১৭ সালে স্যাডলার কমিশন পর্যালোচনা করে ১৯১৯ সালে ঢাকা বিশ্ববিদ্যালয়ে সবুজ সংকেত দিলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, commission files review montage, green-signal seal on Dacca plan, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0042.mp4",
+      "sfx": "page_turn",
+      "motion_effect": "ai_video",
+      "duration": 7.52,
+      "source": "Sadler Commission Nov 1917, report Mar 1919 — Daily Star / DU history (Tier1)",
+      "courtesy_burnin": "Sadler Commission Nov 1917, report Mar 1919 — Daily Star / DU history (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 283.4,
+      "timestamp_end": 290.92,
+      "language_durations": {
+        "bn": 7.52
+      },
+      "claims": [
+        "L33"
+      ]
+    },
+    {
+      "scene_id": 43,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯২০ সালের আইন পেরিয়ে ১৯২১ সালের ১ জুলাই হার্টগের উপাচার্যতায় ঢাকা বিশ্ববিদ্যালয় খুলল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, Curzon Hall doors opening, students entering 1921, sunrise over Dacca, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0043.mp4",
+      "sfx": "bell_opening",
+      "motion_effect": "ai_video",
+      "duration": 7.24,
+      "source": "DU Act 1920 (13 Mar 1920), opens 1 July 1921, VC Philip Hartog — DU official (Tier1)",
+      "courtesy_burnin": "DU Act 1920 (13 Mar 1920), opens 1 July 1921, VC Philip Hartog — DU official (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 290.92,
+      "timestamp_end": 298.16,
+      "language_durations": {
+        "bn": 7.24
+      },
+      "claims": [
+        "L34"
+      ]
+    },
+    {
+      "scene_id": 44,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বিরোধী হলে ১৯২৬ সালে ঢাবিতে ভাষণ ও ১৯৩৬ সালে ডি-লিট নিতে তিনি আসতেন না, এটাই পাল্টা দলিল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1926 lecture hall invitation card, 1936 degree conferral stage, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0044.mp4",
+      "sfx": "applause_hall",
+      "motion_effect": "ai_video",
+      "duration": 7.8,
+      "source": "DU 1926 lecture invitation + 1936 D.Litt acceptance (Tier1-2) — acceptance evidence",
+      "courtesy_burnin": "DU 1926 lecture invitation + 1936 D.Litt acceptance (Tier1-2) — acceptance evidence",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 298.16,
+      "timestamp_end": 305.96,
+      "language_durations": {
+        "bn": 7.8
+      },
+      "claims": [
+        "L35"
+      ]
+    },
+    {
+      "scene_id": 45,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পরের পার্টে আসবে শিক্ষা-দারিদ্র্যে প্রকৃত অবদানের মাপ ও জাতীয় সংগীত বিতর্কের দলিল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, Sriniketan fields dissolving into anthem manuscript, bridge glow, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0045.mp4",
+      "sfx": "page_turn_bridge",
+      "motion_effect": "ai_video",
+      "duration": 6.4,
+      "source": "Bridge to Part-3 (Sriniketan 8-village limit + anthem 1905-1972)",
+      "courtesy_burnin": "Bridge to Part-3 (Sriniketan 8-village limit + anthem 1905-1972)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 305.96,
+      "timestamp_end": 312.36,
+      "language_durations": {
+        "bn": 6.4
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 46,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯০১ সালে বাবার পাওয়া বীরভূমের জমিতে তিনি শান্তিনিকেতন স্কুল খুললেন, তোতাপাখির মুখস্থবিদ্যার বিরুদ্ধে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1901 open-air school under trees, faceless boys learning crafts, caged parrot released symbolic, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0046.mp4",
+      "sfx": "school_bell",
+      "motion_effect": "ai_video",
+      "duration": 8.24,
+      "source": "Santiniketan 1901 on paternal estate; Parrot's Training critique — Wikipedia political views / PMC 2021 (Tier1-2)",
+      "courtesy_burnin": "Santiniketan 1901 on paternal estate; Parrot's Training critique — Wikipedia political vie",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 312.36,
+      "timestamp_end": 320.6,
+      "language_durations": {
+        "bn": 8.24
+      },
+      "claims": [
+        "L36"
+      ]
+    },
+    {
+      "scene_id": 47,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯১৪ সালে সুরুলের আটটি গ্রাম নিয়ে পল্লী-পুনর্গঠনের পরীক্ষা শুরু হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1914 Surul eight-village cluster map animating, youth volunteers entering lanes, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0047.mp4",
+      "sfx": "village_morning",
+      "motion_effect": "ai_video",
+      "duration": 6.24,
+      "source": "Sriniketan Project 1914, 8 villages — eagri PDF / PMC 2021 (Tier2)",
+      "courtesy_burnin": "Sriniketan Project 1914, 8 villages — eagri PDF / PMC 2021 (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 320.6,
+      "timestamp_end": 326.84,
+      "language_durations": {
+        "bn": 6.24
+      },
+      "claims": [
+        "L37"
+      ]
+    },
+    {
+      "scene_id": 48,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯২২ সালে এলমহার্স্টের সহায়তায় শ্রীনিকেতন আনুষ্ঠানিক রূপ পেল, গ্রামেই বিশ্ববিদ্যালয়ের বোন-প্রতিষ্ঠান।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1922 Sriniketan founding, Elmhirst-like faceless foreign collaborator with villagers, foundation gathering, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0048.mp4",
+      "sfx": "foundation_stone",
+      "motion_effect": "ai_video",
+      "duration": 7.56,
+      "source": "Sriniketan 1922 with Leonard Elmhirst — Economic Weekly 1952 / The Print 2022 (Tier2)",
+      "courtesy_burnin": "Sriniketan 1922 with Leonard Elmhirst — Economic Weekly 1952 / The Print 2022 (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 326.84,
+      "timestamp_end": 334.4,
+      "language_durations": {
+        "bn": 7.56
+      },
+      "claims": [
+        "L37"
+      ]
+    },
+    {
+      "scene_id": 49,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সেখানে ডেমো খামার, দুগ্ধ-হাঁস-মুরগি ইউনিট আর কৃষি পরীক্ষা চলল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, demonstration farm furrows, dairy cows, poultry, seedling trays, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0049.mp4",
+      "sfx": "farm_animals",
+      "motion_effect": "ai_video",
+      "duration": 5.76,
+      "source": "Sriniketan demo farm dairy poultry, paddy-sugarcane-cotton trials — eagri PDF (Tier2)",
+      "courtesy_burnin": "Sriniketan demo farm dairy poultry, paddy-sugarcane-cotton trials — eagri PDF (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 334.4,
+      "timestamp_end": 340.16,
+      "language_durations": {
+        "bn": 5.76
+      },
+      "claims": [
+        "L38"
+      ]
+    },
+    {
+      "scene_id": 50,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "উন্নত বীজ, ফলের কলম, নতুন জাতের গরু আর কুটিরশিল্প প্রশিক্ষণ দেওয়া হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, seed packets distribution, fruit grafting hands close-up faceless, loom weaving, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0050.mp4",
+      "sfx": "craft_hammer",
+      "motion_effect": "ai_video",
+      "duration": 6.24,
+      "source": "Improved seeds, grafts, cattle breeds, artisan cottage training — eagri PDF (Tier2)",
+      "courtesy_burnin": "Improved seeds, grafts, cattle breeds, artisan cottage training — eagri PDF (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 340.16,
+      "timestamp_end": 346.4,
+      "language_durations": {
+        "bn": 6.24
+      },
+      "claims": [
+        "L38"
+      ]
+    },
+    {
+      "scene_id": 51,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সমবায়, ভ্রাম্যমাণ লাইব্রেরি আর গ্রাম-মেলায় পণ্যের বাজার বসল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, cooperative ledger, bullock-cart library, festive mela stalls with village goods, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0051.mp4",
+      "sfx": "fair_crowd",
+      "motion_effect": "ai_video",
+      "duration": 4.88,
+      "source": "Cooperatives, circulating library, village fairs-markets — Economic Weekly 1952 (Tier2)",
+      "courtesy_burnin": "Cooperatives, circulating library, village fairs-markets — Economic Weekly 1952 (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 346.4,
+      "timestamp_end": 351.28,
+      "language_durations": {
+        "bn": 4.88
+      },
+      "claims": [
+        "L38"
+      ]
+    },
+    {
+      "scene_id": 52,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ব্রতীবালক স্কাউট দল গ্রামে কল্যাণকাজের অনুঘটক হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, faceless boy-girl scout bands marching lanes, cleaning-planting acts, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0052.mp4",
+      "sfx": "scout_drum",
+      "motion_effect": "ai_video",
+      "duration": 4.32,
+      "source": "Bratibalak scouts as catalytic agents — Economic Weekly 1952 (Tier2)",
+      "courtesy_burnin": "Bratibalak scouts as catalytic agents — Economic Weekly 1952 (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 351.28,
+      "timestamp_end": 355.6,
+      "language_durations": {
+        "bn": 4.32
+      },
+      "claims": [
+        "L38"
+      ]
+    },
+    {
+      "scene_id": 53,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তিনি জোর দিলেন গ্রামের ছেলে-মেয়ের শিক্ষায়, তারাই ভবিষ্যৎ জ্ঞান-নেতা হবে বলে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, village girls-boys studying under lamp, midwife-women literacy circle, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0053.mp4",
+      "sfx": "children_study",
+      "motion_effect": "ai_video",
+      "duration": 5.6,
+      "source": "Tagore emphasis on village boys-girls education — NIScPR paper (Tier2)",
+      "courtesy_burnin": "Tagore emphasis on village boys-girls education — NIScPR paper (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 355.6,
+      "timestamp_end": 361.2,
+      "language_durations": {
+        "bn": 5.6
+      },
+      "claims": [
+        "L38"
+      ]
+    },
+    {
+      "scene_id": 54,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু সরকারি সাহায্য মেলেনি, গবেষণা হয়নি, কাজ আট গ্রামেই আটকে রইল, এটাই সমকালীন মূল্যায়ন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, Archival still, typed drawbacks list on aged report paper, eight-village boundary map inset, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0054.jpg",
+      "sfx": "ledger_page",
+      "motion_effect": "zoom_in",
+      "duration": 7.04,
+      "source": "eagri PDF Drawbacks: no govt help, no research, limited to 8 villages (Tier2)",
+      "courtesy_burnin": "eagri PDF Drawbacks: no govt help, no research, limited to 8 villages (Tier2)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 361.2,
+      "timestamp_end": 368.24,
+      "language_durations": {
+        "bn": 7.04
+      },
+      "claims": [
+        "L39"
+      ]
+    },
+    {
+      "scene_id": 55,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "স্বাধীন ভারতের পঞ্চবার্ষিকী পরিকল্পনায় এই মডেলকে কার্যকর পথ হিসেবে নেওয়া হয়েছিল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, plan document stamp, Sriniketan model arrows spreading to districts, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0055.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 6.52,
+      "source": "Post-independence 5-year plan adoption (Jha 1994) via PMC 2021 (Tier2)",
+      "courtesy_burnin": "Post-independence 5-year plan adoption (Jha 1994) via PMC 2021 (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 368.24,
+      "timestamp_end": 374.76,
+      "language_durations": {
+        "bn": 6.52
+      },
+      "claims": [
+        "L40"
+      ]
+    },
+    {
+      "scene_id": 56,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তবু সবই বীরভূম-শান্তিনিকেতনকেন্দ্রিক, ঢাকাকেন্দ্রিক হাসপাতাল-বিশ্ববিদ্যালয়-শিল্প তিনি গড়েননি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, Birbhum glowing hub, Dacca side dim with absent hospital-university silhouettes, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0056.mp4",
+      "sfx": "wind_paddy_soft",
+      "motion_effect": "ai_video",
+      "duration": 7.36,
+      "source": "Editorial synthesis: Sriniketan geography vs no Dhaka-centric institution — analysis",
+      "courtesy_burnin": "Editorial synthesis: Sriniketan geography vs no Dhaka-centric institution — analysis",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 374.76,
+      "timestamp_end": 382.12,
+      "language_durations": {
+        "bn": 7.36
+      },
+      "claims": [
+        "L41"
+      ]
+    },
+    {
+      "scene_id": 57,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "অর্থাৎ সাহিত্যে তিনি বিশ্বকবি, কিন্তু পূর্ববঙ্গের লাইফস্টাইল-নির্মাতা নন, মাপ এটাই।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, giant quill writing poems dividing into books, parallel untouched plough-field, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0057.mp4",
+      "sfx": "page_turn_bridge",
+      "motion_effect": "ai_video",
+      "duration": 7.16,
+      "source": "Verdict synthesis (literary giant vs no East Bengal structural transformation) — analysis",
+      "courtesy_burnin": "Verdict synthesis (literary giant vs no East Bengal structural transformation) — analysis",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 382.12,
+      "timestamp_end": 389.28,
+      "language_durations": {
+        "bn": 7.16
+      },
+      "claims": [
+        "L41"
+      ]
+    },
+    {
+      "scene_id": 58,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৪১ সালে তার মৃত্যু হয়, তাই ১৯৪৭ বা ১৯৭১-এর পক্ষ-বিপক্ষে তিনি সরাসরি ছিলেন না।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1941 memorial timeline ending, 1947-1971 dates greyed beyond, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0058.mp4",
+      "sfx": "memorial_bell",
+      "motion_effect": "ai_video",
+      "duration": 7.32,
+      "source": "Death 7 Aug 1941 — Britannica biography (Tier1); 1947/71 non-involvement inference",
+      "courtesy_burnin": "Death 7 Aug 1941 — Britannica biography (Tier1); 1947/71 non-involvement inference",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 389.28,
+      "timestamp_end": 396.6,
+      "language_durations": {
+        "bn": 7.32
+      },
+      "claims": [
+        "L42"
+      ]
+    },
+    {
+      "scene_id": 59,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯০৫ সালে লেখা গানের প্রথম দশ লাইনই পরে বাংলাদেশের জাতীয় সংগীত হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, manuscript ten lines illuminating, rest dimming, flag rising behind, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0059.mp4",
+      "sfx": "song_hum_soft",
+      "motion_effect": "ai_video",
+      "duration": 5.2,
+      "source": "First 10 of 25 lines adopted — Nationalia / Wikipedia Amar Sonar Bangla (Tier1-2)",
+      "courtesy_burnin": "First 10 of 25 lines adopted — Nationalia / Wikipedia Amar Sonar Bangla (Tier1-2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 396.6,
+      "timestamp_end": 401.8,
+      "language_durations": {
+        "bn": 5.2
+      },
+      "claims": [
+        "L43"
+      ]
+    },
+    {
+      "scene_id": 60,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সুর নেওয়া গগন হরকরার আমি কোথায় পাব তারে গান থেকে, বাউল মাটির সুর।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, faceless baul singing, tune notes flowing into poet manuscript, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0060.mp4",
+      "sfx": "ektara_pluck",
+      "motion_effect": "ai_video",
+      "duration": 5.6,
+      "source": "Tune from Gagan Harkara Ami Kothay Pabo Tare — Britannica Kids (Tier1)",
+      "courtesy_burnin": "Tune from Gagan Harkara Ami Kothay Pabo Tare — Britannica Kids (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 401.8,
+      "timestamp_end": 407.4,
+      "language_durations": {
+        "bn": 5.6
+      },
+      "claims": [
+        "L13"
+      ]
+    },
+    {
+      "scene_id": 61,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "গানে ধর্ম, সরকার বা সেনাশক্তির উল্লেখ নেই, শুধু বাংলার প্রকৃতি, বিশ্বে এটাই বিরল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, Archival still, anthem text close-up nature words highlighted, paddy-banyan-river collage border, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0061.jpg",
+      "sfx": "wind_paddy_soft",
+      "motion_effect": "zoom_in",
+      "duration": 7.08,
+      "source": "Nationalia analysis: no religion/govt/military, only natural beauty (Tier2)",
+      "courtesy_burnin": "Nationalia analysis: no religion/govt/military, only natural beauty (Tier2)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 407.4,
+      "timestamp_end": 414.48,
+      "language_durations": {
+        "bn": 7.08
+      },
+      "claims": [
+        "L44"
+      ]
+    },
+    {
+      "scene_id": 62,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ষাটের দশকে পূর্ব পাকিস্তান রেডিও-টিভিতে রবীন্দ্রসংগীত নিষিদ্ধ হলো, মানুষ প্রতিরোধ করল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, radio set silenced with ban tape, crowd hands tuning back, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0062.mp4",
+      "sfx": "radio_static",
+      "motion_effect": "ai_video",
+      "duration": 6.32,
+      "source": "1960s East Pakistan radio-TV Tagore ban resisted — Daily Star/Anisuzzaman (Tier2)",
+      "courtesy_burnin": "1960s East Pakistan radio-TV Tagore ban resisted — Daily Star/Anisuzzaman (Tier2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 414.48,
+      "timestamp_end": 420.8,
+      "language_durations": {
+        "bn": 6.32
+      },
+      "claims": [
+        "L45"
+      ]
+    },
+    {
+      "scene_id": 63,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৭১ সালে আমার সোনার বাংলা প্রতিটি বাঙালির মনে বাজল, মুক্তিযুদ্ধের সুর হয়ে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1971 march columns singing, song waves over delta, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0063.mp4",
+      "sfx": "march_chant_soft",
+      "motion_effect": "ai_video",
+      "duration": 7.04,
+      "source": "1971 rallying point; tune in every Bengali mind — Britannica / Daily Star (Tier1-2)",
+      "courtesy_burnin": "1971 rallying point; tune in every Bengali mind — Britannica / Daily Star (Tier1-2)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 420.8,
+      "timestamp_end": 427.84,
+      "language_durations": {
+        "bn": 7.04
+      },
+      "claims": [
+        "L46"
+      ]
+    },
+    {
+      "scene_id": 64,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৭২ সালে সংবিধানের ৪(১) অনুচ্ছেদে এটি জাতীয় সংগীত হলো।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, constitution book opening article page glowing, anthem lines sealing, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0064.mp4",
+      "sfx": "gavel_hit",
+      "motion_effect": "ai_video",
+      "duration": 4.88,
+      "source": "Adopted 1972 Constitution Art 4.1 — Britannica Tagore biography (Tier1)",
+      "courtesy_burnin": "Adopted 1972 Constitution Art 4.1 — Britannica Tagore biography (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 427.84,
+      "timestamp_end": 432.72,
+      "language_durations": {
+        "bn": 4.88
+      },
+      "claims": [
+        "L46"
+      ]
+    },
+    {
+      "scene_id": 65,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তিনিই একমাত্র ব্যক্তি যিনি দুই দেশের জাতীয় সংগীত লিখেছেন, ভারত ও বাংলাদেশের।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, two flags India-Bangladesh rising from one quill, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0065.mp4",
+      "sfx": "anthem_dual",
+      "motion_effect": "ai_video",
+      "duration": 5.76,
+      "source": "Only person with two anthems: Jana Gana Mana + Amar Sonar Bangla — Britannica (Tier1)",
+      "courtesy_burnin": "Only person with two anthems: Jana Gana Mana + Amar Sonar Bangla — Britannica (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 432.72,
+      "timestamp_end": 438.48,
+      "language_durations": {
+        "bn": 5.76
+      },
+      "claims": [
+        "L47"
+      ]
+    },
+    {
+      "scene_id": 66,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সমালোচকরা বলেন ১৯০৫-এর গান স্বাধীন বাংলাদেশের চেতনা ধারণ করে না, এটি মতামত হিসেবেই থাক।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, debate stage faceless critics vs defenders, anthem pages center, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0066.mp4",
+      "sfx": "debate_murmur",
+      "motion_effect": "ai_video",
+      "duration": 7.32,
+      "source": "Tier3: Jaya Chatterjee 1995 breath claim; Mufassil Islam charge; Nobel-singer 2018; Azmi 2024 replacement call — Wikipedia compiled",
+      "courtesy_burnin": "Tier3: Jaya Chatterjee 1995 breath claim; Mufassil Islam charge; Nobel-singer 2018; Azmi 2",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 438.48,
+      "timestamp_end": 445.8,
+      "language_durations": {
+        "bn": 7.32
+      },
+      "claims": [
+        "L48"
+      ]
+    },
+    {
+      "scene_id": 67,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সত্য দুটোই একসাথে, গানের জন্ম ১৯০৫-এর বিরোধিতায়, আর ১৯৭১-এ জনগণ একে নিজের করে নিয়েছে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, 1905 ink merging into 1971 crowd voices, single golden line, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0067.mp4",
+      "sfx": "anthem_full_soft",
+      "motion_effect": "ai_video",
+      "duration": 7.72,
+      "source": "Synthesis: 1905 origin (Britannica Kids) + 1971 appropriation (Daily Star) — analysis",
+      "courtesy_burnin": "Synthesis: 1905 origin (Britannica Kids) + 1971 appropriation (Daily Star) — analysis",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 445.8,
+      "timestamp_end": 453.52,
+      "language_durations": {
+        "bn": 7.72
+      },
+      "claims": [
+        "L49"
+      ]
+    },
+    {
+      "scene_id": 68,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "রায় স্পষ্ট, ১৯০৫-এ তিনি পূর্ববঙ্গের আলাদা বিকাশের বিপক্ষে ছিলেন, এটা প্রমাণিত।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, verdict scale track A weighing Rakhi-songs-meetings evidence, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0068.mp4",
+      "sfx": "gavel_hit",
+      "motion_effect": "ai_video",
+      "duration": 6.72,
+      "source": "Verdict track A: anti-partition role — Indian Express / Britannica (Tier1)",
+      "courtesy_burnin": "Verdict track A: anti-partition role — Indian Express / Britannica (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 453.52,
+      "timestamp_end": 460.24,
+      "language_durations": {
+        "bn": 6.72
+      },
+      "claims": [
+        "L50"
+      ]
+    },
+    {
+      "scene_id": 69,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আর ঢাবি-বিরোধিতার বয়ানটির দলিল মেলেনি — উৎস আছে, প্রমাণ নেই, এটাই সৎ অবস্থান।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, verdict scale track B empty evidence tray, alibi letter anchor, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0069.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 3.52,
+      "source": "Verdict track B: DU allegation unproven — BBC / Dhaka Tribune / alibi letter (Tier1)",
+      "courtesy_burnin": "Verdict track B: DU allegation unproven — BBC / Dhaka Tribune / alibi letter (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 460.24,
+      "timestamp_end": 463.76,
+      "language_durations": {
+        "bn": 3.52
+      },
+      "claims": [
+        "C17"
+      ]
+    },
+    {
+      "scene_id": 70,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বাংলাদেশের দর্শক এবার দলিল হাতে নিজেই বিচার করুক, আবেগে নয় প্রমাণে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dynamic 2D documentary motion, faceless Bangladeshi family audience receiving dossier files, lamp of proof lighting, 24fps, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0070.mp4",
+      "sfx": "page_turn_bridge",
+      "motion_effect": "ai_video",
+      "duration": 5.48,
+      "source": "Bridge to finale: viewer-verdict framing (editorial, no new claim)",
+      "courtesy_burnin": "Bridge to finale: viewer-verdict framing (editorial, no new claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 463.76,
+      "timestamp_end": 469.24,
+      "language_durations": {
+        "bn": 5.48
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 71,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "সাত চ্যাপ্টার, সত্তরটি দলিলি শট পেরিয়ে এবার চূড়ান্ত রায়ের সময়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, elderly male Time Chronicler closing ledger of seventy seals, seven chapter tabs glowing, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0071.mp4",
+      "sfx": "gavel_hit",
+      "motion_effect": "ai_video",
+      "duration": 4.56,
+      "source": "Recap: dossier v2 + 70 shots ledger (editorial, no new claim)",
+      "courtesy_burnin": "Recap: dossier v2 + 70 shots ledger (editorial, no new claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 469.24,
+      "timestamp_end": 473.8,
+      "language_durations": {
+        "bn": 4.56
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 72,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রমাণিত এক, ১৯০৫ সালে তিনি ঢাকার রাজধানীর বিপক্ষে প্রকাশ্যে দাঁড়িয়েছিলেন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, three evidence seals stamping: meeting, rakhi thread, song manuscript, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0072.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 6.52,
+      "source": "Verdict A1: anti-partition meetings + Rakhi + songs — Indian Express / Britannica (Tier1)",
+      "courtesy_burnin": "Verdict A1: anti-partition meetings + Rakhi + songs — Indian Express / Britannica (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 473.8,
+      "timestamp_end": 480.32,
+      "language_durations": {
+        "bn": 6.52
+      },
+      "claims": [
+        "L09",
+        "L13"
+      ]
+    },
+    {
+      "scene_id": 73,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রমাণিত দুই, সেই বিরোধিতার ফলে ১৯১১ সালে ঢাকা রাজধানী হারিয়েছিল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, capital crown lifting off Dacca map, 1911 proclamation behind, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0073.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 5.64,
+      "source": "Verdict A2: annulment 12 Dec 1911 consequence — Britannica / Daily Star (Tier1)",
+      "courtesy_burnin": "Verdict A2: annulment 12 Dec 1911 consequence — Britannica / Daily Star (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 480.32,
+      "timestamp_end": 485.96,
+      "language_durations": {
+        "bn": 5.64
+      },
+      "claims": [
+        "L15"
+      ]
+    },
+    {
+      "scene_id": 74,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রমাণিত তিন, পূর্ববঙ্গের জন্য তিনি ঢাকাকেন্দ্রিক কোনো বিশ্ববিদ্যালয় বা হাসপাতাল গড়েননি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, absent domes outlines over Dacca, glowing small Sriniketan hub far west, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0074.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 6.88,
+      "source": "Verdict A3: no Dhaka-centric institution; work Birbhum-limited — eagri/EPW synthesis (Tier2)",
+      "courtesy_burnin": "Verdict A3: no Dhaka-centric institution; work Birbhum-limited — eagri/EPW synthesis (Tier",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 485.96,
+      "timestamp_end": 492.84,
+      "language_durations": {
+        "bn": 6.88
+      },
+      "claims": [
+        "L41"
+      ]
+    },
+    {
+      "scene_id": 75,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বয়ান এক — ১৯১২ গড়ের মাঠে সভাপতিত্ব: উৎস পরের বইপত্র, দলিল নেই, শিলাইদহ চিঠি উল্টো কথা বলে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, claim paper stamped unverified, alibi letter anchoring opposite, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0075.mp4",
+      "sfx": "stamp_rejected",
+      "motion_effect": "ai_video",
+      "duration": 7,
+      "source": "Rejected R1: Garer Math claim vs 24 Mar-12 Apr Shilaidaha letter — Dhaka Tribune 2018 (Tier1)",
+      "courtesy_burnin": "Rejected R1: Garer Math claim vs 24 Mar-12 Apr Shilaidaha letter — Dhaka Tribune 2018 (Tie",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 492.84,
+      "timestamp_end": 499.84,
+      "language_durations": {
+        "bn": 7
+      },
+      "claims": [
+        "C17",
+        "C16"
+      ]
+    },
+    {
+      "scene_id": 76,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বয়ান দুই — মূর্খের দেশে উক্তি: ফ্যাক্ট-ওয়াচসহ বহু পেজে আছে, কিন্তু প্রাথমিক উৎস নেই, বয়ান হিসেবেই থাক।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, quote bubble dissolving into empty archive shelf, zero-source meter, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0076.mp4",
+      "sfx": "stamp_rejected",
+      "motion_effect": "ai_video",
+      "duration": 6.28,
+      "source": "Rejected R2: insult quote zero primary source — BBC/Bishwajit Ghose no proof (Tier4)",
+      "courtesy_burnin": "Rejected R2: insult quote zero primary source — BBC/Bishwajit Ghose no proof (Tier4)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 499.84,
+      "timestamp_end": 506.12,
+      "language_durations": {
+        "bn": 6.28
+      },
+      "claims": [
+        "C19"
+      ]
+    },
+    {
+      "scene_id": 77,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সংশোধন তিন, ১৯৪১ সালে মৃত্যুর কারণে ১৯৪৭ বা ১৯৭১-এ তার সরাসরি ভূমিকা ছিল না।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, 1941 timeline end wall, 1947-1971 dates beyond wall greyed, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0077.mp4",
+      "sfx": "memorial_bell",
+      "motion_effect": "ai_video",
+      "duration": 7.92,
+      "source": "Correction: death 7 Aug 1941 — Britannica (Tier1)",
+      "courtesy_burnin": "Correction: death 7 Aug 1941 — Britannica (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 506.12,
+      "timestamp_end": 514.04,
+      "language_durations": {
+        "bn": 7.92
+      },
+      "claims": [
+        "L42"
+      ]
+    },
+    {
+      "scene_id": 78,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আর সংগীত-সত্য দুটোই, জন্ম ১৯০৫-এর বিরোধিতায়, পুনর্জন্ম ১৯৭১-এ জনগণের কণ্ঠে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, 1905 ink flowing into 1971 crowd throats, single anthem ribbon, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0078.mp4",
+      "sfx": "anthem_full_soft",
+      "motion_effect": "ai_video",
+      "duration": 7.24,
+      "source": "Dual truth: 1905 origin + 1971 appropriation + 1972 Art 4.1 (Tier1)",
+      "courtesy_burnin": "Dual truth: 1905 origin + 1971 appropriation + 1972 Art 4.1 (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 514.04,
+      "timestamp_end": 521.28,
+      "language_durations": {
+        "bn": 7.24
+      },
+      "claims": [
+        "L49"
+      ]
+    },
+    {
+      "scene_id": 79,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রমাণের তালিকা খোলা, ব্রিটানিকা, ঢাকা বিশ্ববিদ্যালয় আর্কাইভ, কমিশন রিপোর্ট, ইপিডব্লিউ সংখ্যা।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, typed Tier1 source roll on dossier paper, five seals in column, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0079.jpg",
+      "sfx": "ledger_page",
+      "motion_effect": "zoom_in",
+      "duration": 7,
+      "source": "Tier1 roll: Britannica / DU official / Calcutta Univ Commission / EPW 2014 / Indian Express dates",
+      "courtesy_burnin": "Tier1 roll: Britannica / DU official / Calcutta Univ Commission / EPW 2014 / Indian Expres",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 521.28,
+      "timestamp_end": 528.28,
+      "language_durations": {
+        "bn": 7
+      },
+      "claims": [
+        "R5"
+      ]
+    },
+    {
+      "scene_id": 80,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বয়ানের তালিকাও খোলা — গড়ের মাঠ, অপমান-উক্তি, ১৯৭১-বিরোধিতা: উৎস আছে, দলিল নেই, মিথ্যাও প্রমাণিত নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Archival still, typed rejected-claims list with red unverified stamps, dossier paper, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/shot_0080.jpg",
+      "sfx": "ledger_page",
+      "motion_effect": "zoom_in",
+      "duration": 10.32,
+      "source": "Tier4 rejected roll: three claims with zero primary source (method transparency)",
+      "courtesy_burnin": "Tier4 rejected roll: three claims with zero primary source (method transparency)",
+      "video_origin": "DOCUMENT_LEGIBILITY_STATIC",
+      "timestamp_start": 528.28,
+      "timestamp_end": 538.6,
+      "language_durations": {
+        "bn": 10.32
+      },
+      "claims": [
+        "C17",
+        "C19",
+        "C32"
+      ]
+    },
+    {
+      "scene_id": 81,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ছবি-ঋণও খোলা, উইকিমিডিয়া, ব্রিটিশ লাইব্রেরি, ঢাবি আর্কাইভ, বাংলাপিডিয়া, প্রতিটি ফ্রেমে কার্টেসি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, four archive logos wall with courtesy ribbons, frames montage, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0081.mp4",
+      "sfx": "page_turn",
+      "motion_effect": "ai_video",
+      "duration": 8.56,
+      "source": "Courtesy roll: Wikimedia PD / British Library PD / DU Archive / Banglapedia CC-BY",
+      "courtesy_burnin": "Courtesy roll: Wikimedia PD / British Library PD / DU Archive / Banglapedia CC-BY",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 538.6,
+      "timestamp_end": 547.16,
+      "language_durations": {
+        "bn": 8.56
+      },
+      "claims": [
+        "R4"
+      ]
+    },
+    {
+      "scene_id": 82,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "যেখানে আসল ফুটেজ নেই, সেখানে এআই পুনর্নির্মাণ ব্যবহার হয়েছে, আর্কাইভাল বলে চালানো হয়নি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, AI-recreation watermark stamp pressing on symbolic scenes, archival frames untouched, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0082.mp4",
+      "sfx": "stamp_verified",
+      "motion_effect": "ai_video",
+      "duration": 6.88,
+      "source": "AI disclosure: recreations marked video_origin, never as archival (policy)",
+      "courtesy_burnin": "AI disclosure: recreations marked video_origin, never as archival (policy)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 547.16,
+      "timestamp_end": 554.04,
+      "language_durations": {
+        "bn": 6.88
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 83,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পদ্ধতি একটাই ছিল, বাংলাদেশের পক্ষে দাঁড়িয়ে সত্য বলা, বানিয়ে নয়, লুকিয়েও নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, lamp of proof between Bangladesh flag and dossier scales balanced, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0083.mp4",
+      "sfx": "lamp_light",
+      "motion_effect": "ai_video",
+      "duration": 6.08,
+      "source": "Method: pro-Bangladesh + truth, no fabrication no concealment (editorial)",
+      "courtesy_burnin": "Method: pro-Bangladesh + truth, no fabrication no concealment (editorial)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 554.04,
+      "timestamp_end": 560.12,
+      "language_durations": {
+        "bn": 6.08
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 84,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ঢাকার যাত্রা দেখুন, ১৯০৫-এ রাজধানী, ১৯১১-এ হারানো, ১৯২১-এ বিশ্ববিদ্যালয় ফিরে পাওয়া।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, Dacca timeline road: crown, crown falling, university dome rising, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0084.mp4",
+      "sfx": "timeline_whoosh",
+      "motion_effect": "ai_video",
+      "duration": 7.48,
+      "source": "Dhaka arc 1905-1911-1921 — Britannica + DU official (Tier1)",
+      "courtesy_burnin": "Dhaka arc 1905-1911-1921 — Britannica + DU official (Tier1)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 560.12,
+      "timestamp_end": 567.6,
+      "language_durations": {
+        "bn": 7.48
+      },
+      "claims": [
+        "L04",
+        "L15",
+        "L34"
+      ]
+    },
+    {
+      "scene_id": 85,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৪৭ থেকে ১৯৭১ লড়েছেন বাংলাদেশিরাই, ভাষা, ভোট আর বুলেটের সামনে বুক পেতে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, language march, ballot box, 1971 column silhouettes faceless, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0085.mp4",
+      "sfx": "march_chant_soft",
+      "motion_effect": "ai_video",
+      "duration": 8.28,
+      "source": "1947-71 struggle agency of Bangladeshis (general history framing, no new Tagore claim)",
+      "courtesy_burnin": "1947-71 struggle agency of Bangladeshis (general history framing, no new Tagore claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 567.6,
+      "timestamp_end": 575.88,
+      "language_durations": {
+        "bn": 8.28
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 86,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আজকের ঢাবি, হাসপাতাল, সাক্ষরতা গড়েছেন বাংলাদেশিরাই, এই কৃতিত্ব কারও ধার করা নয়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, modern Dacca skyline rising: university, hospital, schools lights, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0086.mp4",
+      "sfx": "city_rise",
+      "motion_effect": "ai_video",
+      "duration": 6.64,
+      "source": "Present progress credited to Bangladeshis (editorial pride, no external claim)",
+      "courtesy_burnin": "Present progress credited to Bangladeshis (editorial pride, no external claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 575.88,
+      "timestamp_end": 582.52,
+      "language_durations": {
+        "bn": 6.64
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 87,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "রবীন্দ্র-সাহিত্যের সম্মান থাকবে, কিন্তু উন্নয়নের কৃতিত্ব যাবে জনগণের ঘরে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, books shelf bowing to farmer-teacher-doctor faceless trio, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0087.mp4",
+      "sfx": "page_turn",
+      "motion_effect": "ai_video",
+      "duration": 5.16,
+      "source": "Closing balance: literary respect + development credit to people (editorial)",
+      "courtesy_burnin": "Closing balance: literary respect + development credit to people (editorial)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 582.52,
+      "timestamp_end": 587.68,
+      "language_durations": {
+        "bn": 5.16
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 88,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তাই আবেগে নয়, দলিলে বিচার করুন, আর পরের প্রজন্মকে দলিলটাই দিয়ে যান।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, parent handing dossier to child, lamp passing hands, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0088.mp4",
+      "sfx": "lamp_light",
+      "motion_effect": "ai_video",
+      "duration": 6.08,
+      "source": "Call: judge by documents (editorial)",
+      "courtesy_burnin": "Call: judge by documents (editorial)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 587.68,
+      "timestamp_end": 593.76,
+      "language_durations": {
+        "bn": 6.08
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 89,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পরের পর্বে আসবে সলিমুল্লাহ, নবাব আলী ও ফজলুল হকের ঢাকা বিশ্ববিদ্যালয় গড়ার পূর্ণ দলিল।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, three founder portraits frames veiled, coming-soon glow, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0089.mp4",
+      "sfx": "teaser_drum",
+      "motion_effect": "ai_video",
+      "duration": 6.12,
+      "source": "Next episode teaser: DU founders deep dive (announced, not yet produced)",
+      "courtesy_burnin": "Next episode teaser: DU founders deep dive (announced, not yet produced)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 593.76,
+      "timestamp_end": 599.88,
+      "language_durations": {
+        "bn": 6.12
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 90,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মন্তব্যে লিখুন আপনার রায়, প্রমাণিত অংশ মানেন, খারিজ অংশ নিয়ে প্রশ্ন আছে কি।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, comment box with scales icon, faceless hands typing, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0090.mp4",
+      "sfx": "comment_pop",
+      "motion_effect": "ai_video",
+      "duration": 6.52,
+      "source": "Engagement: viewer verdict question (no claim)",
+      "courtesy_burnin": "Engagement: viewer verdict question (no claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 599.88,
+      "timestamp_end": 606.4,
+      "language_durations": {
+        "bn": 6.52
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 91,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সিম্পল হিস্ট্রি টেলার বাংলাকে সাবস্ক্রাইব করুন, দলিলি ইতিহাসের পরের পর্ব মিস হবে না।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, channel name board Simple History Teller Bangla, subscribe button glow, Time Chronicler pointing, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0091.mp4",
+      "sfx": "bell_subscribe",
+      "motion_effect": "ai_video",
+      "duration": 5.32,
+      "source": "CTA subscribe Simple History Teller Bangla (branding exact)",
+      "courtesy_burnin": "CTA subscribe Simple History Teller Bangla (branding exact)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 606.4,
+      "timestamp_end": 611.72,
+      "language_durations": {
+        "bn": 5.32
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 92,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "লাইক আর শেয়ার করুন, যাতে এই ডসিয়ার প্রতিটি শ্রেণিকক্ষে পৌঁছায়।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, dossier files flying to classrooms across delta map, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0092.mp4",
+      "sfx": "share_whoosh",
+      "motion_effect": "ai_video",
+      "duration": 4.84,
+      "source": "CTA like-share for dossier reach (no claim)",
+      "courtesy_burnin": "CTA like-share for dossier reach (no claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 611.72,
+      "timestamp_end": 616.56,
+      "language_durations": {
+        "bn": 4.84
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 93,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আমি সময়ের সাক্ষী বলছি, সত্যের পক্ষ নিন, বাকিটা সময় নিজেই মনে রাখবে।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, elderly male Time Chronicler closing glowing journal, library portal dimming, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0093.mp4",
+      "sfx": "portal_mystic_whoosh",
+      "motion_effect": "ai_video",
+      "duration": 5.68,
+      "source": "Host closing line (restrained epic, 1 allowed) — editorial",
+      "courtesy_burnin": "Host closing line (restrained epic, 1 allowed) — editorial",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 616.56,
+      "timestamp_end": 622.24,
+      "language_durations": {
+        "bn": 5.68
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 94,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯০৫ থেকে ১৯৭২, ঢাকার এই পথই মনে রাখুন, এটাই আমাদের আসল উত্তরাধিকার।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, rapid timeline flash: map, rakhi, Durbar, Curzon Hall, 1971 march, constitution, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0094.mp4",
+      "sfx": "timeline_whoosh",
+      "motion_effect": "ai_video",
+      "duration": 6.88,
+      "source": "Timeline flash 1905-1972 recap (no new claim)",
+      "courtesy_burnin": "Timeline flash 1905-1972 recap (no new claim)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 622.24,
+      "timestamp_end": 629.12,
+      "language_durations": {
+        "bn": 6.88
+      },
+      "claims": []
+    },
+    {
+      "scene_id": 95,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "পরের দলিল নিয়ে ফিরছি, ততদিন প্রমাণ হাতে রাখুন, সিম্পল হিস্ট্রি টেলার বাংলার সঙ্গেই থাকুন।",
+        "en": "(BN only — pending)",
+        "hi": "(BN only — pending)"
+      },
+      "visual_prompt": "Dynamic 2D documentary motion, elderly male Time Chronicler waving from closing portal, subscribe emblem glow, cosmic library fade, 16:9. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/clip_shot_0095.mp4",
+      "sfx": "outro_anthem_soft",
+      "motion_effect": "ai_video",
+      "duration": 6.64,
+      "source": "Mandatory dynamic outro CTA (within video quota)",
+      "courtesy_burnin": "Mandatory dynamic outro CTA (within video quota)",
+      "video_origin": "AI_GENERATED_VIDEO",
+      "timestamp_start": 629.12,
+      "timestamp_end": 635.76,
+      "language_durations": {
+        "bn": 6.64
+      },
+      "claims": []
+    }
+  ],
+  "style_preset": "PRESET_SIMPLE_HISTORY",
+  "target_duration_seconds": 950,
+  "total_duration_seconds": 635.76,
+  "visual_policy": "VIDEO-FIRST (special documentary): real footage>archival still-to-video>AI video>AI image. No 20pct cap. Every scene carries source+courtesy burn-in. AI marked as recreation, never as archival.",
+  "asset_rule": "VIDEO if exists (or still-to-video Ken Burns mp4) else IMAGE else AI. Static only for document legibility (shots 4,6,15)."
+}

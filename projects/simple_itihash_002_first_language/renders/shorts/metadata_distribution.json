@@ -1,0 +1,51 @@
+{
+  "project": "simple_itihash_002_first_language",
+  "generatedAt": "2026-10-10T11:59:43.911Z",
+  "distributionPlan": {
+    "longForm": [
+      "YouTube (Full Landscape 16:9)",
+      "Facebook In-Stream Video (Full Landscape 16:9)"
+    ],
+    "shortForm": [
+      "TikTok (9:16 Vertical)",
+      "Instagram Reels (9:16 Vertical)",
+      "YouTube Shorts (9:16 Vertical)",
+      "Facebook Reels (9:16 Vertical)"
+    ]
+  },
+  "parts": [
+    {
+      "lang": "bn",
+      "part": 1,
+      "filename": "short_bn_part1.mp4",
+      "duration": 78.4,
+      "title": "Historical Mystery [পর্ব 1]",
+      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 1] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "🔥 Historical Mystery [পর্ব 1]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "Historical Mystery [পর্ব 1] 🏛️ #Shorts #History",
+      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 2,
+      "filename": "short_bn_part2.mp4",
+      "duration": 73.4,
+      "title": "Historical Mystery [পর্ব 2]",
+      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 2] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "🔥 Historical Mystery [পর্ব 2]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "Historical Mystery [পর্ব 2] 🏛️ #Shorts #History",
+      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 3,
+      "filename": "short_bn_part3.mp4",
+      "duration": 46.2,
+      "title": "Historical Mystery [পর্ব 3]",
+      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 3] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "🔥 Historical Mystery [পর্ব 3]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "Historical Mystery [পর্ব 3] 🏛️ #Shorts #History",
+      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+    }
+  ]
+}

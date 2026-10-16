@@ -1,0 +1,198 @@
+================================================================================
+GOOGLE FLOW / AI STUDIO 1K IMAGE GENERATION BATCH PROMPTS
+Style: PRESET_STICKY_MEME (OverSimplified Historical Satire)
+Aspect Ratio: 16:9 | Resolution: 1K Widescreen (1376x768)
+Master System Prompt Anchor: Bold 5px outlines, egg-shaped white heads, 2D flat vector
+================================================================================
+
+### Scene 2 (12s) -> visual_assets/scene_0002.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, modern stickman in blue shirt paying a pile of tax coins to an imposing government bureaucrat behind a wooden desk, 16:9 widescreen comic art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 3 (11.5s) -> visual_assets/scene_0003.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an empty golden throne sitting abandoned on top of a lonely dusty hill under a wide blue sky with a broken stone crown on the grass. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 4 (12.5s) -> visual_assets/scene_0004.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, prehistoric hunter-gatherer stickmen in animal hides walking peacefully in a single horizontal line across an African savannah at sunset. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 5 (12s) -> visual_assets/scene_0005.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, two stickman cavemen shrugging playfully at each other in a sunny clearing while sharing wild berries from a wooden bowl. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 7 (11s) -> visual_assets/scene_0007.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a large circle of smiling cartoon stick figures pointing fingers at a single red-faced, embarrassed muscular hunter. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 8 (13s) -> visual_assets/scene_0008.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an oversized cartoon diagram showing ten small stick figures holding hands forming a fortress around one defeated bully sitting on the floor. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 9 (11.5s) -> visual_assets/scene_0009.jpg
+The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) pointing his finger toward an ancient stone map etched on a wooden easel, eyebrow arched in intrigue, warm library glow. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 10 (12s) -> visual_assets/scene_0010.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a panoramic cartoon view of the vast red sand dunes of the Kalahari desert under a scorching golden sun, small acacia trees. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 11 (12.5s) -> visual_assets/scene_0011.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, cartoon cave hunters sitting around a cooking pot while examining a giant piece of roasted meat on sticks. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 13 (11.5s) -> visual_assets/scene_0013.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an elderly wrinkled stickman elder poking a massive woolly carcass with a stick and making a disgusted comical face. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 14 (12.5s) -> visual_assets/scene_0014.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a confused cartoon modern explorer with spectacles and a safari hat standing next to a giant prize black ox while tribesmen chuckle. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 15 (13s) -> visual_assets/scene_0015.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a wise cartoon elder sitting cross-legged by a tiny fire, gently gesturing with two hands toward the explorer. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 16 (11.5s) -> visual_assets/scene_0016.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a dramatic cartoon thought bubble showing a stickman bully hitting another stickman with a wooden club, red warning tint. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 17 (12.5s) -> visual_assets/scene_0017.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon stickman hunter holding a magnifying glass inspecting a tiny comical red crown crawling like a bug on the sand. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 19 (11s) -> visual_assets/scene_0019.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon stone wall cracking into large jagged pieces, revealing distant lush green wheat valleys under a golden dawn. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 20 (12s) -> visual_assets/scene_0020.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, melting ice sheet dripping water onto green sprouts while a cartoon sun beams down warmly. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 21 (11.5s) -> visual_assets/scene_0021.jpg
+The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) leaning on an ancient wooden lectern holding up a stalk of wild golden wheat, smiling ironically at the camera. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 22 (12.5s) -> visual_assets/scene_0022.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique cartoon map of the Fertile Crescent highlighted in glowing green with small mudbrick hut icons. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 23 (12s) -> visual_assets/scene_0023.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a stickman caveman happily lounging on a soft grassy mound under a shady tree chewing a straw of grass. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 25 (11s) -> visual_assets/scene_0025.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a stickman farmer looking suspiciously over his shoulder while stacking clay jars of grain in a dark storage room. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 26 (11.5s) -> visual_assets/scene_0026.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a large cartoon joint of meat showing little green stink lines, stickmen rushing to distribute pieces before it rots. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 27 (11s) -> visual_assets/scene_0027.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, large neat stacks of terracotta grain jars sealed with wax, gleaming in warm amber storage room lighting. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 28 (13s) -> visual_assets/scene_0028.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, split frame: left side shows a fat smiling stickman beside piles of grain; right side shows a thin hungry stickman looking sadly through a window. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 29 (12s) -> visual_assets/scene_0029.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three sinister cartoon bandit stickmen with eye patches peering over a rocky ridge at a peaceful mudbrick farming village below. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 31 (12.5s) -> visual_assets/scene_0031.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a flustered stickman farmer comically holding a bronze sickle in one hand and a giant heavy spear in the other, wobbling off-balance. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 32 (12s) -> visual_assets/scene_0032.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, five small cartoon farmers bowing on their knees before a tall, muscular stickman wearing a leopard pelt and holding a spiked club. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 33 (11s) -> visual_assets/scene_0033.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an anxious cartoon elder offering a basket of freshly baked flatbread to the stern, unsmiling warlord. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 34 (11.5s) -> visual_assets/scene_0034.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the warrior grinning with a toothy smirk, crossing his thick muscular arms while standing before the trembling farmers. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 35 (12.5s) -> visual_assets/scene_0035.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the warlord pointing an authoritative finger at a cartoon chalkboard showing a pie chart with 20% labeled in bold red. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 37 (12s) -> visual_assets/scene_0037.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three armed cartoon guards lazily sitting on grain barrels chewing wheat stalks while farmers work sweating in the sun. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 38 (12s) -> visual_assets/scene_0038.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon warlord reclining on a carved wooden bench while a servant drops grapes into his mouth, smiling complacently. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 39 (12.5s) -> visual_assets/scene_0039.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, high crenellated mudbrick fortress walls rising around a village square, armed guards pacing on top of the ramparts. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 40 (12s) -> visual_assets/scene_0040.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a terrified cartoon farmer clutching an empty grain bowl while a guard points a sharp bronze spear tip right at his chest. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 41 (13s) -> visual_assets/scene_0041.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient cuneiform clay tablet floating on screen with a comical oversized stickman warlord casting a gigantic shadow over a tiny village. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 43 (12s) -> visual_assets/scene_0043.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon warlord nervously sweating while peeking through fortress windows at an angry crowd of farmers holding pitchforks below. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 44 (11.5s) -> visual_assets/scene_0044.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon guard leaning sleepily on his spear while a broken copper sword lies discarded on the cobblestone floor. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 45 (12s) -> visual_assets/scene_0045.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon lightbulb popping up over the warlord's head, glowing brightly with a sly wicked grin. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 46 (12.5s) -> visual_assets/scene_0046.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the muscular warlord shaking hands in a secret pact with a tall, robed cartoon temple priest holding an incense burner. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 47 (12.5s) -> visual_assets/scene_0047.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a towering tiered Sumerian Ziggurat rising high into an azure sky with colorful ceremonial banners fluttering in the wind. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 49 (13s) -> visual_assets/scene_0049.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the priest pointing reverently at the warlord while terrified cartoon citizens drop to their knees touching their foreheads to the dust. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 50 (11.5s) -> visual_assets/scene_0050.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, cartoon transformation graphic: a crude bloodstained club transforming with magical sparkles into a gilded golden royal scepter. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 51 (12.5s) -> visual_assets/scene_0051.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique stone prism carved with miniature cuneiform symbols, illuminated by soft golden museum display lighting. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 52 (13s) -> visual_assets/scene_0052.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient King Alulim wearing a primitive tiered woolen robe and conical horn-headdress sitting proudly on a stone throne in Eridu. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 53 (12s) -> visual_assets/scene_0053.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an artisan placing a heavy stone helmet with curved ram horns on the king's head, the king balancing it clumsily. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 55 (11.5s) -> visual_assets/scene_0055.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a humble cartoon servant holding a wine goblet suddenly stepping on the back of an overthrown king and taking his throne. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 56 (13s) -> visual_assets/scene_0056.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Sargon standing on a fortress balcony looking out at rows of identical cartoon spearmen with bronze helmets standing at attention. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 57 (12.5s) -> visual_assets/scene_0057.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, long wooden trestle tables stretched across an ancient courtyard where hundreds of cartoon soldiers scarf down loaves of flatbread. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 58 (13s) -> visual_assets/scene_0058.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon soldier holding a loaf of bread to his heart while snapping a rigid salute toward the king's golden banner. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 59 (13s) -> visual_assets/scene_0059.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Pharaoh Narmer wearing the unified double crown of Egypt standing tall before the glistening Nile river as falcons soar above. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 61 (12s) -> visual_assets/scene_0061.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, thousands of tiny stickman workers hauling giant limestone blocks with ropes under the shadow of the Great Pyramid of Giza. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 62 (13s) -> visual_assets/scene_0062.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a tiny stickman peasant looking up with wide round eyes in absolute awe at an enormous golden pyramid peak touching the clouds. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 63 (13.5s) -> visual_assets/scene_0063.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a spoiled cartoon toddler with a pacifier in mouth wearing an oversized crown sitting on a throne, stomping feet while ministers bow. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 64 (12s) -> visual_assets/scene_0064.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an arrogant Roman emperor pointing his golden sceptre angrily at the blazing sun while wiping sweat from his forehead. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 65 (13s) -> visual_assets/scene_0065.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient king Nimrod on a grand terrace shaking his fist at the heavens while a tiny comical cartoon gnat buzzes near his nose. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 67 (13s) -> visual_assets/scene_0067.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, wise scholar Ibn Khaldun in white turban and scholar robes examining an illuminated parchment scroll at an ornate wooden desk. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 68 (13s) -> visual_assets/scene_0068.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a lavish golden palace dome cracking down the middle while lazy courtiers drop golden goblets and flee. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 69 (12.5s) -> visual_assets/scene_0069.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a modern museum exhibit showing a cartoon stickman child pressing his nose against a glass vitrine displaying an ancient gold-masked mummy. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 71 (13s) -> visual_assets/scene_0071.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a flowchart connecting an ancient clay grain silo to a modern police badge, a tax envelope, and a passport stamp. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 72 (13s) -> visual_assets/scene_0072.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a set of brass scales balancing a cartoon stickman holding a spear in a meadow on one side against a neat modern city office block on the other. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 73 (12.5s) -> visual_assets/scene_0073.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three cartoon citizens standing behind a neat white picket fence, holding hands securely while outside wild beasts roam harmlessly. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 75 (12s) -> visual_assets/scene_0075.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique crown falling upside down in the sand, blooming tiny wild purple desert flowers around its rim. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 76 (13s) -> visual_assets/scene_0076.jpg
+The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) standing near an open library window gazing out at the night stars, gentle warm smile, peaceful night atmosphere. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 77 (12.5s) -> visual_assets/scene_0077.jpg
+OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, diverse cartoon stick figures from across the globe standing shoulder to shoulder with heads held high under a bright golden sunrise. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 79 (12.5s) -> visual_assets/scene_0079.jpg
+The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) cupping one ear with his hand in an inviting inquisitive gesture, cartoon comment bubbles popping up around him with question marks. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients

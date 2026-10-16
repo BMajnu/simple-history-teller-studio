@@ -1,0 +1,56 @@
+[
+  {
+    "group": "ইতিহাস, তথ্য ও তর্ক",
+    "lang": "bn",
+    "status": "success",
+    "note": "Verified published in test run"
+  },
+  {
+    "group": "ইতিহাসের অধ্যায়",
+    "lang": "bn",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "ইতিহাসের গল্প ও কথা",
+    "lang": "bn",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "Archaeology & Civilizations",
+    "lang": "en",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "World Ancient History",
+    "lang": "en",
+    "status": "error",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('div[role=\"dialog\"] div[role=\"textbox\"][contenteditable=\"true\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "group": "ANCIENT HISTORY",
+    "lang": "en",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "भारतीय इतिहास",
+    "lang": "hi",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "इतिहास और विरासत",
+    "lang": "hi",
+    "status": "success",
+    "note": "Successfully posted"
+  },
+  {
+    "group": "History of India - भारतीय इतिहास",
+    "lang": "hi",
+    "status": "error",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('div[role=\"dialog\"] div[role=\"textbox\"][contenteditable=\"true\"]').first() to be visible\u001b[22m\n"
+  }
+]

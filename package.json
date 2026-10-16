@@ -1,0 +1,54 @@
+{
+  "name": "simple-itihash-production-studio",
+  "version": "1.0.0",
+  "description": "Autonomous Video Merging & Production Studio for Simple Itihash YouTube Network",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "node server.js",
+    "electron": "electron electron/main.js",
+    "dist": "electron-builder --win"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "msedge-tts": "^2.0.9",
+    "multer": "^1.4.5-lts.1",
+    "playwright-core": "^1.63.0"
+  },
+  "devDependencies": {
+    "electron": "^44.7.0",
+    "electron-builder": "^26.15.3"
+  },
+  "build": {
+    "appId": "com.simplehistoryteller.studio",
+    "productName": "Simple Itihash Studio",
+    "asar": false,
+    "files": [
+      "electron/",
+      "lib/",
+      "server.js",
+      "daemon.js",
+      "public/",
+      "tools/",
+      "instructions/",
+      "references/",
+      "projects/",
+      "bin/",
+      "package.json",
+      "node_modules/**/*",
+      "!node_modules/electron/**",
+      "!node_modules/electron-builder/**",
+      "!node_modules/.bin/**",
+      "!**/*_shot_*.wav",
+      "!projects/**/renders/**",
+      "!dist/**"
+    ],
+    "win": {
+      "target": ["nsis", "portable"]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}

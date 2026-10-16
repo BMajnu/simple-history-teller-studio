@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "metadata": {
+    "title_bn": "পানির নিয়ন্ত্রণে প্রাচীন শহরের উত্থান",
+    "title_en": "How Ancient Cities Learned to Control Water",
+    "title_hi": "प्राचीन शहरों ने पानी को कैसे नियंत्रित किया",
+    "createdAt": "2026-10-14T12:10:00.000Z",
+    "purpose": "Five-scene, end-to-end production readiness pilot"
+  },
+  "style_preset": "SIMPLE_HISTORY",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "type": "STATIC_IMAGE",
+      "duration": 5.5,
+      "motion_effect": "zoom_in",
+      "image_prompt": "Wide establishing scene of ancient Mesopotamian canal workers guiding river water into wheat fields beside a mud-brick city wall and a stepped ziggurat, early morning, people in period-accurate simple linen clothing, clear educational staging.",
+      "narration": {
+        "bn": "একটি শহর গড়ার প্রথম শর্ত ছিল নদীর অনিশ্চিত জলকে সঠিক পথে আনা।",
+        "en": "The first condition for building a city was guiding an unpredictable river into the right path.",
+        "hi": "शहर बनाने की पहली शर्त थी अनिश्चित नदी के पानी को सही रास्ते पर लाना।"
+      }
+    },
+    {
+      "scene_id": 2,
+      "type": "STATIC_IMAGE",
+      "duration": 5.5,
+      "motion_effect": "pan_right",
+      "image_prompt": "Ancient Egyptian surveyors measure a Nile floodplain with rope and wooden stakes, palm trees and distant temple silhouettes, calm panoramic composition, showing careful measurement after the annual flood.",
+      "narration": {
+        "bn": "মিশরে জরিপকারীরা দড়ি আর খুঁটি দিয়ে বন্যার পর জমির সীমানা মেপে নিতেন।",
+        "en": "In Egypt, surveyors used ropes and stakes to measure field boundaries after the flood.",
+        "hi": "मिस्र में सर्वेक्षक बाढ़ के बाद रस्सियों और खूंटियों से खेतों की सीमाएं मापते थे।"
+      }
+    },
+    {
+      "scene_id": 3,
+      "type": "STATIC_IMAGE",
+      "duration": 5.5,
+      "motion_effect": "pan_left",
+      "image_prompt": "Indus Valley craftworkers and city planners beside a clean brick-lined street drain, terracotta vessels and an ox cart in the background, warm afternoon light, balanced medium-wide educational composition.",
+      "narration": {
+        "bn": "সিন্ধু নগরগুলোর ইটের নালা দেখায় যে পরিষ্কার পানি ও বর্জ্য ব্যবস্থাপনাও ছিল নগর পরিকল্পনার অংশ।",
+        "en": "The brick drains of Indus cities show that clean water and waste management were part of urban planning.",
+        "hi": "सिंधु नगरों की ईंटों वाली नालियां दिखाती हैं कि स्वच्छ पानी और कचरा प्रबंधन भी नगर योजना का हिस्सा थे।"
+      }
+    },
+    {
+      "scene_id": 4,
+      "type": "STATIC_IMAGE",
+      "duration": 5.5,
+      "motion_effect": "zoom_out",
+      "image_prompt": "Medieval Islamic Golden Age engineers study a wooden waterwheel and a hand-drawn canal diagram in a sunlit courtyard, dignified scholarly clothing, brass measuring tools, historically respectful educational illustration.",
+      "narration": {
+        "bn": "পরের যুগে প্রকৌশলীরা জলচাকা, খাল আর মাপজোকের জ্ঞানকে আরও সূক্ষ্ম করেছিলেন।",
+        "en": "In later centuries, engineers refined the knowledge of waterwheels, canals, and measurement.",
+        "hi": "बाद की सदियों में इंजीनियरों ने जलचक्र, नहरों और माप की जानकारी को और परिष्कृत किया।"
+      }
+    },
+    {
+      "scene_id": 5,
+      "type": "STATIC_IMAGE",
+      "duration": 5.5,
+      "motion_effect": "zoom_in",
+      "image_prompt": "Modern archaeologists uncover an ancient stone-lined canal with brushes, measuring strings and a field notebook, layered soil profiles, museum tent beyond, hopeful documentary-style aerial wide composition.",
+      "narration": {
+        "bn": "আজ প্রত্নতাত্ত্বিকেরা সেই পুরোনো খাল খুঁড়ে মানুষের পরিকল্পনা আর সহযোগিতার ইতিহাস পড়েন।",
+        "en": "Today archaeologists excavate those old canals to read a history of human planning and cooperation.",
+        "hi": "आज पुरातत्वविद उन पुरानी नहरों को खोदकर मानव योजना और सहयोग का इतिहास पढ़ते हैं।"
+      }
+    }
+  ],
+  "total_duration_seconds": 27.5
+}

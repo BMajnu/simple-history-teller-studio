@@ -1,0 +1,530 @@
+{
+  "project_id": "simple_itihash_002_first_language",
+  "brand": "Simple Itihash & Easy History Network",
+  "channels": {
+    "bn": "সিম্পল ইতিহাস",
+    "en": "Easy History",
+    "hi": "सिंपल इतिहास"
+  },
+  "style_preset": "PRESET_STICKY_MEME",
+  "target_duration_seconds": 1200,
+  "total_duration_seconds": 898.72,
+  "metadata": {
+    "title_bn": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+    "title_en": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+    "title_hi": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আমি সময়ের সাক্ষী। আজ তুমি যে ভাষায় তোমার বন্ধুদের সাথে আড্ডা দিচ্ছ, কিংবা ফোনে টেক্সট করছ—কখনো কি ভেবে দেখেছ, এই শব্দগুলো এলো কোথা থেকে? এই মুহূর্তে পৃথিবীতে প্রায় ৭,১০০টি ভাষা চালু আছে। কিন্তু একটা সময় ছিল, যখন পুরো পৃথিবীতে কোনো কথা ছিল না, কোনো ভাষা ছিল না। ছিল শুধুই মহাশূন্যের মতো এক নিঃশব্দ নীরবতা। তাহলে এই মহাজাগতিক নীরবতা ভেঙে মানুষের মুখ থেকে প্রথম কোন শব্দটি উচ্চারিত হয়েছিল?",
+        "en": "I am the Time Chronicler. Today, whether you are arguing on the internet or texting your friends, there are over 7,100 spoken languages on Earth. But rewind 100,000 years, and planet Earth was eerily quiet. No books, no songs, not a single word. So how did a troop of hairless, shivering apes break the cosmic silence and speak the very first word in human history?",
+        "hi": "मैं समय का गवाह हूँ। आज दुनिया भर में 7,100 से ज़्यादा भाषाएं बोली जाती हैं। लेकिन क्या आपने कभी सोचा है कि यह सब शुरू कहाँ से हुआ? लाखों साल पहले इस धरती पर कोई भाषा नहीं थी, कोई शब्द नहीं था। चारों तरफ केवल सन्नाटा था। तो आखिर आदिम इंसान के मुँह से निकला वह पहला जादुई शब्द कौन सा था?"
+      },
+      "visual_prompt": "The Time Chronicler standing in his vast cosmic history library surrounded by towering bookshelves of leatherbound ancient tomes, holding an illuminated quill, floating golden letters in different ancient scripts, warm comic lighting, 16:9 4k cartoon illustration. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0001.jpg",
+      "sfx": "portal_mystic_whoosh",
+      "motion_effect": "zoom_in",
+      "duration": 41.608,
+      "audio_duration": 41.208,
+      "language_durations": {
+        "bn": 41.608,
+        "en": 33.376,
+        "hi": 27.712
+      },
+      "timestamp_start": 0,
+      "timestamp_end": 41.608
+    },
+    {
+      "scene_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রাণীদের দিকে তাকাও। একটি ভারভেট বানর চিতার আগমন দেখলে একরকম চিৎকার দেয়, আর চিল দেখলে অন্যরকম ডাক দেয়। কিন্তু কোনো বানর কি কখনো বলতে পারে: গতকাল নদীর ওপারে যে চিতাটা দেখেছিলাম, ওটা খুব সুন্দর ছিল! না! প্রাণীদের ডাক কেবল বর্তমান বিপদের সংকেত। তারা অতীত বা ভবিষ্যতের গল্প বলতে পারে না। কিন্তু মানুষ পারে! আর এখানেই শুরু হয় পৃথিবীর সবচেয়ে অদ্ভুত রহস্য।",
+        "en": "Look at the animal kingdom. A vervet monkey has a specific screech for an eagle, and a different grunt for a leopard. But no monkey in history has ever said: Hey guys, remember that cool leopard we saw yesterday near the river? Animals are trapped in the immediate present. Only humans can gossip, tell stories, dream of tomorrow, and lie. But when did this magical leap occur?",
+        "hi": "जानवरों की दुनिया को देखिए। एक बंदर चील को देखकर खास तरह की चीख़ मारता है और तेंदुए को देखकर अलग आवाज़। लेकिन कोई बंदर कभी यह नहीं कह सकता कि कल जो तेंदुआ हमने देखा था, वह बहुत खतरनाक था! जानवर सिर्फ तुरंत के खतरे का इशारा कर सकते हैं। वे बीते कल या आने वाले कल की बात नहीं कर सकते। लेकिन इंसान कर सकता है! और यहीं से शुरू होती है हमारी असली पहेली।"
+      },
+      "visual_prompt": "Cartoon vervet monkeys in an African acacia tree, one monkey pointing down in panic at an eagle while another points at a snake, comical expressions of terror, 16:9 OverSimplified style cartoon. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0002.jpg",
+      "sfx": "monkey_alarm_screech",
+      "motion_effect": "pan_right",
+      "duration": 36.952,
+      "audio_duration": 36.552,
+      "language_durations": {
+        "bn": 36.952,
+        "en": 29.608,
+        "hi": 33.616
+      },
+      "timestamp_start": 41.608,
+      "timestamp_end": 78.56
+    },
+    {
+      "scene_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "HUNTER_CHIEF",
+      "narration": {
+        "bn": "লক্ষ বছর আগে আদিম সাভানায় শিকার করতে গিয়ে আমাদের পূর্বপুরুষরা চরম মুশকিলে পড়ত। কল্পনা করো: এক শিকারি ঝোপের আড়ালে ম্যামথ দেখেছে। সে শব্দ করতে পারবে না, পাছে শিকার পালিয়ে যায়। এখন সে হাত-পা নেড়ে চার্লস চ্যাপলিনের মতো মূকাভিনয় করছে! কিন্তু সঙ্গী ভাবল সে হয়তো মাছি তাড়াচ্ছে! এই হাস্যকর বিভ্রান্তি থেকে বাঁচতেই মানুষের প্রয়োজন হয়ে পড়েছিল সুনির্দিষ্ট শব্দের।",
+        "en": "Picture this: 200,000 years ago in the African savanna. Two hunters are tracking game. One spots a massive woolly mammoth. He can't make loud noise, so he tries aggressive silent charades, waving his arms like a manic windmill. His buddy thinks he's swatting an imaginary mosquito. Misunderstandings meant starvation or getting crushed. Silent hand gestures were simply not enough.",
+        "hi": "ज़रा सोचिए: लाखों साल पहले दो शिकारी झाड़ियों के पीछे छिपे हैं। एक ने विशालकाय हाथी देखा। वह आवाज़ नहीं कर सकता वरना शिकार भाग जाएगा। अब वह पागलों की तरह हाथ हिलाकर इशारे कर रहा है! लेकिन उसका साथी सोचता है कि शायद वह मक्खियाँ उड़ा रहा है! इस गलतफहमी का नतीजा होता था भूख या मौत। इशारों की अपनी एक सीमा थी।"
+      },
+      "visual_prompt": "Two comical stick-figure cavemen crouching behind a bush, one desperately making ridiculous charade hand gestures trying to explain a giant mammoth, while the other looks utterly confused and points at a butterfly, 16:9 funny comic art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0003.jpg",
+      "sfx": "caveman_grunt",
+      "motion_effect": "pan_left",
+      "duration": 35.2,
+      "audio_duration": 34.8,
+      "language_durations": {
+        "bn": 35.2,
+        "en": 32.536,
+        "hi": 30.232
+      },
+      "timestamp_start": 78.56,
+      "timestamp_end": 113.76
+    },
+    {
+      "scene_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "হাজার বছর ধরে প্রাচীন সমাজগুলো বিশ্বাস করত—মানবজাতির শুরুতে একটাই আদি ভাষা ছিল। বাইবেলের রূপকথা ব্যবিলনের মিনারের গল্প বলে, যেখানে মানুষ অহংকার করে আকাশে টাওয়ার বানাতে চেয়েছিল, আর ঈশ্বর তাদের অহংকার ভেঙে দিতে সবার ভাষা আলাদা করে দিলেন! কিন্তু রূপকথা বাদ দিলে বিজ্ঞান কী বলে? ভাষা কি সত্যি একটা ছিল, নাকি হাজারটা?",
+        "en": "For millennia, ancient mythologies believed all humans originally spoke a single mother tongue. The Biblical myth of the Tower of Babel claimed humanity was building a tower to the heavens, so God scrambled their tongues into mutual gibberish. But stripped of religious myth, what does real science tell us? Was there a single Proto-World language, or did speech ignite in multiple sparks?",
+        "hi": "सदियों से अलग-अलग संस्कृतियों में यह माना जाता रहा कि शुरुआत में इंसान की केवल एक ही मूल भाषा थी। बेबीलोन की मीनार की पौराणिक कथा कहती है कि जब इंसान आसमान छूने की कोशिश करने लगा, तो कुदरत ने उनकी ज़बानों को अलग-अलग कर दिया ताकि वे आपस में बात न समझ सकें। लेकिन पौराणिक कथाओं से हटकर विज्ञान क्या कहता है?"
+      },
+      "visual_prompt": "An ancient cartoon depiction of a colossal spiral brick tower reaching into clouds, miniature ancient builders arguing comically with speech clouds showing question marks, 16:9 historical cartoon. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0004.jpg",
+      "sfx": "ancient_temple_echo",
+      "motion_effect": "zoom_out",
+      "duration": 32.224,
+      "audio_duration": 31.824,
+      "language_durations": {
+        "bn": 32.224,
+        "en": 29.896,
+        "hi": 27.376
+      },
+      "timestamp_start": 113.76,
+      "timestamp_end": 145.984
+    },
+    {
+      "scene_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "PRESIDENT_PARIS",
+      "narration": {
+        "bn": "উনবিংশ শতাব্দীতে ভাষা কীভাবে শুরু হলো—তা নিয়ে ইউরোপের বিজ্ঞানীরা এমন উন্মাদ তর্ক শুরু করলেন যে মারামারির দশা হলো! অবশেষে ১৮৬৬ সালে বিশ্ববিখ্যাত প্যারিস লিঙ্গুইস্টিক সোসাইটি তাদের সংবিধানের ২ নম্বর ধারায় একটি ঐতিহাসিক আইন পাস করল: এখন থেকে ভাষার উৎপত্তি নিয়ে কোনো প্রবন্ধ বা বিতর্ক এই সমাজে সম্পূর্ণ নিষিদ্ধ! কারণ তথ্যের কোনো প্রমাণ ছিল না, শুধু আজগুবি কল্পনা!",
+        "en": "By the mid-19th century, European linguists were arguing so viciously about how speech began that conferences devolved into near fistfights. Finally, in 1866, the prestigious Linguistic Society of Paris slammed down the hammer. Article 2 of their bylaws officially banned all papers, presentations, and debates on the origin of language! They declared it unscientific junk.",
+        "hi": "उन्नीसवीं सदी में यूरोपीय भाषाविदों के बीच यह बहस इतनी उग्र हो गई कि वैज्ञानिक आपस में ही लड़ने लगे। आखिरकार 1866 में पेरिस की भाषा वैज्ञानिक समिति ने एक ऐतिहासिक फैसला लिया: आज के बाद भाषा की उत्पत्ति पर किसी भी तरह का शोध या बहस पूरी तरह से प्रतिबंधित की जाती है! क्योंकि किसी के पास सबूत नहीं थे, सिर्फ मनगढ़ंत कहानियां थीं।"
+      },
+      "visual_prompt": "19th-century French Parisian academic hall, stern Victorian gentlemen with mutton chops and top hats arguing passionately, a podium president furiously slamming a wooden gavel, 16:9 comic historical illustration. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0005.jpg",
+      "sfx": "gavel_bang_loud",
+      "motion_effect": "zoom_in",
+      "duration": 34.672,
+      "audio_duration": 34.272,
+      "language_durations": {
+        "bn": 34.672,
+        "en": 31.912,
+        "hi": 29.8
+      },
+      "timestamp_start": 145.984,
+      "timestamp_end": 180.656
+    },
+    {
+      "scene_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বিখ্যাত জার্মান ভাষাবিদ ম্যাক্স মুলার তখনকার প্রচলিত ৫টি থিওরিকে রীতিমতো ট্রোল করেছিলেন। প্রথমটি: বাউ-ওয়াউ তত্ত্ব। আদিম মানুষ নাকি কুকুরের ঘেউ-ঘেউ বা পাখির কুহু-কুহু নকল করে শব্দ বানিয়েছে। দ্বিতীয়টি: পুহ্-পুহ্ তত্ত্ব। মানুষ যখন পায়ে চোট খেত আর চিৎকার দিত—উফ! বা দুর্গন্ধ পেয়ে বলত—ছিঃ!—সেই ব্যথাবেদনা থেকেই নাকি শব্দ তৈরি হয়েছে!",
+        "en": "Famous philologist Max Müller mocked the absurdity of 19th-century speculation by giving them ridiculous nicknames. First was the Bow-Wow Theory: humans allegedly started talking by imitating barking dogs and cuckoo birds. Second was the Pooh-Pooh Theory: language supposedly began with instinctive gasps of pain or disgust—like stubbing a toe and yelling Ouch! or smelling rotting meat and saying Eww!",
+        "hi": "मशहूर विद्वान मैक्स मूलर ने उस समय के सिद्धांतों का मज़ाक उड़ाते हुए बड़े अनोखे नाम दिए। पहला था बाउ-वाउ सिद्धांत—यानी इंसान ने भौंकते हुए कुत्तों या चहकती चिड़ियों की नक़ल करके बोलना सीखा। दूसरा था पूह-पूह सिद्धांत—यानी जब पैर में पत्थर लगा और मुँह से निकला उफ!, या बदबू आने पर निकला छी!—इन्हीं दर्दों और भावों से शब्दों का जन्म हुआ।"
+      },
+      "visual_prompt": "A cartoon caveman looking terrified while barking back at a wolf, while another caveman stubs his toe on a rock and screams with a cartoon swollen toe, 16:9 humorous vector art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0006.jpg",
+      "sfx": "dog_bark_comic",
+      "motion_effect": "pan_right",
+      "duration": 35.008,
+      "audio_duration": 34.608,
+      "language_durations": {
+        "bn": 35.008,
+        "en": 31.768,
+        "hi": 30.328
+      },
+      "timestamp_start": 180.656,
+      "timestamp_end": 215.664
+    },
+    {
+      "scene_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তৃতীয়টি ছিল ডিং-ডং তত্ত্ব। প্রকৃতির সব বস্তুর একটি অন্তর্নিহিত অনুরণন আছে, যা মানুষ মুখে ফুটিয়ে তুলেছে। আর চতুর্থটি সবচেয়ে বাস্তবসম্মত: ইয়ো-হে-হো তত্ত্ব। চারজন মানুষ মিলে যখন কোনো বিশাল ম্যামথ বা পাথর টানত, তখন তাল মিলিয়ে শক্তি দিতে গিয়ে তারা সমস্বরে গোঙাত—হেই-জো! হেঁইয়ো! এই সমবেত গোঙানিই নাকি পরবর্তীতে রূপান্তরিত হয়েছিল সামাজিক ভাষায়।",
+        "en": "Then came the Ding-Dong Theory, which claimed every object in nature has an inherent mystic resonance that human vocal cords echoed. And fourth: the Yo-He-Ho Theory. When primitive humans teamed up to haul a colossal woolly mammoth up a cliff, they needed synchronized rhythm. Their rhythmic grunts—Heave! Ho! Ugh!—eventually evolved into coordinated vocal language.",
+        "hi": "तीसरा था डिंग-डोंग सिद्धांत—जिसके अनुसार प्रकृति की हर चीज़ में एक स्वाभाविक गूँज होती है जिसे इंसान ने शब्दों में ढाला। और चौथा था यो-हे-हो सिद्धांत। जब चार लोग मिलकर किसी भारी पत्थर या शिकार को खींचते थे, तो एक साथ दम लगाने के लिए लयबद्ध आवाज़ें निकालते थे—ज़ोर लगा के... हैय्या! यही सामूहिक आवाज़ें आगे चलकर भाषा का रूप लेने लगीं।"
+      },
+      "visual_prompt": "Four scruffy cartoon cavemen straining with popped eyes and dripping sweat pulling a colossal boulder with vine ropes, grunting in comedic synchrony, 16:9 OverSimplified cartoon. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0007.jpg",
+      "sfx": "heavy_grunt_heave",
+      "motion_effect": "zoom_in",
+      "duration": 36.04,
+      "audio_duration": 35.64,
+      "language_durations": {
+        "bn": 36.04,
+        "en": 30.376,
+        "hi": 31
+      },
+      "timestamp_start": 215.664,
+      "timestamp_end": 251.704
+    },
+    {
+      "scene_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কিন্তু সমস্যা হলো, কুকুর ঘেউ-ঘেউ করলেও ব্যাকরণ তৈরি করতে পারে না। গোঙানি দিয়ে আদেশ দেওয়া যায়, কিন্তু আগামীকাল আমি নদীর ওপারে গিয়ে মাছ ধরব—এই জটিল বাক্য বলা যায় না। তাহলে আসল পরীক্ষা কীভাবে হলো? সত্যিটা জানার জন্য ইতিহাসের কিছু ক্ষমতাবান রাজা এমন এক পরীক্ষা করেছিলেন, যাকে বলা হয় দ্য ফরবিডেন এক্সপেরিমেন্ট—মানব ইতিহাসের সবচেয়ে রোমহর্ষক ও নিষ্ঠুর পরীক্ষা!",
+        "en": "Cute theories, but they completely miss the point. A dog can bark, but it cannot invent grammar. Rhythmic grunting can help you drag a rock, but it cannot express: If it rains tomorrow, we will hunt by the northern valley. To find the true primordial tongue, eccentric monarchs throughout antiquity conducted what modern history calls The Forbidden Experiment—and it was utterly ruthless.",
+        "hi": "लेकिन इन सिद्धांतों में एक बड़ी खामी थी। कुत्ता भौंक सकता है, लेकिन व्याकरण नहीं बना सकता। दम लगाने की आवाज़ से काम हो सकता है, लेकिन कल सुबह मैं नदी पार जाकर मछली पकड़ूँगा—यह जटिल वाक्य नहीं बन सकता। इसी सच को जानने के लिए पुराने ज़माने के ताकतवर राजाओं ने इतिहास के सबसे भयानक और क्रूर प्रयोग किए, जिन्हें द फॉरबिडन एक्सपेरिमेंट कहा जाता है।"
+      },
+      "visual_prompt": "The Time Chronicler holding up a magnifying glass looking at a cartoon chalkboard with funny drawn question marks and human throat diagrams, 16:9 witty animation. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0008.jpg",
+      "sfx": "record_scratch_comic",
+      "motion_effect": "pan_left",
+      "duration": 35.776,
+      "audio_duration": 35.376,
+      "language_durations": {
+        "bn": 35.776,
+        "en": 30.688,
+        "hi": 31.792
+      },
+      "timestamp_start": 251.704,
+      "timestamp_end": 287.48
+    },
+    {
+      "scene_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "PHARAOH_PSAMTIK",
+      "narration": {
+        "bn": "খ্রিস্টপূর্ব সপ্তম শতক। প্রাচীন মিশরের ফারাও সামটিক নিজেকে পৃথিবীর সবচেয়ে প্রাচীন জাতির শাসক মনে করতেন। কিন্তু তার মনে খটকা লাগল—মানুষের আদি জন্মগত ভাষা কী? তিনি দুই সদ্যোজাত শিশুকে নিজের পরিবার থেকে ছিনিয়ে এনে এক নিঃশব্দ রাখালের হাতে তুলে দিলেন। নির্দেশ ছিল কঠোর: শিশুদের পাহাড়ি কুটিরে ছাগলের দুধ খাইয়ে বড় করতে হবে, কিন্তু তাদের সামনে একটি শব্দও উচ্চারণ করা যাবে না!",
+        "en": "The 7th Century BC. Pharaoh Psamtik the First of Egypt was convinced that Egyptians were the most ancient civilization on the planet. But he wanted empirical proof. He seized two newborn infants from poor families and handed them over to a secluded shepherd. The royal decree was absolute: raise them in an isolated hut, feed them with goat's milk, but never utter a single word in their presence.",
+        "hi": "ईसा पूर्व सातवीं सदी। मिस्र के राजा फिरौन सामटिक को पूरा यकीन था कि मिस्र के लोग ही दुनिया की सबसे पुरानी सभ्यता हैं। लेकिन उन्हें सबूत चाहिए था। उन्होंने दो नवजात बच्चों को उनके परिवारों से छीन लिया और एक चरवाहे को सौंप दिया। शाही हुक्म बहुत सख्त था: इन बच्चों को वीरान झोपड़ी में पालो, बकरियों का दूध पिलाओ, लेकिन इनके सामने एक भी लफ़्ज़ मुँह से मत निकालना!"
+      },
+      "visual_prompt": "Grand Pharaoh Psamtik I adorned with golden cobra crown and jewelry, giving strict orders to a frightened humble Egyptian shepherd in sandals, 16:9 stylized Egyptian palace art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0009.jpg",
+      "sfx": "egyptian_harp_fanfare",
+      "motion_effect": "zoom_in",
+      "duration": 36.592,
+      "audio_duration": 36.192,
+      "language_durations": {
+        "bn": 36.592,
+        "en": 31.096,
+        "hi": 32.2
+      },
+      "timestamp_start": 287.48,
+      "timestamp_end": 324.072
+    },
+    {
+      "scene_id": 10,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SHEPHERD",
+      "narration": {
+        "bn": "দুই বছর কেটে গেল। একদিন রাখাল কুটিরের দরজা খুলতেই দুটি শিশু হামাগুড়ি দিয়ে এসে তার পা জড়িয়ে ধরল এবং হাত বাড়িয়ে চিৎকার করে বলল—বেকস! বেকস! রাখাল চমকে গিয়ে খবর পাঠাল ফারাওয়ের দরবারে। ফারাও সারা রাজ্যের পণ্ডিতদের তলব করলেন। জানা গেল, বেকস কোনো মিশরীয় শব্দই নয়! আনাতোলিয়ার প্রাচীন ফ্রিজিয়ান ভাষায় বেকস মানে রুটি! ফারাও সামটিকের অহংকার চূর্ণ হয়ে গেল—মিশরীয়রা প্রথম ভাষার জাতি নয়!",
+        "en": "Two long years passed in dead silence. One morning, as the shepherd opened the door, both toddlers crawled forward, clutched his knees, and shouted with outstretched hands: Bekos! Bekos! Stunned, the shepherd brought them before the Pharaoh. Royal linguists frantically searched ancient records. The devastating verdict: Bekos was not Egyptian at all. It was the ancient Phrygian word for bread! Pharaoh's ego was shattered.",
+        "hi": "दो साल का लंबा समय सन्नाटे में बीता। एक दिन जब चरवाहे ने दरवाज़ा खोला, तो दोनों बच्चे घुटनों के बल चलकर आए और चरवाहे के पाँव पकड़कर पुकारने लगे—बेकोस! बेकोस! चरवाहा हैरान होकर उन्हें राजा के दरबार में ले गया। विद्वानों ने पुरानी पांडुलिपियाँ खंगालीं। नतीजा चौंकाने वाला था: बेकोस मिस्री भाषा का शब्द नहीं था, बल्कि प्राचीन फ़्रिजियन भाषा में इसका मतलब था रोटी! राजा का सारा घमंड चकनाचूर हो गया।"
+      },
+      "visual_prompt": "Inside the simple stone hut, two smiling toddlers crawling on the dirt floor reaching their hands up to the shepherd, crying with cheerful round faces, the shepherd looking shocked, 16:9 comic scene. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0010.jpg",
+      "sfx": "baby_cheerful_babble",
+      "motion_effect": "zoom_out",
+      "duration": 39.856,
+      "audio_duration": 39.456,
+      "language_durations": {
+        "bn": 39.856,
+        "en": 36.232,
+        "hi": 37.36
+      },
+      "timestamp_start": 324.072,
+      "timestamp_end": 363.928
+    },
+    {
+      "scene_id": 11,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "ত্রয়োদশ শতাব্দীতে সিসিলির পবিত্র রোমান সম্রাট দ্বিতীয় ফ্রেডেরিক একই পরীক্ষা চালালেন। তিনি জানতে চেয়েছিলেন—শিশুরা কি নিজে নিজে হিব্রু, গ্রিক কিংবা ল্যাটিন বলবে? তিনি ধাত্রীদের কঠোর নির্দেশ দিলেন: শিশুদের খাওয়াবে, স্নান করাবে, কিন্তু কখনো তাদের সাথে কথা বলবে না বা আদর করবে না। কিন্তু ফলাফল ছিল মর্মান্তিক। কোনো ভালোবাসার স্পর্শ বা মিষ্টি কথা না পেয়ে সব কটি শিশু মারা যায়! প্রমাণ হলো—ভাষা ও স্নেহ মানুষের প্রাণের মতোই জরুরি।",
+        "en": "In the 13th Century, Holy Roman Emperor Frederick the Second wanted to know if isolated babies would naturally speak Hebrew, Greek, or Latin. He strictly commanded foster mothers to feed and bathe the infants, but forbade them from ever cuddling, singing, or speaking to them. The result was heartbreaking. Chronicler Salimbene noted that every single infant perished. Deprived of human warmth and spoken love, babies simply fail to thrive.",
+        "hi": "तेरहवीं सदी में पवित्र रोमन सम्राट फ्रेडरिक द्वितीय ने भी यही प्रयोग दोहराया। वह देखना चाहते थे कि बच्चे बड़े होकर हिब्रू, ग्रीक या लैटिन भाषा बोलेंगे। उन्होंने आदेश दिया कि बच्चों को खाना खिलाओ, नहलाओ, लेकिन न कोई उनसे बात करेगा, न कोई उन्हें प्यार करेगा। लेकिन नतीजा बेहद दर्दनाक निकला। बिना किसी दुलार और आवाज़ के, वे सारे बच्चे तड़पकर मर गए! इसने साबित किया कि इंसानी प्यार और आवाज़ ज़िंदगी के लिए कितनी ज़रूरी है।"
+      },
+      "visual_prompt": "A moody medieval Italian stone castle room, a medieval nurse sitting quietly looking sad, rocking an infant wooden cradle without singing or speaking, rain hitting stone window, 16:9 dramatic art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0011.jpg",
+      "sfx": "sorrowful_cello_solo",
+      "motion_effect": "pan_right",
+      "duration": 41.32,
+      "audio_duration": 40.92,
+      "language_durations": {
+        "bn": 41.32,
+        "en": 36.232,
+        "hi": 38.704
+      },
+      "timestamp_start": 363.928,
+      "timestamp_end": 405.248
+    },
+    {
+      "scene_id": 12,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "KING_JAMES",
+      "narration": {
+        "bn": "১৪৯৩ সাল। স্কটল্যান্ডের রাজা চতুর্থ জেমস সমুদ্রের মাঝে নির্জন ইনচকিথ দ্বীপে এক বোবা ধাত্রীর কাছে দুটি শিশুকে নির্বাসনে পাঠিয়ে দেন। কয়েক বছর পর রাজা দাবি করলেন—বাচ্চারা নাকি বড় হয়ে সম্পূর্ণ নির্ভেজাল ও বিশুদ্ধ হিব্রু ভাষায় কথা বলা শুরু করেছে! কিন্তু আধুনিক ঐতিহাসিকরা হাসতে হাসতে বলেন: রাজা নিজের মনগড়া ধর্মীয় অহংকার মেটাতে শিশুদের অর্থহীন তোতলানো আওয়াজকেই হিব্রু বলে চালিয়ে দিয়েছিলেন!",
+        "en": "In 1493, King James the Fourth of Scotland sent two babies to the desolate, windswept island of Inchkeith in the care of a mute woman. Years later, James proudly claimed that upon reaching speaking age, the children miraculously spoke very good Hebrew—the language of the Garden of Eden! Modern historians call absolute nonsense. The superstitious king simply heard random baby babble and projected his own holy fantasies.",
+        "hi": "1493 में स्कॉटलैंड के राजा जेम्स चतुर्थ ने समुद्र के बीच एक सुनसान पथरीले द्वीप पर दो बच्चों को एक गूँगी दाई के पास भेज दिया। कुछ सालों बाद राजा ने दावा किया कि बच्चे बड़े होकर अपने आप शुद्ध हिब्रू भाषा बोलने लगे हैं! लेकिन आज के इतिहासकार इसे सिर्फ राजा का वहम और धार्मिक अंधविश्वास मानते हैं। बच्चों की बेमतलब की तुतलाहट को राजा ने अपनी मनपसंद भाषा समझ लिया था।"
+      },
+      "visual_prompt": "A stormy desolate rocky island in Scotland surrounded by crashing waves, a lone stone tower on the cliff, King James IV standing on a ship watching through a brass spyglass, 16:9 atmospheric art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0012.jpg",
+      "sfx": "ocean_waves_crashing_wind",
+      "motion_effect": "pan_left",
+      "duration": 37.096,
+      "audio_duration": 36.696,
+      "language_durations": {
+        "bn": 37.096,
+        "en": 34.24,
+        "hi": 32.272
+      },
+      "timestamp_start": 405.248,
+      "timestamp_end": 442.344
+    },
+    {
+      "scene_id": 13,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "EMPEROR_AKBAR",
+      "narration": {
+        "bn": "সবচেয়ে বিশ্বাসযোগ্য এবং সত্যিকারের বিজ্ঞানসম্মত পরীক্ষাটি করেছিলেন আমাদের এই উপমহাদেশের মুঘল সম্রাট আকবর দ্য গ্রেট! ১৫৭৯ সালে ফতেহপুর সিক্রিতে আকবর গূং মহল বা নিঃশব্দের প্রাসাদ নামে একটি সুরক্ষিত ভবন তৈরি করান। সেখানে ৩০ জন শিশুকে রাখা হয় এবং ধাত্রীদের জিভ বেঁধে বা বোবা ধাত্রী নিয়োগ করা হয়। চার বছর পর আকবর যখন সেই মহলে প্রবেশ করলেন—তিনি দেখলেন শিশুরা কোনো সংস্কৃত, আরবি বা ফারসি কিছুই বলছে না। তারা শুধু ভয়ার্ত পশুর মতো গোঙাচ্ছে আর ইশারায় কথা বলছে! আকবর প্রমাণ করলেন: ভাষা কোনো ঈশ্বরপ্রদত্ত জাদুকরী কোড নয়, এটি সম্পূর্ণভাবে সমাজ থেকে শেখা একটি দক্ষতা!",
+        "en": "The most methodologically sound isolation experiment happened right in the Indian subcontinent under Mughal Emperor Akbar the Great! In 1579 at Fatehpur Sikri, Akbar built the Gang Mahal—the Palace of the Mute. He placed 30 infants under the care of strictly mute wet nurses. When Akbar inspected the palace four years later, the children spoke zero Arabic, Sanskrit, or Persian. They communicated solely through terrified animalistic grunts and frantic gestures. Akbar conclusively proved that human language is not an innate magical gift; it is 100% socially learned!",
+        "hi": "सबसे प्रामाणिक और वैज्ञानिक प्रयोग किया हमारे उपमहाद्वीप के महान मुग़ल बादशाह अकबर ने! 1579 में फतेहपुर सीकरी में अकबर ने गूँग महल नाम की एक अलग इमारत बनवाई। वहाँ तीस बच्चों को रखा गया और उनकी देखभाल के लिए गूँगी दाइयों को तैनात किया गया। चार साल बाद जब अकबर उस महल में पहुँचे, तो उन्होंने देखा कि बच्चे न अरबी बोल रहे थे, न संस्कृत और न फ़ारसी। वे सिर्फ जंगली जानवरों जैसी आवाज़ें और इशारे कर रहे थे! अकबर ने साबित कर दिया कि भाषा कोई ईश्वरीय वरदान नहीं, बल्कि समाज से सीखी जाने वाली विद्या है!"
+      },
+      "visual_prompt": "Grand red sandstone Mughal courtyard of Fatehpur Sikri, Emperor Akbar with regal turban and pearl necklace standing thoughtfully looking at an isolated sandstone pavilion known as Gang Mahal, 16:9 rich historical art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0013.jpg",
+      "sfx": "mughal_flute_and_tabla",
+      "motion_effect": "zoom_in",
+      "duration": 56.464,
+      "audio_duration": 56.064,
+      "language_durations": {
+        "bn": 56.464,
+        "en": 46.768,
+        "hi": 45.04
+      },
+      "timestamp_start": 442.344,
+      "timestamp_end": 498.808
+    },
+    {
+      "scene_id": 14,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "ARCHAEOLOGIST",
+      "narration": {
+        "bn": "তাহলে জীববিজ্ঞানের ইতিহাস কী বলছে? মানুষ কবে প্রথম কথা বলার মতো শারীরিক সক্ষমতা অর্জন করেছিল? ১৯৮৩ সালে ইসরায়েলের কেবারা গুহায় প্রত্নতাত্ত্বিকরা ৬০,০০০ বছর পুরোনো একটি নিঅ্যান্ডারথাল কঙ্কাল খুঁজে পান। সেখানে মানুষের গলার ভেতরে থাকা সবচেয়ে স্পর্শকাতর হাড়—হাইঅয়েড বোন অক্ষত পাওয়া যায়। বিস্ময়করভাবে দেখা গেল, এই হাড়টি আধুনিক মানুষের গলার হাড়ের সাথে হুবহু এক! অর্থাৎ, নিঅ্যান্ডারথালরা বোবা বুনো জন্তু ছিল না, তারাও হয়তো জটিল ভাষায় কথা বলত!",
+        "en": "So when did human anatomy physically evolve to speak? In 1983, inside Israel's Kebara Cave, paleoanthropologists unearthed a 60,000-year-old Neanderthal skeleton dubbed Kebara 2. Nestled in its throat was the fragile, horseshoe-shaped hyoid bone—the bone that anchors the tongue. Microscopic CT analysis revealed it was virtually identical to modern humans! The pop-culture myth of the dumb, grunting caveman was dead. Neanderthals likely spoke in full, nuanced sentences!",
+        "hi": "तो इंसानी शरीर में बोलने की शारीरिक क्षमता कब विकसित हुई? 1983 में इज़रायल की केबारा गुफा में वैज्ञानिकों को 60,000 साल पुराना निएंडरथल कंकाल मिला। उनके गले में मौजूद हायोइड हड्डी बिल्कुल सुरक्षित थी, जो जीभ को सहारा देती है। जब वैज्ञानिकों ने इसका अध्ययन किया, तो वे हैरान रह गए—यह हड्डी आज के इंसान की हड्डी जैसी ही थी! इसका मतलब था कि निएंडरथल सिर्फ गूँगे जानवर नहीं थे, बल्कि वे भी आपस में बातचीत करते थे!"
+      },
+      "visual_prompt": "An archaeological excavation inside Kebara Cave Israel, a modern scientist carefully brushing dust off a pristine ancient fossilized horseshoe-shaped hyoid bone, glowing spotlight, 16:9 scientific comic art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0014.jpg",
+      "sfx": "archaeological_brushing_dirt",
+      "motion_effect": "zoom_in",
+      "duration": 45.472,
+      "audio_duration": 45.072,
+      "language_durations": {
+        "bn": 45.472,
+        "en": 43.648,
+        "hi": 39.736
+      },
+      "timestamp_start": 498.808,
+      "timestamp_end": 544.28
+    },
+    {
+      "scene_id": 15,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "শুধু হাড় নয়, আমাদের জিনের ভেতরেও এর প্রমাণ লুকিয়ে আছে। ১৯৯০-এর দশকে লন্ডনের একটি পরিবারের ওপর গবেষণা করে বিজ্ঞানীরা আবিষ্কার করেন FOXP2 জিন—যাকে বলা হয় ভাষার মূল জিন। এই জিনে সামান্য সমস্যা থাকলে মানুষ কথা সাজাতে বা ব্যাকরণ বুঝতে পারে না। আর সবচেয়ে তাজ্জব ব্যাপার হলো—আধুনিক মানুষের শরীরে এই জিনের যে রূপটি আছে, নিঅ্যান্ডারথালদের শরীরেও হুবহু সেই একই জিন ছিল! অর্থাৎ আজ থেকে অন্তত ৪ লাখ বছর আগেই আমাদের সাধারণ পূর্বপুরুষদের শরীরে ভাষা গঠনের ব্লু-প্রিন্ট তৈরি হয়ে গিয়েছিল!",
+        "en": "The mystery goes even deeper into our DNA. In the 1990s, geneticists studying a London family with severe speech disorders pinpointed the FOXP2 gene—popularly dubbed the language gene. Without it, the brain cannot coordinate rapid mouth movements or process complex grammar. And when geneticists sequenced Neanderthal fossils, they found the exact same modern human FOXP2 variants! That means the genetic operating system for speech existed at least 400,000 years ago!",
+        "hi": "रहस्य सिर्फ हड्डियों में नहीं, हमारे डीएनए में भी छिपा है। 1990 के दशक में वैज्ञानिकों ने FOXP2 जीन की खोज की, जिसे भाषा का जीन कहा जाता है। इसके बिना इंसान मुँह की मांसपेशियों को तेज़ी से हिला नहीं सकता और न व्याकरण समझ सकता है। और सबसे चौंकाने वाली बात यह है कि यही जीन निएंडरथल के डीएनए में भी मौजूद था! यानी बोलने का बुनियादी खाका कम से कम 4 लाख साल पहले ही तैयार हो चुका था!"
+      },
+      "visual_prompt": "The Time Chronicler looking at a glowing holographic double-helix DNA strand with a magnifying glass, tiny cartoon Neanderthal and Homo sapiens smiling at each other across the DNA, 16:9 educational animation. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0015.jpg",
+      "sfx": "sci_fi_dna_chime",
+      "motion_effect": "pan_right",
+      "duration": 48.424,
+      "audio_duration": 48.024,
+      "language_durations": {
+        "bn": 48.424,
+        "en": 40.744,
+        "hi": 36.664
+      },
+      "timestamp_start": 544.28,
+      "timestamp_end": 592.704
+    },
+    {
+      "scene_id": 16,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু কথা বলার জন্য মানুষের শরীরকে একটি মারাত্মক বিবর্তনীয় মূল্য দিতে হয়েছে! শিম্পাঞ্জিদের স্বরতন্ত্র গলার অনেক উপরে থাকে, তাই তারা একই সাথে পানি গিলতে ও শ্বাস নিতে পারে—তাদের কখনো বিষম খেয়ে দম বন্ধ হয় না। কিন্তু মানুষের স্বরতন্ত্র কথা বলার জন্য গলার অনেক নিচে নেমে এসেছে। এর ফলে আমরা মিষ্টি সুর আর শব্দ বানাতে পারি ঠিকই, কিন্তু খাবার শ্বাসনালীতে আটকে মানুষ মারা যেতে পারে! বিবর্তন আমাদের জীবনে এই মারাত্মক ঝুঁকি তখনই নিয়েছে, যখন ভাষার মূল্য মানুষের বেঁচে থাকার জন্য যেকোনো বিপদের চেয়ে কোটি গুণ বেশি ছিল!",
+        "en": "To grant us speech, natural selection made a terrifying trade-off. Chimpanzees have their larynx positioned high in the throat, meaning their windpipe and food pipe are neatly segregated. A chimp can drink and breathe simultaneously without choking. In humans, the larynx dropped low into the throat cavity, creating an acoustic resonance chamber. The deadly cost? We are one of the only mammals that can choke to death on our own dinner! Evolution only accepted this fatal hazard because the survival power of language was astronomical.",
+        "hi": "लेकिन बोलने की यह ताकत हमें एक बहुत बड़े ख़तरे की कीमत पर मिली है! चिम्पांजी का गला ऐसा होता है कि वे एक ही समय में पानी पी सकते हैं और साँस ले सकते हैं—उन्हें कभी खाना अटकने से खाँसी नहीं आती। लेकिन इंसान का वोकल कॉर्ड नीचे आ गया ताकि हम तरह-तरह की आवाज़ें निकाल सकें। इसका ख़तरा यह है कि खाना अटकने से इंसान की जान जा सकती है! कुदरत ने यह ख़तरा सिर्फ इसलिए उठाया क्योंकि बात करने की ताकत ज़िंदा रहने के लिए किसी भी ख़तरे से कहीं बड़ी थी!"
+      },
+      "visual_prompt": "A cross-section cartoon diagram showing human larynx positioned lower in the throat compared to a chimpanzee, a cartoon man coughing comically on a fish bone with an exclamation mark, 16:9 witty medical cartoon. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0016.jpg",
+      "sfx": "cough_comic_wheeze",
+      "motion_effect": "zoom_out",
+      "duration": 48.52,
+      "audio_duration": 48.12,
+      "language_durations": {
+        "bn": 48.52,
+        "en": 40.576,
+        "hi": 39.184
+      },
+      "timestamp_start": 592.704,
+      "timestamp_end": 641.224
+    },
+    {
+      "scene_id": 17,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SAN_HUNTER",
+      "narration": {
+        "bn": "তাহলে সেই আদিম আফ্রিকার মাটির প্রথম ভাষাটি শুনতে কেমন ছিল? দক্ষিণ আফ্রিকার কালাহারি মরুভূমির সান বুশম্যানরা পৃথিবীর প্রাচীনতম জেনেটিক বংশধর। তাদের মুখের ভাষা হলো খোয়সান বা ক্লিক ল্যাঙ্গুয়েজ। সেখানে কথা বলার সময় জিভ তালুতে ঠেকিয়ে অদ্ভুত টক্-টক্ শব্দ করা হয়। আধুনিক সিংহভাগ ভাষাবিদ মনে করেন, মানুষের প্রথম আদি ভাষা হয়তো কোনো মিষ্টি গান ছিল না—ছিল শিকারের সময় নিঃশব্দে যোগাযোগ করার জন্য এমনই কিছু তীক্ষ্ণ ক্লিক ও শিসের মিশ্রণ!",
+        "en": "So what did that original African mother tongue actually sound like? Geneticists point directly to the indigenous San people of the Kalahari desert, who carry the oldest genetic divergence in Homo sapiens. Their tongues belong to the Khoisan language family—famed for complex clicks produced by suction of the tongue. Linguists theorize that the primordial human speech wasn't flowing poetry; it was a rhythmic tapestry of percussive clicks and whistles designed for stealth communication during hunts!",
+        "hi": "तो आखिर अफ्रीका की उस धरती पर इंसान की पहली बोली सुनने में कैसी लगती थी? वैज्ञानिक कालाहारी रेगिस्तान के सैन आदिवासियों की तरफ इशारा करते हैं, जिनका डीएनए दुनिया में सबसे पुराना है। उनकी भाषा में जीभ से क्लिक जैसी अनोखी आवाज़ें निकाली जाती हैं। भाषाविदों का मानना है कि इंसान की पहली बोली कोई मीठा गाना नहीं थी, बल्कि शिकार के दौरान बिना आवाज़ किए बात करने के लिए बनाई गई ऐसी ही सीटी और क्लिक की आवाज़ें थीं!"
+      },
+      "visual_prompt": "Sun-drenched Kalahari desert, San bushmen hunters sitting under an ancient baobab tree smiling warmly, sharing stories with animated expressions, dry golden grass, 16:9 vivid documentary cartoon art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0017.jpg",
+      "sfx": "tongue_clicks_rhythmic_pop",
+      "motion_effect": "pan_right",
+      "duration": 40.768,
+      "audio_duration": 40.368,
+      "language_durations": {
+        "bn": 40.768,
+        "en": 35.656,
+        "hi": 36.232
+      },
+      "timestamp_start": 641.224,
+      "timestamp_end": 681.992
+    },
+    {
+      "scene_id": 18,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "২০১১ সালে বিখ্যাত বিজ্ঞানী কোয়েন্টিন অ্যাটকিনসন বিশ্বখ্যাত সায়েন্স জার্নালে একটি যুগান্তকারী গবেষণা প্রকাশ করেন। তিনি বিশ্বের ৫০৪টি ভাষার মৌলিক ধ্বনি বা ফোনমে বিশ্লেষণ করে দেখলেন—আফ্রিকার ক্লিক ভাষাগুলোতে ১০০টিরও বেশি আলাদা আলাদা ধ্বনি রয়েছে! কিন্তু আফ্রিকা থেকে মানুষ যত দূরে মাইগ্রেট করেছে, ধ্বনির সংখ্যা তত কমে গেছে। দক্ষিণ আমেরিকায় মাত্র ২৫টি, আর প্রশান্ত মহাসাগরের হাওয়াইয়ান ভাষায় ধ্বনি বেঁচে আছে মাত্র ১৩টি! ঠিক যেমন আফ্রিকা থেকে বের হয়ে মানুষের জিনগত বৈচিত্র্য কমেছিল, ভাষার বৈচিত্র্যও সেভাবেই কমেছে!",
+        "en": "In 2011, biologist Quentin Atkinson published a landmark paper in Science analyzing 504 languages across the globe. He mapped phonemes—the basic units of distinct sound. Southwest African click languages boast over 100 distinct phonemes. But as you trace ancient human migration paths across Eurasia, the Americas, and the Pacific, phoneme counts collapse! Pirahã in the Amazon has only 11 phonemes; Hawaiian has just 13! Just like human genetics, language diversity steadily bled out as tribes wandered further from the African cradle.",
+        "hi": "2011 में वैज्ञानिक क्वेंटिन एटकिंसन ने साइंस पत्रिका में एक ऐतिहासिक शोध छापा। उन्होंने दुनिया की 504 भाषाओं की बुनियादी आवाज़ों (फ़ोनीम) का अध्ययन किया। नतीजा हैरान करने वाला था: अफ्रीका की भाषाओं में 100 से ज़्यादा आवाज़ें हैं! लेकिन जैसे-जैसे इंसान अफ्रीका से दूर गया, भाषाओं की आवाज़ें घटती चली गईं। दक्षिण अमेरिका में सिर्फ 25 बचीं और हवाई द्वीप की भाषा में केवल 13! इससे साबित हुआ कि इंसानी भाषा की जड़ें सीधे अफ्रीका की ज़मीन से जुड़ी हैं।"
+      },
+      "visual_prompt": "A stylized 3D world map showing luminous golden migration arrows flowing out of Southwest Africa across Eurasia to the Americas and Pacific, colored frequency bars showing sound variety, 16:9 graphic illustration. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0018.jpg",
+      "sfx": "world_map_ambient_whoosh",
+      "motion_effect": "zoom_in",
+      "duration": 49.72,
+      "audio_duration": 49.32,
+      "language_durations": {
+        "bn": 49.72,
+        "en": 46.84,
+        "hi": 42.28
+      },
+      "timestamp_start": 681.992,
+      "timestamp_end": 731.712
+    },
+    {
+      "scene_id": 19,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "৭০,০০০ বছর আগে যখন তুষারযুগ শুরু হলো, একদল মানুষ আফ্রিকা ছেড়ে লোহিত সাগর পাড়ি দিল। উপকূল ধরে কেউ পৌঁছাল ভারতে, কেউ ইউরোপে, কেউ সাইবেরিয়া পেরিয়ে আমেরিকায়। হাজার হাজার বছরের বিচ্ছিন্নতায় সেই আদি আফ্রিকার ভাষাটি ভেঙে কোটি কোটি নতুন শব্দ তৈরি করল। ইন্দো-ইউরোপীয়, দ্রাবিড়, সিনো-তিব্বতি—হাজারো ভাষা পরিবারের জন্ম হলো। ব্যবিলনের কোনো অভিশাপ নয়, ভূগোলের বিশাল দূরত্বের কারণেই মানুষের ভাষা বিভক্ত হয়ে গিয়েছিল।",
+        "en": "Around 70,000 years ago, as glaciers locked the north, intrepid bands crossed the Red Sea in the Great Coastal Migration. Over tens of thousands of years, tribes settled along the coasts of India, the river valleys of China, the tundra of Siberia, and crossed into the Americas. Geographic isolation acted like a linguistic particle accelerator. That primordial African tongue splintered into thousands of divergent branches—Indo-European, Dravidian, Sino-Tibetan. Not a curse from heaven, but pure distance and time.",
+        "hi": "लगभग 70,000 साल पहले जब हिमयुग शुरू हुआ, इंसानों के छोटे-छोटे समूह अफ्रीका छोड़कर लाल सागर पार कर गए। हज़ारों सालों के सफर में कुछ भारत पहुँचे, कुछ चीन, कुछ यूरोप और कुछ साइबेरिया पार करके अमेरिका पहुँचे। ज़मीन की इस दूरी ने एक मूल भाषा को हज़ारों शाखाओं में बाँट दिया—इंडो-यूरोपीय, द्रविड़, चीनी-तिब्बती। यह किसी का शाप नहीं था, बल्कि दुनिया के भूगोल और समय का खेल था।"
+      },
+      "visual_prompt": "Silhouetted tribes of ancient humans walking along sea coasts and mountain passes under starry night skies, torches glowing, carrying walking sticks, 16:9 cinematic cartoon panorama. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0019.jpg",
+      "sfx": "wind_howl_epic",
+      "motion_effect": "pan_left",
+      "duration": 43.696,
+      "audio_duration": 43.296,
+      "language_durations": {
+        "bn": 43.696,
+        "en": 45.232,
+        "hi": 37.24
+      },
+      "timestamp_start": 731.712,
+      "timestamp_end": 775.408
+    },
+    {
+      "scene_id": 20,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আধুনিক অনেক শীর্ষ বিজ্ঞানী যেমন মাইকেল করবালিস মনে করেন—মানুষের প্রথম ভাষা আসলে মুখ দিয়ে শুরুই হয়নি! তা শুরু হয়েছিল হাতের ইশারায়—অর্থাৎ সাইন ল্যাঙ্গুয়েজ দিয়ে! শিম্পাঞ্জিরা চিৎকার করে কোনো নতুন তথ্য দিতে পারে না, কিন্তু তারা চমৎকার হাতের ইশারা তৈরি করতে পারে। মানুষও প্রথমে পূর্ণাঙ্গ হাত ও চেহারার ভাষায় কথা বলত। কিন্তু হাতের তো একটা সমস্যা আছে—রাতে অন্ধকারে তা দেখা যায় না, আর হাতে পাথরের অস্ত্র থাকলে হাত দিয়ে কথা বলা যায় না! তাই মানুষ আস্তে আস্তে সেই ইশারাগুলোকে গলার শব্দে রূপান্তর করল!",
+        "en": "Renowned cognitive scientists like Michael Corballis propose a mind-bending truth: human language didn't even start with the vocal cords—it started with our hands! Apes have very poor conscious control over their vocal screeches, but extraordinary dexterity with manual gestures. Earliest humans likely communicated in rich, sophisticated sign language. But sign language had two critical bugs: you can't see hands in pitch-black caves, and you can't sign when your hands are gripping a spear! So natural selection transferred the gestures into acoustic code.",
+        "hi": "माइकल कॉर्बालिस जैसे कई आधुनिक वैज्ञानिकों का मानना है कि इंसान की पहली भाषा मुँह से नहीं, बल्कि हाथों के इशारों यानी साइन लैंग्वेज से शुरू हुई थी! बंदर अपनी आवाज़ पर ज़्यादा काबू नहीं रख सकते, लेकिन वे हाथों से कमाल के इशारे करते हैं। आदिम इंसानों ने भी पहले हाथों से बात करना शुरू किया। लेकिन हाथों की दो कमियाँ थीं: अंधेरी रात में हाथ नहीं दिखते और शिकार करते वक्त हाथ खाली नहीं होते! इसलिए धीरे-धीरे इंसान ने हाथों के इशारों को आवाज़ में बदल दिया!"
+      },
+      "visual_prompt": "The Time Chronicler smiling, showing funny cartoon hands gesturing in sign language, beside a caveman demonstrating to a campfire group, 16:9 friendly cartoon vector art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0020.jpg",
+      "sfx": "hands_clapping_soft",
+      "motion_effect": "zoom_in",
+      "duration": 47.056,
+      "audio_duration": 46.656,
+      "language_durations": {
+        "bn": 47.056,
+        "en": 41.824,
+        "hi": 39.112
+      },
+      "timestamp_start": 775.408,
+      "timestamp_end": 822.464
+    },
+    {
+      "scene_id": 21,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মানুষের না আছে সিংহের মতো দাঁত, না আছে চিতার মতো গতি। একাকী একটি মানুষ সাভানায় নিতান্তই অসহায় এক খাবার। কিন্তু ভাষার কারণেই লাখ লাখ দুর্বল মানুষ একসাথে মিলে সেনাবাহিনী গড়ল, পিরামিড তৈরি করল, সংবিধান লিখল এবং চাঁদে রকেট পাঠাল! ভাষা কেবল যোগাযোগের মাধ্যম নয়—এটি মানুষের মস্তিষ্ককে একে অপরের সাথে যুক্ত করার এক মহাজাগতিক ইন্টারনেট!",
+        "en": "Physically, Homo sapiens are pathetic. We have no sharp fangs, no armor, no cheetah speed. A solitary human in the wild is just lunch. But language was our evolutionary cheat code! It allowed thousands of strangers to coordinate, build colossal cities, invent mathematics, codify justice, and launch rockets to the cosmos. Speech was the neural internet that networked billions of human minds together.",
+        "hi": "शारीरिक रूप से इंसान बहुत कमज़ोर है। न हमारे पास शेर जैसे दाँत हैं, न चीते जैसी रफ़्तार। जंगल में अकेला इंसान सिर्फ एक शिकार था। लेकिन भाषा ही इंसान का वह जादुई हथियार बनी जिसने लाखों अजनबियों को एकजुट किया, पिरामिड खड़े किए, कानून बनाए और अंतरिक्ष तक रॉकेट भेजे! भाषा सिर्फ बातचीत का ज़रिया नहीं, बल्कि इंसानी दिमागों को आपस में जोड़ने वाला एक इंटरनेट थी!"
+      },
+      "visual_prompt": "A stunning contrast: a tiny fragile caveman staring at a mammoth, morphing into a silhouette of modern humans launching a space rocket to the stars, dramatic cosmic lighting, 16:9 cinematic vector art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0021.jpg",
+      "sfx": "epic_inspirational_orchestral_rise",
+      "motion_effect": "zoom_out",
+      "duration": 34.264,
+      "audio_duration": 33.864,
+      "language_durations": {
+        "bn": 34.264,
+        "en": 34.336,
+        "hi": 33.016
+      },
+      "timestamp_start": 822.464,
+      "timestamp_end": 856.728
+    },
+    {
+      "scene_id": 22,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "তাই ফারাওয়ের বেকস হোক বা আফ্রিকার মরুভূমির ক্লিক—মানুষের প্রথম ভাষা আসলে কোনো নির্দিষ্ট একক শব্দ ছিল না। মানুষের প্রথম ভাষা ছিল অন্য মানুষের চোখের দিকে তাকিয়ে তাকে আপন করে নেওয়ার এক চিরন্তন আকুলতা। আজ তুমি যে ভাষায় কথা বলছ, সেই ভাষার কোন শব্দটি তোমার সবচেয়ে প্রিয়? কমেন্টে লিখে জানাও। ইতিহাসকে সহজ ও হাসিখুশি করে জানতে সাবস্ক্রাইব করে সঙ্গে থাকো আমাদের সিম্পল ইতিহাস পরিবারের। আমি সময়ের সাক্ষী—দেখা হবে ইতিহাসের পরের অভিযানে!",
+        "en": "So whether it was Pharaoh's Bekos, rhythmic Kalahari clicks, or silent hand signs—the first human language wasn't a single magical word. It was the eternal yearning to connect across the darkness of an indifferent universe. What is your favorite word in your native language? Drop it in the comments below! If you loved this deep dive, hit subscribe and ring the bell to join us on Easy History. I am the Time Chronicler—until our next journey through time!",
+        "hi": "तो चाहे फिरौन का बेकोस हो या रेगिस्तान की क्लिक आवाज़ें—इंसान की पहली भाषा कोई एक जादुई शब्द नहीं थी। वह तो बस अंधेरे में एक-दूसरे को समझने और गले लगाने की एक चाहत थी। आपकी अपनी मातृभाषा का कौन सा शब्द आपको सबसे प्यारा लगता है? कमेंट में ज़रूर बताइए। इतिहास को इसी तरह आसान और मज़ेदार तरीके से जानने के लिए सिंपल इतिहास को सब्सक्राइब करें। मैं हूँ समय का गवाह—फिर मिलेंगे इतिहास के अगले सफ़र में!"
+      },
+      "visual_prompt": "The Time Chronicler closing his massive glowing leather history journal, smiling warmly directly at the viewer with warm eyes, standing in front of his cosmic library with a glowing subscribe bell, 16:9 cozy cartoon art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks",
+      "asset_file": "visual_assets/scene_0022.jpg",
+      "sfx": "gentle_chime_bell_outro",
+      "motion_effect": "zoom_in",
+      "duration": 41.992,
+      "audio_duration": 41.592,
+      "language_durations": {
+        "bn": 41.992,
+        "en": 35.224,
+        "hi": 36.76
+      },
+      "timestamp_start": 856.728,
+      "timestamp_end": 898.72
+    }
+  ],
+  "language_total_durations": {
+    "bn": 898.72,
+    "en": 798.808,
+    "hi": 767.656
+  }
+}

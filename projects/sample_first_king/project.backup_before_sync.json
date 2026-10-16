@@ -1,0 +1,1944 @@
+{
+  "project_id": "sample_first_king",
+  "brand": "Simple History Teller Network",
+  "channels": {
+    "bn": "Simple History Teller Bangla",
+    "en": "Simple History Teller",
+    "hi": "Simple History Teller Hindi"
+  },
+  "style_preset": "PRESET_STICKY_MEME",
+  "target_duration_seconds": 961,
+  "total_duration_seconds": 961,
+  "metadata": {
+    "title_bn": "মানুষ কীভাবে প্রথম রাজা বানাল? (ক্ষমতা, ভয় ও সিংহাসনের আসল ইতিহাস)",
+    "title_en": "How Humans Invented the First King (The True Origin of Power and Thrones)",
+    "title_hi": "इंसानों ने पहला राजा कैसे बनाया? (सत्ता, डर और तख्त का असली इतिहास)"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "parent_scene_id": 1,
+      "sub_id": 1,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আমি সময়ের সাক্ষী।",
+        "en": "I am the Time Chronicler.",
+        "hi": "मैं समय का गवाह हूँ।"
+      },
+      "visual_prompt": "Dynamic cartoon 2D animation in OverSimplified style. The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) stepping through a glowing mystical cosmic library portal, brass spectacles gleaming, opening a heavy illuminated history journal, warm comic lighting, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0001.mp4",
+      "sfx": "portal_mystic_whoosh",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 2.08,
+        "en": 2.68,
+        "hi": 2.28
+      },
+      "timestamp_start": 0,
+      "timestamp_end": 11
+    },
+    {
+      "scene_id": 2,
+      "parent_scene_id": 1,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আজ তুমি যে দেশেরই নাগরিক হও না কেন, তুমি আইন মেনে চলো, ট্যাক্স দাও এবং একজন নেতা বা সরকারের কর্তৃত্বের সামনে মাথা নত করো।",
+        "en": "No matter which country you live in today, you obey laws, pay taxes, and submit to the authority of a government or supreme leader.",
+        "hi": "आज आप चाहे किसी भी देश के नागरिक हों, आप कानून मानते हैं, टैक्स भरते हैं और किसी सरकार या नेता के अधिकार के आगे झुकते हैं।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, modern stickman in blue shirt paying a pile of tax coins to an imposing government bureaucrat behind a wooden desk, 16:9 widescreen comic art. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0002.mp4",
+      "sfx": "coin_drop_clink",
+      "motion_effect": "ai_video",
+      "duration": 12,
+      "language_durations": {
+        "bn": 8.36,
+        "en": 8.12,
+        "hi": 8.04
+      },
+      "timestamp_start": 11,
+      "timestamp_end": 23
+    },
+    {
+      "scene_id": 3,
+      "parent_scene_id": 1,
+      "sub_id": 3,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কিন্তু কখনো কি ভেবে দেখেছ—আজ থেকে মাত্র কয়েক হাজার বছর আগেও পৃথিবীতে রাজা, সিংহাসন কিংবা রাষ্ট্র বলতে কিছুই ছিল না?",
+        "en": "Yet have you ever wondered: just a few thousand years ago, there were no kings, no crowns, and no concept of a government anywhere on Earth?",
+        "hi": "लेकिन क्या आपने कभी सोचा है: महज़ कुछ हज़ार साल पहले तक इस धरती पर कोई राजा, कोई ताज और किसी सरकार का कोई नामोनिशान नहीं था?"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an empty golden throne sitting abandoned on top of a lonely dusty hill under a wide blue sky with a broken stone crown on the grass. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0003.mp4",
+      "sfx": "wind_desert_whistle",
+      "motion_effect": "ai_video",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 9.32,
+        "en": 7.76,
+        "hi": 8.76
+      },
+      "timestamp_start": 23,
+      "timestamp_end": 34.5
+    },
+    {
+      "scene_id": 4,
+      "parent_scene_id": 1,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "হোমো স্যাপিয়েন্স হিসেবে মানবজাতির তিন লক্ষ বছরের ইতিহাসের শতকরা পঁচানব্বই ভাগ সময় মানুষ কাটিয়েছে সম্পূর্ণ সমানাধিকারী শিকারি দলে।",
+        "en": "For ninety-five percent of Homo sapiens' three-hundred-thousand-year history, humans lived in fiercely equal nomadic hunter-gatherer bands.",
+        "hi": "होमो सेपियन्स के तीन लाख साल के इतिहास का पचानवे प्रतिशत हिस्सा इंसानों ने पूरी तरह बराबरी वाले शिकारी कबीलों में बिताया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, prehistoric hunter-gatherer stickmen in animal hides walking peacefully in a single horizontal line across an African savannah at sunset. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0004.jpg",
+      "sfx": "footsteps_grass_soft",
+      "motion_effect": "pan_left",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 9.92,
+        "en": 9,
+        "hi": 12.25
+      },
+      "timestamp_start": 34.5,
+      "timestamp_end": 47
+    },
+    {
+      "scene_id": 5,
+      "parent_scene_id": 1,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সেই আদিম সমাজে কোনো পুলিশ ছিল না, কোনো আদালত ছিল না, আর কারো মাথায় অন্যের ওপর হুকুম চালানোর কোনো অধিকার ছিল না।",
+        "en": "In that ancient world, there were no police forces, no courts, and no single human held the right to boss around another.",
+        "hi": "उस प्राचीन समाज में न कोई पुलिस थी, न कोई अदालत, और न ही किसी इंसान को दूसरों पर हुक्म चलाने का कोई अधिकार था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, two stickman cavemen shrugging playfully at each other in a sunny clearing while sharing wild berries from a wooden bowl. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0005.jpg",
+      "sfx": "berries_bush_rustle",
+      "motion_effect": "zoom_out",
+      "duration": 12,
+      "language_durations": {
+        "bn": 7.84,
+        "en": 8.36,
+        "hi": 8.88
+      },
+      "timestamp_start": 47,
+      "timestamp_end": 59
+    },
+    {
+      "scene_id": 6,
+      "parent_scene_id": 1,
+      "sub_id": 6,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "HUNTER_CHIEF",
+      "narration": {
+        "bn": "যদি কোনো অহংকারী শিকারি সেখানে বুক ফুলিয়ে চিৎকার করে বলত: 'আমিই এই দলের নেতা!'—তবে কী ঘটত জানো?",
+        "en": "If an arrogant hunter stood up, pounded his chest, and screamed: 'I am the boss of this tribe!'—do you know what happened?",
+        "hi": "अगर कोई घमंडी शिकारी सीना तानकर चिल्ला उठता: 'मैं ही इस कबीले का सरदार हूँ!'—तो जानते हैं क्या होता था?"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, muscular primitive stickman aggressively kicking the dirt, waving a heavy bone club in the air, comic fiery red eyes, shouting angrily, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0006.mp4",
+      "sfx": "dramatic_shout_impact",
+      "motion_effect": "ai_video",
+      "duration": 10.5,
+      "language_durations": {
+        "bn": 7.44,
+        "en": 7.56,
+        "hi": 7.4
+      },
+      "timestamp_start": 59,
+      "timestamp_end": 69.5
+    },
+    {
+      "scene_id": 7,
+      "parent_scene_id": 1,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পুরো দলের সবাই মিলে গোল হয়ে তাকে ঘিরে দাঁড়িয়ে সশব্দে ঠাট্টা আর উপহাস করতে শুরু করত!",
+        "en": "The entire tribe would gather around him in a tight circle and burst out in unanimous, humiliating laughter!",
+        "hi": "पूरा कबीला उसके चारों तरफ गोल घेरा बनाकर खड़ा हो जाता और ज़ोर-ज़ोर से उसका मज़ाक उड़ाने लगता!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a large circle of smiling cartoon stick figures pointing fingers at a single red-faced, embarrassed muscular hunter. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0007.jpg",
+      "sfx": "crowd_giggle_whisper",
+      "motion_effect": "zoom_in",
+      "duration": 11,
+      "language_durations": {
+        "bn": 5.56,
+        "en": 7.56,
+        "hi": 6.6
+      },
+      "timestamp_start": 69.5,
+      "timestamp_end": 80.5
+    },
+    {
+      "scene_id": 8,
+      "parent_scene_id": 1,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "নৃতত্ত্ববিদরা একে বলেন 'রিভার্স ডমিন্যান্স হায়ারার্কি'—যেখানে দুর্বলরা জোট বেঁধে যেকোনো সম্ভাব্য স্বৈরশাসককে অঙ্কুরেই ধ্বংস করে দিত।",
+        "en": "Anthropologists call this the 'Reverse Dominance Hierarchy'—where the weak united together to crush any would-be tyrant before he could rise.",
+        "hi": "मानवविज्ञानी इसे 'रिवर्स डोमिनेंस हायरार्की' कहते हैं—जहाँ कमज़ोर लोग मिलकर किसी भी उभरते तानाशाह को शुरुआत में ही कुचल देते थे।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an oversized cartoon diagram showing ten small stick figures holding hands forming a fortress around one defeated bully sitting on the floor. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0008.jpg",
+      "sfx": "chime_insight_bell",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 9.92,
+        "en": 9.36,
+        "hi": 9.32
+      },
+      "timestamp_start": 80.5,
+      "timestamp_end": 93.5
+    },
+    {
+      "scene_id": 9,
+      "parent_scene_id": 1,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কিন্তু কীভাবে সেই অহংকারহীন সাম্যের পৃথিবী ভেঙে গিয়ে আজকের মতো কোটি কোটি প্রজার ওপর একচ্ছত্র রাজতন্ত্র কায়েম হলো?",
+        "en": "So how did that world of perfect equality shatter, paving the way for absolute monarchs ruling over millions of subservient subjects?",
+        "hi": "तो फिर बराबरी की वह खूबसूरत दुनिया कैसे टूटी, और करोड़ों इंसानों पर राज करने वाले राजाओं का तख्त कैसे खड़ा हुआ?"
+      },
+      "visual_prompt": "The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) pointing his finger toward an ancient stone map etched on a wooden easel, eyebrow arched in intrigue, warm library glow. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0009.jpg",
+      "sfx": "page_turn_soft",
+      "motion_effect": "zoom_in",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 9.2,
+        "en": 8.84,
+        "hi": 7.36
+      },
+      "timestamp_start": 93.5,
+      "timestamp_end": 105
+    },
+    {
+      "scene_id": 10,
+      "parent_scene_id": 1,
+      "sub_id": 10,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "রহস্যটা বুঝতে হলে আমাদের যেতে হবে আফ্রিকা মহাদেশের কালাহারি মরুভূমিতে, যেখানে ঊনবিংশ শতাব্দীর শেষভাগেও আদিম সাম্য টিকে ছিল।",
+        "en": "To unlock this mystery, we must travel to the Kalahari desert in southern Africa, where prehistoric equality survived until modern times.",
+        "hi": "इस रहस्य को समझने के लिए हमें अफ्रीका के कालाहारी रेगिस्तान चलना होगा, जहाँ हाल के दौर तक यह प्राचीन बराबरी ज़िंदा थी।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a panoramic cartoon view of the vast red sand dunes of the Kalahari desert under a scorching golden sun, small acacia trees. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0010.jpg",
+      "sfx": "desert_wind_ambient",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 10.2,
+        "en": 8.4,
+        "hi": 8.76
+      },
+      "timestamp_start": 105,
+      "timestamp_end": 117
+    },
+    {
+      "scene_id": 11,
+      "parent_scene_id": 2,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কালাহারির 'জু/হোয়ানসি' বুশম্যান সমাজে শত শত বছর ধরে প্রচলিত ছিল এক অবিশ্বাস্য ঐতিহ্য—যার নাম 'ইনসাল্টিং দ্য মিট' বা শিকারকে অপমান করা।",
+        "en": "Among the Ju/'hoansi Bushmen of the Kalahari, an incredible tradition persisted for centuries—known as 'Insulting the Meat'.",
+        "hi": "कालाहारी के जू/होआंसी आदिवासियों में सदियों से एक अनोखी परंपरा चली आ रही थी—जिसे 'शिकार की बेइज़्ज़ती' कहा जाता था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, cartoon cave hunters sitting around a cooking pot while examining a giant piece of roasted meat on sticks. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0011.jpg",
+      "sfx": "campfire_crackle_wind",
+      "motion_effect": "zoom_in",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 11.8,
+        "en": 8.2,
+        "hi": 8.72
+      },
+      "timestamp_start": 117,
+      "timestamp_end": 129.5
+    },
+    {
+      "scene_id": 12,
+      "parent_scene_id": 2,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কোনো দক্ষ শিকারি যদি একাই একটা প্রকাণ্ড জিরাফ শিকার করে আনত, তবে গোত্রের লোকেরা উল্লাসের বদলে তার মুখে থুতু ফেলে হাসত!",
+        "en": "If an elite hunter took down a massive giraffe all by himself, instead of cheering, the tribe would mockingly spit and laugh in his face!",
+        "hi": "अगर कोई माहिर शिकारी अकेले ही एक विशाल जिराफ़ का शिकार करके लाता, तो कबीले वाले उसकी वाहवाही करने के बजाय उस पर हंसते थे!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, tribe stick figures slapping their knees and rolling on the sand laughing wildly at an astonished hunter holding a spear, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0012.mp4",
+      "sfx": "laughter_wild_comic",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.88,
+        "en": 9.6,
+        "hi": 9.12
+      },
+      "timestamp_start": 129.5,
+      "timestamp_end": 140.5
+    },
+    {
+      "scene_id": 13,
+      "parent_scene_id": 2,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তারা বলত: 'এই চামড়া-ঝোলানো পচা জন্তুটা তুমি কোথা থেকে কুড়িয়ে আনলে? এটা তো একটা মরা ছাগলের চেয়েও জঘন্য!'",
+        "en": "They would jeer: 'Where did you drag this skinny bag of bones from? This looks worse than a diseased, dead goat!'",
+        "hi": "वे ताना मारते: 'हड्डियों का यह सड़ा हुआ थैला कहाँ से घसीट लाए? यह तो किसी मरी हुई बकरी से भी बदतर दिखता है!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an elderly wrinkled stickman elder poking a massive woolly carcass with a stick and making a disgusted comical face. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0013.jpg",
+      "sfx": "mocking_snicker",
+      "motion_effect": "zoom_out",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 7.84,
+        "en": 7.48,
+        "hi": 7.24
+      },
+      "timestamp_start": 140.5,
+      "timestamp_end": 152
+    },
+    {
+      "scene_id": 14,
+      "parent_scene_id": 2,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "১৯৬৯ সালে নৃতত্ত্ববিদ রিচার্ড লি যখন তাদের একটি ১২০০ পাউন্ডের তাগড়া ষাঁড় উপহার দিয়েছিলেন, তখনও তারা একই কাজ করেছিল!",
+        "en": "In 1969, when anthropologist Richard Lee gifted them a massive twelve-hundred-pound black ox, the tribe pulled the exact same trick on him!",
+        "hi": "1969 में जब मानवविज्ञानी रिचर्ड ली ने उन्हें बारह सौ पाउंड का तगड़ा बैल तोहफे में दिया, तब भी कबीले ने उनके साथ यही खेल खेला!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a confused cartoon modern explorer with spectacles and a safari hat standing next to a giant prize black ox while tribesmen chuckle. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0014.jpg",
+      "sfx": "ox_grunt_bellow",
+      "motion_effect": "pan_left",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 9.68,
+        "en": 8.92,
+        "hi": 9.56
+      },
+      "timestamp_start": 152,
+      "timestamp_end": 164.5
+    },
+    {
+      "scene_id": 15,
+      "parent_scene_id": 2,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "অবাক হয়ে কারণ জিজ্ঞেস করতেই এক আদিবাসী প্রবীণ বলেছিলেন: 'একজন শিকারি যখন শিকার আনে, সে নিজেকে নেতা ভাবতে শুরু করে।'",
+        "en": "When a baffled Lee asked why, a village elder explained: 'When a young man kills much meat, his heart swells, and he imagines himself a chief.'",
+        "hi": "हैरान होकर जब ली ने वजह पूछी, तो एक बुज़ुर्ग ने समझाया: 'जब कोई जवान बड़ा शिकार लाता है, तो उसका दिल फूलता है और वह खुद को सरदार समझने लगता है।'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a wise cartoon elder sitting cross-legged by a tiny fire, gently gesturing with two hands toward the explorer. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0015.jpg",
+      "sfx": "elder_whisper_wisdom",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 8.6,
+        "en": 9.68,
+        "hi": 10.68
+      },
+      "timestamp_start": 164.5,
+      "timestamp_end": 177.5
+    },
+    {
+      "scene_id": 16,
+      "parent_scene_id": 2,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "'আর কারো অহংকার বরদাশত করা মানেই হচ্ছে—একদিন তার সেই অহংকার অন্য মানুষের প্রাণ কেড়ে নেবে!'",
+        "en": "'And tolerating pride means that one day, that unchecked arrogance will lead to human blood being spilled!'",
+        "hi": "'और किसी का घमंड बर्दाश्त करने का मतलब है—एक दिन वही घमंड किसी बेकसूर इंसान की जान ले लेगा!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a dramatic cartoon thought bubble showing a stickman bully hitting another stickman with a wooden club, red warning tint. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0016.jpg",
+      "sfx": "dramatic_warning_thud",
+      "motion_effect": "zoom_out",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 6.72,
+        "en": 6.96,
+        "hi": 6.72
+      },
+      "timestamp_start": 177.5,
+      "timestamp_end": 189
+    },
+    {
+      "scene_id": 17,
+      "parent_scene_id": 2,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আদিম শিকারিরা জানত—ক্ষমতা হলো এক মারাত্মক ভাইরাসের মতো; একে মাথাচাড়া দিতে দিলেই সমানাধিকারের সমাজ ধ্বংস হয়ে যাবে।",
+        "en": "Prehistoric foragers understood that absolute power was a deadly virus; if allowed to spread, it would poison egalitarian human freedom.",
+        "hi": "प्राचीन शिकारी जानते थे कि ताकत एक जानलेवा वायरस जैसी है; अगर इसे छूट दी गई, तो यह इंसानी आज़ादी और बराबरी को तबाह कर देगी।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon stickman hunter holding a magnifying glass inspecting a tiny comical red crown crawling like a bug on the sand. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0017.jpg",
+      "sfx": "heartbeat_suspense",
+      "motion_effect": "pan_right",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.92,
+        "en": 9.4,
+        "hi": 9.48
+      },
+      "timestamp_start": 189,
+      "timestamp_end": 201.5
+    },
+    {
+      "scene_id": 18,
+      "parent_scene_id": 2,
+      "sub_id": 8,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "যদি কোনো ব্যক্তি একাধিক সতর্কবার্তার পরও দলনেতা সাজার চেষ্টা করত, তবে গোত্রের সবাই মিলে এক রাতে তাকে বন থেকে তাড়িয়ে দিত!",
+        "en": "If an individual persisted in demanding submission despite warnings, the entire tribe banded together and banished him into the wilderness!",
+        "hi": "अगर कोई शख्स चेतावनियों के बावजूद सरदार बनने की ज़िद करता, तो पूरा कबीला मिलकर एक ही रात में उसे जंगल से खदेड़ देता था!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, three angry stickmen chasing an arrogant cartoon bully carrying sticks and stones out of the campfire perimeter into the dark night, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0018.mp4",
+      "sfx": "running_footsteps_chase",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.72,
+        "en": 8.36,
+        "hi": 8.12
+      },
+      "timestamp_start": 201.5,
+      "timestamp_end": 212.5
+    },
+    {
+      "scene_id": 19,
+      "parent_scene_id": 2,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু শিকারি সমাজের এই লৌহকঠিন সুরক্ষা দেয়াল চিরতরে চূর্ণবিচূর্ণ হয়ে গেল প্রায় বারো হাজার বছর আগে।",
+        "en": "Yet this ironclad egalitarian defense was permanently shattered roughly twelve thousand years ago.",
+        "hi": "लेकिन बराबरी का यह अभेद्य किला आज से लगभग बारह हज़ार साल पहले हमेशा के लिए ढह गया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon stone wall cracking into large jagged pieces, revealing distant lush green wheat valleys under a golden dawn. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0019.jpg",
+      "sfx": "stone_crack_rumble",
+      "motion_effect": "zoom_in",
+      "duration": 11,
+      "language_durations": {
+        "bn": 7.6,
+        "en": 6.68,
+        "hi": 7
+      },
+      "timestamp_start": 212.5,
+      "timestamp_end": 223.5
+    },
+    {
+      "scene_id": 20,
+      "parent_scene_id": 2,
+      "sub_id": 10,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "হিমবাহ গলতে শুরু করল, পৃথিবীর আবহাওয়া বদলে গেল, আর মানুষ আবিষ্কার করল এমন এক মারণাস্ত্র—যার নাম কৃষিকাজ!",
+        "en": "Glaciers receded, global climate transformed, and humanity stumbled upon the ultimate catalyst of inequality—agriculture!",
+        "hi": "ग्लेशियर पिघलने लगे, दुनिया का मौसम बदला, और इंसानों के हाथ एक ऐसा बदलाव लगा जिसने सब बदल दिया—यानी खेतीबाड़ी!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, melting ice sheet dripping water onto green sprouts while a cartoon sun beams down warmly. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0020.jpg",
+      "sfx": "ice_melt_water_trickle",
+      "motion_effect": "pan_left",
+      "duration": 12,
+      "language_durations": {
+        "bn": 9.16,
+        "en": 8.88,
+        "hi": 10.6
+      },
+      "timestamp_start": 223.5,
+      "timestamp_end": 235.5
+    },
+    {
+      "scene_id": 21,
+      "parent_scene_id": 3,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "অধিকাংশ মানুষ মনে করে কৃষিকাজ ছিল মানবজাতির স্বেচ্ছায় নেওয়া এক আশীর্বাদপূর্ণ সিদ্ধান্ত—কিন্তু ইতিহাস বলে ভিন্ন কথা!",
+        "en": "Most people assume agriculture was a glorious, voluntary blessing—yet documented archaeology reveals a very dark reality!",
+        "hi": "ज़्यादातर लोग मानते हैं कि खेतीबाड़ी इंसानों का अपनी मर्ज़ी से चुना हुआ वरदान थी—लेकिन इतिहास कुछ और ही कहानी सुनाता है!"
+      },
+      "visual_prompt": "The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) leaning on an ancient wooden lectern holding up a stalk of wild golden wheat, smiling ironically at the camera. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0021.jpg",
+      "sfx": "wheat_stalk_rustle",
+      "motion_effect": "zoom_in",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 8.72,
+        "en": 10.36,
+        "hi": 11.27
+      },
+      "timestamp_start": 235.5,
+      "timestamp_end": 247
+    },
+    {
+      "scene_id": 22,
+      "parent_scene_id": 3,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মধ্যপ্রাচ্যের 'ফারটাইল ক্রিসেন্ট' বা উর্বর অর্ধচন্দ্রাকার অঞ্চলে মানুষ বুনো গম ও বার্লির বীজ মাটিতে পুঁতে এক জায়গায় স্থায়ী হতে বাধ্য হলো।",
+        "en": "In the Middle East's Fertile Crescent, humans planted wild emmer wheat and barley, trapping themselves in permanent mudbrick settlements.",
+        "hi": "मध्य पूर्व के उपजाऊ इलाके में इंसानों ने जंगली गेहूँ और जौ बोना शुरू किया, जिससे वे मिट्टी के घरों में हमेशा के लिए बंधकर रह गए।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique cartoon map of the Fertile Crescent highlighted in glowing green with small mudbrick hut icons. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0022.jpg",
+      "sfx": "map_unfurl_creak",
+      "motion_effect": "zoom_out",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 10.4,
+        "en": 8.96,
+        "hi": 8.8
+      },
+      "timestamp_start": 247,
+      "timestamp_end": 259.5
+    },
+    {
+      "scene_id": 23,
+      "parent_scene_id": 3,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "শিকারি জীবনে মানুষ প্রতিদিন মাত্র তিন থেকে চার ঘণ্টা খাবার খুঁজত, বাকি সময় কাটাত গল্প, বিশ্রাম আর পরিবারের সাথে।",
+        "en": "As hunter-gatherers, humans worked just three to four hours a day, spending the rest of their time resting, storytelling, and playing.",
+        "hi": "शिकारी ज़िंदगी में इंसान दिन में सिर्फ तीन से चार घंटे खाने की तलाश करता था, बाकी पूरा दिन आराम और गपशप में बीतता था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a stickman caveman happily lounging on a soft grassy mound under a shady tree chewing a straw of grass. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0023.jpg",
+      "sfx": "birds_chirping_breeze",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 9.84,
+        "en": 8.28,
+        "hi": 7.92
+      },
+      "timestamp_start": 259.5,
+      "timestamp_end": 271.5
+    },
+    {
+      "scene_id": 24,
+      "parent_scene_id": 3,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "অথচ কৃষক হওয়ার সাথে সাথেই শুরু হলো ভোর থেকে সন্ধ্যা পর্যন্ত রোদ-বৃষ্টিতে পিঠ বাঁকিয়ে একটানা হাড়ভাঙা দাসত্ব!",
+        "en": "Yet the moment humans became farmers, life degraded into dawn-to-dusk backbreaking toil under the scorching sun and heavy rain!",
+        "hi": "लेकिन किसान बनते ही ज़िंदगी सुबह से शाम तक कड़ी धूप और बारिश में कमर तोड़ मेहनत की ग़ुलामी बन गई!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, torrential rain and blistering heat alternating over a stickman farmer bent double swinging a crude stone hoe into muddy earth, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0024.mp4",
+      "sfx": "heavy_rain_thunder_mud",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.96,
+        "en": 8.64,
+        "hi": 6.8
+      },
+      "timestamp_start": 271.5,
+      "timestamp_end": 282.5
+    },
+    {
+      "scene_id": 25,
+      "parent_scene_id": 3,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু এর চেয়েও ভয়ঙ্কর পরিবর্তনটি ঘটেছিল মানুষের খাদ্য সংরক্ষণের মানসিকতায়।",
+        "en": "Yet a far more dangerous psychological revolution was brewing inside the human relationship with food storage.",
+        "hi": "लेकिन इससे भी ज़्यादा खतरनाक बदलाव इंसानों की अनाज जमा करने की सोच में आया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a stickman farmer looking suspiciously over his shoulder while stacking clay jars of grain in a dark storage room. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0025.jpg",
+      "sfx": "clay_jar_scrape",
+      "motion_effect": "zoom_in",
+      "duration": 11,
+      "language_durations": {
+        "bn": 6.04,
+        "en": 7.32,
+        "hi": 5.48
+      },
+      "timestamp_start": 282.5,
+      "timestamp_end": 293.5
+    },
+    {
+      "scene_id": 26,
+      "parent_scene_id": 3,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "শিকার করা মাংস কয়েকদিনের বেশি রাখা যেত না, তাই তা সবার সাথে ভাগ করে খাওয়া ছাড়া কোনো উপায় ছিল না।",
+        "en": "Hunted meat spoiled within forty-eight hours, meaning sharing was the only rational economic choice.",
+        "hi": "शिकार किया हुआ मांस दो दिन से ज़्यादा नहीं टिकता था, इसलिए उसे सबके साथ बाँटकर खाने के अलावा कोई चारा नहीं था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a large cartoon joint of meat showing little green stink lines, stickmen rushing to distribute pieces before it rots. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0026.jpg",
+      "sfx": "flies_buzz_spoiled",
+      "motion_effect": "zoom_out",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 7.4,
+        "en": 6.92,
+        "hi": 7.4
+      },
+      "timestamp_start": 293.5,
+      "timestamp_end": 305
+    },
+    {
+      "scene_id": 27,
+      "parent_scene_id": 3,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু শুকনো গম ও বার্লি মাটির পাত্রে বছরের পর বছর ধরে নষ্ট না হয়ে টিকে থাকে!",
+        "en": "Dried grain and barley, on the other hand, could be stockpiled inside sealed clay granaries for years without rotting!",
+        "hi": "लेकिन सूखा गेहूँ और जौ मिट्टी के मटकों में सालों-साल बिना सड़े सुरक्षित रखा जा सकता था!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, large neat stacks of terracotta grain jars sealed with wax, gleaming in warm amber storage room lighting. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0027.jpg",
+      "sfx": "grain_pour_crackle",
+      "motion_effect": "pan_left",
+      "duration": 11,
+      "language_durations": {
+        "bn": 5.96,
+        "en": 6.84,
+        "hi": 6.32
+      },
+      "timestamp_start": 305,
+      "timestamp_end": 316
+    },
+    {
+      "scene_id": 28,
+      "parent_scene_id": 3,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আর এখানেই জন্ম নিল ব্যক্তিগত সম্পত্তি—যেখানে এক ব্যক্তির গোলা উপচে পড়তে পারে, অথচ পাশের বাড়ির শিশুটি অনাহারে শুকিয়ে যেতে পারে!",
+        "en": "And thus private property was born—where one family's silo overflowed while the neighboring hut's children went hungry!",
+        "hi": "और यहीं से निजी संपत्ति का जन्म हुआ—जहाँ एक आदमी का गोदाम अनाज से भरा हो सकता था, जबकि पड़ोसी का बच्चा भूखा सो सकता था!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, split frame: left side shows a fat smiling stickman beside piles of grain; right side shows a thin hungry stickman looking sadly through a window. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0028.jpg",
+      "sfx": "dramatic_contrast_bell",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 8.56,
+        "en": 8.36,
+        "hi": 10.32
+      },
+      "timestamp_start": 316,
+      "timestamp_end": 329
+    },
+    {
+      "scene_id": 29,
+      "parent_scene_id": 3,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সম্পদ জমতেই দূরদূরান্ত থেকে উঁকি দিতে শুরু করল ক্ষুধার্ত ও হিংস্র যাযাবর দস্যুদল।",
+        "en": "The moment grain stockpiles grew, predatory nomadic raiders began eyeing the defenseless farming villages from the distant hills.",
+        "hi": "जैसे ही अनाज के ढेर लगे, दूर की पहाड़ियों से भूखे और खूंखार लुटेरों की नज़रें इन निहत्थे गाँवों पर टिक गईं।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three sinister cartoon bandit stickmen with eye patches peering over a rocky ridge at a peaceful mudbrick farming village below. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0029.jpg",
+      "sfx": "horse_snort_distant",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 6.12,
+        "en": 8.2,
+        "hi": 7.96
+      },
+      "timestamp_start": 329,
+      "timestamp_end": 341
+    },
+    {
+      "scene_id": 30,
+      "parent_scene_id": 3,
+      "sub_id": 10,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "একজন কৃষক নয় মাস ধরে মাথার ঘাম পায়ে ফেলে ফসল ফলাত, আর একরাতে ঘোড়সওয়ার ডাকাতরা এসে পুরো ফসল লুটে নিয়ে চলে যেত!",
+        "en": "A farmer slaved for nine grueling months, only for horse-mounted bandits to sweep in overnight, torch the huts, and loot every last bushel!",
+        "hi": "एक किसान नौ महीने तक खून-पसीना बहाकर फसल उगाता, और एक ही रात में घुड़सवार लुटेरे आकर पूरा अनाज लूटकर ले जाते!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, chaotic burning village night, masked stickman raiders galloping past waving torches, snatching grain sacks as farmers run in terror, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0030.mp4",
+      "sfx": "fire_crackle_screams",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.96,
+        "en": 9.36,
+        "hi": 7.32
+      },
+      "timestamp_start": 341,
+      "timestamp_end": 352
+    },
+    {
+      "scene_id": 31,
+      "parent_scene_id": 4,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কৃষকদের সামনে দেখা দিল এক চরম অস্তিত্বের সংকট: এক হাতে কাস্তে নিয়ে তো আর অন্য হাতে তলোয়ার চালানো যায় না!",
+        "en": "Farmers faced an existential crisis: you cannot reap wheat with a sickle while simultaneously wielding a heavy copper spear!",
+        "hi": "किसानों के सामने ज़िंदगी और मौत का सवाल खड़ा हो गया: एक हाथ में हँसिया लेकर दूसरे हाथ से तलवार तो नहीं चलाई जा सकती!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a flustered stickman farmer comically holding a bronze sickle in one hand and a giant heavy spear in the other, wobbling off-balance. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0031.jpg",
+      "sfx": "metal_clatter_spear",
+      "motion_effect": "zoom_in",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 7.28,
+        "en": 8.12,
+        "hi": 7.4
+      },
+      "timestamp_start": 352,
+      "timestamp_end": 364.5
+    },
+    {
+      "scene_id": 32,
+      "parent_scene_id": 4,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "গ্রামবাসী তখন একজন দক্ষ যুদ্ধবাজ ও বলশালী ব্যক্তির কাছে গিয়ে হাত জোড় করে কাকুতি জানাল।",
+        "en": "In sheer desperation, the terrified villagers knelt before the strongest, most violent warrior in their valley.",
+        "hi": "घबराए हुए गाँव वाले अपनी घाटी के सबसे खूंखार और ताकतवर लड़ाके के सामने हाथ जोड़कर गिड़गिड़ाने पहुँचे।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, five small cartoon farmers bowing on their knees before a tall, muscular stickman wearing a leopard pelt and holding a spiked club. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0032.jpg",
+      "sfx": "kneeling_plea_soft",
+      "motion_effect": "zoom_out",
+      "duration": 12,
+      "language_durations": {
+        "bn": 6.52,
+        "en": 7.68,
+        "hi": 7.68
+      },
+      "timestamp_start": 364.5,
+      "timestamp_end": 376.5
+    },
+    {
+      "scene_id": 33,
+      "parent_scene_id": 4,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "'দয়া করে আমাদের রক্ষা করো! আমাদের ফসল বাঁচাও, আমরা তোমাকে কিছু একটা প্রতিদান দেব!'",
+        "en": "'Please protect us! Defend our granaries, and we will reward you with whatever you demand!'",
+        "hi": "'रहम करो, हमें बचाओ! हमारे अनाज की हिफाज़त करो, हम तुम्हें मुंहमांगा इनाम देंगे!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an anxious cartoon elder offering a basket of freshly baked flatbread to the stern, unsmiling warlord. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0033.jpg",
+      "sfx": "bread_basket_rustle",
+      "motion_effect": "pan_left",
+      "duration": 11,
+      "language_durations": {
+        "bn": 5.16,
+        "en": 5.2,
+        "hi": 7.08
+      },
+      "timestamp_start": 376.5,
+      "timestamp_end": 387.5
+    },
+    {
+      "scene_id": 34,
+      "parent_scene_id": 4,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "WARLORD",
+      "narration": {
+        "bn": "সেই বলশালী যোদ্ধা মুচকি হাসল—আর মানব ইতিহাসের সবচেয়ে বিপজ্জনক চুক্তির খসড়া তৈরি হলো!",
+        "en": "The hulking warlord grinned—and the most dangerous, irreversible contract in human history was drawn!",
+        "hi": "उस ताकतवर लड़ाके ने एक कुटिल मुस्कान दी—और मानव इतिहास का सबसे खतरनाक समझौता तैयार हो गया!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the warrior grinning with a toothy smirk, crossing his thick muscular arms while standing before the trembling farmers. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0034.jpg",
+      "sfx": "cunning_smirk_whistle",
+      "motion_effect": "zoom_in",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 7.04,
+        "en": 6.96,
+        "hi": 11.27
+      },
+      "timestamp_start": 387.5,
+      "timestamp_end": 399
+    },
+    {
+      "scene_id": 35,
+      "parent_scene_id": 4,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "WARLORD",
+      "narration": {
+        "bn": "যোদ্ধা বলল: 'খুব সহজ শর্ত—প্রতিটি ফসলের শতকরা কুড়ি ভাগ গম আমাকে আর আমার সশস্ত্র পেটোয়া বাহিনীকে দিতে হবে!'",
+        "en": "The warrior declared: 'The terms are simple: hand over twenty percent of every single harvest to feed me and my armed militia!'",
+        "hi": "लड़ाके ने फरमान सुनाया: 'शर्त बहुत सीधी है—हर फसल का बीस प्रतिशत अनाज मुझे और मेरी हथियारबंद फौज को मिलना चाहिए!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the warlord pointing an authoritative finger at a cartoon chalkboard showing a pie chart with 20% labeled in bold red. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0035.jpg",
+      "sfx": "chalk_scratch_board",
+      "motion_effect": "zoom_in",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.56,
+        "en": 9,
+        "hi": 9.28
+      },
+      "timestamp_start": 399,
+      "timestamp_end": 411.5
+    },
+    {
+      "scene_id": 36,
+      "parent_scene_id": 4,
+      "sub_id": 6,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "শুরু হলো পৃথিবীর প্রথম প্রাতিষ্ঠানিক চাঁদাবাজি বা 'প্রোটেকশন র্যাকেট'—যা আজ আমরা সভ্য ভাষায় 'ট্যাক্স' বা কর বলে চিনি!",
+        "en": "Thus began history's very first protection racket—what modern civilized societies politely call taxation!",
+        "hi": "यहीं से शुरू हुई दुनिया की पहली हफ्ता-वसूली—जिसे आज की सभ्य दुनिया में 'टैक्स' या लगान कहा जाता है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, armed stickman brutes forcefully marching through village lanes, taking heavy burlap sacks from wooden carts, dust kicking up, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0036.mp4",
+      "sfx": "heavy_boot_marching",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.96,
+        "en": 7.24,
+        "hi": 7.88
+      },
+      "timestamp_start": 411.5,
+      "timestamp_end": 422.5
+    },
+    {
+      "scene_id": 37,
+      "parent_scene_id": 4,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "যোদ্ধা ও তার দলবল গ্রাম পাহারা দিল ঠিকই, কিন্তু বিপদের পর তারা আর লাঙল হাতে চাষের জমিতে ফিরে গেল না।",
+        "en": "The warlord's gang successfully drove off the bandits, but once the threat passed, they never went back to farming.",
+        "hi": "लड़ाके की टोली ने लुटेरों को तो भगा दिया, लेकिन खतरा टलने के बाद उन्होंने दोबारा कभी हल नहीं उठाया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three armed cartoon guards lazily sitting on grain barrels chewing wheat stalks while farmers work sweating in the sun. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0037.jpg",
+      "sfx": "snore_lazy_hum",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 7.92,
+        "en": 6.84,
+        "hi": 6.6
+      },
+      "timestamp_start": 422.5,
+      "timestamp_end": 434.5
+    },
+    {
+      "scene_id": 38,
+      "parent_scene_id": 4,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তারা দেখল—মাটিতে ঘাম ঝরানোর চেয়ে অস্ত্র উঁচিয়ে অন্যের অর্জিত খাবার ভোগ করা বহুগুণ আরামদায়ক!",
+        "en": "They realized that brandishing weapons to consume other people's labor was infinitely more comfortable than sweating in the dirt!",
+        "hi": "उन्हें समझ आ गया था कि धूप में पसीना बहाने से कहीं ज़्यादा आराम हथियार दिखाकर दूसरों की कमाई खाने में है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon warlord reclining on a carved wooden bench while a servant drops grapes into his mouth, smiling complacently. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0038.jpg",
+      "sfx": "grape_munch_luxury",
+      "motion_effect": "zoom_out",
+      "duration": 12,
+      "language_durations": {
+        "bn": 7.48,
+        "en": 7.88,
+        "hi": 6.4
+      },
+      "timestamp_start": 434.5,
+      "timestamp_end": 446.5
+    },
+    {
+      "scene_id": 39,
+      "parent_scene_id": 4,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তারা শস্যভাণ্ডারকে ঘিরে তৈরি করল মাটির উঁচু দুর্গ, আর ধীরে ধীরে গ্রামবাসীকে পরিণত করল নিজস্ব হুকুমের দাসে।",
+        "en": "They erected high mudbrick fortifications around the central granary, gradually reducing the villagers into their personal servants.",
+        "hi": "उन्होंने अनाज के गोदाम के चारों तरफ ऊँची चारदीवारी खड़ी कर ली, और धीरे-धीरे पूरे गाँव को अपने हुक्म का गुलाम बना लिया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, high crenellated mudbrick fortress walls rising around a village square, armed guards pacing on top of the ramparts. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0039.jpg",
+      "sfx": "stone_block_drop",
+      "motion_effect": "zoom_in",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 7.76,
+        "en": 8.32,
+        "hi": 12.25
+      },
+      "timestamp_start": 446.5,
+      "timestamp_end": 459
+    },
+    {
+      "scene_id": 40,
+      "parent_scene_id": 4,
+      "sub_id": 10,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কেউ কর দিতে অস্বীকার করলে তাকে রক্ষা করার জন্য আনা অস্ত্রগুলোই তখন তার নিজের বুকে তাক করা হতো!",
+        "en": "Whenever a farmer refused to pay the tax, the very spears hired to protect him were pointed straight at his throat!",
+        "hi": "अगर कोई किसान लगान देने से इनकार करता, तो जिस भाले को उसकी हिफाज़त के लिए लाया गया था, वही उसकी छाती पर तान दिया जाता था!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a terrified cartoon farmer clutching an empty grain bowl while a guard points a sharp bronze spear tip right at his chest. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0040.jpg",
+      "sfx": "spear_point_clink",
+      "motion_effect": "pan_left",
+      "duration": 12,
+      "language_durations": {
+        "bn": 5.84,
+        "en": 6.48,
+        "hi": 11.76
+      },
+      "timestamp_start": 459,
+      "timestamp_end": 471
+    },
+    {
+      "scene_id": 41,
+      "parent_scene_id": 5,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মেসোপটেমিয়ার সুমেরীয় ভাষায় এই পরাক্রমশালী যুদ্ধনেতাদের বলা হতো 'লুগাল'—যার আক্ষরিক অর্থ 'বিগ ম্যান' বা বড় মানুষ।",
+        "en": "In the ancient Sumerian language of Mesopotamia, these dominant military warlords were called 'Lugal'—literally meaning 'Big Man'.",
+        "hi": "मेसोपोटामिया की सुमेरियन भाषा में इन ताकतवर लड़ाकों को 'लुगल' कहा जाता था—जिसका शाब्दिक अर्थ था 'बड़ा आदमी'।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient cuneiform clay tablet floating on screen with a comical oversized stickman warlord casting a gigantic shadow over a tiny village. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0041.jpg",
+      "sfx": "cuneiform_carve_tap",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 9.24,
+        "en": 8.48,
+        "hi": 12.74
+      },
+      "timestamp_start": 471,
+      "timestamp_end": 484
+    },
+    {
+      "scene_id": 42,
+      "parent_scene_id": 5,
+      "sub_id": 2,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "WARLORD",
+      "narration": {
+        "bn": "লুগাল ঘোষণা করল: 'এই মাটির প্রতিটি কণা আমার, আর তোমাদের বেঁচে থাকা নির্ভর করছে আমার মর্জির ওপর!'",
+        "en": "The Lugal bellowed: 'Every grain of this soil belongs to me, and your very survival depends upon my mercy!'",
+        "hi": "लुगल गरज उठा: 'इस ज़मीन का एक-एक कतरा मेरा है, और तुम्हारी ज़िंदगी सिर्फ मेरी रहमत पर टिकी है!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, the massive cartoon Lugal slamming his bronze war-axe into a solid stone altar, stone chips flying, shouting aggressively, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0042.mp4",
+      "sfx": "axe_slam_stone_thud",
+      "motion_effect": "ai_video",
+      "duration": 10.5,
+      "language_durations": {
+        "bn": 8.24,
+        "en": 8.88,
+        "hi": 10.29
+      },
+      "timestamp_start": 484,
+      "timestamp_end": 494.5
+    },
+    {
+      "scene_id": 43,
+      "parent_scene_id": 5,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু কেবল বাহুবল দিয়ে হাজার হাজার অসন্তুষ্ট মানুষকে বেশিদিন দমিয়ে রাখা অসম্ভব ছিল।",
+        "en": "Yet ruling thousands of resentful farmers purely through raw physical terror was an exhausting, unstable gamble.",
+        "hi": "लेकिन हज़ारों नाराज़ किसानों को सिर्फ लाठी और तलवार के दम पर ज़्यादा दिन दबाकर रखना नामुमकिन था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon warlord nervously sweating while peeking through fortress windows at an angry crowd of farmers holding pitchforks below. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0043.jpg",
+      "sfx": "anxious_gulp_sweat",
+      "motion_effect": "zoom_in",
+      "duration": 12,
+      "language_durations": {
+        "bn": 5.68,
+        "en": 7.96,
+        "hi": 11.76
+      },
+      "timestamp_start": 494.5,
+      "timestamp_end": 506.5
+    },
+    {
+      "scene_id": 44,
+      "parent_scene_id": 5,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সৈন্যরা ক্লান্ত হতে পারে, অস্ত্র ভেঙে যেতে পারে, আর বিদ্রোহের আগুনে যেকোনো রাতে শাসকের মহল পুড়ে ছাই হতে পারে।",
+        "en": "Soldiers grew tired, copper weapons broke, and a nighttime peasant uprising could reduce the warlord's compound to ashes.",
+        "hi": "सैनिक थक सकते थे, हथियार टूट सकते थे, और रात के अंधेरे में किसानों की बगावत महल को राख कर सकती थी।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon guard leaning sleepily on his spear while a broken copper sword lies discarded on the cobblestone floor. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0044.jpg",
+      "sfx": "blade_snap_echo",
+      "motion_effect": "zoom_out",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 8.8,
+        "en": 8.36,
+        "hi": 11.27
+      },
+      "timestamp_start": 506.5,
+      "timestamp_end": 518
+    },
+    {
+      "scene_id": 45,
+      "parent_scene_id": 5,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তাই লুগাল বুঝল—মানুষের শরীরকে শৃঙ্খলিত করার চেয়ে তাদের মনকে শাসন করা হাজার গুণ বেশি কার্যকর!",
+        "en": "The warlord realized that shackling human minds was a thousand times more permanent than chaining their wrists in iron!",
+        "hi": "इसलिए सरदार को समझ आ गया—इंसानों के जिस्म को जंजीरों में बांधने से कहीं ज़्यादा असरदार उनके दिमाग पर कब्ज़ा करना है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon lightbulb popping up over the warlord's head, glowing brightly with a sly wicked grin. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0045.jpg",
+      "sfx": "lightbulb_ding_idea",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 7.52,
+        "en": 7.8,
+        "hi": 11.76
+      },
+      "timestamp_start": 518,
+      "timestamp_end": 530
+    },
+    {
+      "scene_id": 46,
+      "parent_scene_id": 5,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আর এই লক্ষ্য হাসিলে সে হাত মেলাল তৎকালীন সমাজের সবচেয়ে সম্মানিত শ্রেণির সাথে—মন্দিরের পুরোহিত সম্প্রদায়!",
+        "en": "To achieve this masterstroke, he struck a historic unholy alliance with the most revered faction in society—the temple priests!",
+        "hi": "और इस मकसद को पूरा करने के लिए उसने समाज के सबसे सम्मानित तबके से हाथ मिलाया—यानी मंदिर के पुजारियों से!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the muscular warlord shaking hands in a secret pact with a tall, robed cartoon temple priest holding an incense burner. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0046.jpg",
+      "sfx": "incense_burner_clang",
+      "motion_effect": "zoom_in",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.32,
+        "en": 8.8,
+        "hi": 12.25
+      },
+      "timestamp_start": 530,
+      "timestamp_end": 542.5
+    },
+    {
+      "scene_id": 47,
+      "parent_scene_id": 5,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রাচীন মেসোপটেমিয়ার উরুক, এরিদু এবং উর শহরের আকাশে তখন মাথা তুলে দাঁড়িয়েছিল দৈত্যাকার জিগুরাত বা ইটের তৈরি উপাসনালয়।",
+        "en": "Above the Mesopotamian mudbrick skylines of Uruk, Eridu, and Ur rose colossal Ziggurats—towering stepped temple pyramids.",
+        "hi": "मेसोपोटामिया के उरुक, एरिदु और उर शहरों के आसमान में मिट्टी की ईंटों से बने विशाल ज़िगुरात यानी मंदिर खड़े हो रहे थे।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a towering tiered Sumerian Ziggurat rising high into an azure sky with colorful ceremonial banners fluttering in the wind. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0047.jpg",
+      "sfx": "temple_flute_distant",
+      "motion_effect": "pan_left",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 9.76,
+        "en": 10.56,
+        "hi": 12.25
+      },
+      "timestamp_start": 542.5,
+      "timestamp_end": 555
+    },
+    {
+      "scene_id": 48,
+      "parent_scene_id": 5,
+      "sub_id": 8,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "পুরোহিতরা মন্দিরের চূড়ায় দাঁড়িয়ে সাধারণ মানুষকে বোঝাল: 'এই শহর আমাদের নয়, এই নদী এবং ফসলের মালিক খোদ স্বর্গের দেবতারা!'",
+        "en": "High priests climbed the sacred heights and preached: 'This city does not belong to mortals; the river and the crops are owned by the sky gods!'",
+        "hi": "पुजारियों ने ऊँचे चबूतरे पर खड़े होकर ऐलान किया: 'यह शहर हमारा नहीं है; इस नदी और फसल के असली मालिक तो आसमान के देवता हैं!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, ancient high priest waving burning incense over a golden fire basket atop the Ziggurat, billowing white smoke against dramatic storm clouds, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0048.mp4",
+      "sfx": "priest_chant_mystic",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 10,
+        "en": 8.96,
+        "hi": 10.78
+      },
+      "timestamp_start": 555,
+      "timestamp_end": 566
+    },
+    {
+      "scene_id": 49,
+      "parent_scene_id": 5,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "SUMERIAN_PRIEST",
+      "narration": {
+        "bn": "'আর দেবতারা সরাসরি এই লুগালকে আমাদের অভিভাবক হিসেবে নির্বাচিত করেছেন—তার হুকুম অমান্য করা মানেই বিধাতাকে অস্বীকার করা!'",
+        "en": "'And the gods themselves have anointed our Lugal as their steward on Earth—disobeying him is an unforgivable sin against heaven itself!'",
+        "hi": "'और देवताओं ने खुद इस सरदार को धरती पर अपना प्रतिनिधि चुना है—उसकी नाफरमानी का मतलब सीधे ईश्वर से बगावत है!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, the priest pointing reverently at the warlord while terrified cartoon citizens drop to their knees touching their foreheads to the dust. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0049.jpg",
+      "sfx": "crowd_gasp_awe",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 8.12,
+        "en": 9.52,
+        "hi": 12.74
+      },
+      "timestamp_start": 566,
+      "timestamp_end": 579
+    },
+    {
+      "scene_id": 50,
+      "parent_scene_id": 5,
+      "sub_id": 10,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এক মুহূর্তের মধ্যে পেশিশক্তির নগ্ন চাঁদাবাজি রূপান্তরিত হলো পবিত্র ধর্মাচারে!",
+        "en": "In a single brilliant stroke, a brutal extortion racket was miraculously baptized into sacred divine will!",
+        "hi": "एक ही झटके में बाहुबल की नंगी लूट एक पवित्र धार्मिक कर्तव्य में बदल गई!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, cartoon transformation graphic: a crude bloodstained club transforming with magical sparkles into a gilded golden royal scepter. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0050.jpg",
+      "sfx": "magic_chime_sparkle",
+      "motion_effect": "zoom_out",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 6.32,
+        "en": 9,
+        "hi": 11.27
+      },
+      "timestamp_start": 579,
+      "timestamp_end": 590.5
+    },
+    {
+      "scene_id": 51,
+      "parent_scene_id": 6,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ঐতিহাসিকদের কাছে সংরক্ষিত 'সুমেরীয় রাজাতালিকা' পাথরের লিপিতে খোদাই করা আছে মানব ইতিহাসের প্রথম রাজার নাম।",
+        "en": "Preserved on ancient cuneiform prisms, the 'Sumerian King List' officially documents the name of the first recognized king in history.",
+        "hi": "प्राचीन सुमेरियन राजाओं की सूची के पत्थरों पर दुनिया के सबसे पहले दर्ज किए गए राजा का नाम आज भी खुदा हुआ मिलता है।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique stone prism carved with miniature cuneiform symbols, illuminated by soft golden museum display lighting. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0051.jpg",
+      "sfx": "stone_chisel_echo",
+      "motion_effect": "pan_right",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 7.72,
+        "en": 8.28,
+        "hi": 12.25
+      },
+      "timestamp_start": 590.5,
+      "timestamp_end": 603
+    },
+    {
+      "scene_id": 52,
+      "parent_scene_id": 6,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "লিপিতে লেখা আছে: 'যখন রাজতন্ত্র স্বর্গ থেকে পৃথিবীতে অবতীর্ণ হলো, তখন প্রথম রাজত্ব কায়েম হয়েছিল এরিদু শহরে—আর রাজা ছিলেন আলুলিম!'",
+        "en": "The inscription reads: 'When kingship descended from heaven, kingship was in Eridu. In Eridu, Alulim became king!'",
+        "hi": "उस शिलालेख पर लिखा है: 'जब राजशाही आसमान से धरती पर उतरी, तो पहला तख्त एरिदु शहर में लगा—और राजा बने अलुलिम!'"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient King Alulim wearing a primitive tiered woolen robe and conical horn-headdress sitting proudly on a stone throne in Eridu. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0052.jpg",
+      "sfx": "ancient_horn_fanfare",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.56,
+        "en": 7.96,
+        "hi": 12.74
+      },
+      "timestamp_start": 603,
+      "timestamp_end": 616
+    },
+    {
+      "scene_id": 53,
+      "parent_scene_id": 6,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "রাজার মাথায় পরিয়ে দেওয়া হলো পশুর শিংযুক্ত এক ভারী পাথুরে টুপি—যা কালক্রমে বিবর্তিত হয়ে আজকের সোনার মুকুটে রূপ নিল।",
+        "en": "A heavy horned stone helmet was placed upon the king's head—the direct prehistoric ancestor of the modern golden crown.",
+        "hi": "राजा के सिर पर सींगों वाला भारी पत्थर का मुकुट पहनाया गया—जो सदियों बाद सोने के शाही ताज में तब्दील हो गया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an artisan placing a heavy stone helmet with curved ram horns on the king's head, the king balancing it clumsily. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0053.jpg",
+      "sfx": "helmet_clunk_head",
+      "motion_effect": "zoom_out",
+      "duration": 12,
+      "language_durations": {
+        "bn": 10.24,
+        "en": 8.36,
+        "hi": 11.76
+      },
+      "timestamp_start": 616,
+      "timestamp_end": 628
+    },
+    {
+      "scene_id": 54,
+      "parent_scene_id": 6,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু এর চেয়েও ভয়াবহ আগ্রাসনের জন্ম দিলেন মেসোপটেমিয়ার প্রথম দিগ্বিজয়ী সম্রাট—সার্গন অফ আক্কাদ!",
+        "en": "Yet the ultimate totalitarian leap was engineered by Mesopotamia's first great conqueror—Sargon of Akkad!",
+        "hi": "लेकिन इससे भी ज़्यादा भयानक साम्राज्य की नींव रखी मेसोपोटामिया के पहले विजेता सम्राट—अक्कड़ के सरगोन ने!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, King Sargon with a braided bronze beard riding a roaring chariot drawn by four armored equids across dusty desert battlefields, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0054.mp4",
+      "sfx": "chariot_thunder_hooves",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 6.8,
+        "en": 7.24,
+        "hi": 10.78
+      },
+      "timestamp_start": 628,
+      "timestamp_end": 639
+    },
+    {
+      "scene_id": 55,
+      "parent_scene_id": 6,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "খ্রিস্টপূর্ব তেইশ শতকে কিশ শহরের সামান্য এক পানপাত্র বাহক থেকে উত্থান ঘটে সার্গনের।",
+        "en": "Rising from a humble royal cupbearer in the twenty-fourth century BCE, Sargon ruthlessly seized power.",
+        "hi": "ईसा पूर्व तेईसवीं सदी में एक मामूली दरबारी से उठकर सरगोन ने अपनी ताकत के बल पर सत्ता हथिया ली।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a humble cartoon servant holding a wine goblet suddenly stepping on the back of an overthrown king and taking his throne. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0055.jpg",
+      "sfx": "goblet_spill_thud",
+      "motion_effect": "zoom_in",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 6.04,
+        "en": 6.84,
+        "hi": 11.27
+      },
+      "timestamp_start": 639,
+      "timestamp_end": 650.5
+    },
+    {
+      "scene_id": 56,
+      "parent_scene_id": 6,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "তিনি চৌত্রিশটি শহর জয় করেন এবং ইতিহাসে প্রথমবারের মতো পাঁচ হাজার চারশো সৈন্যের এক স্থায়ী বেতনভুক্ত সেনাবাহিনী গঠন করেন!",
+        "en": "He conquered thirty-four rival city-states, creating history's first permanent professional standing army of fifty-four hundred soldiers!",
+        "hi": "उसने चौंतीस शहरों को रौंद डाला और इतिहास में पहली बार चौवन सौ सैनिकों की स्थायी पेशेवर फौज खड़ी की!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Sargon standing on a fortress balcony looking out at rows of identical cartoon spearmen with bronze helmets standing at attention. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0056.jpg",
+      "sfx": "army_spear_clash",
+      "motion_effect": "pan_left",
+      "duration": 13,
+      "language_durations": {
+        "bn": 8.88,
+        "en": 9.16,
+        "hi": 12.74
+      },
+      "timestamp_start": 650.5,
+      "timestamp_end": 663.5
+    },
+    {
+      "scene_id": 57,
+      "parent_scene_id": 6,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ইতিহাসের পাতায় লেখা আছে—প্রতিদিন এই বিশাল সৈন্যবাহিনী সার্গনের রাজদরবারের সামনে বসে রাজার দেওয়া রুটি খেত!",
+        "en": "Ancient chronicles record that every single day, this massive military force ate bread directly from Sargon's imperial table!",
+        "hi": "प्राचीन अभिलेख बताते हैं कि रोज़ाना यह विशाल फौज सरगोन के शाही दरबार के सामने बैठकर राजा की दी हुई रोटियाँ खाती थी!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, long wooden trestle tables stretched across an ancient courtyard where hundreds of cartoon soldiers scarf down loaves of flatbread. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0057.jpg",
+      "sfx": "eating_hall_bustle",
+      "motion_effect": "zoom_out",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.2,
+        "en": 9.36,
+        "hi": 12.25
+      },
+      "timestamp_start": 663.5,
+      "timestamp_end": 676
+    },
+    {
+      "scene_id": 58,
+      "parent_scene_id": 6,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "আর যখন সৈন্যদের প্রতিদিন রাজার দেওয়া অন্ন খেয়ে বাঁচতে হয়, তখন তাদের আনুগত্য কোনো সাধারণ জনগণের প্রতি নয়—একমাত্র রাজার প্রতিই থাকে!",
+        "en": "And when soldiers depend entirely on the king for their daily bread, their loyalty belongs to the monarch alone—never to the people!",
+        "hi": "और जब सैनिकों की हर निवाला राजा की मेहरबानी पर निर्भर हो, तो उनकी वफादारी जनता से नहीं—सिर्फ और सिर्फ राजा से होती है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a cartoon soldier holding a loaf of bread to his heart while snapping a rigid salute toward the king's golden banner. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0058.jpg",
+      "sfx": "salute_armor_creak",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 8.72,
+        "en": 9.12,
+        "hi": 12.74
+      },
+      "timestamp_start": 676,
+      "timestamp_end": 689
+    },
+    {
+      "scene_id": 59,
+      "parent_scene_id": 6,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "এদিকে নীল নদের উপত্যকায় মিশরের রাজা নারমার দেশকে একীভূত করে নিজেকে কেবল ঈশ্বরপুত্র নয়, খোদ জীবন্ত দেবতা ঘোষণা করলেন!",
+        "en": "Meanwhile along the Nile, King Narmer unified Egypt, declaring himself not merely a prophet, but a literal living god incarnate!",
+        "hi": "उधर नील नदी की घाटी में मिस्र के राजा नारमेर ने पूरे मुल्क को एक किया और खुद को सिर्फ अवतार नहीं, साक्षात ज़िंदा भगवान घोषित कर दिया!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Pharaoh Narmer wearing the unified double crown of Egypt standing tall before the glistening Nile river as falcons soar above. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0059.jpg",
+      "sfx": "nile_waters_flow",
+      "motion_effect": "pan_right",
+      "duration": 13,
+      "language_durations": {
+        "bn": 9.36,
+        "en": 9.12,
+        "hi": 12.74
+      },
+      "timestamp_start": 689,
+      "timestamp_end": 702
+    },
+    {
+      "scene_id": 60,
+      "parent_scene_id": 6,
+      "sub_id": 10,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "PHARAOH_NARMER",
+      "narration": {
+        "bn": "নারমার প্যালেটে খোদাই করা ছবিতে দেখা যায়—রাজা একা এক হাতে বিশালাকার গদা উঁচিয়ে শত্রুদের মাটিতে পিষে ফেলছেন!",
+        "en": "The famous Narmer Palette depicts the pharaoh single-handedly smashing the heads of his kneeling enemies with a colossal stone mace!",
+        "hi": "मशहूर नारमेर पट्टिका पर खुदा हुआ दिखता है—राजा अकेला अपने हाथ में भारी गदा उठाकर घुटनों पर बैठे दुश्मनों को कुचल रहा है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, OverSimplified Pharaoh Narmer swinging a heavy white stone mace overhead, comic dramatic impact shockwaves, kneeling cartoon captives trembling, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0060.mp4",
+      "sfx": "mace_strike_shockwave",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 8.44,
+        "en": 8.16,
+        "hi": 10.78
+      },
+      "timestamp_start": 702,
+      "timestamp_end": 713
+    },
+    {
+      "scene_id": 61,
+      "parent_scene_id": 7,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রজাদের মনে ভয় ও ভক্তি চিরস্থায়ী করতে তৈরি হলো শত শত ফুট উঁচু পিরামিড আর পাথরের অতিকায় ভাস্কর্য।",
+        "en": "To carve eternal submission into the human psyche, monarchs erected towering pyramids and colossal stone monuments.",
+        "hi": "प्रजा के दिलों में खौफ और श्रद्धा को अमर करने के लिए सैकड़ों फीट ऊँचे पिरामिड और विशालकाय मूर्तियाँ बनाई गईं।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, thousands of tiny stickman workers hauling giant limestone blocks with ropes under the shadow of the Great Pyramid of Giza. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0061.jpg",
+      "sfx": "stone_haul_gruntheave",
+      "motion_effect": "zoom_in",
+      "duration": 12,
+      "language_durations": {
+        "bn": 7.8,
+        "en": 8.4,
+        "hi": 11.76
+      },
+      "timestamp_start": 713,
+      "timestamp_end": 725
+    },
+    {
+      "scene_id": 62,
+      "parent_scene_id": 7,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "একজন সাধারণ কৃষক যখন আকাশের দিকে তাকিয়ে দেখত তার রাজার তৈরি আকাশচুম্বী সমাধি, তখন সে ভুলেই যেত যে রাজা আসলে তারই মতো রক্তমাংসের একজন মানুষ!",
+        "en": "When a humble peasant looked up at a mountain of stone built for one dead man, he forgot that the king was merely mortal flesh and blood!",
+        "hi": "जब एक साधारण किसान एक मरे हुए राजा के लिए खड़े किए गए पत्थरों के पहाड़ को देखता, तो वह भूल ही जाता कि राजा भी उसी की तरह हाड़-मांस का इंसान था!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a tiny stickman peasant looking up with wide round eyes in absolute awe at an enormous golden pyramid peak touching the clouds. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0062.jpg",
+      "sfx": "peasant_sigh_breathless",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 11.4,
+        "en": 8.92,
+        "hi": 12.74
+      },
+      "timestamp_start": 725,
+      "timestamp_end": 738
+    },
+    {
+      "scene_id": 63,
+      "parent_scene_id": 7,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "বংশপরম্পরা রাজতন্ত্র কায়েম হলো—যেখানে অযোগ্য ও মানসিক ভারসাম্যহীন শিশুও শুধু রাজার ঔরসে জন্মানোর কারণে গোটা জাতির ভাগ্যনিয়ন্তা হয়ে উঠল।",
+        "en": "Hereditary monarchy was locked in—where even an incompetent or tyrannical child inherited absolute dominion over millions solely through royal blood.",
+        "hi": "खानदानी राजशाही पक्की हो गई—जहाँ एक नालायक या ज़ालिम बच्चा भी सिर्फ राजा के घर पैदा होने की वजह से पूरी कौम का भाग्यविधाता बन जाता था।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a spoiled cartoon toddler with a pacifier in mouth wearing an oversized crown sitting on a throne, stomping feet while ministers bow. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0063.jpg",
+      "sfx": "baby_rattle_throne",
+      "motion_effect": "zoom_in",
+      "duration": 13.5,
+      "language_durations": {
+        "bn": 10.64,
+        "en": 10.12,
+        "hi": 13.23
+      },
+      "timestamp_start": 738,
+      "timestamp_end": 751.5
+    },
+    {
+      "scene_id": 64,
+      "parent_scene_id": 7,
+      "sub_id": 4,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ক্ষমতার এই উন্মাদনায় কোনো কোনো সম্রাট নিজেদের এত বড় ঈশ্বর ভাবতে শুরু করল যে তারা সূর্যকেও হুকুম করার চেষ্টা করত!",
+        "en": "Intoxicated by this god-complex, some emperors grew so delusional that they genuinely believed they could command the sun and tides!",
+        "hi": "सत्ता के इस नशे में कुछ सम्राट खुद को इतना बड़ा भगवान समझने लगे कि वे सूरज और हवाओं को भी हुक्म देने की कोशिश करने लगे!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an arrogant Roman emperor pointing his golden sceptre angrily at the blazing sun while wiping sweat from his forehead. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0064.jpg",
+      "sfx": "sun_flare_whoosh",
+      "motion_effect": "pan_right",
+      "duration": 12,
+      "language_durations": {
+        "bn": 8.52,
+        "en": 9.24,
+        "hi": 11.76
+      },
+      "timestamp_start": 751.5,
+      "timestamp_end": 763.5
+    },
+    {
+      "scene_id": 65,
+      "parent_scene_id": 7,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "প্রাচীন ব্যাবিলনের সম্রাট নমরুদ এক সামান্য মশকের বিরুদ্ধে লড়াইয়ে হেরে মৃত্যুবরণ করেছিল, অথচ সে নিজেকে বিশ্বজাহানের পালনকর্তা দাবি করত!",
+        "en": "Ancient Babylonian tyrant Nimrod claimed absolute sovereignty over life and death, only to succumb to the most humiliating end in dust!",
+        "hi": "प्राचीन बेबीलोन का तानाशाह नमरूद खुद को कायनात का मालिक कहता था, लेकिन उसका अंत निहायत लाचारगी और जिल्लत के साथ हुआ!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, ancient king Nimrod on a grand terrace shaking his fist at the heavens while a tiny comical cartoon gnat buzzes near his nose. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0065.jpg",
+      "sfx": "mosquito_buzz_comic",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.72,
+        "en": 9.88,
+        "hi": 12.74
+      },
+      "timestamp_start": 763.5,
+      "timestamp_end": 776.5
+    },
+    {
+      "scene_id": 66,
+      "parent_scene_id": 7,
+      "sub_id": 6,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মিশরের ফারাও নিজের অহংকারে প্রজাদের ক্রীতদাস বানিয়েছিল, কিন্তু লাল সাগরের বুকচেরা জলোচ্ছ্বাসে তার অহংকার চূর্ণ হয়ে সলিল সমাধি ঘটেছিল।",
+        "en": "The Pharaoh of Egypt enslaved entire generations in his supreme hubris, yet his golden chariots were swept into watery oblivion beneath the surging Red Sea!",
+        "hi": "मिस्र के फिरौन ने अपने घमंड में लाखों इंसानों को ग़ुलाम बनाया, लेकिन लाल सागर की उफनती लहरों ने उसके शाही रथों को हमेशा के लिए डुबो दिया!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, massive towering blue tidal waves crashing down over ornate golden Egyptian royal chariots and fleeing soldiers, water splashing, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0066.mp4",
+      "sfx": "red_sea_wave_crash",
+      "motion_effect": "ai_video",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 10.76,
+        "en": 12.52,
+        "hi": 11.27
+      },
+      "timestamp_start": 776.5,
+      "timestamp_end": 788
+    },
+    {
+      "scene_id": 67,
+      "parent_scene_id": 7,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "ইতিহাসবিদ ইবনে খালদুন তার বিখ্যাত 'মুকাদ্দিমা' গ্রন্থে দেখিয়েছেন—যেকোনো রাজতন্ত্রের উত্থান ঘটে 'আসাবিয়াহ' বা গোত্রীয় ঐক্যের শক্তির ওপর।",
+        "en": "Renowned historian Ibn Khaldun observed in his 'Muqaddimah' that royal dynasties rise on the raw power of 'Asabiyyah'—collective social solidarity.",
+        "hi": "मशहूर इतिहासकार इब्न खलदून ने अपनी किताब 'मुक़द्दिमा' में लिखा कि किसी भी सल्तनत की बुनियाद 'असबिया' यानी आपसी एकजुटता की ताकत पर पड़ती है।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, wise scholar Ibn Khaldun in white turban and scholar robes examining an illuminated parchment scroll at an ornate wooden desk. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0067.jpg",
+      "sfx": "quill_parchment_scratch",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 9.44,
+        "en": 9.56,
+        "hi": 12.74
+      },
+      "timestamp_start": 788,
+      "timestamp_end": 801
+    },
+    {
+      "scene_id": 68,
+      "parent_scene_id": 7,
+      "sub_id": 8,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু ক্ষমতা পেলেই সেই গোষ্ঠী বিলাসবহুল দুর্নীতির জালে জড়িয়ে পড়ে, আর তিন প্রজন্মের মধ্যেই সেই পরাক্রমশালী রাজবংশ তাসের ঘরের মতো ভেঙে পড়ে।",
+        "en": "Yet once supreme power is won, the rulers sink into corrupt decadence, and within three generations, the mighty dynasty crumbles like a house of cards.",
+        "hi": "लेकिन सत्ता मिलते ही हुक्मरान अय्याशी और भ्रष्टाचार में डूब जाते हैं, और तीन पीढ़ियों के भीतर वह ताकतवर खानदान ताश के पत्तों की तरह ढह जाता है।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a lavish golden palace dome cracking down the middle while lazy courtiers drop golden goblets and flee. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0068.jpg",
+      "sfx": "palace_ruin_crumble",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.92,
+        "en": 9.6,
+        "hi": 12.74
+      },
+      "timestamp_start": 801,
+      "timestamp_end": 814
+    },
+    {
+      "scene_id": 69,
+      "parent_scene_id": 7,
+      "sub_id": 9,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "রাজারা ভেবেছিল তাদের রাজত্ব চিরকাল টিকে থাকবে, কিন্তু আজ কেবল তাদের শবাধারগুলো জাদুঘরের কাচের বাক্সে ধুলো জমে পড়ে আছে।",
+        "en": "Ancient monarchs believed their reign would endure forever; today, their withered remains lie silent beneath museum glass display cases.",
+        "hi": "राजा सोचते थे कि उनका राज हमेशा रहेगा; लेकिन आज उनकी सूखी हुई लाशें अजायबघरों के शीशे के बक्सों में धूल खा रही हैं।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a modern museum exhibit showing a cartoon stickman child pressing his nose against a glass vitrine displaying an ancient gold-masked mummy. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0069.jpg",
+      "sfx": "museum_hush_glass",
+      "motion_effect": "pan_left",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.64,
+        "en": 9.68,
+        "hi": 12.25
+      },
+      "timestamp_start": 814,
+      "timestamp_end": 826.5
+    },
+    {
+      "scene_id": 70,
+      "parent_scene_id": 7,
+      "sub_id": 10,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আমরা রাজার যুগ থেকে বের হয়ে এসেছি সত্যি, কিন্তু আমাদের তৈরি আধুনিক সমাজ কি সেই আদিম শস্যরক্ষকের প্রভাব থেকে পুরোপুরি মুক্ত?",
+        "en": "We may have abandoned gold crowns, yet is our modern world truly free from the legacy of that ancient Mesopotamian grain guardian?",
+        "hi": "हम राजाओं के दौर से बाहर तो आ गए हैं, लेकिन क्या हमारी आधुनिक दुनिया उस प्राचीन अनाज के पहरेदार के साए से पूरी तरह आज़ाद हो पाई है?"
+      },
+      "visual_prompt": "Dynamic cartoon 2D animation, The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) standing before a giant antique mechanical clockwork mechanism with revolving bronze gears, looking thoughtfully at viewer, 24fps. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0070.mp4",
+      "sfx": "clockwork_gear_turning",
+      "motion_effect": "ai_video",
+      "duration": 12,
+      "language_durations": {
+        "bn": 8,
+        "en": 8.36,
+        "hi": 11.76
+      },
+      "timestamp_start": 826.5,
+      "timestamp_end": 838.5
+    },
+    {
+      "scene_id": 71,
+      "parent_scene_id": 8,
+      "sub_id": 1,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আজ তুমি যে দেশে বাস করো, সেখানকার পুলিশ বাহিনী, কর ব্যবস্থা, বিচারালয় আর সীমান্ত পাহারা—সবকিছুর মূল উৎস কিন্তু সেই আদিম শস্যভাণ্ডার!",
+        "en": "Every police department, tax revenue service, courthouse, and border checkpoint in your country traces back to that ancient grain protection pact!",
+        "hi": "आज आपके देश की पुलिस, टैक्स विभाग, अदालतें और सरहद की चौकियाँ—सबकी जड़ें उसी प्राचीन अनाज की सुरक्षा वाले समझौते में छुपी हैं!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a flowchart connecting an ancient clay grain silo to a modern police badge, a tax envelope, and a passport stamp. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0071.jpg",
+      "sfx": "stamp_passport_thud",
+      "motion_effect": "zoom_in",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.36,
+        "en": 9.52,
+        "hi": 12.74
+      },
+      "timestamp_start": 838.5,
+      "timestamp_end": 851.5
+    },
+    {
+      "scene_id": 72,
+      "parent_scene_id": 8,
+      "sub_id": 2,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "মানবজাতি এক অদ্ভুত আপস করেছিল: বুনো শিকারি জীবনের অবাধ স্বাধীনতা বিসর্জন দিয়ে তারা নিরাপত্তার মায়াজালে নিজেদের সঁপে দিয়েছিল।",
+        "en": "Humanity struck a profound psychological bargain: trading the fierce freedom of the wilderness for the artificial security of civilization.",
+        "hi": "इंसानियत ने एक अजीब सौदा किया था: खुले जंगलों की आज़ादी को कुर्बान करके खुद को सुरक्षा के बदले कायदों में बांध लिया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, a set of brass scales balancing a cartoon stickman holding a spear in a meadow on one side against a neat modern city office block on the other. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0072.jpg",
+      "sfx": "scales_balance_creak",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.16,
+        "en": 8.72,
+        "hi": 12.74
+      },
+      "timestamp_start": 851.5,
+      "timestamp_end": 864.5
+    },
+    {
+      "scene_id": 73,
+      "parent_scene_id": 8,
+      "sub_id": 3,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "সেই নিরাপত্তার বিনিময়েই মানুষ মেনে নিয়েছিল আইন, মুদ্রা, সেনাবাহিনী আর রাষ্ট্রীয় কর্তৃত্ব।",
+        "en": "In exchange for that physical protection, humans surrendered their autonomy to codes of law, minted currency, standing armies, and governments.",
+        "hi": "उसी सुरक्षा की कीमत के तौर पर इंसानों ने कानून, सिक्के, फौजों और हुकूमतों के हुक्म को अपना लिया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, three cartoon citizens standing behind a neat white picket fence, holding hands securely while outside wild beasts roam harmlessly. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0073.jpg",
+      "sfx": "city_distant_ambience",
+      "motion_effect": "pan_right",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 7.48,
+        "en": 9.28,
+        "hi": 12.25
+      },
+      "timestamp_start": 864.5,
+      "timestamp_end": 877
+    },
+    {
+      "scene_id": 74,
+      "parent_scene_id": 8,
+      "sub_id": 4,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "কিন্তু ইতিহাস বারবার একটি সত্য প্রমাণ করেছে—যেকোনো শাসকের ক্ষমতা ততক্ষণই বৈধ, যতক্ষণ পর্যন্ত সে ন্যায়বিচার ও জনকল্যাণ নিশ্চিত করে।",
+        "en": "Yet history repeatedly cements one undeniable truth: any ruler's authority remains legitimate only so long as it upholds justice and human dignity!",
+        "hi": "लेकिन इतिहास ने बार-बार एक ही सबक सिखाया है—किसी भी हुक्मरान की ताकत तभी तक जायज़ है, जब तक वह इंसाफ और इंसानियत की हिफाज़त करता है!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, an oversized ancient stone statue of a tyrant suddenly cracking down the center, crumbling into dust as warm sunrise beams pierce through, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0074.mp4",
+      "sfx": "tyrant_statue_collapse",
+      "motion_effect": "ai_video",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 9.36,
+        "en": 9.44,
+        "hi": 11.27
+      },
+      "timestamp_start": 877,
+      "timestamp_end": 888.5
+    },
+    {
+      "scene_id": 75,
+      "parent_scene_id": 8,
+      "sub_id": 5,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "NARRATOR",
+      "narration": {
+        "bn": "যখনই কোনো রাজা বা নেতা নিজেকে সাধারণ মানুষের চেয়ে উচ্চতর মনে করেছে, তখনই সেই অহংকারের প্রাসাদ ধূলিসাৎ হয়ে গেছে।",
+        "en": "Whenever a king or leader elevated himself above the people, his empire inevitably choked upon its own suffocating pride.",
+        "hi": "जब भी किसी राजा या नेता ने खुद को अवाम से ऊपर समझा, उसी पल उसके घमंड का तख्त मिट्टी में मिल गया।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, an antique crown falling upside down in the sand, blooming tiny wild purple desert flowers around its rim. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0075.jpg",
+      "sfx": "flower_bloom_soft",
+      "motion_effect": "zoom_in",
+      "duration": 12,
+      "language_durations": {
+        "bn": 8.08,
+        "en": 8.52,
+        "hi": 11.76
+      },
+      "timestamp_start": 888.5,
+      "timestamp_end": 900.5
+    },
+    {
+      "scene_id": 76,
+      "parent_scene_id": 8,
+      "sub_id": 6,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "কালাহারির বুশম্যানরা হয়তো লিখতে জানত না, তাদের হয়তো কোনো প্রাসাদ ছিল না—কিন্তু তারা এমন এক সত্য জানত যা আজকের পৃথিবী প্রায়ই ভুলে যায়।",
+        "en": "The Kalahari foragers lacked writing systems and built no palaces—yet they mastered a profound wisdom that modern civilization so often forgets.",
+        "hi": "कालाहारी के आदिवासियों के पास न कोई पोथियां थीं, न महल—लेकिन वे एक ऐसी सच्चाई जानते थे जिसे आज की दुनिया अक्सर भुला देती है।"
+      },
+      "visual_prompt": "The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) standing near an open library window gazing out at the night stars, gentle warm smile, peaceful night atmosphere. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0076.jpg",
+      "sfx": "gentle_night_breeze",
+      "motion_effect": "zoom_out",
+      "duration": 13,
+      "language_durations": {
+        "bn": 10.92,
+        "en": 11.72,
+        "hi": 12.74
+      },
+      "timestamp_start": 900.5,
+      "timestamp_end": 913.5
+    },
+    {
+      "scene_id": 77,
+      "parent_scene_id": 8,
+      "sub_id": 7,
+      "type": "STATIC_IMAGE",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "সত্যটি হলো: জন্মসূত্রে কোনো মানুষ কারো মালিক নয়, আর কোনো মানুষের মাথা অন্যের সামনে নত হওয়ার জন্য তৈরি হয়নি।",
+        "en": "The truth that no human is born to be owned by another, and no mortal forehead was engineered to bow in terror before another man.",
+        "hi": "सच्चाई यह कि कोई इंसान किसी का मालिक बनकर पैदा नहीं हुआ, और किसी का सिर किसी दूसरे इंसान के आगे झुकने के लिए नहीं बना।"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, diverse cartoon stick figures from across the globe standing shoulder to shoulder with heads held high under a bright golden sunrise. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/scene_0077.jpg",
+      "sfx": "sunrise_orchestral_swell",
+      "motion_effect": "pan_left",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 8.56,
+        "en": 8.48,
+        "hi": 12.25
+      },
+      "timestamp_start": 913.5,
+      "timestamp_end": 926
+    },
+    {
+      "scene_id": 78,
+      "parent_scene_id": 8,
+      "sub_id": 8,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "আজকের যুগে যদি কোনো প্রাচীন সুমেরীয় রাজা তোমার শহরে হেঁটে আসত, তবে সে হয়তো মুকুট ছেড়ে একটি সাধারণ স্যুট পরে নির্বাচনে দাঁড়িয়ে যেত!",
+        "en": "If an ancient Sumerian king walked into your city today, he would likely trade his horned stone crown for a bespoke suit and run for office!",
+        "hi": "अगर कोई प्राचीन सुमेरियन राजा आज आपके शहर में आ जाए, तो वह शायद पत्थर का ताज उतारकर एक सूट पहन लेगा और चुनाव में खड़ा हो जाएगा!"
+      },
+      "visual_prompt": "OverSimplified cartoon style, clean 2D flat vector comic art, bold solid 5px black ink outlines, vibrant saturated color fills, Dynamic cartoon 2D animation, ancient horned stone crown magically morphing into a sharp modern business suit and necktie on an energetic stickman smiling on TV, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0078.mp4",
+      "sfx": "camera_flash_modern",
+      "motion_effect": "ai_video",
+      "duration": 11,
+      "language_durations": {
+        "bn": 9.72,
+        "en": 8.48,
+        "hi": 10.78
+      },
+      "timestamp_start": 926,
+      "timestamp_end": 937
+    },
+    {
+      "scene_id": 79,
+      "parent_scene_id": 8,
+      "sub_id": 9,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "তুমি কি মনে করো মানবজাতির কি সত্যিই কোনো শাসনকর্তার প্রয়োজন ছিল, নাকি শিকারি সমাজের সেই নিরঙ্কুশ সাম্যই ছিল শ্রেষ্ঠ? কমেন্টে লিখে জানাও!",
+        "en": "Do you believe humanity truly required central rulers, or was that ancient egalitarian wilderness superior? Share your verdict in the comments below!",
+        "hi": "क्या आपको लगता है कि इंसानों को वाकई शासकों की ज़रूरत थी, या शिकारी समाज की वह पूरी बराबरी ही बेहतर थी? कमेंट में अपनी राय ज़रूर बताइए!"
+      },
+      "visual_prompt": "The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) cupping one ear with his hand in an inviting inquisitive gesture, cartoon comment bubbles popping up around him with question marks. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0079.mp4",
+      "sfx": "comment_bubble_pop",
+      "motion_effect": "ai_video",
+      "duration": 12.5,
+      "language_durations": {
+        "bn": 9.16,
+        "en": 8.88,
+        "hi": 12.25
+      },
+      "timestamp_start": 937,
+      "timestamp_end": 949.5
+    },
+    {
+      "scene_id": 80,
+      "parent_scene_id": 8,
+      "sub_id": 10,
+      "type": "DYNAMIC_AI_VIDEO",
+      "dialogue_speaker": "TIME_CHRONICLER",
+      "narration": {
+        "bn": "ইতিহাসের আরও রোমাঞ্চকর ও বিস্ময়কর সত্য জানতে এখনই সাবস্ক্রাইব করে সঙ্গে থাকো সিম্পল হিস্ট্রি টেলার বাংলা চ্যানেলে। দেখা হচ্ছে পরের পর্বে!",
+        "en": "To explore more hidden truths and wild ironies across the centuries, subscribe right now to Simple History Teller! See you in the next episode!",
+        "hi": "इतिहास के ऐसे ही रोमांचक और चौंकाने वाले रहस्यों के लिए अभी सब्सक्राइब कीजिए सिंपल हिस्ट्री टेलर हिंदी! मिलते हैं अगले एपिसोड में!"
+      },
+      "visual_prompt": "Dynamic cartoon 2D animation, The Time Chronicler (OverSimplified cartoon host, smooth white egg-shaped head, round circular brass spectacles, expressive dot eyes with arched comic eyebrow, wry smile, wearing a brown tweed vest over a white collared shirt with rolled-up sleeves and a tiny brass pocket watch chain, holding a thick antique leather history journal, stick figure limbs, bold 5px black comic ink outlines, clean 2D flat vector art) enthusiastically snapping his leather history journal shut with a crisp thud, winking and pointing directly at the camera as dynamic golden subscribe bells and stars sparkle, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients",
+      "asset_file": "visual_assets/clip_scene_0080.mp4",
+      "sfx": "book_slam_bell_ring",
+      "motion_effect": "ai_video",
+      "duration": 11.5,
+      "language_durations": {
+        "bn": 8.96,
+        "en": 10.92,
+        "hi": 11.27
+      },
+      "timestamp_start": 949.5,
+      "timestamp_end": 961
+    }
+  ],
+  "language_total_durations": {
+    "bn": 677.8,
+    "en": 670,
+    "hi": 275.28
+  }
+}

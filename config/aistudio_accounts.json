@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "email": "badiuzzaman.majnu@gmail.com",
+    "tier": "Free",
+    "status": "rate_limited",
+    "url_prefix": "https://aistudio.google.com/u/0/",
+    "notes": "Reached free daily quota on Flash TTS"
+  },
+  {
+    "index": 1,
+    "email": "bmajnu980@gmail.com",
+    "tier": "Pro",
+    "status": "rate_limited",
+    "url_prefix": "https://aistudio.google.com/u/1/",
+    "notes": "Reached daily limit on Flash TTS; auto-rotated"
+  },
+  {
+    "index": 2,
+    "email": "bmajnu9811@gmail.com",
+    "tier": "Pro",
+    "status": "rate_limited",
+    "url_prefix": "https://aistudio.google.com/u/2/",
+    "notes": "Synthesized ~25 shots, reached daily quota limit; auto-rotated"
+  },
+  {
+    "index": 3,
+    "email": "msrosyafrin@gmail.com",
+    "tier": "Pro",
+    "status": "active",
+    "url_prefix": "https://aistudio.google.com/u/3/",
+    "notes": "Successfully signed in via CDP AddSession; generated Shot 48 (Puck)"
+  },
+  {
+    "index": 4,
+    "email": "badiuzzaman.majnu123@gmail.com",
+    "tier": "Pro",
+    "status": "ready_to_authenticate",
+    "url_prefix": "https://aistudio.google.com/u/4/",
+    "notes": "Pro account in rotation pool"
+  },
+  {
+    "index": 5,
+    "email": "bmajnu981@gmail.com",
+    "tier": "Pro",
+    "status": "ready_to_authenticate",
+    "url_prefix": "https://aistudio.google.com/u/5/",
+    "notes": "Pro account in rotation pool"
+  },
+  {
+    "index": 6,
+    "email": "badiuzzaman.majnu1@gmail.com",
+    "tier": "Pro",
+    "status": "active",
+    "url_prefix": "https://aistudio.google.com/u/5/",
+    "notes": "Logged into Chrome profile via AddSession; TTS verified working"
+  }
+]

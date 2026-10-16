@@ -1,0 +1,16 @@
+const { chromium } = require('playwright-core');
+
+async function inspectAccount() {
+  const browser = await chromium.connectOverCDP('http://127.0.0.1:9224');
+  const page = browser.contexts()[0].pages()[0];
+  
+  const accountBtn = page.locator('button:has-text("badiuzzaman")').first();
+  if (await accountBtn.isVisible()) {
+    await accountBtn.click();
+    await page.waitForTimeout(1000);
+    await page.screenshot({ path: 'tools/after_account_click.png' });
+    console.log('Saved tools/after_account_click.png');
+  }
+}
+
+inspectAccount().catch(console.error);

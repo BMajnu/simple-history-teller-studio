@@ -1,0 +1,597 @@
+=== GOOGLE AI STUDIO: gemini-3.8-flash-tts SCREENPLAY BLOCKS ===
+Target: https://aistudio.google.com/generate-speech?model=gemini-3.8-flash-tts
+Speaker Settings:
+- Puck = Time Chronicler / host (male, upbeat, witty, engaging)
+- Charon = Narrator + all male voices - NARRATOR, XUANZANG, ATISHA, KHALJI, SURVIVOR_MONK (male, informative, resonant, authoritative)
+- Aoede = female voice, reserved (no female lines in this episode)
+Usage: paste ONE block at a time into AI Studio TTS. Block text is project.json narration verbatim (1 sentence per shot).
+Emotion tags (<gasp>/<whisper>/<screaming>/<sigh>) only where the line fits; otherwise no tag.
+
+================================================================================
+PART 1: BENGALI - 96 blocks (project.json narration verbatim)
+================================================================================
+
+[Shot 0001 - Puck] আমি সময়ের সাক্ষী, মহাকালের ঘড়ির ধুলো আর তারার ঠান্ডা আলো গায়ে মেখে হাজার বছরের হারানো ইতিহাসের গল্প তোমাদের শোনাতে এসেছি,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0002 - Puck] <gasp> কল্পনা করো, এমন এক বিশাল গ্রন্থাগার যেখানে তালপাতার পুঁথির স্তূপে আগুন লেগে ধোঁয়া আর পোড়া তেলের গন্ধে টানা তিন মাস ধরে আগুন জ্বলেছিল।
+
+[Shot 0003 - Puck] <sigh> প্রায় নব্বই লাখ তালপাতার পুঁথি, হাজার বছরের সাধনা আর পণ্ডিতদের চোখের জল, সব একদিন ধূসর ছাই আর জ্বলন্ত অঙ্গারের স্তূপে বদলে গিয়েছিল,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0004 - Puck] <whisper> এটা কোনো বানানো রূপকথা নয়, এটা বিহারের মাটিতে দাঁড়িয়ে থাকা নালন্দার সত্য ইতিহাস, যেখানে ভোরের কুয়াশায় আজও অতীতের ফিসফিসানি শোনা যায়।
+
+[Shot 0005 - Puck] <sigh> পৃথিবীর প্রথম বিশ্ববিদ্যালয়, জ্ঞানের এই প্রদীপঘর, কার আগুনে আর কোন অভিমানে এভাবে পুড়ে ছাই হয়ে গেল,, ধূপের মিষ্টি গন্ধে,, পাখির কলতানে?
+
+[Shot 0006 - Puck] চলো, আমার হাত ধরো, সোনালি সময়সুড়ঙ্গের ঘূর্ণিতে ভেসে পাখিদের ডানায় চড়ে তেরোশো বছর পেছনে মগধের মাটিতে ফিরে যাই,, ধূপের মিষ্টি গন্ধে,, পাখির কলতানে।
+
+[Shot 0007 - Charon] <sigh> আজ বিহারের নালন্দায় গেলে দেখবে শুধু লাল ইটের ধ্বংসস্তূপ, ভাঙা স্তূপ আর শূন্য প্রাঙ্গণ, যেখানে হাওয়ার শনশন আর পায়ের শব্দ ছাড়া কিছু নেই।
+
+[Shot 0008 - Charon] তবু বিশ্বাস করো, এই নীরব প্রাঙ্গণেই একদিন দশ হাজার ছাত্র আর দুই হাজার শিক্ষক একসাথে পড়তেন, হাসতেন আর তর্কে মেতে উঠতেন,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0009 - Charon] সুদূর চীন, কোরিয়া, তিব্বত আর পারস্য থেকে জ্ঞানপিপাসু পথিকরা মাসের পর মাস ধুলোমাখা পথ হেঁটে, তৃষ্ণা সয়ে নালন্দার দুয়ারে এসে দাঁড়াতেন।
+
+[Shot 0010 - Charon] এটা ছিল প্রাচীন পৃথিবীর অক্সফোর্ড আর হার্ভার্ড একসাথে, যেখানে বটগাছের ছায়ায় দেশি-বিদেশি পণ্ডিতরা পুঁথি বদলে নিতেন হাসিমুখে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0011 - Charon] অনেকে ভাবেন বিশ্ববিদ্যালয় মানে ব্রিটিশদের দান, ১৮৫৭ সালের কলকাতা বা মুম্বাই বিশ্ববিদ্যালয়, কিন্তু এই ধারণা ইতিহাসের কাছে একেবারেই ভুল।
+
+[Shot 0012 - Charon] এই ধারণা একেবারেই ভুল, কারণ অক্সফোর্ডের জন্মের সাতশো বছর আগেই ভারতের মাটিতে নালন্দার প্রদীপ জ্বলে উঠেছিল গর্বে,, ধূপের মিষ্টি গন্ধে,, পাখির কলতানে।
+
+[Shot 0013 - Charon] ৪২৭ খ্রিস্টাব্দে গুপ্ত সম্রাট প্রথম কুমারগুপ্ত সোনালি ভোরে পুরোহিতদের মন্ত্র আর শঙ্খধ্বনির মাঝে নালন্দার প্রথম ভিত্তি-ইট স্থাপন করেছিলেন।
+
+[Shot 0014 - Charon] তারপর প্রায় আটশো বছর ধরে ঋতুর পর ঋতু বদলালেও এখানে প্রদীপের আলোয় প্রতিদিন ভোর থেকে গভীর রাত পর্যন্ত নিরবচ্ছিন্ন পড়াশোনা চলেছিল,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0015 - Charon] তাহলে এই মহান প্রতিষ্ঠানের জন্মমুহূর্ত কেমন ছিল, কোন স্বপ্ন আর কোন দানে কাঠের বিশাল দরজা খুলে নতুন ভোর এসেছিল,, ধূপের মিষ্টি গন্ধে,, পাখির কলতানে?
+
+[Shot 0016 - Puck] নালন্দা শুধু বৌদ্ধ ভিক্ষুদের প্রার্থনাঘর ছিল না, এটা ছিল পূর্ণাঙ্গ বিশ্ববিদ্যালয়, যেখানে স্তম্ভঘেরা কক্ষে চিকিৎসক আর জ্যোতির্বিদরা পাশাপাশি বসতেন।
+
+[Shot 0017 - Puck] এখানে বৌদ্ধ দর্শনের পাশাপাশি পড়ানো হতো চিকিৎসাশাস্ত্র, জ্যোতির্বিজ্ঞান, যুক্তিবিদ্যা, ব্যাকরণ আর গণিত, তালপাতায় কালির গন্ধে ভরা ক্লাসঘরে।
+
+[Shot 0018 - Puck] <gasp> আর্যভট্টের শূন্য আর গ্রহগণনার বিস্ময়কে এখানকার আচার্যরা পাথরের স্লেটে খড়ির বিন্দু এঁকে চোখে বিস্ময় জাগিয়ে পরের প্রজন্মে পৌঁছে দিয়েছিলেন।
+
+[Shot 0019 - Puck] সব ধর্মের ছাত্রের জন্য নালন্দার ভারী কাঠের ফটক খোলা ছিল, ভিনদেশি পথিকরা মালা পরে হাসিমুখে একসাথে ভেতরে ঢুকতেন সম্মানে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0020 - Charon] <gasp> সবচেয়ে চমকপ্রদ সত্য হলো, নালন্দায় পড়াশোনা ছিল সম্পূর্ণ বিনামূল্যে, শুনে নতুন ছাত্রদের চোখ বিস্ময়ে বড় হয়ে যেত আনন্দে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0021 - Charon] থাকা, গরম ভাতের গন্ধমাখা খাওয়া আর ভেষজ ওষুধ সব দিত বিশ্ববিদ্যালয়, লম্বা ভোজনশালায় শত শত ছাত্র একসাথে উৎসবের আনন্দে বসতেন,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0022 - Charon] এই বিশাল খরচ চলত প্রায় দুশোটি গ্রামের রাজস্বদানে, যা ধর্মপ্রাণ রাজা আর দানশীল বণিকরা শ্রদ্ধাভরে বিশ্ববিদ্যালয়ের হাতে তুলে দিয়েছিলেন।
+
+[Shot 0023 - Charon] তবে ভর্তি ছিল ভয়ংকর কঠিন, প্রধান ফটকের সামনে দাঁড়িয়ে কঠোর পরীক্ষার কথা ভেবে আবেদনকারীদের কপালে ঘাম জমে যেত ভয়ে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0024 - Charon] প্রধান ফটকে পণ্ডিত দ্বাররক্ষীরা পুঁথি হাতে প্রতিটি পথিককে সূক্ষ্ম প্রশ্নে যাচাই করতেন, পেছনে গাঁটরি কাঁধে অপেক্ষা করতেন আরও শত প্রার্থী।
+
+[Shot 0025 - Charon] <sigh> দশজনে মাত্র দু-তিনজন ভেতরে ঢুকতে পারতেন, নির্বাচিতরা আনন্দে জড়িয়ে ধরতেন একে অপরকে আর বাকিরা ভারী মনে ফিরে যেতেন পথে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0026 - Charon] নালন্দার প্রাণ ছিল তিনটি বিশাল গ্রন্থাগার, রত্নসাগর, রত্নোদধি আর রত্নরঞ্জক, যাদের ছায়ায় পাখিরা বিকেলের সোনা রোদে চক্কর কাটত,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0027 - Charon] <gasp> তার মধ্যে রত্নোদধি ছিল নয়তলা উঁচু বিশাল ইটের ভবন, যার সিঁড়ি বেয়ে ভিক্ষুরা গাঁটরি কাঁধে উঠতেন জ্ঞানের খোঁজে হাঁপাতে হাঁপাতে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0028 - Charon] কাঠের তাকে সারি সারি লাখ লাখ তালপাতার পুঁথি সাজানো ছিল, দর্শন, ব্যাকরণ, চিকিৎসা, জ্যোতিষ, প্রদীপের আলোয় গ্রন্থাগারিকরা যেতেন নিঃশব্দে।
+
+[Shot 0029 - Charon] <gasp> পণ্ডিতরা বলেন, এই সংগ্রহ ছিল প্রায় নব্বই লাখ গ্রন্থের সমান, গুনতে গুনতে প্রবীণদের মালার গুটি ফুরিয়ে যেত বিস্ময়ে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0030 - Charon] এটাই ছিল মানব ইতিহাসের সবচেয়ে বড় জ্ঞানভান্ডার, সোনালি পুঁথির পাহাড় থেকে জ্ঞানের আলো ছড়িয়ে পড়ত যুগের পর যুগ ধরে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0031 - Charon] আমি হিউয়েন সাং, সুদূর চীন থেকে এসেছি, বাদামি চীবর গায়ে আর বেতের টুপি মাথায় নালন্দার দুয়ারে দাঁড়িয়ে ইতিহাসকে প্রণাম জানাই,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0032 - Charon] জ্বলন্ত মরুভূমি আর বরফঢাকা পাহাড় পেরিয়ে, তৃষ্ণা আর তুষারঝড় সয়ে ৬৩০ সালে আমি অবশেষে নালন্দার মাটিতে পা রেখেছিলাম,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0033 - Charon] টানা পাঁচ বছর এখানে পড়েছি, প্রদীপের আলোয় পুঁথির স্তূপের মাঝে বসে আচার্য শীলভদ্রের কাছে গভীর যোগাচার দর্শন শিখেছি ভক্তিতে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0034 - Charon] ফেরার সময় ঘোড়া আর বাহকদের কাফেলা নিয়ে ৬৫৭টি পবিত্র পুঁথি আর বুদ্ধমূর্তি যত্নে বেঁধে সূর্যোদয়ের আলোয় বিদায় নিয়েছিলাম,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0035 - Charon] আমার ভ্রমণবৃত্তান্তের জ্বলজ্বলে পুঁথি থেকেই দুনিয়া প্রথম নালন্দার মহিমা জেনেছিল, মানচিত্রে আলোর রেখা ছড়িয়ে গিয়েছিল চীন পর্যন্ত,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0036 - Charon] <screaming> নালন্দায় পরীক্ষা হতো খোলা তর্কযুদ্ধে, পাথরের প্রাঙ্গণে শঙ্খ বাজতেই দুই পণ্ডিত এগিয়ে আসতেন আর শত শত ছাত্র গোল হয়ে বসতেন,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0037 - Charon] খোলা প্রাঙ্গণে দুই পণ্ডিত তীক্ষ্ণ যুক্তির তীর ছুড়তেন, দুপুরের রোদে শত শত ছাত্র নিঃশ্বাস বন্ধ করে শুনতেন প্রতিটি কথা গভীর মনোযোগে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0038 - Charon] হারও ছিল সম্মানের, পরাজিত পণ্ডিত কখনো বিজয়ীকে মালা পরিয়ে বিনয়ে তাঁর শিষ্য হয়ে যেতেন, যা দেখে সবাই শ্রদ্ধায় মাথা নত করতেন,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0039 - Charon] <gasp> ন্যায়শাস্ত্র, বিতর্কবিদ্যা আর জ্যোতির্বিজ্ঞানে নালন্দার আচার্যরা ছিলেন বিশ্বসেরা, বিদেশি অতিথিরা তারার মানচিত্র দেখে বিস্ময়ে তাকিয়ে থাকতেন।
+
+[Shot 0040 - Charon] এখানকার ডিগ্রি মানে সারা এশিয়ায় সম্মানের সোনালি চাবিকাঠি, তালপাতার সনদ হাতে স্নাতকরা গর্বে নতুন দুয়ার খুলে দিতেন জ্ঞানের,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0041 - Charon] আমি অতীশ দীপঙ্কর, বাংলার বিক্রমপুরে পদ্মপুকুর আর নারকেলগাছের ছায়ায় আমার জন্ম, মায়ের কোলে শুনেছি করুণার প্রথম পাঠ,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0042 - Charon] নালন্দা ও বিক্রমশীলায় আমি আচার্য ছিলাম, সারি সারি ভিক্ষুদের মাঝে সিংহাসনে বসে প্রতিদিন করুণা আর প্রজ্ঞার পাঠ দিতাম,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0043 - Charon] ১০৪২ সালে তিব্বতের রাজার আমন্ত্রণে প্রৌঢ় বয়সে প্রার্থনার পতাকা উড়িয়ে হিমালয়ের বরফঢাকা গিরিপথ পেরিয়ে গিয়েছিলাম ধর্মসংস্কারে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0044 - Charon] তিব্বতিরা আজও আমাকে গভীর শ্রদ্ধায় স্মরণ করে, পাহাড়ি গুম্ফায় ঘিয়ের প্রদীপ আর ধূপের গন্ধে আমার ছবিতে প্রণাম জানায়,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0045 - Charon] বাংলার এই সন্তান নালন্দার জ্ঞানপ্রদীপ হাতে হিমালয়ের ওপারে পৌঁছে দিয়েছিল, যার আলোয় তিব্বতের গুম্ফাগুলো আজও ভোরে জেগে ওঠে,, ধূপের মিষ্টি গন্ধে।
+
+[Shot 0046 - Charon] ভোরের হালকা কুয়াশায় নালন্দার বিশাল প্রাঙ্গণ জেগে উঠত ঘণ্টাধ্বনি আর পাঠের গুঞ্জনে, যেখানে হাজারো ভিক্ষু কঠোর নিয়ম আর গভীর শান্তির মধ্যে দিন শুরু করতেন।
+
+[Shot 0047 - Charon] ভোরের ঘণ্টা বাজতেই সারি সারি ভিক্ষু স্তম্ভঘেরা প্রার্থনাগৃহে ধ্যানে বসতেন, আর জানালার ফাঁক দিয়ে আসা সোনালি রোদ তাঁদের গেরুয়া চীবরে নরম আলো ছড়িয়ে দিত।
+
+[Shot 0048 - Charon] <screaming> এরপর শুরু হতো পাঠ, শাস্ত্রার্থ আর তর্কযুদ্ধ, পাশাপাশি লিপিকররা নিবিষ্ট মনে তালপাতার পুঁথি নকল করতেন প্রদীপের আলোয়, যা ইতিহাসে অমলিন হয়ে আছে।
+
+[Shot 0049 - Charon] দুপুরে সারিবদ্ধ ভিক্ষুরা মাটির ভিক্ষাপাত্র হাতে বিনম্রভাবে অন্ন গ্রহণ করতেন, যেখানে সামান্য ভাত আর ডালেই তৃপ্তির গভীর শিক্ষা লুকিয়ে ছিল।
+
+[Shot 0050 - Charon] সন্ধ্যায় প্রদীপের আলোয় আবার বসত পাঠচক্র, যেখানে গুরু-শিষ্য মিলে দিনের পাঠ ঝালিয়ে নিতেন এবং কণ্ঠে কণ্ঠে সূত্র আবৃত্তি করতেন, যা আজও আমাদের ভাবায়।
+
+[Shot 0051 - Charon] কোরিয়া, জাভা, তিব্বত আর পারস্য থেকে আসা ছাত্ররা একই প্রাঙ্গণে থাকতেন, ভাষা আলাদা হলেও জ্ঞানের প্রতি ভালোবাসা তাঁদের এক সূত্রে বেঁধেছিল।
+
+[Shot 0052 - Charon] নানা দেশ, নানা ভাষা আর নানা পোশাকের এই মিলনমেলাই নালন্দাকে সত্যিকারের আন্তর্জাতিক ক্যাম্পাসে পরিণত করেছিল, যা আজও আমাদের গভীরভাবে বিস্মিত করে।
+
+[Shot 0053 - Puck] কিন্তু দ্বাদশ শতাব্দীর দিকে নালন্দার আকাশে ঘন কালো মেঘ জমতে থাকে, মঠের প্রাচীরে ফাটল ধরে আর ভিক্ষুদের সংখ্যাও ধীরে ধীরে কমে আসে, যা আজও বুকে বাজে।
+
+[Shot 0054 - Puck] পাল রাজাদের রাজকীয় পৃষ্ঠপোষকতা কমে যাওয়ায় ভাণ্ডার শূন্য হতে থাকে, আর পাশেই বিক্রমশীলা নতুন রাজকীয় কেন্দ্র হিসেবে মাথা তুলে দাঁড়ায়।
+
+[Shot 0055 - Puck] দুইশো গ্রামের দানের আয়েও বিশাল মঠ, হাজারো ছাত্র আর অতিথিদের দৈনন্দিন ব্যয় সামলানো ক্রমে কঠিন হয়ে পড়েছিল, যা শুনে আজও আমাদের হৃদয় বেদনায় ভরে ওঠে।
+
+[Shot 0056 - Puck] <screaming> একই সময়ে উত্তর ভারতজুড়ে রাজনৈতিক অস্থিরতা, যুদ্ধ আর ক্ষমতার টানাপোড়েন বাড়তে থাকে, যা বাণিজ্যপথ ও তীর্থযাত্রাকেও অনিরাপদ করে তোলে, যা আজও বুকে বাজে।
+
+[Shot 0057 - Puck] <screaming> জ্ঞানের প্রদীপ তখন নিভু নিভু করছিল অন্ধকার করিডোরে, আর দূরের যুদ্ধের দামামা ঘোষণা করছিল সেই ভয়ংকর আঘাতের, যা সবকিছু বদলে দেবে, যা আজও বুকে বাজে।
+
+[Shot 0058 - Charon] এবার আমরা বখতিয়ার খিলজির বাহিনীর অভিযানের সময়ের কথা বলছি ইতিহাসের নিরিখে, পূর্ণ মর্যাদা আর সংযমের সঙ্গে, কোনো সম্প্রদায়ের প্রতি বিদ্বেষ ছাড়াই।
+
+[Shot 0059 - Charon] ফার্সি ঐতিহাসিক গ্রন্থ তবকাত-ই-নাসিরি লিপিবদ্ধ করেছে, ১১৯৩ থেকে ১২০০ খ্রিস্টাব্দের মধ্যে বিহার অঞ্চলে ধারাবাহিক অভিযান সংঘটিত হয়েছিল, যা আজও বুকে বাজে।
+
+[Shot 0060 - Charon] <screaming> ঐতিহাসিকদের মতে সৈন্যরা উঁচু প্রাচীরঘেরা মঠকে দূর থেকে দুর্গ ভেবে ভুল করেছিল, আর সেই ভুল বোঝাবুঝি থেকেই আকস্মিক সংঘর্ষের সূত্রপাত হয়, যা আজও বুকে বাজে।
+
+[Shot 0061 - Charon] নালন্দার ভিক্ষুরা ছিলেন সম্পূর্ণ নিরস্ত্র জ্ঞানসাধক, শাস্ত্র আর করুণায় নিবেদিতপ্রাণ, তাই তাঁদের স্মৃতির প্রতি আমরা গভীর শ্রদ্ধা নিবেদন করি।
+
+[Shot 0062 - Charon] আমি সেই ভয়াল দিনের একজন বেঁচে যাওয়া বৃদ্ধ ভিক্ষু, যিনি জ্বলন্ত গ্রন্থাগারের ছায়ায় দাঁড়িয়ে নিজের চোখে দেখা সত্যের সাক্ষ্য দিচ্ছেন।
+
+[Shot 0063 - Charon] <gasp> হঠাৎ দেখলাম রত্নোদধি গ্রন্থাগারের নয়তলা ভবনে লেলিহান আগুন ছড়িয়ে পড়েছে, আর রাতের আকাশে ফুলকি উড়ছে ঝড়ো বাতাসে, যা শুনে আজও আমাদের হৃদয় বেদনায় ভরে ওঠে।
+
+[Shot 0064 - Charon] লক্ষ লক্ষ তালপাতার পুঁথি, কাঠের তাক আর ঘিয়ের প্রদীপ একসঙ্গে জ্বলায় ধোঁয়ার কালো স্তম্ভ মাসের পর মাস আকাশ ঢেকে রেখেছিল, যা আজও বুকে বাজে।
+
+[Shot 0065 - Charon] <sigh> জনশ্রুতি বলে সেই বিধ্বংসী আগুন প্রায় তিন মাস ধরে ধিকিধিকি জ্বলেছিল, যা শুনে আজও আমাদের বুক ভারী হয়ে ওঠে, যা শুনে আজও আমাদের হৃদয় বেদনায় ভরে ওঠে।
+
+[Shot 0066 - Charon] আমরা কয়েকজন কাঁধে যত পুঁথি পারলাম বেঁধে নিয়ে গভীর রাতে জঙ্গলের পথে নেপাল আর তিব্বতের দিকে জীবন বাঁচাতে পালিয়ে গেলাম, যা আজও বুকে বাজে।
+
+[Shot 0067 - Charon] <sigh> পোড়া তালপাতার ছাই আজও আমার কাঁপা হাতে লেগে আছে, আর হারানো গুরু-ভাইদের স্মৃতি গভীর শোক হয়ে বুকে বাজে, যা শুনে আজও আমাদের হৃদয় বেদনায় ভরে ওঠে।
+
+[Shot 0068 - Charon] একটি বহুল প্রচলিত জনশ্রুতি বলে, অসুস্থ সেনাপতিকে বৈদ্য পুঁথির পাতায় ওষুধ লেপে সুস্থ করেছিলেন, আর সেই ঘটনার ক্ষোভ থেকে গ্রন্থাগার পোড়ানো হয়েছিল বলে কেউ কেউ মনে করেন।
+
+[Shot 0069 - Charon] <gasp> কিন্তু থামুন, এই চমকপ্রদ গল্প শোনার আগে আমাদের থামতে হবে এবং যাচাই করতে হবে, কারণ ইতিহাসে আবেগের চেয়ে প্রমাণের মূল্য অনেক বেশি, যা শ্রদ্ধার সঙ্গে স্মরণীয়।
+
+[Shot 0070 - Charon] গুরুত্বপূর্ণ বিষয় হলো, সমসাময়িক ফার্সি উৎস তবকাত-ই-নাসিরিতে এই অলৌকিক চিকিৎসার গল্পের কোনো উল্লেখ খুঁজে পাওয়া যায় না, যা শ্রদ্ধার সঙ্গে স্মরণীয়।
+
+[Shot 0071 - Charon] তাই আধুনিক ঐতিহাসিকরা এই কাহিনিকে পরবর্তীকালের লোককথা বলে মনে করেন, যা প্রজন্মের পর প্রজন্ম ধরে মুখে মুখে রঙিন হয়ে উঠেছে, যা শ্রদ্ধার সঙ্গে স্মরণীয়।
+
+[Shot 0072 - Charon] <sigh> উভয় সম্প্রদায়ের প্রতি পূর্ণ সম্মান রেখে আমরা বলি, সত্য যাই হোক, জ্ঞানের এই অপূরণীয় ক্ষতি ছিল সমগ্র মানবতার যৌথ শোক, যা শ্রদ্ধার সঙ্গে স্মরণীয়।
+
+[Shot 0073 - Charon] <sigh> ভয়ংকর ধ্বংসের পরও নালন্দা পুরোপুরি নিভে যায়নি, ভাঙা ছাদ আর ধসে পড়া স্তূপের মাঝে ক্ষীণ প্রদীপের মতো তার প্রাণ টিকে ছিল, যা আশা জাগিয়ে রাখে।
+
+[Shot 0074 - Charon] <gasp> ১২৩৫ সালে তিব্বতি পর্যটক ধর্মস্বামিন এসে বিস্ময়ে দেখেন, নব্বই বছরের আচার্য রাহুলশ্রীভদ্র ভাঙা মঠেই সত্তরজন ছাত্রকে নিষ্ঠাভরে পড়াচ্ছেন।
+
+[Shot 0075 - Charon] তাঁর নিবেদিত শিষ্যরা উদ্ধার করা পুঁথিগুলো বুকে আগলে রেখেছিলেন পরম যত্নে, যেন সন্তানকে আঁকড়ে ধরা মায়ের মতো, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0076 - Charon] ধীরে ধীরে বেঁচে যাওয়া ভিক্ষুরা নেপাল, তিব্বত আর দক্ষিণ-পূর্ব এশিয়ায় ছড়িয়ে পড়লেন, আর বীজের মতো নালন্দার জ্ঞান সারা মহাদেশে অঙ্কুরিত হলো।
+
+[Shot 0077 - Charon] তারপর শতাব্দীর পর শতাব্দী নালন্দা মাটির নিচে নীরবে ঘুমিয়ে ছিল, উপরে ঘাস, পিপুলগাছ আর কৃষকের হালচাষ চলছিল, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0078 - Charon] <sigh> অবশেষে ১৮৬০-এর দশকে ব্রিটিশ প্রত্নতত্ত্ববিদ আলেকজান্ডার কানিংহাম জরিপ করে এই বিশাল ধ্বংসস্তূপকে প্রাচীন নালন্দা হিসেবে শনাক্ত করলেন, যা আশা জাগিয়ে রাখে।
+
+[Shot 0079 - Charon] পরবর্তী খননে মাটির নিচ থেকে বেরিয়ে এল সারি সারি মঠ, মন্দির, ব্রোঞ্জমূর্তি আর সিলমোহর, সঙ্গে অসংখ্য পোড়া পুঁথির অংশ, যা আশা জাগিয়ে রাখে।
+
+[Shot 0080 - Charon] সেই অসামান্য আবিষ্কারের স্বীকৃতি এল ২০১৬ সালে, যখন ইউনেস্কো নালন্দাকে বিশ্ব ঐতিহ্যবাহী স্থান হিসেবে ঘোষণা করল, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0081 - Charon] এভাবেই মাটি খুঁড়ে আবার জেগে উঠল পৃথিবীর প্রথম আবাসিক বিশ্ববিদ্যালয়, সূর্যোদয়ের আলোয় তার ইটের সিঁড়ি ঝলমল করে উঠল, যা আশা জাগিয়ে রাখে।
+
+[Shot 0082 - Puck] <sigh> কিন্তু জেনে রাখুন, এই দীর্ঘ গল্প এখানেই শেষ নয়, কারণ ধ্বংসস্তূপ থেকে নতুন অঙ্কুরের মতো আরেকটি অধ্যায় শুরু হয়েছে, যা আশা জাগিয়ে রাখে।
+
+[Shot 0083 - Puck] <sigh> ২০১৪ সালে প্রাচীন ধ্বংসস্তূপের পাশেই জন্ম নিল নতুন নালন্দা বিশ্ববিদ্যালয়, ভারতসহ এশিয়ার বহু দেশের যৌথ স্বপ্ন আর সহযোগিতায়, যা আশা জাগিয়ে রাখে।
+
+[Shot 0084 - Puck] আজ আবার সেখানে দেশ-বিদেশের ছাত্ররা আসছেন, শ্রেণিকক্ষে প্রাণবন্ত বিতর্ক হচ্ছে আর প্রাচীন পুঁথি নতুন আলোয় পড়া হচ্ছে, যা আশা জাগিয়ে রাখে।
+
+[Shot 0085 - Puck] প্রায় আটশো বছর পর নিভে যাওয়া প্রদীপ আবার জ্বলে উঠেছে, আর তার উষ্ণ আলো নতুন প্রজন্মের মুখে আশার দীপ্তি ছড়াচ্ছে, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0086 - Puck] ইতিহাস চূড়ান্ত প্রমাণ দিল, বই আগুনে পোড়ানো যায় বটে, কিন্তু মানুষের হৃদয়ে জ্ঞানের তৃষ্ণা কখনো পোড়ানো যায় না, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0087 - Puck] তাহলে ভাবুন, এত পুঁথি আর কাঠের ভাণ্ডার একসঙ্গে জ্বলেছিল বলেই নালন্দার আগুন নাকি প্রায় তিন মাস ধরে থামেনি, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0088 - Puck] <sigh> কারণ সেখানে জমে ছিল প্রায় হাজার বছরের স্বপ্ন, সাধনা আর শ্রম, যা একদিনের আগুনে কখনো ছাই হয়ে যায় না, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0089 - Puck] <sigh> পুঁথি পুড়ে ছাই হলেও জ্ঞান বেঁচে থাকে মানুষের মনে, তিব্বতের মঠের মন্ত্রে আর বাংলার বাউল গানের সুরে, যা আজও আমাদের গভীরভাবে বিস্মিত ও অনুপ্রাণিত করে।
+
+[Shot 0090 - Puck] এবার আপনার মতামত জানতে চাই, আজকের ডিজিটাল যুগে জ্ঞান রক্ষার শ্রেষ্ঠ উপায় কোনটি বলে আপনি মনে করেন, যা আজও আমাদের গভীরভাবে ভাবায় ও অনুপ্রাণিত করে।
+
+[Shot 0091 - Puck] আপনার প্রিয় উত্তরটি কমেন্টে লিখে জানান, কারণ আপনার একটি মন্তব্যও পরের পর্বকে আরও সমৃদ্ধ করতে পারে, যা আজও আমাদের গভীরভাবে ভাবায় ও অনুপ্রাণিত করে।
+
+[Shot 0092 - Puck] সহজ ভাষায় ইতিহাস জানতে ইউটিউবে Simple History Teller Bangla চ্যানেল সাবস্ক্রাইব করো। পাশের বেল আইকন চাপলে প্রতি সপ্তাহে নতুন পর্ব তুমি সবার আগে পাবে।
+
+[Shot 0093 - Puck] <gasp> কমেন্টে অবশ্যই লিখুন, নালন্দার কোন তথ্যটি আপনাকে সবচেয়ে বেশি অবাক করেছে এবং কেন তা মনে গেঁথে আছে, যা আজও আমাদের গভীরভাবে ভাবায় ও অনুপ্রাণিত করে।
+
+[Shot 0094 - Puck] এমন সহজ ও প্রাণবন্ত ইতিহাস প্রতি সপ্তাহে পেতে সিম্পল ইতিহাসকে সাবস্ক্রাইব করে পাশের বেল আইকনটি চাপুন, যা আজও আমাদের গভীরভাবে ভাবায় ও অনুপ্রাণিত করে।
+
+[Shot 0095 - Puck] <whisper> পরের ভিডিওতে আসছে বিক্রমশীলার রহস্যময় কাহিনি, যেখানে জানবেন নালন্দার যমজ ভাই কেন ইতিহাস থেকে হারিয়ে গেল, যা আজও আমাদের গভীরভাবে ভাবায় ও অনুপ্রাণিত করে।
+
+[Shot 0096 - Puck] এই পর্বের উৎস হিসেবে আমরা নির্ভর করেছি হিউয়েন সাঙের ভ্রমণবৃত্তান্ত, তবকাত-ই-নাসিরি, ধর্মস্বামিনের বিবরণ আর ইউনেস্কো প্রতিবেদনের উপর, যা আমাদের প্রেরণা জোগায়।
+
+================================================================================
+PART 2: ENGLISH - 96 blocks (project.json narration verbatim)
+================================================================================
+
+[Shot 0001 - Puck] <gasp> I am the Time Chronicler, dusted with stardust from the cosmic clock, returning through a thousand years to tell you the lost story of Nalanda with wonder.
+
+[Shot 0002 - Puck] <gasp> Imagine a colossal library where towering stacks of palm-leaf manuscripts caught fire, filling the air with smoke and burnt oil as flames raged for three months.
+
+[Shot 0003 - Puck] <sigh> Nearly nine million palm-leaf manuscripts, a thousand years of scholarship and devotion, all collapsed into grey ash and glowing embers in a single tragedy.
+
+[Shot 0004 - Puck] <whisper> This is no invented legend but the true history of Nalanda in Bihar, where dawn mist still drifts over red bricks and pilgrims hear whispers of the past.
+
+[Shot 0005 - Puck] <sigh> Why did the world's first university, this radiant lighthouse of wisdom and compassion, burn down into smoke and silent ash,, amid soft incense?
+
+[Shot 0006 - Puck] Come, hold my hand and glide through a golden vortex of time, past flying birds, back thirteen hundred years to the soil of ancient Magadha.
+
+[Shot 0007 - Charon] <sigh> Today at Nalanda in Bihar you see only red-brick ruins, broken stupas and empty courtyards, where wind sighs over silent stones and visitors walk softly.
+
+[Shot 0008 - Charon] Yet believe it, these silent courtyards once echoed with ten thousand students and two thousand teachers studying, laughing and debating side by side.
+
+[Shot 0009 - Charon] Thirsty seekers from China, Korea, Tibet and Persia walked dusty roads for months, enduring hunger and heat, until they finally reached the gates of Nalanda.
+
+[Shot 0010 - Charon] It was the Oxford and Harvard of the ancient world combined, where Indian and foreign scholars exchanged manuscripts under peepal shade with joyful smiles.
+
+[Shot 0011 - Charon] Many believe universities were a British gift like Calcutta or Bombay of 1857, yet history gently proves this narrow idea completely wrong and incomplete.
+
+[Shot 0012 - Charon] This idea is utterly wrong, for the lamp of Nalanda was already glowing proudly in India seven hundred years before Oxford was even born.
+
+[Shot 0013 - Charon] In 427 CE Gupta emperor Kumaragupta the First laid the first foundation brick of Nalanda at golden sunrise amid chanting priests and echoing conch shells.
+
+[Shot 0014 - Charon] Then for nearly eight hundred years, through changing seasons and centuries, study continued daily from dawn lamps to midnight oil without any break.
+
+[Shot 0015 - Charon] So what did the birth moment of this great institution look like, which dream and whose generosity opened its giant wooden doors to a new dawn?
+
+[Shot 0016 - Puck] Nalanda was never merely a prayer hall for Buddhist monks but a complete university, where physicians and astronomers sat together in pillared halls.
+
+[Shot 0017 - Puck] Here alongside Buddhist philosophy scholars taught medicine, astronomy, logic, Sanskrit grammar and mathematics in classrooms scented with ink and palm leaves.
+
+[Shot 0018 - Puck] <gasp> Masters here carried forward Aryabhata's wonder of zero and planetary reckoning, sketching chalk dots on stone slates as students watched wide-eyed.
+
+[Shot 0019 - Puck] The heavy wooden gates of Nalanda stayed open for students of every faith, as foreign travellers entered together wearing garlands with respect and smiles.
+
+[Shot 0020 - Charon] <gasp> The most astonishing truth is that education at Nalanda was completely free, a promise that widened the eyes of every newcomer with disbelief and joy.
+
+[Shot 0021 - Charon] Lodging, steaming meals rich with rice aroma and herbal medicine were all provided free, as hundreds dined together in long halls like a daily festival.
+
+[Shot 0022 - Charon] This vast expense flowed from the revenue of nearly two hundred donated villages, gifted with devotion by kings and generous merchants to the university.
+
+[Shot 0023 - Charon] Yet admission was formidably tough, as nervous applicants sweated before the main gate imagining the piercing questions of the stern gatekeepers.
+
+[Shot 0024 - Charon] At the main gate scholar gatekeepers tested each traveller with subtle questions from scrolls, while a hundred hopefuls waited behind with bundles.
+
+[Shot 0025 - Charon] Only two or three out of ten could step inside, the chosen hugging in delight while the rest walked away with heavy hearts down the dusty road.
+
+[Shot 0026 - Charon] The soul of Nalanda lived in three towering libraries, Ratnasagara, Ratnodadhi and Ratnaranjaka, where birds circled in golden afternoon light above.
+
+[Shot 0027 - Charon] Among them Ratnodadhi rose nine storeys high in brick and timber, its stairs climbed by monks carrying bundles in search of wisdom and light.
+
+[Shot 0028 - Charon] Row upon row of wooden shelves held millions of palm-leaf manuscripts on philosophy, grammar, medicine and astronomy, tended silently by lamplit librarians.
+
+[Shot 0029 - Charon] <gasp> Scholars estimate this collection equalled nearly nine million volumes, a number so vast that elder counters ran out of beads in sheer amazement.
+
+[Shot 0030 - Charon] It was the greatest treasure house of knowledge in human history, a golden mountain of manuscripts radiating light across centuries and continents.
+
+[Shot 0031 - Charon] I am Xuanzang from distant China, standing in brown robes and a straw hat at the gates of Nalanda, bowing humbly to history itself.
+
+[Shot 0032 - Charon] Across scorching deserts and frozen mountain passes, enduring thirst and blizzards, I finally set foot on the soil of Nalanda in 630 CE.
+
+[Shot 0033 - Charon] I studied here for five devoted years, seated amid scroll piles in lamplight, learning profound Yogachara philosophy at the feet of Master Shilabhadra.
+
+[Shot 0034 - Charon] When I departed at sunrise, my caravan of horses and porters carried 657 sacred manuscripts and Buddha images, tied with care and reverence.
+
+[Shot 0035 - Charon] From my glowing travel records the world first learned the glory of Nalanda, as lines of light spread across maps all the way to China.
+
+[Shot 0036 - Charon] At Nalanda examinations meant open debate duels, where conch shells blew across stone courtyards as two scholars stepped forward before hundreds.
+
+[Shot 0037 - Charon] In sunlit courtyards two scholars traded sharp arrows of logic, while hundreds of students held their breath, listening intently to every single word.
+
+[Shot 0038 - Charon] Even defeat carried honour, as the vanquished scholar sometimes garlanded the victor and humbly became his disciple, bowing before assembled learners.
+
+[Shot 0039 - Charon] <gasp> In logic, dialectics and astronomy the masters of Nalanda stood best in the world, as foreign guests gazed in wonder at their intricate star charts.
+
+[Shot 0040 - Charon] A degree from here was a golden key to honour across all Asia, as graduates holding palm-leaf certificates proudly opened new doors of wisdom.
+
+[Shot 0041 - Charon] I am Atisha Dipankara, born in Vikrampur of Bengal amid lotus ponds and coconut palms, where I first heard lessons of compassion in childhood.
+
+[Shot 0042 - Charon] <sigh> I served as master at both Nalanda and Vikramashila, seated daily on the teaching throne before rows of monks, sharing wisdom and compassion.
+
+[Shot 0043 - Charon] In 1042, aged yet resolute, I crossed the snowy Himalayan passes beneath fluttering prayer flags at the Tibetan king's call to reform the faith.
+
+[Shot 0044 - Charon] Tibetans still remember me with deep reverence, offering butter lamps and fragrant incense before my image in quiet mountain monasteries.
+
+[Shot 0045 - Charon] This son of Bengal carried Nalanda's lamp of wisdom beyond the Himalayas, whose gentle light still wakes Tibetan monasteries at every sunrise.
+
+[Shot 0046 - Charon] At dawn the courtyards of Nalanda awoke amid soft mist, bell chimes and murmured recitations, where thousands of monks began their day in strict discipline and deep calm.
+
+[Shot 0047 - Charon] As the dawn bell rang, rows of monks settled into meditation in the pillared hall, while golden sunlight through windows spread a warm glow across their ochre robes.
+
+[Shot 0048 - Charon] Then began lessons, scriptural debates and spirited logic contests, while scribes quietly copied palm-leaf manuscripts under warm daylight in the study halls.
+
+[Shot 0049 - Charon] At midday the monks sat in long rows with clay begging bowls and humbly accepted plain rice and lentils, finding deep contentment in that simple shared meal.
+
+[Shot 0050 - Charon] In the evening the study circles gathered again under flickering oil lamps, where teachers and pupils revised the day lessons and chanted verses in unison.
+
+[Shot 0051 - Charon] Students from Korea, Java, Tibet and Persia shared the same courtyards, and though their tongues differed, their love of wisdom bound them as one family.
+
+[Shot 0052 - Charon] This joyful union of many lands, many tongues and many robes made Nalanda a truly international campus far ahead of its age, etched deep in memory.
+
+[Shot 0053 - Puck] But by the twelfth century dark clouds gathered over Nalanda, cracks appeared on old stupas, gardens dried up and the number of resident monks slowly declined.
+
+[Shot 0054 - Puck] <sigh> As royal patronage from the Pala kings weakened and the treasury thinned, nearby Vikramashila rose nearby as a favoured new royal centre of learning.
+
+[Shot 0055 - Puck] Even the revenue of two hundred endowed villages could hardly sustain the vast monastery, its thousands of students and its daily crowd of guests.
+
+[Shot 0056 - Puck] Across northern India political turmoil, rival wars and shifting powers grew fiercer, making trade routes and pilgrim roads increasingly unsafe for travellers.
+
+[Shot 0057 - Puck] <screaming> The lamp of learning flickered in dark corridors amid stormy winds, while distant war drums announced the terrible blow that would soon change everything.
+
+[Shot 0058 - Charon] We now speak of the campaign era linked to Bakhtiyar Khalji forces in a calm historical view, with full dignity and restraint, without hatred toward any community.
+
+[Shot 0059 - Charon] <screaming> The Persian historical chronicle Tabaqat-i-Nasiri records that sustained military campaigns swept across this Bihar region between 1193 and 1200 CE.
+
+[Shot 0060 - Charon] <screaming> Historians explain that distant soldiers mistook the high-walled monastery for a fortified fort, and that fateful misunderstanding sparked the sudden armed clash.
+
+[Shot 0061 - Charon] The monks of Nalanda were wholly unarmed seekers of wisdom, devoted to scriptures and compassion, and to their memory we offer our deepest respectful homage.
+
+[Shot 0062 - Charon] I am an aged monk who survived those dreadful days, standing in the shadow of the burning library to bear witness to what my own eyes beheld.
+
+[Shot 0063 - Charon] <screaming> Suddenly I saw raging flames engulf the nine-storey Ratnodadhi library tower, hurling fountains of sparks into the night sky amid howling winds.
+
+[Shot 0064 - Charon] <sigh> Millions of palm-leaf manuscripts, wooden racks and ghee lamps burned together, so towering columns of black smoke veiled the sky for many months.
+
+[Shot 0065 - Charon] <sigh> Popular memory says that devastating blaze smouldered for nearly three months at a stretch, a thought that still weighs heavily on our hearts today.
+
+[Shot 0066 - Charon] A few of us tied whatever manuscripts we could carry onto our shoulders and fled by night through dense forest paths toward Nepal and Tibet to save them.
+
+[Shot 0067 - Charon] <sigh> The ash of burnt palm leaves still clings to my trembling hands, and the memory of my lost teachers and brothers echoes as deep grief in my chest.
+
+[Shot 0068 - Charon] A folk legend claims a physician cured a commander with medicine on manuscript pages, and some link the anger after this episode to the burning of the library.
+
+[Shot 0069 - Charon] But pause, before embracing this startling tale we must stop and verify the facts, because in history solid evidence matters far more than stirring emotion.
+
+[Shot 0070 - Charon] The crucial point is that the contemporary Persian source, the Tabaqat-i-Nasiri, contains no mention whatsoever of this miraculous healing tale.
+
+[Shot 0071 - Charon] Modern historians therefore regard this story as a later folk legend, colourfully embellished as it passed from mouth to mouth across generations.
+
+[Shot 0072 - Charon] <sigh> With full respect for every community we affirm that, whatever the exact truth, this irreplaceable loss of wisdom was a shared mourning for all humanity.
+
+[Shot 0073 - Charon] <sigh> Even after fearful ruin Nalanda did not wholly perish, for amid collapsed roofs and fallen stupas its life survived like a faintly glowing lamp.
+
+[Shot 0074 - Charon] <sigh> In 1235 the Tibetan pilgrim Dharmaswamin arrived in wonder to find ninety-year-old master Rahulashribhadra still devoutly teaching seventy pupils in the broken monastery.
+
+[Shot 0075 - Charon] His devoted disciples clutched the rescued manuscripts to their chests with tender care, like mothers protectively holding their beloved children.
+
+[Shot 0076 - Charon] Slowly the surviving monks scattered toward Nepal, Tibet and Southeast Asia, and like scattered seeds the wisdom of Nalanda sprouted across the whole continent.
+
+[Shot 0077 - Charon] <sigh> For centuries thereafter Nalanda slept silently beneath the soil, while grass, peepal trees and farmers ploughs moved unknowingly above its ruins.
+
+[Shot 0078 - Charon] <sigh> At last in the 1860s the British archaeologist Alexander Cunningham surveyed these vast mounds and identified them as the ruins of ancient Nalanda.
+
+[Shot 0079 - Charon] Later excavations unearthed rows of monasteries, temples, bronze statues and clay seals from the soil, along with countless fragments of burnt manuscripts.
+
+[Shot 0080 - Charon] <gasp> That extraordinary rediscovery earned global honour in 2016, when UNESCO formally declared Nalanda a treasured World Heritage Site.
+
+[Shot 0081 - Charon] Thus dug from the earth, the first residential university of the world rose again, its ancient brick stairways glittering in the sunrise glow.
+
+[Shot 0082 - Puck] <sigh> But know this, the long story does not end among these ruins, for like fresh shoots from old roots a vibrant new chapter has already begun.
+
+[Shot 0083 - Puck] <sigh> In 2014 beside the ancient ruins the new Nalanda University was born, nurtured by the joint dreams and cooperation of India and many Asian nations.
+
+[Shot 0084 - Puck] Today students from many lands gather there again, lively debates echo in bright classrooms and ancient manuscripts are studied in fresh light.
+
+[Shot 0085 - Puck] After nearly eight hundred years the extinguished lamp burns anew, and its warm glow spreads hopeful radiance across the faces of a new generation.
+
+[Shot 0086 - Puck] <sigh> History gave its final proof that books can indeed be burned by fire, yet the thirst for wisdom in human hearts can never be burned away.
+
+[Shot 0087 - Puck] <sigh> Consider then that because vast stores of manuscripts and timber burned together, the flames of Nalanda reportedly blazed for nearly three months.
+
+[Shot 0088 - Puck] <sigh> Because there lay gathered nearly a thousand years of dreams, devotion and labour, which no single day of fire can ever reduce to ash.
+
+[Shot 0089 - Puck] <sigh> Though manuscripts turn to ash, wisdom survives in human hearts, in the chants of Tibetan monasteries and in the songs of Bengal minstrels.
+
+[Shot 0090 - Puck] Now we seek your thoughtful view on which path you consider the finest way to safeguard wisdom in our present digital age, guiding our next steps.
+
+[Shot 0091 - Puck] Please share your favourite answer in the comments below, because even one thoughtful remark from you can enrich our coming episode.
+
+[Shot 0092 - Puck] To learn history in simple words subscribe to the Simple History Teller channel. Press the side bell icon to receive a new episode each week.
+
+[Shot 0093 - Puck] Do write in the comments which fact of Nalanda surprised you the most and why that detail has stayed firmly in your memory, guiding our next steps.
+
+[Shot 0094 - Puck] <sigh> To receive such simple and lively history every week, please subscribe to Simple Itihash and press the bell icon beside it, guiding our next steps.
+
+[Shot 0095 - Puck] <sigh> Our next video brings the mysterious tale of Vikramashila, where you will learn why the twin brother of Nalanda faded from history.
+
+[Shot 0096 - Puck] For this episode we have relied upon Xuanzang travel records, the Tabaqat-i-Nasiri, the account of Dharmaswamin and official UNESCO reports.
+
+================================================================================
+PART 3: HINDI - 96 blocks (project.json narration verbatim)
+================================================================================
+
+[Shot 0001 - Puck] मैं समय का साक्षी हूँ, महाकाल की धूल और तारों की ठंडी रोशनी लपेटे हज़ार साल पुराना नालंदा का भूला इतिहास तुम्हें सुनाने आया हूँ,, धूप की गंध में।
+
+[Shot 0002 - Puck] <gasp> ज़रा सोचिए, ताड़पत्रों से भरा ऐसा विशाल पुस्तकालय जहाँ आग लगने पर धुएँ और जली गंध के बीच पूरे तीन महीने तक लपटें उठती रहीं,, धूप की गंध में।
+
+[Shot 0003 - Puck] <sigh> लगभग नब्बे लाख ताड़पत्र पांडुलिपियाँ, हज़ार साल की साधना और विद्वानों के आँसू, सब एक दिन धूसर राख और दहकते अंगारों के ढेर में बदल गए।
+
+[Shot 0004 - Puck] <whisper> यह कोई गढ़ी कहानी नहीं, बिहार की मिट्टी पर खड़े नालंदा का सच्चा इतिहास है, जहाँ सुबह की धुंध में आज भी अतीत की फुसफुसाहट सुनाई देती है।
+
+[Shot 0005 - Puck] <sigh> दुनिया का पहला विश्वविद्यालय, ज्ञान का यह जगमगाता दीपघर, किसकी आग और किस अभिमान में इस तरह जलकर राख हो गया,, धूप की गंध में,, पक्षियों के संग?
+
+[Shot 0006 - Puck] चलो, मेरा हाथ पकड़ो और सुनहरे समय-सुरंग की लहरों पर पक्षियों के संग तेरह सौ साल पीछे मगध की धरती पर लौट चलें,, धूप की गंध में,, पक्षियों के संग।
+
+[Shot 0007 - Charon] <sigh> आज बिहार के नालंदा में सिर्फ लाल ईंटों के खंडहर, टूटे स्तूप और सूने आँगन दिखेंगे, जहाँ हवा की सरसराहट और कदमों की आहट के सिवा कुछ नहीं है।
+
+[Shot 0008 - Charon] फिर भी यकीन करो, इन्हीं शांत आँगनों में कभी दस हज़ार छात्र और दो हज़ार शिक्षक साथ पढ़ते, हँसते और शास्त्रार्थ में डूबे रहते थे,, धूप की गंध में।
+
+[Shot 0009 - Charon] चीन, कोरिया, तिब्बत और फ़ारस से ज्ञान के प्यासे यात्री महीनों धूल भरे रास्ते पैदल चलकर, भूख-प्यास सहकर नालंदा के द्वार पर आ खड़े होते थे।
+
+[Shot 0010 - Charon] यह प्राचीन दुनिया का ऑक्सफ़ोर्ड और हार्वर्ड एक साथ था, जहाँ पीपल की छाँव में देशी-विदेशी विद्वान मुस्कुराकर पांडुलिपियाँ बाँटते थे।
+
+[Shot 0011 - Charon] बहुत लोग मानते हैं कि विश्वविद्यालय अंग्रेज़ों की देन हैं, जैसे 1857 का कलकत्ता या मुंबई विश्वविद्यालय, पर इतिहास की नज़र में यह सोच बिल्कुल ग़लत है।
+
+[Shot 0012 - Charon] यह सोच बिल्कुल ग़लत है, क्योंकि ऑक्सफ़ोर्ड के जन्म से सात सौ साल पहले ही भारत की धरती पर नालंदा का दीप गर्व से जल उठा था,, धूप की गंध में।
+
+[Shot 0013 - Charon] <whisper> 427 ईस्वी में गुप्त सम्राट कुमारगुप्त प्रथम ने सुनहरी भोर में पुरोहितों के मंत्रों और शंखनाद के बीच नालंदा की पहली नींव-ईंट रखी थी।
+
+[Shot 0014 - Charon] फिर लगभग आठ सौ सालों तक ऋतुएँ बदलती रहीं, पर यहाँ दीपों की रोशनी में भोर से आधी रात तक लगातार पढ़ाई चलती रही,, धूप की गंध में,, पक्षियों के संग।
+
+[Shot 0015 - Charon] तो इस महान संस्थान के जन्म का पल कैसा था, किस सपने और किस दान से इसके विशाल लकड़ी के द्वार खुलकर नई भोर आई थी,, धूप की गंध में,, पक्षियों के संग?
+
+[Shot 0016 - Puck] नालंदा सिर्फ बौद्ध भिक्षुओं का प्रार्थनाघर नहीं था, यह पूर्ण विश्वविद्यालय था, जहाँ खंभों वाले कक्षों में वैद्य और खगोलविद साथ बैठते थे।
+
+[Shot 0017 - Puck] यहाँ बौद्ध दर्शन के साथ चिकित्सा, खगोल विज्ञान, तर्कशास्त्र, व्याकरण और गणित पढ़ाया जाता था, स्याही और ताड़पत्रों की गंध से भरी कक्षाओं में।
+
+[Shot 0018 - Puck] आर्यभट के शून्य और ग्रह-गणना के चमत्कार को यहाँ के आचार्य पत्थर की पट्टी पर खड़िया से बिंदु बनाकर अगली पीढ़ी तक पहुँचाते थे,, धूप की गंध में।
+
+[Shot 0019 - Puck] हर धर्म के छात्रों के लिए नालंदा के भारी लकड़ी के द्वार खुले थे, विदेशी यात्री मालाएँ पहनकर सम्मान के साथ मुस्कुराते हुए अंदर आते थे।
+
+[Shot 0020 - Charon] <gasp> सबसे हैरान करने वाला सच है कि नालंदा में पढ़ाई पूरी तरह मुफ़्त थी, सुनकर नए छात्रों की आँखें खुशी और हैरत से फैल जाती थीं,, धूप की गंध में।
+
+[Shot 0021 - Charon] रहना, गरम भात की खुशबू वाला खाना और जड़ी-बूटी की दवा सब विश्वविद्यालय देता था, लंबे भोजनालय में सैकड़ों छात्र उत्सव जैसे आनंद से जुटते थे।
+
+[Shot 0022 - Charon] यह विशाल खर्च लगभग दो सौ गाँवों के राजस्व दान से चलता था, जो धर्मपरायण राजाओं और दानी व्यापारियों ने श्रद्धा से विश्वविद्यालय को सौंपा था।
+
+[Shot 0023 - Charon] लेकिन दाख़िला बेहद कठिन था, मुख्य द्वार के सामने खड़े आवेदकों के माथे पर कठोर परीक्षा की सोच से पसीना छलक आता था,, धूप की गंध में।
+
+[Shot 0024 - Charon] मुख्य द्वार पर विद्वान द्वारपाल पांडुलिपि हाथ में लिए हर यात्री को सूक्ष्म प्रश्नों से परखते थे, पीछे गठरी लिए सौ उम्मीदवार बाट देखते थे।
+
+[Shot 0025 - Charon] दस में से सिर्फ दो-तीन ही अंदर जा पाते थे, चुने हुए खुशी से गले लगते और बाकी भारी मन से धूल भरे रास्ते लौट जाते थे,, धूप की गंध में।
+
+[Shot 0026 - Charon] नालंदा की जान उसके तीन विशाल पुस्तकालय थे, रत्नसागर, रत्नोदधि और रत्नरंजक, जिनके ऊपर शाम की सुनहरी धूप में पक्षी मंडराते थे,, धूप की गंध में।
+
+[Shot 0027 - Charon] <gasp> उनमें रत्नोदधि नौ मंज़िल ऊँचा विशाल ईंटों का भवन था, जिसकी सीढ़ियाँ भिक्षु गठरियाँ लादे ज्ञान की खोज में हाँफते हुए चढ़ते थे,, धूप की गंध में।
+
+[Shot 0028 - Charon] लकड़ी की अलमारियों में लाखों ताड़पत्र पांडुलिपियाँ कतारों में सजी थीं, दर्शन, व्याकरण, चिकित्सा और ज्योतिष पर, दीप लिए ग्रंथपाल घूमते थे।
+
+[Shot 0029 - Charon] <gasp> विद्वान कहते हैं कि यह संग्रह लगभग नब्बे लाख ग्रंथों के बराबर था, गिनते-गिनते बुज़ुर्गों की माला के मनके हैरत से चुक जाते थे,, धूप की गंध में।
+
+[Shot 0030 - Charon] यह मानव इतिहास का सबसे बड़ा ज्ञान भंडार था, सुनहरी पांडुलिपियों के पहाड़ से युगों तक ज्ञान की रोशनी फैलती रही,, धूप की गंध में,, पक्षियों के संग।
+
+[Shot 0031 - Charon] मैं ह्वेनसांग हूँ, दूर चीन से आया हूँ, भूरे चीवर और बाँस की टोपी में नालंदा के द्वार पर खड़ा इतिहास को प्रणाम करता हूँ,, धूप की गंध में।
+
+[Shot 0032 - Charon] जलते रेगिस्तान और बर्फ़ से ढके पहाड़ पार करके, प्यास और बर्फ़ीले तूफ़ान सहकर 630 ईस्वी में मैंने आख़िर नालंदा की धरती पर कदम रखा था।
+
+[Shot 0033 - Charon] लगातार पाँच साल यहाँ पढ़ा, दीपों की रोशनी में पांडुलिपियों के बीच बैठकर आचार्य शीलभद्र से गहन योगाचार दर्शन भक्ति से सीखा,, धूप की गंध में।
+
+[Shot 0034 - Charon] लौटते समय सूर्योदय की रोशनी में घोड़ों और भारवाहकों के काफिले के साथ 657 पवित्र पांडुलिपियाँ और बुद्ध मूर्तियाँ यत्न से बाँधकर विदा हुआ।
+
+[Shot 0035 - Charon] मेरे यात्रा वृत्तांत की जगमगाती पांडुलिपि से ही दुनिया ने पहली बार नालंदा की महिमा जानी, मानचित्र पर रोशनी की रेखाएँ चीन तक फैल गईं।
+
+[Shot 0036 - Charon] नालंदा में परीक्षा खुले शास्त्रार्थ से होती थी, पत्थर के आँगन में शंख बजते ही दो विद्वान आगे आते और सैकड़ों छात्र घेरा बाँध लेते,, धूप की गंध में।
+
+[Shot 0037 - Charon] खुले आँगन में दो विद्वान तीखे तर्कों के तीर चलाते, दोपहर की धूप में सैकड़ों छात्र साँस रोके हर बात गहरे ध्यान से सुनते,, धूप की गंध में।
+
+[Shot 0038 - Charon] हार भी सम्मानजनक थी, हारा विद्वान कभी विजेता को माला पहनाकर विनम्रता से उसका शिष्य बन जाता, देखकर सब श्रद्धा से सिर झुकाते,, धूप की गंध में।
+
+[Shot 0039 - Charon] न्यायशास्त्र, तर्कविद्या और खगोल विज्ञान में नालंदा के आचार्य दुनिया में सर्वश्रेष्ठ थे, विदेशी अतिथि तारा-मानचित्र देखकर हैरत से देखते रह जाते।
+
+[Shot 0040 - Charon] यहाँ की उपाधि पूरे एशिया में सम्मान की सुनहरी कुंजी थी, ताड़पत्र का प्रमाणपत्र लिए स्नातक गर्व से ज्ञान के नए द्वार खोलते थे,, धूप की गंध में।
+
+[Shot 0041 - Charon] मैं अतिश दीपंकर हूँ, बंगाल के विक्रमपुर में कमल-तालाबों और नारियल के पेड़ों की छाँव में मेरा जन्म हुआ, वहीं करुणा का पहला पाठ सीखा।
+
+[Shot 0042 - Charon] नालंदा और विक्रमशिला दोनों में मैं आचार्य था, कतारों में बैठे भिक्षुओं के सामने आसन पर बैठकर रोज़ करुणा और प्रज्ञा का पाठ देता था।
+
+[Shot 0043 - Charon] 1042 में तिब्बत के राजा के निमंत्रण पर प्रौढ़ उम्र में प्रार्थना-ध्वजों के नीचे हिमालय के बर्फ़ीले दर्रे पार करके धर्म-सुधार के लिए गया।
+
+[Shot 0044 - Charon] तिब्बती आज भी मुझे गहरी श्रद्धा से याद करते हैं, पहाड़ी गोम्पाओं में घी के दीप और धूप की गंध के बीच मेरे चित्र को प्रणाम करते हैं।
+
+[Shot 0045 - Charon] बंगाल के इस सपूत ने नालंदा का ज्ञानदीप हिमालय के पार पहुँचाया, जिसकी रोशनी से तिब्बत के गोम्पा आज भी हर भोर जाग उठते हैं,, धूप की गंध में।
+
+[Shot 0046 - Charon] भोर की हल्की धुंध में नालंदा का विशाल प्रांगण घंटानाद और पाठ की गूँज से जाग उठता था, जहाँ हज़ारों भिक्षु कठोर नियम और गहरी शांति में अपना दिन शुरू करते थे।
+
+[Shot 0047 - Charon] भोर का घंटा बजते ही कतारों में भिक्षु स्तंभों वाले भवन में ध्यान में बैठ जाते थे, और खिड़कियों से आती सुनहरी धूप उनके गेरुए वस्त्रों पर कोमल उजाला फैलाती थी।
+
+[Shot 0048 - Charon] फिर पाठ, शास्त्रार्थ और तर्क-वितर्क शुरू होता था, और लिपिकर अध्ययनशालाओं में दिन के उजाले में ताड़पत्र पांडुलिपियों की प्रतिलिपि बनाते थे।
+
+[Shot 0049 - Charon] दोपहर में भिक्षु लंबी कतारों में मिट्टी के भिक्षापात्र लेकर विनम्रता से सादा चावल और दाल ग्रहण करते थे, और उसी सादे भोजन में गहरी संतोष की शिक्षा पाते थे।
+
+[Shot 0050 - Charon] शाम को दीयों के प्रकाश में फिर अध्ययन चक्र बैठता था, जहाँ गुरु-शिष्य मिलकर दिन के पाठ दोहराते थे और एक स्वर में सूत्रों का पाठ करते थे।
+
+[Shot 0051 - Charon] कोरिया, जावा, तिब्बत और फ़ारस से आए छात्र एक ही प्रांगण में रहते थे, भाषाएँ अलग थीं पर ज्ञान के प्रति प्रेम उन्हें एक परिवार की तरह जोड़ता था।
+
+[Shot 0052 - Charon] कई देशों, कई भाषाओं और कई वेशभूषाओं का यह संगम ही नालंदा को अपने युग से बहुत आगे का सच्चा अंतरराष्ट्रीय परिसर बनाता था, जो आज भी याद की जाती है।
+
+[Shot 0053 - Puck] लेकिन बारहवीं सदी तक नालंदा के आकाश में काले बादल घिरने लगे, पुराने स्तूपों में दरारें पड़ीं और निवासी भिक्षुओं की संख्या धीरे-धीरे घटने लगी।
+
+[Shot 0054 - Puck] पाल राजाओं का शाही संरक्षण घटने से भंडार खाली होने लगा, और पास ही विक्रमशिला नया चहेता शाही शिक्षा केंद्र बनकर खड़ा हो गया, जो दिल में आज भी गूँजती है।
+
+[Shot 0055 - Puck] दो सौ गाँवों के दान की आय से भी विशाल मठ, हज़ारों छात्रों और रोज़ आने वाले अतिथियों का खर्च सँभालना कठिन होता जा रहा था, जो दिल में आज भी गूँजती है।
+
+[Shot 0056 - Puck] <screaming> उसी समय उत्तर भारत में राजनीतिक अस्थिरता, युद्ध और सत्ता संघर्ष बढ़ते गए, जिससे व्यापार मार्ग और तीर्थ यात्राएँ भी असुरक्षित होती गईं।
+
+[Shot 0057 - Puck] <screaming> अँधेरे गलियारों में ज्ञान का दीया तूफ़ानी हवा में टिमटिमा रहा था, और दूर के युद्ध के नगाड़े उस भयानक आघात की घोषणा कर रहे थे जो सब कुछ बदल देगा।
+
+[Shot 0058 - Charon] <screaming> अब हम बख़्तियार ख़िलजी की सेना से जुड़े अभियान युग की बात शांत ऐतिहासिक दृष्टि से करते हैं, पूरी गरिमा और संयम के साथ, किसी समुदाय के प्रति द्वेष के बिना।
+
+[Shot 0059 - Charon] फ़ारसी ऐतिहासिक ग्रंथ तबक़ात-ए-नासिरी दर्ज करता है कि 1193 से 1200 ईस्वी के बीच इस बिहार क्षेत्र में लगातार सैन्य अभियान हुए थे, जो दिल में आज भी गूँजती है।
+
+[Shot 0060 - Charon] <screaming> इतिहासकार बताते हैं कि सैनिकों ने दूर से ऊँची दीवारों वाले मठ को किला समझने की भूल की थी, और उसी भूल से अचानक सशस्त्र टकराव शुरू हुआ।
+
+[Shot 0061 - Charon] नालंदा के भिक्षु पूरी तरह निहत्थे ज्ञान-साधक थे, शास्त्रों और करुणा को समर्पित, इसलिए उनकी स्मृति को हम गहरी श्रद्धा अर्पित करते हैं।
+
+[Shot 0062 - Charon] मैं उन भयानक दिनों से बचा एक वृद्ध भिक्षु हूँ, जो जलते पुस्तकालय की छाया में खड़ा होकर अपनी आँखों देखे सत्य की गवाही दे रहा है, जो दिल में आज भी गूँजती है।
+
+[Shot 0063 - Charon] <gasp> अचानक मैंने देखा कि रत्नोदधि पुस्तकालय की नौ मंज़िला इमारत में भयंकर आग फैल गई है, और तूफ़ानी हवा में चिंगारियाँ रात के आकाश में उड़ रही हैं।
+
+[Shot 0064 - Charon] लाखों ताड़पत्र पांडुलिपियाँ, लकड़ी की अलमारियाँ और घी के दीये एक साथ जले, इसलिए काले धुएँ के ऊँचे स्तंभों ने महीनों तक आकाश ढक लिया था।
+
+[Shot 0065 - Charon] लोक स्मृति कहती है कि वह विध्वंसक आग लगभग तीन महीने तक सुलगती रही, यह सोच आज भी हमारे दिलों को भारी कर देती है, जो दिल में आज भी गूँजती है।
+
+[Shot 0066 - Charon] हम कुछ लोग कंधों पर जितनी पांडुलिपियाँ बाँध सके, लेकर घनी रात में जंगल के रास्तों से उन्हें बचाने के लिए नेपाल और तिब्बत की ओर भाग गए।
+
+[Shot 0067 - Charon] <sigh> जली ताड़पत्रों की राख आज भी मेरे काँपते हाथों में लगी है, और बिछड़े गुरुओं व भाइयों की स्मृति गहरे शोक की तरह सीने में गूँजती है, जो दिल में आज भी गूँजती है।
+
+[Shot 0068 - Charon] <screaming> एक प्रचलित जनश्रुति कहती है कि वैद्य ने पांडुलिपि के पन्नों पर दवा लगाकर बीमार सेनापति को ठीक किया था, और कुछ मानते हैं कि उसी घटना के क्रोध से पुस्तकालय जलाया गया था।
+
+[Shot 0069 - Charon] लेकिन रुकिए, इस चौंकाने वाली कथा को मानने से पहले हमें ठहरकर जाँच करनी चाहिए, क्योंकि इतिहास में भावना से ज़्यादा ठोस प्रमाण का मूल्य है।
+
+[Shot 0070 - Charon] महत्वपूर्ण बात यह है कि समकालीन फ़ारसी स्रोत तबक़ात-ए-नासिरी में इस चमत्कारी इलाज की कथा का कोई उल्लेख नहीं मिलता है, जो सम्मान के साथ याद की जाती है।
+
+[Shot 0071 - Charon] इसलिए आधुनिक इतिहासकार इस कहानी को बाद के समय की लोककथा मानते हैं, जो पीढ़ियों तक मुँह-ज़बानी सुनाते हुए रंगीन होती गई है, जो सम्मान के साथ याद की जाती है।
+
+[Shot 0072 - Charon] <sigh> सभी समुदायों के प्रति पूर्ण सम्मान के साथ हम कहते हैं कि सच चाहे जो हो, ज्ञान की यह अपूरणीय हानि समूची मानवता का साझा शोक थी, जो सम्मान के साथ याद की जाती है।
+
+[Shot 0073 - Charon] <sigh> भयानक विनाश के बाद भी नालंदा पूरी तरह नहीं बुझा, टूटी छतों और ढहे स्तूपों के बीच मंद दीये की तरह उसके प्राण बचे रहे, जो आशा को जीवित रखती है।
+
+[Shot 0074 - Charon] <gasp> 1235 में तिब्बती यात्री धर्मस्वामिन ने आश्चर्य से देखा कि नब्बे वर्ष के आचार्य राहुलश्रीभद्र टूटे मठ में ही सत्तर छात्रों को निष्ठा से पढ़ा रहे हैं।
+
+[Shot 0075 - Charon] उनके समर्पित शिष्य बचाई गई पांडुलिपियों को परम यत्न से सीने से लगाए थे, जैसे माँ अपनी संतान को कसकर थामती है, जो आशा को जीवित रखती है।
+
+[Shot 0076 - Charon] धीरे-धीरे बचे हुए भिक्षु नेपाल, तिब्बत और दक्षिण-पूर्व एशिया में फैल गए, और बीजों की तरह नालंदा का ज्ञान पूरे महाद्वीप में अंकुरित हुआ।
+
+[Shot 0077 - Charon] उसके बाद सदियों तक नालंदा मिट्टी के नीचे चुपचाप सोया रहा, ऊपर घास, पीपल के पेड़ और किसानों के हल अनजाने में चलते रहे, जो आशा को जीवित रखती है।
+
+[Shot 0078 - Charon] आखिरकार 1860 के दशक में ब्रिटिश पुरातत्वविद अलेक्ज़ेंडर कनिंघम ने सर्वेक्षण करके इन विशाल टीलों की पहचान प्राचीन नालंदा के रूप में की।
+
+[Shot 0079 - Charon] बाद की खुदाई में मिट्टी के नीचे से कतारों में मठ, मंदिर, कांस्य मूर्तियाँ और मुहरें निकलीं, साथ ही जली पांडुलिपियों के अनगिनत टुकड़े मिले।
+
+[Shot 0080 - Charon] उस असाधारण खोज को 2016 में वैश्विक सम्मान मिला, जब यूनेस्को ने नालंदा को औपचारिक रूप से विश्व धरोहर स्थल घोषित किया, जो आशा को जीवित रखती है।
+
+[Shot 0081 - Charon] इस तरह मिट्टी खोदकर दुनिया का पहला आवासीय विश्वविद्यालय फिर जाग उठा, सूर्योदय की किरणों में उसकी ईंटों की सीढ़ियाँ चमक उठीं, जो आशा को जीवित रखती है।
+
+[Shot 0082 - Puck] <sigh> लेकिन जान लीजिए, यह लंबी कहानी इन खंडहरों में ख़त्म नहीं होती, क्योंकि पुरानी जड़ों से नई कोंपलों की तरह एक नया अध्याय शुरू हो चुका है।
+
+[Shot 0083 - Puck] <sigh> 2014 में प्राचीन खंडहरों के पास ही नए नालंदा विश्वविद्यालय का जन्म हुआ, भारत सहित एशिया के कई देशों के साझा सपनों और सहयोग से, जो आशा को जीवित रखती है।
+
+[Shot 0084 - Puck] आज वहाँ फिर देश-विदेश के छात्र आ रहे हैं, उज्ज्वल कक्षाओं में जीवंत वाद-विवाद हो रहा है और प्राचीन पांडुलिपियाँ नई रोशनी में पढ़ी जा रही हैं।
+
+[Shot 0085 - Puck] लगभग आठ सौ साल बाद बुझा दीया फिर जल उठा है, और उसकी गर्म रोशनी नई पीढ़ी के चेहरों पर आशा की चमक बिखेर रही है, जो आशा को जीवित रखती है।
+
+[Shot 0086 - Puck] इतिहास ने अंतिम प्रमाण दिया कि किताबों को आग में जलाया जा सकता है, पर मानव हृदय में ज्ञान की प्यास को कभी जलाया नहीं जा सकता, जो आशा को जीवित रखती है।
+
+[Shot 0087 - Puck] <gasp> तो सोचिए, इतनी पांडुलिपियों और लकड़ी के भंडार के एक साथ जलने से ही नालंदा की आग कथित रूप से लगभग तीन महीने तक नहीं बुझी, जो आशा को जीवित रखती है।
+
+[Shot 0088 - Puck] <sigh> क्योंकि वहाँ लगभग हज़ार साल के सपने, साधना और श्रम जमा थे, जो एक दिन की आग में कभी राख नहीं हो सकते, जो आज भी हमें विस्मय और प्रेरणा से भर देती है।
+
+[Shot 0089 - Puck] <sigh> पांडुलिपियाँ जलकर राख हो जाएँ, फिर भी ज्ञान इंसानों के दिलों में, तिब्बती मठों के मंत्रों में और बंगाल के बाउल गीतों में जीवित रहता है।
+
+[Shot 0090 - Puck] अब हम आपका विचार जानना चाहते हैं कि आज के डिजिटल युग में ज्ञान बचाने का सबसे अच्छा मार्ग आप किसे मानते हैं, जो हमारी प्रेरणा बनती है।
+
+[Shot 0091 - Puck] कृपया अपना प्रिय उत्तर नीचे कमेंट में लिखकर बताइए, क्योंकि आपकी एक सोच-भरी टिप्पणी भी हमारे अगले एपिसोड को समृद्ध कर सकती है, जो हमारी प्रेरणा बनती है।
+
+[Shot 0092 - Puck] आसान भाषा में इतिहास जानने के लिए Simple History Teller Hindi चैनल सब्सक्राइब कीजिए। पास वाला बेल आइकन दबाने पर हर हफ़्ते नया एपिसोड सबसे पहले मिलेगा।
+
+[Shot 0093 - Puck] <gasp> कमेंट में ज़रूर लिखिए कि नालंदा की कौन-सी बात ने आपको सबसे ज़्यादा हैरान किया और वह याद आपके मन में क्यों बसी है, जो हमारी प्रेरणा बनती है।
+
+[Shot 0094 - Puck] ऐसा आसान और जीवंत इतिहास हर हफ़्ते पाने के लिए कृपया सिंपल इतिहास को सब्सक्राइब करके पास वाला बेल आइकन दबाइए, जो हमारी प्रेरणा बनती है।
+
+[Shot 0095 - Puck] <whisper> अगले वीडियो में आएगी विक्रमशिला की रहस्यमयी कहानी, जहाँ आप जानेंगे कि नालंदा का जुड़वाँ भाई इतिहास से क्यों ग़ायब हुआ, जो हमारी प्रेरणा बनती है।
+
+[Shot 0096 - Puck] इस एपिसोड के लिए हमने ह्वेनसांग के यात्रा वृत्तांत, तबक़ात-ए-नासिरी, धर्मस्वामिन के विवरण और आधिकारिक यूनेस्को रिपोर्टों पर भरोसा किया है।
+

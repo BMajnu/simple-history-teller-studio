@@ -1,0 +1,67 @@
+=== FLOW VEO VIDEO PROMPTS — simple_itihash_003_nalanda (20 dynamic clips) ===
+Target: https://flow.google.com/ (Veo image-to-video)
+Action: Attach the matching shot image, paste each Clip prompt below, generate at 24fps 16:9.
+
+Clip 0008 (parent beat 2): Dynamic Ghost-overlay of ten thousand students and two thousand teachers filling ancient courtyard, past-meets-present, 16:9 historical illustration, crowd of ten thousand students and teachers surging with life, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0009 (parent beat 2): Dynamic Long caravan of scholar travellers from China Korea Tibet Persia walking dusty road to Indian monastery, 16:9 historical illustration, caravan journey across deserts and mountains, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0013 (parent beat 3): Dynamic Gupta emperor Kumaragupta in silk robes and gold crown laying foundation brick of grand monastery at sunrise, priests chanting, 16:9 historical art, foundation-brick laying construction ceremony, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0021 (parent beat 5): Dynamic Monks serving free meals and medicine to students in long dining hall, warm community mood, 16:9 illustration, festive communal feast in long dining hall, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0032 (parent beat 7): Dynamic: pilgrim monk with laden horse crossing burning desert dunes then icy mountain passes toward distant stupas, seasons changing, epic journey, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0034 (parent beat 7): Dynamic: caravan of porters and horses carrying 657 manuscript bundles and Buddha statues leaving Nalanda gates at sunrise, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0035 (parent beat 7): Dynamic: glowing travel-record scroll unrolling over Asia map, light paths from Nalanda to China Korea Tibet, world discovering glory, gentle 24fps motion, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0037 (parent beat 8): Dynamic Two elderly scholar monks duelling with logic gestures, hundreds of seated students listening breathless, midday, 16:9 illustration, fierce open-courtyard logic debate duel, gentle 24fps motion, flowing crowd and camera drift, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0058 (parent beat 12): Dynamic cinematic wide shot, medieval cavalry column with banners moving through dust haze toward distant brick monastery at dusk, respectful tragic mood, no gore, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0059 (parent beat 12): Dynamic close shot, ancient Persian manuscript pages turning in wind, ink calligraphy glowing, hands of chronicler writing peacefully, candle light, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0060 (parent beat 12): Dynamic shot, confused soldiers halting before tall monastery gate mistaking carved towers for fort bastions, monks watching calmly from balcony, dusty noon, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0061 (parent beat 12): Dynamic emotional shot, unarmed elderly monks in ochre robes walking peacefully holding manuscripts to chest, soldiers lowering weapons respectfully aside, soft dusk light, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0062 (parent beat 13): Dynamic intimate shot, old surviving monk with tearful eyes looking at camera holding burnt manuscript edge, forest background, moonlight, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0063 (parent beat 13): Dynamic tragic night scene, nine-storey brick library tower engulfed in tall flames, embers swirling into sky, dramatic fire glow, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0064 (parent beat 13): Dynamic aerial shot, thick black smoke column rising for months over monastery, grey sky, birds fleeing, embers drifting, somber mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0065 (parent beat 13): Dynamic time-lapse of burning ruins, sun moon cycling over smoking library mound, ashes drifting, three-month passage feel, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0066 (parent beat 13): Dynamic escape shot, small group of monks moving through forest path at night carrying manuscript bundles on shoulders toward Himalayan foothills, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0067 (parent beat 13): Dynamic slow-motion close-up, burnt palm-leaf ash crumbling in monk's trembling hands, tears, glowing embers background, heartbreak mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0073 (parent beat 15): Dynamic cinematic collapse shot, cracked monastery roofs and stupas crumbling with dust clouds, debris falling in slow motion, embers glowing, tragic epic mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0076 (parent beat 15): Dynamic escape flight shot, surviving monks fleeing with manuscript bundles across rivers and hills toward Nepal Tibet, robes fluttering, dawn chase light, hopeful urgent mood, 16:9 --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks
+Motion: cinematic 24fps, smooth camera drift + gentle parallax, living crowd/atmosphere, 16:9, no baked text.
+
+Clip 0001 (hook, parent beat 1): Time Chronicler sage emerging from swirling cosmic clock mist through starry time-tunnel, arms opening in welcome. Motion: cinematic push-in 24fps, stars streaking.
+
+Clip 0096 (outro, parent beat 18): Time Chronicler closing leather journal in warm library, smiling at viewer, pages swirling into stars. Motion: slow pull-back 24fps, warm glow build.
