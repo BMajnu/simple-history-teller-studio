@@ -1,26 +1,26 @@
 {
   "video_bn.mp4": {
-    "parts": 6,
-    "size": 510740408
+    "parts": 11,
+    "size": 984570909
   },
   "video_en.mp4": {
-    "parts": 6,
-    "size": 475802860
+    "parts": 10,
+    "size": 874803555
   },
   "video_hi.mp4": {
-    "parts": 6,
-    "size": 492948464
+    "parts": 11,
+    "size": 964651235
   },
   "visual_master_bn.mp4": {
-    "parts": 6,
-    "size": 481999799
+    "parts": 11,
+    "size": 956392384
   },
   "visual_master_en.mp4": {
-    "parts": 5,
-    "size": 450685578
+    "parts": 10,
+    "size": 849751407
   },
   "visual_master_hi.mp4": {
-    "parts": 5,
-    "size": 466147364
+    "parts": 10,
+    "size": 937038928
   }
 }
