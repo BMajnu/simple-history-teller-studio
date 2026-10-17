@@ -1,0 +1,24 @@
+=== GOOGLE AI STUDIO MUSIC / LYRIA 3.5 PRODUCTION SOUNDTRACK PROMPT ===
+Project: ৩০০০ বছর আগে প্রাচীন পৃথিবীর মহাবিপর্যয়: ব্রোঞ্জ এজ কলাপ্স (Late Bronze Age Collapse)
+Target Duration: ~16.5 to 17.5 Minutes (Exact Multi-Era Dynamic Score)
+Format: 48kHz Stereo Master Instrumental (No Vocals, No Lyrics)
+
+[0:00 - 3:30] Act 1: The Golden Global Network & The Uluburun Mystery
+Intensity: 3/10 to 5/10. Ancient Mediterranean nautical mystery — opening with a low acoustic drone, gentle woodwind (Egyptian reed flute/Ney), rhythmic frame drum (bendir), delicate plucked Oud and classical harp arpeggios simulating sunlit Aegean sea waves. Atmosphere: majestic, ancient, prosperous, bustling trade ports. Smooth transition, purely instrumental.
+
+[3:30 - 7:15] Act 2: The Perfect Storm — Drought & Shattered Earth
+Intensity: 5/10 to 7/10. Ominous shift in tone — deep resonant cello ostinato, dry wind ambient drone, sparse Middle Eastern strings, rising tension. Low war drums and unsettling bowed bass frequencies reflecting cracked earth and tectonic rumble. Suddenly, explosive deep orchestral kettledrum impacts with dissonant brass stabs symbolizing the violent earthquake storms shattering stone walls. Atmosphere: harsh, parched, catastrophic, desperate.
+
+[7:15 - 11:45] Act 3: The Falling Dominos & The War at Sea
+Intensity: 7/10 to 9/10. High historical drama and military urgency — rapid driving percussion (military frame drums and bronze cymbals), aggressive cello and viola rhythm, soaring minor-key Middle Eastern brass melodies. War horns echoing across water, urgent rhythmic crescendo during the naval battle scenes at the Nile Delta, splashing impacts, tragic descending string motifs during the burning of cities. Atmosphere: furious, epic, heart-pounding combat, tragic fall of civilizations.
+
+[11:45 - 14:45] Act 4A: The Desolate Post-Mortem & The First Iron Sparks
+Intensity: 4/10 to 6/10. Pensive aftermath — decaying echoes of war, mournful solo cello over warm low synth pad. Slowly, rhythmic metallic pulses emerge: rhythmic anvil strikes in musical tempo, warmth returning through acoustic guitar and classical lute, building a steady, resilient tempo. Atmosphere: sorrowful reflection transforming into human grit and technological breakthrough.
+
+[14:45 - 17:00] Act 4B: Dawn of the Iron Age & Triumphant Alphabet
+Intensity: 6/10 to 8/10 down to 3/10. Inspiring resolution — rich orchestral strings soaring in hopeful major-key harmonies, gentle acoustic percussion, dignified Arabic and Greek acoustic instruments intertwining in celebration of knowledge and the modern alphabet. Final 45 seconds gently fade with soft harp plucks, sustained ambient chords, and peaceful lingering echoes into complete silence. Atmosphere: wise, enlightened, triumphant, deeply inspiring.
+
+Core Technical Constraints:
+- Purely instrumental, no spoken words, no choir lyrics, no singing voices.
+- 48kHz stereo, broadcast documentary balance, zero sudden volume spikes between sections.
+- Dynamic ducking-ready (-20dB under voiceover narration).

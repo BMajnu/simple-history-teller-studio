@@ -1,0 +1,136 @@
+{
+  "generic": {
+    "label": "Generic (any site)",
+    "match": [],
+    "note": "Fallback pack. Caller passes explicit selectors per action. Use for forms, search boxes, admin panels, CRMs — anything with an input + submit.",
+    "defaults": {
+      "promptBox": ["textarea", "input[type='text']", "div[contenteditable='true']"]
+    }
+  },
+  "flow": {
+    "label": "Google Flow (example pack)",
+    "match": ["flow.google.com", "labs.google"],
+    "note": "Example only — derived from flow_ui_elements.md. Modes: text-to-video / frames-to-video / ingredients / create-image. Settings-once-then-many-jobs pattern. Update selectors when UI drifts; engine untouched.",
+    "defaults": {
+      "url": "https://flow.google.com/",
+      "promptBox": ["textarea#PINHOLE_TEXT_AREA_ELEMENT_ID", "textarea[placeholder*='video' i]", "div.ProseMirror"],
+      "modeTrigger": "button[role='combobox']",
+      "submit": null
+    },
+    "modes": ["text-to-video", "frames-to-video", "ingredients-to-video", "create-image"],
+    "modeLabels": {"text-to-video": "Text to Video", "frames-to-video": "Frames to Video", "create-image": "Create Image", "ingredients": "Ingredients"},
+    "videoModels": [
+      {"value": "veo-3.1-fast", "label": "Veo 3.1 - Fast"},
+      {"value": "veo-3.1-quality", "label": "Veo 3.1 - Quality"},
+      {"value": "veo-2-fast", "label": "Veo 2 - Fast"},
+      {"value": "veo-2-quality", "label": "Veo 2 - Quality"}
+    ],
+    "imageModels": [
+      {"value": "imagen-4", "label": "Imagen 4"},
+      {"value": "nano-banana", "label": "Nano Banana"},
+      {"value": "nano-banana-pro", "label": "Nano Banana Pro"}
+    ],
+    "ratios": ["landscape-16:9", "portrait-9:16"],
+    "ratioLabels": {"landscape": "16:9 (Landscape)", "portrait": "9:16 (Portrait)"},
+    "outputCounts": ["1", "2", "3", "4"],
+    "languages": [
+      {"value": "en", "label": "English"}, {"value": "vi", "label": "Vietnamese"},
+      {"value": "es", "label": "Spanish"}, {"value": "fr", "label": "French"},
+      {"value": "de", "label": "German"}, {"value": "ja", "label": "Japanese"},
+      {"value": "ko", "label": "Korean"}, {"value": "zh", "label": "Chinese"}
+    ],
+    "settingsSchema": [
+      {"key": "creationMode", "label": "Mode:", "type": "select", "default": "text-to-video", "options": [
+        {"value": "text-to-video", "label": "Text to Video"},
+        {"value": "frames-to-video", "label": "Frames to Video"},
+        {"value": "create-image", "label": "Create Image"},
+        {"value": "ingredients", "label": "Ingredients to Video"}]},
+      {"key": "model", "label": "Model:", "type": "model", "defaultVideo": "veo-3.1-fast", "defaultImage": "nano-banana-pro",
+       "note": "Use veo-3.1-fast (20 credits) NOT veo-2-quality (100 credits) for bulk."},
+      {"key": "ratio", "label": "Aspect Ratio:", "type": "select", "default": "landscape", "options": [
+        {"value": "landscape", "label": "16:9 (Landscape)"},
+        {"value": "portrait", "label": "9:16 (Portrait)"}]},
+      {"key": "outputCount", "label": "Videos per prompt:", "labelImage": "Images per prompt:", "type": "select",
+       "default": "1", "options": [{"value": "1", "label": "1"}, {"value": "2", "label": "2"}, {"value": "3", "label": "3"}, {"value": "4", "label": "4"}]},
+      {"key": "language", "label": "Language:", "type": "select", "default": "en", "unused": true,
+       "options": [{"value": "en", "label": "English"}, {"value": "vi", "label": "Vietnamese"}, {"value": "es", "label": "Spanish"}, {"value": "fr", "label": "French"}, {"value": "de", "label": "German"}, {"value": "ja", "label": "Japanese"}, {"value": "ko", "label": "Korean"}, {"value": "zh", "label": "Chinese"}]},
+      {"key": "autoDownload", "label": "Auto-download:", "type": "toggle", "default": false},
+      {"key": "downloadFolder", "label": "Download folder:", "type": "text", "default": "VeoFlow", "showIf": {"autoDownload": true}},
+      {"key": "pauseForReference", "label": "Pause for references:", "sub": "Pause after each image to add reference", "type": "toggle", "default": false},
+      {"key": "startFrom", "label": "Start from #:", "type": "number", "default": 1, "advanced": true},
+      {"key": "waitTimeMin", "label": "Wait min (s):", "type": "number", "default": 30, "advanced": true},
+      {"key": "waitTimeMax", "label": "Wait max (s):", "type": "number", "default": 120, "advanced": true}
+    ],
+    "pausedCopy": {
+      "frames": {"title": "Paused - Add First Frame",
+        "body": "Add the first frame image using Google Flow's \"Add image\" or use a result from previous generation. Then click Continue to generate this video.",
+        "action": "Continue to Generate Video"},
+      "others": {"title": "Paused - Add Reference Image",
+        "body": "Image generated! Click \"Add to prompt\" on the result to use as reference for next prompt, then click Continue.",
+        "action": "Continue to Next Prompt"}
+    },
+    "filenamePattern": "{folder}/video_{index}_{timestamp}.mp4",
+    "waitDefaults": {"waitTimeMin": 30, "waitTimeMax": 120, "checkIntervalMs": 3000, "gapMinMs": 1000, "gapMaxMs": 2000, "afterCreateImageMs": 3000, "afterFailMs": 2000},
+    "flowUrls": ["https://flow.google.com/", "https://labs.google/fx/tools/flow", "https://labs.google/fx/tools/video-fx"],
+    "actionsPreset": [
+      { "op": "click", "args": { "text": "New project", "tags": ["button"] } },
+      { "op": "selectOption", "args": { "trigger": "button[role='combobox']", "option": "Text to Video" } },
+      { "op": "fill", "args": { "selector": "textarea#PINHOLE_TEXT_AREA_ELEMENT_ID", "text": "{{PAYLOAD}}" } }
+    ]
+  },
+  "aistudio": {
+    "label": "Google AI Studio (example pack)",
+    "match": ["aistudio.google.com"],
+    "note": "Example pack for speech / image / video generation. Model via URL ?model=. Voice switching via voice-chip pattern; Run via ctrl-enter button. Dual-keyframe upload = two uploadDataUrl actions.",
+    "defaults": {
+      "url": "https://aistudio.google.com/prompts/new_chat",
+      "promptBox": ["textarea", "div[contenteditable='true']"],
+      "runButton": ["button.ctrl-enter-submits", "button[aria-label*='Run' i]"],
+      "downloadButton": ["button[aria-label='Download']"]
+    }
+  },
+  "youtube": {
+    "label": "YouTube Studio (example pack)",
+    "match": ["studio.youtube.com", "youtube.com"],
+    "note": "Example pack for upload + metadata + thumbnail attach. Publish step always ends with askHuman so a person approves before going public.",
+    "defaults": {
+      "url": "https://studio.youtube.com/",
+      "fileInput": "input[type='file']"
+    },
+    "actionsPreset": [
+      { "op": "uploadDataUrl", "args": { "selector": "input[type='file']", "dataUrl": "{{FILE_DATA_URL}}", "filename": "{{FILENAME}}" } },
+      { "op": "fill", "args": { "selector": "textarea#title", "text": "{{TITLE}}" } },
+      { "op": "askHuman", "args": { "reason": "Review title, description, thumbnail, visibility — then Continue to publish" } }
+    ]
+  },
+  "facebook": {
+    "label": "Facebook (example pack)",
+    "match": ["facebook.com", "fb.com", "business.facebook.com"],
+    "note": "Example pack for Page photo/video posts + Reels. Uploads usually need a human to pick the Page/audience — ends with askHuman before Publish.",
+    "defaults": {
+      "url": "https://www.facebook.com/",
+      "fileInput": "input[type='file'][accept*='video'], input[type='file'][accept*='image'], input[type='file']"
+    },
+    "actionsPreset": [
+      { "op": "click", "args": { "text": "Create", "tags": ["button", "div"] } },
+      { "op": "uploadDataUrl", "args": { "selector": "input[type='file']", "dataUrl": "{{FILE_DATA_URL}}", "filename": "{{FILENAME}}" } },
+      { "op": "fill", "args": { "selector": "div[contenteditable='true']", "text": "{{CAPTION}}" } },
+      { "op": "askHuman", "args": { "reason": "Pick Page/audience, review caption, then Continue to Publish" } }
+    ]
+  },
+  "tiktok": {
+    "label": "TikTok (example pack)",
+    "match": ["tiktok.com"],
+    "note": "Example pack for tiktok.com/upload. Captcha/login walls are common — askHuman covers them. Never auto-publish without review.",
+    "defaults": {
+      "url": "https://www.tiktok.com/upload",
+      "fileInput": "input[type='file'][accept*='video'], input[type='file']"
+    },
+    "actionsPreset": [
+      { "op": "waitFor", "args": { "selectors": ["input[type='file']"], "timeout": 20000 } },
+      { "op": "uploadDataUrl", "args": { "selector": "input[type='file']", "dataUrl": "{{FILE_DATA_URL}}", "filename": "{{FILENAME}}" } },
+      { "op": "fill", "args": { "selector": "div[contenteditable='true']", "text": "{{CAPTION}}" } },
+      { "op": "askHuman", "args": { "reason": "Solve captcha if shown, review caption/cover/visibility, then Continue to Post" } }
+    ]
+  }
+}

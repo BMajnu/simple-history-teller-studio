@@ -19,7 +19,48 @@
         "bn": "একটি শহর গড়ার প্রথম শর্ত ছিল নদীর অনিশ্চিত জলকে সঠিক পথে আনা।",
         "en": "The first condition for building a city was guiding an unpredictable river into the right path.",
         "hi": "शहर बनाने की पहली शर्त थी अनिश्चित नदी के पानी को सही रास्ते पर लाना।"
-      }
+      },
+      "dialogue_speaker": "NARRATOR",
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0001.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0001.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0001.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      },
+      "asset_file": "visual_assets/scene_0001.jpg",
+      "language_durations": {},
+      "timestamp_start": 0,
+      "timestamp_end": 5.5
     },
     {
       "scene_id": 2,
@@ -31,7 +72,48 @@
         "bn": "মিশরে জরিপকারীরা দড়ি আর খুঁটি দিয়ে বন্যার পর জমির সীমানা মেপে নিতেন।",
         "en": "In Egypt, surveyors used ropes and stakes to measure field boundaries after the flood.",
         "hi": "मिस्र में सर्वेक्षक बाढ़ के बाद रस्सियों और खूंटियों से खेतों की सीमाएं मापते थे।"
-      }
+      },
+      "dialogue_speaker": "NARRATOR",
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0002.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0002.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0002.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      },
+      "asset_file": "visual_assets/scene_0002.jpg",
+      "language_durations": {},
+      "timestamp_start": 5.5,
+      "timestamp_end": 11
     },
     {
       "scene_id": 3,
@@ -43,7 +125,48 @@
         "bn": "সিন্ধু নগরগুলোর ইটের নালা দেখায় যে পরিষ্কার পানি ও বর্জ্য ব্যবস্থাপনাও ছিল নগর পরিকল্পনার অংশ।",
         "en": "The brick drains of Indus cities show that clean water and waste management were part of urban planning.",
         "hi": "सिंधु नगरों की ईंटों वाली नालियां दिखाती हैं कि स्वच्छ पानी और कचरा प्रबंधन भी नगर योजना का हिस्सा थे।"
-      }
+      },
+      "dialogue_speaker": "NARRATOR",
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0003.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0003.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0003.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      },
+      "asset_file": "visual_assets/scene_0003.jpg",
+      "language_durations": {},
+      "timestamp_start": 11,
+      "timestamp_end": 16.5
     },
     {
       "scene_id": 4,
@@ -55,7 +178,48 @@
         "bn": "পরের যুগে প্রকৌশলীরা জলচাকা, খাল আর মাপজোকের জ্ঞানকে আরও সূক্ষ্ম করেছিলেন।",
         "en": "In later centuries, engineers refined the knowledge of waterwheels, canals, and measurement.",
         "hi": "बाद की सदियों में इंजीनियरों ने जलचक्र, नहरों और माप की जानकारी को और परिष्कृत किया।"
-      }
+      },
+      "dialogue_speaker": "NARRATOR",
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0004.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0004.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0004.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      },
+      "asset_file": "visual_assets/scene_0004.jpg",
+      "language_durations": {},
+      "timestamp_start": 16.5,
+      "timestamp_end": 22
     },
     {
       "scene_id": 5,
@@ -67,8 +231,166 @@
         "bn": "আজ প্রত্নতাত্ত্বিকেরা সেই পুরোনো খাল খুঁড়ে মানুষের পরিকল্পনা আর সহযোগিতার ইতিহাস পড়েন।",
         "en": "Today archaeologists excavate those old canals to read a history of human planning and cooperation.",
         "hi": "आज पुरातत्वविद उन पुरानी नहरों को खोदकर मानव योजना और सहयोग का इतिहास पढ़ते हैं।"
-      }
+      },
+      "dialogue_speaker": "NARRATOR",
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0005.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0005.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0005.wav",
+          "source_duration": 5.15,
+          "duration": 5.5,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      },
+      "asset_file": "visual_assets/scene_0005.jpg",
+      "language_durations": {},
+      "timestamp_start": 22,
+      "timestamp_end": 27.5
     }
   ],
-  "total_duration_seconds": 27.5
+  "total_duration_seconds": 27.5,
+  "characters": [
+    {
+      "id": "TIME_CHRONICLER",
+      "name_bn": "সময়ের সাক্ষী",
+      "name_en": "The Time Chronicler",
+      "name_hi": "समय का साक्षी",
+      "role_bn": "হোস্ট ও সূত্রधार",
+      "role_en": "Host & Storyteller",
+      "role_hi": "सूत्रधार एवं कहानीकार",
+      "gender": "Male",
+      "age_group": "Elderly",
+      "icon": "🎙️",
+      "badge_class": "speaker-badge-host",
+      "aistudio_voice": "Cruz",
+      "fallback_voice": "Charon",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "default_wpm": 135,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "references/ref_host_chronicler.jpg",
+      "noor_veil": false,
+      "visual_dna": "Elderly male scholar with fluffy white beard, round wire spectacles, brown scholar tunic, holding history journal."
+    },
+    {
+      "id": "NARRATOR",
+      "name_bn": "ইতিহাস কথক",
+      "name_en": "Historical Narrator",
+      "name_hi": "इतिहास वाचक",
+      "role_bn": "মূল ধারাভাষ্যকার",
+      "role_en": "Documentary Narrator",
+      "role_hi": "मुख्य कथावाचक",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "📜",
+      "badge_class": "speaker-badge-narrator",
+      "aistudio_voice": "Charon",
+      "fallback_voice": "Orus",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "default_wpm": 140,
+      "volume_db": 0,
+      "audio_effect": "warm_tube_narrator",
+      "ref_image": "references/ref_host_simple_history.jpg",
+      "noor_veil": false,
+      "visual_dna": "Authoritative historical documentary narrator with classic archival aesthetic."
+    }
+  ],
+  "brand": "Simple Studio",
+  "channels": {
+    "bn": "Simple Studio Bangla",
+    "en": "Simple Studio English",
+    "hi": "Simple Studio Hindi"
+  },
+  "tracks_config": {
+    "fx": {
+      "id": "fx",
+      "name": "FX & Motion",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 38
+    },
+    "video": {
+      "id": "video",
+      "name": "Video Track (AI Clips)",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 54
+    },
+    "image": {
+      "id": "image",
+      "name": "Image Track (Storyboard)",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 54
+    },
+    "voice": {
+      "id": "voice",
+      "name": "Voiceover / Part Audio",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 52
+    },
+    "sfx": {
+      "id": "sfx",
+      "name": "SFX & Ambience",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 38
+    },
+    "bgm": {
+      "id": "bgm",
+      "name": "BGM Soundtrack",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 44
+    }
+  },
+  "bgm_clips": [
+    {
+      "id": "bgm_clip_1",
+      "title": "Primary Era Soundtrack (bgm.mp3)",
+      "file": "audio/bgm.mp3",
+      "start_time": 0,
+      "duration": 30,
+      "trim_in": 0,
+      "volume_db": -20,
+      "ducking": true,
+      "fade_in": 1.5,
+      "fade_out": 2.5,
+      "loop": true
+    }
+  ]
 }

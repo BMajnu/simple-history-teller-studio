@@ -1,0 +1,444 @@
+# GOOGLE AI STUDIO SPEECH (gemini-3.8-flash-tts) — MULTI-SPEAKER & CHARACTER MAPPING
+# Project: Why Did Humans Build the First City? — No Streets, No Kings, Just 9 km of Wall (PRESET_SIMPLE_HISTORY)
+# Generated: 2026-10-16T20:38:53.302Z
+# Punctuation Rule: Clean sentences for natural TTS pacing; use inline tags (<gasp>, <sigh>, <laugh>, <short pause>).
+
+=== PART #0001 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 12.27s ===
+[BN] মানুষ এই পৃথিবীতে রয়েছে প্রায় দুই লাখ বছর, অথচ ভিড়ভাড়ে ভরা শহরের জীবন মাত্র ছয় থেকে সাত হাজার বছরের নতুন এক পরীক্ষা।
+[EN] Humans have walked this planet for almost 200,000 years, yet life packed inside a city is only a six to seven thousand year old experiment.
+[HI] इंसान धरती पर लगभग दो लाख साल से है, फिर भी भीड़भाड़ भरे शहर की ज़िंदगी सिर्फ़ छह से सात हज़ार साल पुराना एक प्रयोग है।
+
+=== PART #0002 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 11.78s ===
+[BN] আজ পৃথিবীর অর্ধেকেরও বেশি মানুষ শহরে বাস করে, তবু প্রথম শহর কোনটা — এই একটা প্রশ্নই আজও প্রত্নতাত্ত্বিকদের কড়া বিতর্কে জাগায়।
+[EN] More than half of humanity lives in cities today, yet the plain question of which city came first still keeps archaeologists arguing hotly.
+[HI] आज धरती के आधे से ज़्यादा लोग शहरों में रहते हैं, फिर भी पहला शहर कौन-सा था, यही सवाल आज भी पुरातत्वविदों की कड़ी बहस है।
+
+=== PART #0003 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 10.62s ===
+[BN] সিংহাসনে বসার আগে আজ মেদানে তিন দাবিদার — মরুঝরনার জেরিকো, ছাদে হাঁটা কাতালহায়ুক, আর দুই নদীর মাঝের উরুক।
+[EN] Before any crown is handed out, the arena holds three contenders — desert-spring Jericho, roof-walking Çatalhöyük, and between-rivers Uruk.
+[HI] किसी ताज के सौंपे जाने से पहले मैदान में तीन दावेदार हैं — मरूझरने की यरीहो, छतों पर चलने वाला कैटलहॉयुक और दो नदियों के बीच उरुक।
+
+=== PART #0004 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 12.7s ===
+[BN] শেষ পর্বে দেখেছ মানুষ কেন প্রথম রাজা বানাল; আজ সেই ধারাতেই দেখব প্রথম দেয়াল, প্রথম রাজাহীন শহর আর প্রথম হিসাবখাতা কোথায় জন্মাল।
+[EN] Last episode we watched why humans invented their first king; today on that same trail we find the first wall, the first kingless city and the first ledger.
+[HI] पिछले एपिसोड में देखा था इंसान ने पहला राजा क्यों बनाया; आज उसी धारा में पहली दीवार, पहला राजाविहीन शहर और पहला लेखा-खाता ढूँढेंगे।
+
+=== PART #0005 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12.02s ===
+[BN] নাটকের প্রথম মঞ্চ জর্দান উপত্যকা — মৃত সাগরের ঠিক উত্তরে মরুর বুকে ফুটে ওঠা সবুজ ঝরনা-দ্বীপ, যে জায়গা ইতিহাসে জেরিকো।
+[EN] Our first stage is the Jordan Valley — a green spring-island blooming in pure desert just north of the Dead Sea, known to history as Jericho.
+[HI] पहला मंच है जॉर्डन घाटी — मृत सागर के ठीक उत्तर में शुद्ध मरुस्थल में उगा हरा झरना-द्वीप, जिसे इतिहास यरीहो कहता है।
+
+=== PART #0006 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12.36s ===
+[BN] খ্রিস্টপূর্ব নয় হাজারের কাছাকাছি এক সময়ে, খননের তারিখে কিছুটা এদিক-ওদিক থাকলেও, শিকারি-সংগ্রাহক পরিবারেরা ঝরনার ধারে থিতু হলো — আর উঠে যায়নি।
+[EN] Close to 9000 BCE — with the wide error bars of that date left alone — hunter-gatherer families settled by the spring and never packed up again.
+[HI] ९००० ईसा पूर्व के आसपास — उस तारीख की व्यापक सीमाएँ बची हुईं — शिकार-संग्रहकर्ता परिवार झरने के किनारे बस गए और दोबारा कभी नहीं गए।
+
+=== PART #0007 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.35s ===
+[BN] কাঁচা-ইটের ঘর একটার ওপর আরেকটা শতাব্দী ধরে জমে ধীরে-ধীরে বিশের বেশি বসতি-স্তরের বিশাল এক ঢিবির জন্ম দিল।
+[EN] Mudbrick houses, laid one atop another for centuries, slowly built a settlement mound of more than twenty stacked occupation layers.
+[HI] सदियों तक एक के ऊपर एक रखी कीचड़-ईंटों के घर धीरे-धीरे बीस से ज़्यादा बसती परतों का विशाल टीला बन गए।
+
+=== PART #0008 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.64s ===
+[BN] সবার আগে জায়গার সৎ হিসাব — এই প্রথম বসতির সীমাবদ্ধ জায়গা ছিল মাত্র ২.৪ হেক্টর, কোনো মহানগরের ছবি নয়।
+[EN] An honest first fact of ground: this early settlement was fenced to just 2.4 hectares — no grand metropolis picture at all.
+[HI] ज़मीन की ईमानदार पहली हक़ीक़त: पहली बसती सिर्फ़ २.४ हेक्टेयर में सिमटी थी — कोई महानगर की तस्वीर नहीं।
+
+=== PART #0009 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.78s ===
+[BN] তারপর এই সাধারণ ঝরনা-গ্রামটাই বানিয়েছিল এমন এক কীর্তি যা কোনো পৃথিবী আগে দেখেনি — স্বতন্ত্র পাথরের দেয়াল আর ওঠা এক টাওয়ার।
+[EN] Then this plain spring village pulled off something no world had ever witnessed — a free-standing stone wall with a rising stone tower.
+[HI] फिर उसी साधारण झरना-गाँव ने कर दिखाया वह कारनामा जो कभी कोई दुनिया नहीं देखी थी — स्वतंत्र पत्थर की दीवार और उठता पत्थर का टावर।
+
+=== PART #0010 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.49s ===
+[BN] গ্রামের চারপাশে দাঁড়াল বিশাল পাথরের পরিধি-দেয়াল — প্রায় ৩.৬ মিটার উঁচু, নীরে ১.৮ মিটার পুরুত্বে ভার বাঁধা।
+[EN] Around the village rose a massive stone perimeter wall — roughly 3.6 metres tall, resting on a base 1.8 metres thick.
+[HI] गाँव के चारों ओर खड़ी हुई विशाल पत्थर की परिधि-दीवार — लगभग ३.६ मीटर ऊँची, १.८ मीटर मोटी नींव पर टिकी।
+
+=== PART #0011 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.44s ===
+[BN] দেয়ালের ভেতরে উঠে এল আরও অদ্ভুত এক গোল টাওয়ার — প্রায় ৮.৫ মিটার উঁচু কাঁচা পাথরের, মানুষের ইতিহাসের প্রথম স্মারক-ইমারত।
+[EN] Behind it rose something stranger still — a solid round tower about 8.5 metres high, the first monumental building of human history.
+[HI] उसके पीछे उठा कोई और अजीब ढाँचा — लगभग ८.५ मीटर ऊँचा पत्थर का गोल टावर, इंसानी इतिहास की सबसे पहली स्मारकीय इमारत।
+
+=== PART #0012 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.72s ===
+[BN] ভেতরে ঘুরে উঠত পাথরের সিঁড়ি — ঠিক ২২টি ধাপ, তাজা পলেস্তারা-মাখা দেয়াল ধরে দুই পাশ ছুঁয়ে ওঠা।
+[EN] Inside it wound a stone staircase of exactly 22 steps, climbing along walls coated in fresh plaster.
+[HI] अन्दर लिपटी थी ठीक २२ सीढ़ियों वाली पत्थर की सीढ़ी, ताज़ा पलस्तर से लिपटी दीवारों के साथ ऊपर चढ़ती हुई।
+
+=== PART #0013 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.15s ===
+[BN] খাটুনির হিসাব চোখ ধাঁধায় — প্রায় ১,০০০ টন পাথর, যা আনুমানিক ১১,০০০ কর্ম-দিনের সম্মিলিত শ্রমে উঠে আসত।
+[EN] The labour bill is staggering: nearly 1,000 tons of stone carried up through an estimated 11,000 working-days of shared toil.
+[HI] मेहनत का हिसाब चौंकाने वाला है: लगभग १००० टन पत्थर, अनुमानित ११,००० कार्यदिनों की साझी मेहनत से ऊपर उठाया गया।
+
+=== PART #0014 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.91s ===
+[BN] মিশরের বিখ্যাত পিরামিড দাঁড়াবে প্রায় ৫,৫০০ বছর পরে — ততদিনে এই পাথরের টাওয়ার বহু যুগের পুরনো হয়ে থাকবে।
+[EN] The famous pyramids of Egypt rise almost 5,500 years later — by that time this stone tower was already ages old.
+[HI] मिस्र के प्रसिद्ध पिरामिड करीब ५,५०० साल बाद खड़े होते हैं — तब तक यह पत्थर का टावर कई युग पुराना हो चुका था।
+
+=== PART #0015 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.44s ===
+[BN] প্রথম রহস্য: ওই যুগে জেরিকোর চারপাশে একটাও শত্রু-শিবির জানা যায়নি — তাই সাদামাটা দুর্গ-তত্ত্বে টান পড়তে হয়।
+[EN] Mystery one: no enemy camp is known anywhere near Jericho in that era — so the plain fort theory starts to wobble.
+[HI] पहला रहस्य: उस युग में यरीहो के आसपास कोई शत्रु-शिविर ज्ञात नहीं — इसलिए सादा किला-सिद्धांत ढीला पड़ने लगता है।
+
+=== PART #0016 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.03s ===
+[BN] দ্বিতীয় তত্ত্ব: কাদাপ্লাবনের দিকে সবচেয়ে মোটা এই দেয়াল, যুদ্ধের ঢাল নয় — বরং বন্যা আর কাদা ঠেকানোর বাঁধ।
+[EN] Theory two: thickest toward the mudflow side, the wall worked as a flood and debris barrier rather than a shield for war.
+[HI] दूसरा सिद्धांत: कीचड़-बहाव की ओर सबसे मोटी उस दीवार का काम युद्ध की ढाल नहीं, बाढ़ और कीचड़ रोकने का बाँध था।
+
+=== PART #0017 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.84s ===
+[BN] তৃতীয় ধারণাও ভেঙে পড়ে: ভেতরে একটাও কবর পাওয়া যায়নি — সুতরাং এই ইমারত কবর বলে দাবি আজও নেই।
+[EN] Theory three falls too: not one burial was found inside — so the claim that the monument was a tomb stands nowhere.
+[HI] तीसरा दावा भी बिखरता है: भीतर एक भी समाधि नहीं मिली — यह इमारत कब्र थी, यह दावा कहीं नहीं टिकता।
+
+=== PART #0018 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.6s ===
+[BN] ২০১১ সালে গবেষকেরা দেখালেন — গ্রীষ্মের সবচেয়ে লম্বা দিনের সূর্যাস্তে কুরুন্তুল পাহাড়ের ছায়া সবার আগে এই টাওয়ারেই পড়ে।
+[EN] In 2011 researchers showed that at summer-solstice sunset the shadow of nearby Mount Quruntul strikes this very tower first.
+[HI] २०११ में शोधकर्ताओं ने दिखाया: ग्रीष्म-अयनांत के सूर्यास्त पर नज़दीक के कुरुन्तुल पहाड़ की छाया इसी टावर पर सबसे पहले गिरती है।
+
+=== PART #0019 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.84s ===
+[BN] ওই দুই গবেষকের পাঠ — টাওয়ার এক সামূহিক জোয়ার: ভয় বদলে যায় সাজানো শ্রম-কাজে সবাইকে জড়ানোর হাতিয়ার।
+[EN] Those two researchers read the tower as shared mobilisation — shared fear converted into a tool that binds everyone into organised labour.
+[HI] उन दो शोधकर्ताओं का पढ़ना है: टावर एक सामूहिक जुटाव था — साझा भय व्यवस्थित श्रम में सबको बाँधने का साधन बना।
+
+=== PART #0020 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 11.3s ===
+[BN] জনসংখ্যার প্রশ্নেও হিসাব খোলা রাখা চলে — কয়েক প্রাক্কলন ৪০০ থেকে ৯০০ বাসিন্দা, আবার কেনিয়নের পুরনো মাপ ৩,০০০ থেকে ৪,০০০।
+[EN] Population numbers stay openly swinging: some reconstructions give 400 to 900 residents, while the old Kenyon estimate said 3,000 to 4,000.
+[HI] जनसंख्या के अनुमान खुले घूमते रहे: कुछ गणनाएँ ४०० से ९०० निवासी बताती हैं, जबकि केनियन का पुराना अनुमान ३,००० से ४,००० था।
+
+=== PART #0021 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.15s ===
+[BN] ১৯৫২ থেকে ৫৮ সালের বড় খননে ব্রিটিশ প্রত্নতাত্ত্বিক ক্যাথলিন কেনিয়ন এই দেয়াল-টাওয়ারের প্রকৃত রূপ প্রথম উজাড়ে তুললেন।
+[EN] Between 1952 and 1958 the British archaeologist Kathleen Kenyon excavated and first bared the true form of wall and tower.
+[HI] १९५२ से ५८ की बड़ी खुदाई में ब्रितानी पुरातत्वविद कैथलीन केनियन ने इस दीवार-टावर का असली रूप पहली बार उघाड़ा।
+
+=== PART #0022 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.28s ===
+[BN] কেনিয়নের ঘোষণায় জেরিকো দুনিয়ায় দাবি তুলল — বিশ্বের জানা সভ্যতার সবচেয়ে পুরনো শহর বলে গর্বের মুকুট।
+[EN] In the Kenyon announcement Jericho carried the proud claim of being the oldest city known in the world.
+[HI] केनियन की घोषणा में यरीहो ने दुनिया का सबसे पुराना ज्ञात शहर होने का गर्व भरा दावा उठाया।
+
+=== PART #0023 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.86s ===
+[BN] আজকের পাঠ ঘুরেছে: নব্য-প্রস্তরযুগের জেরিকো ছিল বিশাল এক গ্রাম — প্রকৃত শহরের জন্ম সেখানে খ্রিস্টপূর্ব ৩০০০-এর কাছে।
+[EN] Modern scholarship has turned the plate: Neolithic Jericho was an enormous village, and a true city there only appears near 3000 BCE.
+[HI] आधुनिक अध्ययन ने पलट दिया: नव-पाषाण युगीन यरीहो एक विशाल गाँव था, असली शहर वहाँ ३००० ईसा पूर्व के नज़दीक ही सामने आता है।
+
+=== PART #0024 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 11s ===
+[BN] তাহলে মুকুট কাউকে পরিয়ে না-দিয়ে আগে দেখি আরও বিচিত্র এক শহর — যার কোনো রাস্তাই ছিল না।
+[EN] So before crowning any oldest-city champion, we must first cross a stranger kind of city — one that owned no streets at all.
+[HI] तो किसी को सबसे पुराने-शहर का ताज पहनाने से पहले एक अजीब प्रकार के शहर से गुज़रें — जिसकी कोई सड़क ही नहीं थी।
+
+=== PART #0025 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.05s ===
+[BN] দ্বিতীয় প্রার্থী তুরস্কের কোনিয়া সোনালি সমতলে — দুই-চূড়া উঁচু ঢিবি কাতালহায়ুক, নামের মানেই দো-ভাগ ঢিবি।
+[EN] Our second contender rises on the golden Konya plain of Turkey — the twin-peaked mound of Çatalhöyük, a name meaning forked mound.
+[HI] दूसरा दावेदार तुर्की के सुनहरे कोन्या मैदान पर खड़ा है — दो-शिखर वाला ढेर कैटलहॉयुक, जिसका नाम है जुड़ा ढेर।
+
+=== PART #0026 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.57s ===
+[BN] মেল্লার্ট ১৯৫৮ সালে সুর খুললেন; ১৯৬১ থেকে ৬৫ সালের খনন উঁচু করল ১৮ স্তরের নগর-জীবন।
+[EN] Mellaart struck the first note in 1958, and digs from 1961 to 1965 lifted an 18-level town back into daylight.
+[HI] मेलार्ट ने १९५८ में पहली ताक लगाई, और १९६१ से ६५ की खुदाइयों में १८ स्तरों का कस्बा निकला।
+
+=== PART #0027 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.83s ===
+[BN] খ্রিস্টপূর্ব ৭৪০০ থেকে ৬২০০ সাল — টানা প্রায় ১,৪০০ বছরের অবিচ্ছিন্ন মানুষের বসতি একই ঢিবিতে।
+[EN] From 7400 down to 6200 BCE — nearly 1,400 years of unbroken human living on that very same mound.
+[HI] ७४०० से ६२०० ईसा पूर्व तक — उसी टीले पर लगभग १४०० साल लगातार इंसानी बसाव।
+
+=== PART #0028 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.66s ===
+[BN] সবচেয়ে অদ্ভুত সত্য: এই নগরে রাস্তা ছিলই না — ঘরগুলো পিঠে-পিঠে ঠাসা, আর ছাদই ছিল পথ।
+[EN] Here stands the strangest truth: this town had no streets — houses stood glued back to back, and rooftops were the roads.
+[HI] यहाँ सबसे अजीब सत्य: इस कस्बे में कोई सड़क नहीं थी — घर पीठ से पीठ जुड़े थे, और छतें ही रास्ते थीं।
+
+=== PART #0029 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.1s ===
+[BN] একেকটা একক ঘরে ঠাসা থাকত ৫ থেকে ১০ জনের পরিবার — চুলা, চাটাই, ধান-ভাঁড়ার সব একই বেঁচে থাকার ঘরে।
+[EN] A single house held 5 to 10 people — hearth, mats and grain stores all jammed into that one breathing space.
+[HI] एक ही घर में ५ से १० लोग रहते थे — चूल्हा, चटाई और अनाज भंडार सब उसी एक कमरे में समेटे हुए।
+
+=== PART #0030 | SPEAKER: CAT_NEIGHBOR | VOICE: Aoede | STYLE: "expressive historical character acting" | TARGET DUR: 11.54s ===
+[BN] প্রতিবেশীর ঘরে যেতে চাও? কাঠের সিঁড়িটা ধরো — আমাদের শহরে রাস্তা মানেই ছাদ, আর চুলার ধোঁয়াতেই চেনা যায় প্রতিবেশী।
+[EN] Visiting a neighbour? Take the wooden ladder — in our city the road means a rooftop, and hearth-smoke tells you whose roof it is.
+[HI] पड़ोसी के घर जाना है? लकड़ी की सीढ़ी पकड़ो — हमारे शहर में रास्ता मतलब छत, और चूल्हे का धुआँ बताता है किसकी छत है।
+
+=== PART #0031 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.1s ===
+[BN] মৃতরা ঘর ছাড়ত না — পরিবার তাদের কবর দিত ঠিক ওই মেঝেতেই, যার ওপর বেঁচে থাকা মানুষ রোজ হাঁটত।
+[EN] The dead never left the house — families buried them right beneath the floor the living kept walking on every day.
+[HI] मरे हुए घर नहीं छोड़ते थे — परिवार उन्हें उसी फर्श के नीचे दफ़न करता था, जिस पर ज़िंदा लोग हर रोज़ चलते थे।
+
+=== PART #0032 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.25s ===
+[BN] একই ঘরের মেঝে প্রায় ৪৫০ বার পর্যন্ত নতুন পলেস্তারা পেত — এক লম্বা মানুষ-জীবনের যত্নের ফসল।
+[EN] A single house floor could be freshly plastered up to 450 times — a harvest of care across one long human lifetime.
+[HI] एक ही घर की फर्श लगभग ४५० बार नई पलस्तर पाती थी — एक लंबे मानव-जीवन की देखभाल की फसल।
+
+=== PART #0033 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.08s ===
+[BN] এক ঘর এক পরিবারকে আশ্রয় দিত ৪৫ থেকে ৯০ বছর, আর ঠিক সেই জায়গাতেই প্রায় ছয়বার নতুন করে উঠত।
+[EN] One house sheltered a family for 45 to 90 years, and rose anew about six times on exactly the same spot.
+[HI] एक घर एक परिवार को ४५ से ९० साल आश्रय देता था, और ठीक उसी जगह लगभग छह बार नया उठता था।
+
+=== PART #0034 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.47s ===
+[BN] ১৩.৫ হেক্টর বিস্তারেও খুঁজে পাওয়া গেল না কোনো প্রাসাদ, কোনো মন্দির, কোনো ধনী-পাড়া — কোথাও কিছু নেই।
+[EN] Across this enormous 13.5 hectare town excavators found no palace, no temple, no wealthy quarter — nothing, nowhere.
+[HI] इस विशाल १३.५ हेक्टेयर कस्बे में खुदाई को कहीं महल नहीं मिला, कोई मंदिर नहीं, कोई अमीर-मोहल्ला नहीं।
+
+=== PART #0035 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.33s ===
+[BN] হাড়ের পরীক্ষা আরও জোরালো তথ্য জোগাল — পুরুষ ও নারীর পুষ্টির মাপ ছিল প্রায় একেবারে সমান।
+[EN] Skeleton studies added another firm fact: men and women were eating at almost perfectly equal nutrition levels.
+[HI] कंकाल अध्ययन ने और पक्का तथ्य जोड़ा: पुरुष और स्त्री का पोषण लगभग पूरी तरह समान माप पर था।
+
+=== PART #0036 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.33s ===
+[BN] মেল্লার্টের মাতৃ-দেবী-শাসকের গল্প ভেঙে পড়ল — ১৯৯৩ সাল থেকে হাইডারের নতুন খনন সেই পড়া বাতিল করল।
+[EN] The grand mother-goddess-ruler story of Mellaart collapsed — fresh digging by Hodder from 1993 cancelled that reading.
+[HI] मेलार्ट की मात-देवी-शासक कहानी टूट गई — १९९३ से हाइडर की नई खुदाई ने वह पाठ रद्द कर दिया।
+
+=== PART #0037 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.69s ===
+[BN] গণনার সংখ্যায় একটিও নিশ্চিত নয়: পুরনো হিসেব ৩,৫০০ থেকে ৮,০০০; আর ২০২৪ সালের মাপ মাত্র ৬০০ থেকে ৮০০।
+[EN] The headcount refuses one number: older estimates gave 3,500 to 8,000 residents, while a 2024 recount argues only 600 to 800.
+[HI] गिनती एक संख्या नहीं मानती: पुराने अंदाज़े ३,५०० से ८,००० निवासी कहते हैं, जबकि २०२४ की गिनती सिर्फ़ ६०० से ८००।
+
+=== PART #0038 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.47s ===
+[BN] ২০২৫ সালের এক জিন-গবেষণা জুড়ল — ঘরে বসবাস মা থেকে মেয়ের ধারায় চলত, মাতৃসূত্রের ইঙ্গিত।
+[EN] One 2025 genetic study adds a line: house residence passed from mother to daughter — a matrilineal hint.
+[HI] २०२५ का एक जीन-अध्ययन जोड़ता है: घर की बसत माँ से बेटी की धारा में चलती थी — मातृसूत्रीय संकेत।
+
+=== PART #0039 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.55s ===
+[BN] প্রায় ১,৪০০ বছর পড়ে সবাই নীরবে চলে গেল কাছের পশ্চিম ঢিবিতে — কেন গেল, সেই ফাইল আজও খোলা।
+[EN] After some 1,400 years the residents quietly crossed to the nearby West Mound — why, is still an open file.
+[HI] करीब १४०० साल बाद सब चुपचाप चले गए पड़ोस के पश्चिमी टीले पर — क्यों गए, फ़ाइल आज तक खुली है।
+
+=== PART #0040 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 11.23s ===
+[BN] এখানেই অসম্ভবতম সত্য — এত বড়ো ছাদ-শহর বেঁচে রইল অবিচ্ছিন্ন, অথচ একটাও মুকুট কেউ পরেনি, এটাই খননের সবচেয়ে বড় শিক্ষা।
+[EN] Here sits the most impossible truth: a settlement this enormous survived without any crown at all — the deepest lesson of excavation.
+[HI] यहीं बैठी है असंभव सच्चाई — इतना बड़ा नगर जीवित रहा, बिना एक भी ताज — खुदाई का सबसे बड़ा सबक।
+
+=== PART #0041 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 8.69s ===
+[BN] মুকুটের আসল জন্মভূমি অপেক্ষায় ছিল দক্ষিণে — দুই নদীর ভেতরে, যেখানে সব নির্ণায়ক শুরু হবে।
+[EN] But the true birthplace of the crown was waiting deeper south — right between the two muddy rivers.
+[HI] परन्तु ताज का असली जन्म-स्थल दक्षिण में बैठा था — दो कीचड़ नदियों के ठीक बीच।
+
+=== PART #0042 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.88s ===
+[BN] তৃতীয় প্রার্থী দক্ষিণে আরও গভীর — দক্ষিণ ইরাকের দলদল-ভরা জমি, দুই বড় নদীর ঠিক মাঝে।
+[EN] The third contender lies deeper south — the marshy flats of southern Iraq, wedged between two great rivers.
+[HI] तीसरा दावेदार और दक्षिण में — दक्षिण इराक की दलदलभरी ज़मीन, दो बड़ी नदियों के ठीक बीच।
+
+=== PART #0043 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.44s ===
+[BN] ছোটো সরজের নৌকা চলত হাতে-খোদা খালের ধারে — পানির নিজস্ব শাসন চালাত এই সমতল, জালের মতো খাল বেঁধেছিল পুরো এলাকা।
+[EN] Little reed boats travelled along hand-dug canal lines cut through the flat marsh — canals netting the whole plain like a web.
+[HI] छोटी सरकंडे से बनी नावें चलती थीं हाथ-खोदी नहर पर — पानी का अपना शासन चलाता था यह मैदान, नहरों ने पूरे इलाके को जाल की तरह बाँधा था।
+
+=== PART #0044 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.42s ===
+[BN] উবাইদ যুগের দুই পুরোনো গ্রাম উনুগ আর কুল্লাবা মিশে গেল একসঙ্গে — সেই মিলনের নাম উরুক।
+[EN] Two old Ubaid villages — Unug and Kullaba — merged into one, and that union took the name Uruk.
+[HI] उबैद युग के दो पुराने गाँव ऊनुग और कुल्लाबा मिलकर एक बने — उस मिलन का नाम उरुक।
+
+=== PART #0045 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.72s ===
+[BN] নিয়মিত বর্ষায় নামত তাজা কাদা — যবের ফসল বড় ও বড় হতে লাগল, গাঁয়ের মুখ ছাড়িয়ে।
+[EN] Regular floods laid silt so fresh that barley harvests kept growing past what village mouths could swallow.
+[HI] लगातार बारिश में उतरती थी ताज़ा कीचड़ — जौ की फसल बड़ी और बड़ी होती गई, गाँव के मुँह से बाहर।
+
+=== PART #0046 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.01s ===
+[BN] বাড়তি শস্য বছরের পর বছর মন্দিরের ভাণ্ডারে ঢুকতে থাকল, টনের পর টন জমা হয়ে — ভাণ্ডার ভরে উঠত প্রতি মৌসুমে।
+[EN] Surplus grain kept pouring year after year into temple storehouses, piling ton upon ton — stores filling every season.
+[HI] ज़रूरत से ज़्यादा अनाज साल-दर-साल मंदिर के भंडारों में बहता रहा, टन पर टन जमा होता गया — हर मौसम भंडार भर उठते थे।
+
+=== PART #0047 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.74s ===
+[BN] মন্দিরের চাকর-পুরোহিতেরা রোজ হিসেব রাখল, আর নির্ধারিত ছোট ভাগে ভাগে সবার হাতে ফিরিয়ে দিল রেশন।
+[EN] The temple priest-stewards kept the daily count and handed the share back out in sanctioned packet sizes.
+[HI] मंदिर के याजक-रखवाले रोज़ हिसाब रखते थे, और तय छोटे भाग-भाग में सबके हाथ राशि लौटाते थे।
+
+=== PART #0048 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.79s ===
+[BN] মন্দিরের দেয়ালে বিঁধত হাজার হাজার ছোট্ট পোড়া মাটির শঙ্কু — লাল-কালো-সাদায় বিশাল জিগজ্যাগ আলপনা আঁকা।
+[EN] Temple facades bristled with thousands of coloured clay cones set point-outward, glittering as rainbow zigzag mosaics.
+[HI] मंदिर की दीवारों में धँसे थे हज़ारों रंगीन पकी मिट्टी के शंकु — लाल-काले-सफ़ेद में विशाल ज़िगज़ैग नक्शा।
+
+=== PART #0049 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.22s ===
+[BN] খ্রিস্টপূর্ব ৩৩০০-এর কাছাকাছি উঠল আকাশ-দেবতা আনুর সাদা মন্দির — উঁচু ভিতের গায়ে ঝলমলে সাদা চুন।
+[EN] The sky god Anu White Temple was raised near 3300 BCE on a high terrace, all in blinding whitewash.
+[HI] ३३०० ईसा पूर्व के नज़दीक उठा आकाश-देव अनु का सफ़ेद मंदिर — ऊँचे चबूतरे पर चमकदार सफ़ेद चूना।
+
+=== PART #0050 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.12s ===
+[BN] ঠিক পাশেই দেবী ইনান্নার বিশাল ইআন্না-অঞ্চল — ভাণ্ডারঘর, কাজঘর আর লেখক-মেজ ঠাসা ঘেরা জমি।
+[EN] Beside it lay the vast Eanna precinct of goddess Inanna — a walled ground packed with stores, workshops and scribe tables.
+[HI] ठीक पास था देवी इनना का विशाल इअन्ना-क्षेत्र — भंडारघर, कार्य-हल और लेखक-मेजों से ठसी घेरी ज़मीन।
+
+=== PART #0051 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.83s ===
+[BN] ওখানে চুন-পাথরের মন্দিরের মাপ ছিল ৭৬ বাই ৩০ মিটার — এথেন্সের পার্থেননের চেয়েও বড়।
+[EN] Its Limestone Temple measured 76 by 30 metres — a shell bigger even than the later Parthenon of Athens.
+[HI] वहाँ चूना-पत्थर मंदिर का माप था ७६ बाइ ३० मीटर — एथेन्स के पार्थेनन से भी बड़ा।
+
+=== PART #0052 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.55s ===
+[BN] খ্রিস্টপূর্ব ৩৫০০-এর দিকে উরুকের বিস্তার ১০০ হেক্টর টেকে ছাপিয়ে উঠতে লাগল, নতুন মানুষের ঢেউ আর থামতেই চাইত না।
+[EN] By about 3500 BCE the sprawl of Uruk surged past 100 hectares, and the wave of newcomers refused to stop.
+[HI] करीब ३५०० ईसा पूर्व उरुक का फैलाव १०० हेक्टेयर पार कर गया, और नए आने वालों की लहर थमती नहीं थी।
+
+=== PART #0053 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.79s ===
+[BN] দেয়ালের ভিতরে বাসত প্রায় ৫০ হাজার মানুষ, আর চারপাশের নেটওয়ার্ক মিলিয়ে ৮০ থেকে ৯০ হাজার।
+[EN] About 50,000 people lived inside the wall, and 80,000 to 90,000 more across the wider network.
+[HI] दीवार के भीतर लगभग ५० हज़ार लोग बसते थे, और आसपास के नेटवर्क में ८० से ९० हज़ार।
+
+=== PART #0054 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.23s ===
+[BN] সে-সময় সমগ্র পৃথিবীর সব চাইতে বড় বসতি হয়ে উঠল উরুক — ইতিহাসের এক নতুন রেকর্ড, এমন রেকর্ড আগে কখনো হয়নি।
+[EN] And Uruk rose to become the largest living settlement anywhere on Earth in that whole era — a record never seen before.
+[HI] और उरुक उस पूरे युग में धरती की सबसे बड़ी जीवित बसत बनकर उठा — ऐसा रिकॉर्ड पहले कभी नहीं हुआ।
+
+=== PART #0055 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.64s ===
+[BN] নগরের মাপেও হিসেব দোলে — দেয়ালের ভিতর ২৫০ হেক্টর, আর সবচেয়ে বিস্তারে ৪৫০ হেক্টর।
+[EN] The city size swung openly too: 250 hectares inside the walled core, up to 450 hectares at its fullest.
+[HI] नगर का क्षेत्र भी खुला दोलता है: घिरी कोर में २५० हेक्टेयर, फैलाव में ४५० तक।
+
+=== PART #0056 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.96s ===
+[BN] তুলল ৯ থেকে ৯.৫ কিলোমিটার লম্বা দেয়াল — ১২ থেকে ১৫ মিটার উঁচু, সবটা কাঁচা ইটের গাঁথুনি।
+[EN] Then rose a city wall 9 to 9.5 kilometres long, standing 12 to 15 metres high in stamped mudbrick courses.
+[HI] फिर उठी ९ से ९.५ किलोमीटर लम्बी दीवार — १२ से १५ मीटर ऊँची, सारी कच्ची ईंटों की चिनाई।
+
+=== PART #0057 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.9s ===
+[BN] পরের যুগে গিলগামেশ উঠে আসলেন উরুকের রাজা — রাজা-তালিকায় লেখা ২৭ শতকের হিসেব, যা কিংবদন্তি।
+[EN] A later age raised Gilgamesh as king of Uruk — a 27th-century entry in the king list, legend rather than excavation.
+[HI] बाद के युग ने गिलगमेश को उरुक का राजा उठाया — राजा-सूची में २७वीं सदी की प्रविष्टि, खुदाई नहीं किंवदंती।
+
+=== PART #0058 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.51s ===
+[BN] মহাকাব্য গেয়ে ওঠে — বীর উঠে দাঁড়ান উরুকের উঁচু দেয়ালের ওপরে, পুরো শহর চোখের ধারে।
+[EN] The epic sings on — the hero stands tall upon the high rampart of Uruk, the whole city under his gaze.
+[HI] महाकाव्य गाता रहता है — वीर उरुक की ऊँची दीवार पर खड़ा है, पूरा शहर नज़र के नीचे।
+
+=== PART #0059 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.22s ===
+[BN] আর প্রত্নতত্ত্ব বলে: ইটের সেই দেয়াল সত্যিই খ্রিস্টপূর্ব ৩০০০-এর কাছাকাছি দাঁড়াল — বাস্তব শহরের বাস্তব দেয়াল।
+[EN] And archaeology answers: that brick wall truly stood near 3000 BCE — a real wall of a real city.
+[HI] और पुरातत्त्व जवाब देता है: ईंट की वह दीवार सचमुच ३००० ईसा पूर्व के नज़दीक खड़ी थी — असली शहर की असली दीवार।
+
+=== PART #0060 | SPEAKER: URUK_KING | VOICE: Fenrir | STYLE: "expressive historical character acting" | TARGET DUR: 11.07s ===
+[BN] ওঠো আমার দেয়ালের ছাদে — সেখান থেকেই তোমার চোখে শহরটা মেপে নাও, তবেই বুঝবে শহর কত বড়।
+[EN] Climb onto my wall top — from there alone let your eyes measure out my city, only then will you grasp how grand it stands.
+[HI] मेरी दीवार की छत पर चढ़ो — वहीं से अपनी आँखों से मेरा शहर नापो, तभी समझोगे शहर कितना बड़ा है।
+
+=== PART #0061 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.45s ===
+[BN] এখানেই প্রথম পর্বের ধারাটা পূর্ণ হয়: বাড়তি শস্য, মন্দিরের হিসেব আর বসে যাওয়া রাজা — একই দেয়ালের ভিতরে।
+[EN] Here the episode-one thread completes: surplus grain, temple accounting and an installed king — all inside one wall.
+[HI] यहीं पहले एपिसोड का धागा पूरा होता है: बचा अनाज, मंदिर का हिसाब और बैठा राजा — एक ही दीवार के भीतर।
+
+=== PART #0062 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 9.47s ===
+[BN] কিন্তু ৫০ হাজার মানুষের মন পুরো মন্দিরের খাতা মনে রাখতে পারে না — চাই এক নতুন যন্ত্র।
+[EN] But 50,000 human minds cannot hold a temple ledger in memory — numbers now demanded a new tool.
+[HI] परन्तु ५० हज़ार मानव-मन मंदिर का लेखा याद नहीं रख सकते — संख्या ने एक नया साधन माँगा।
+
+=== PART #0063 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12.27s ===
+[BN] মানুষ আট হাজার বছর ধরেই ঝাঁক ও শস্য মাপত আকৃতি-বদলা কাঁচা মাটির ছোট্ট টোকেনে — গোনার এই পদ্ধতি চলেছিল হাজার হাজার বছর।
+[EN] People had already counted herds and grain with shaped clay tokens for eight thousand years — a counting method that ran for thousands of years.
+[HI] इंसान आठ हज़ार साल से झुंड और अनाज नापता आया था आकृतिबद्ध कच्ची मिट्टी के छोटे टोकन से — गिनने की यह विधि हज़ारों साल चली।
+
+=== PART #0064 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.57s ===
+[BN] খ্রিস্টপূর্ব ৩৫০০-এর আশপাশে ঋণ-টোকেন বন্ধ হতো খালি পোড়া মাটির বলে, বাইরে ছাপ ফুটে যাচাই হতো।
+[EN] Around 3500 BCE debt-tokens were shut inside hollow baked-clay balls, verified by the marks pressed outside.
+[HI] ३५०० ईसा पूर्व के आसपास कर्ज़-टोकन बंद होते थे खोखली पकी मिट्टी की गेंद में, बाहर दबी छाप से जाँच होती थी।
+
+=== PART #0065 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 9.32s ===
+[BN] খ্রিস্টপূর্ব ৩২০০-এর দিকে টোকেনের বদলে নিল ভিতর-ছাপ — প্রথম লেখা জন্মাল হিসেব থেকেই।
+[EN] By about 3200 BCE the inner tokens gave way to pressed signs — the first writing was born from accounting itself.
+[HI] ३२०० ईसा पूर्व के आसपास टोकन की जगह दबी छाप ने ली — पहली लेखा हिसाब से ही जन्मी।
+
+=== PART #0066 | SPEAKER: URUK_SCRIBE | VOICE: Fenrir | STYLE: "expressive historical character acting" | TARGET DUR: 11.68s ===
+[BN] আজকের খাতা: চারটে ঘট বিয়ার, তিনটে সের উন, আর চল্লিশটা ভেড়া — মন্দিরের জন্য, রোজই এমন খাতা ভরে যেত।
+[EN] Today tablet: four jars of beer, three measures of wool, and forty sheep — for the temple, and such tablets filled up every single day.
+[HI] आज का खाता: चार घड़े बीयर, तीन सेर ऊन, और चालीस भेड़ें — मंदिर के लिए, और ऐसी पट्टियाँ हर रोज़ भरती थीं।
+
+=== PART #0067 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.69s ===
+[BN] ইআন্না-অঞ্চলের প্রায় ছয় হাজার ফলক সবই হিসেবের কথা বলে — শস্য, বিয়ার, উন, ভেড়া — কোনো কবিতা নয়।
+[EN] Nearly six thousand tablets from the Eanna precinct all talk accounting — barley, beer, wool, sheep — no poetry at all.
+[HI] इअन्ना-क्षेत्र की लगभग छह हज़ार पट्टियाँ सब खाते की बात करती हैं — जौ, बीयर, ऊन, भेड़ — कोई कविता नहीं।
+
+=== PART #0068 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 8.74s ===
+[BN] পরে লেখকেরা নাম লিখতে শিখল ধ্বনি ধরে ধ্বনি ধরে — লেখা তখন শিখছিল কথা ধরে রাখা।
+[EN] Later scribes learned to write names sound by sound — writing was learning to hold speech itself.
+[HI] बाद में लेखकों ने नाम ध्वनि-दर-ध्वनि लिखना सीखा — लेखा तब वाणी थामना सीख रही थी।
+
+=== PART #0069 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.44s ===
+[BN] তত্ত্ব এক: নদীর খাল-সেচে উৎপাদন বাড়ল, আর মানুষের শ্রম বাঁধা পড়ল একটাই ব্যবস্থায়, যা খাল-কাটা শ্রমকে এক ছাতার নিচে আনল।
+[EN] Theory one: river canal irrigation multiplied surplus and tied human labour into one single system, which pulled canal-digging labour under one roof.
+[HI] सिद्धांत एक: नहर-सिंचाई से उपज बढ़ी और इंसानी मेहनत एक तंत्र में बँध गई, जिसने नहर-खुदाई श्रम को एक छत के नीचे ला दिया।
+
+=== PART #0070 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.03s ===
+[BN] তত্ত্ব দুই: ক্রমশ শুকিয়ে যাওয়া বৃষ্টি-মাঠ থেকে মানুষ ঠেলে এল নদীর সবুজ সমতলে, ভিড় বাড়ল দক্ষিণের উর্বর ভূমিতে।
+[EN] Theory two: spreading dryness pushed rain farmers further south into the crowded river plains, and crowds thickened on the fertile southern ground.
+[HI] सिद्धांत दो: फैलते सूखे ने वर्षा-किसानों को दक्षिण नदियों के मैदान की ओर धकेला, और भीड़ बढ़ी दक्षिण की उपजाऊ भूमि पर।
+
+=== PART #0071 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12s ===
+[BN] তত্ত্ব তিন বলত বাজার-বাণিজ্যই শহরকে জন্ম দিল — কিন্তু ২০১৪ সালের বিশ্লেষণে সেই যুক্তি ভেঙে পড়ল, প্রমাণ বলল বাজার আসার আগেই শহর এসেছিল।
+[EN] Theory three credits trade and markets — but a 2014 analysis proved cities came first, since evidence shows cities arrived before such markets.
+[HI] सिद्धांत तीन कहता था बाज़ार-व्यापार ने शहर को जन्म दिया — परन्तु २०१४ के विश्लेषण में वह युक्ति टूट गई, क्योंकि प्रमाण कहता है बाज़ार से पहले शहर आए।
+
+=== PART #0072 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.93s ===
+[BN] তত্ত্ব চার: নদী-মরু-পাহাড়ে ঘেরা জমিতে পালানোর জায়গা নেই — তাই যুদ্ধ চেপে গড়ে তুলল রাষ্ট্র, যেখানে হারলে পালানোর পথ বন্ধ ছিল।
+[EN] Theory four: circumscribed land of rivers, desert and mountains blocks escape, so war squeezes villages into states, where losers found every escape route blocked.
+[HI] सिद्धांत चार: नदी-मरू-पर्वत से घिरी ज़मीन में भागने की जगह नहीं, इसलिए युद्ध गाँवों को राज्य में दबाता है, जहाँ हारने वालों को भागने का रास्ता बंद था।
+
+=== PART #0073 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 13s ===
+[BN] সৎ উত্তর একটাই: কোনো একক চাকা নয় — শস্য, নদী, জলবায়ু, বাজার আর ভয় সবাই মিলে চালাল চাকা, একটাই সত্যে সব তত্ত্বের সুতো জড়ানো।
+[EN] The honest answer stands single: no lone dial did it — surplus, water, climate, trade and fear all turned the wheel together, and every theory-thread knots into that one truth.
+[HI] ईमानदार जवाब एक ही है: कोई अकेला पहिया नहीं — अनाज, नदी, जलवायु, बाज़ार और डर सबने मिलकर चक्र चलाया, और हर सिद्धांत का धागा उसी एक सत्य में गुँथा है।
+
+=== PART #0074 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.49s ===
+[BN] একই দেয়ালের ভিতরে হাজারো মানুষ ঠাসা ঘর বাঁধা — ইতিহাসের প্রথম রোগ-বিস্তারক শহর, ভিড়ের গায়ে গা লাগা জীবন রোগকে ডানা দিল।
+[EN] Thousands of people packed behind a single wall made the first true disease super-spreaders, and cheek-by-jowl living gave disease its wings.
+[HI] एक ही दीवार के भीतर हज़ारों लोग ठसे घर बाँधे — इतिहास का पहला रोग-फैलाव शहर, और भीड़ से सटी ज़िंदगी ने रोग को पंख दिए।
+
+=== PART #0075 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12.98s ===
+[BN] খ্রিস্টপূর্ব ১৭৭৫ সালের মারি-চিঠিতে প্রথম লিখিত রোগ-রোধ: কাপ, চেয়ার, বিছানা ভাগ করবেন না — মারির রাজদরবারে পাঠানো সেই ফলক আজও পড়া যায়।
+[EN] The earliest written epidemic advice is a Mari letter from about 1775 BCE: do not share cup, chair or bed — and that tablet sent to the Mari court can still be read today.
+[HI] सबसे पहली लिखी महामारी-सलाह मारी का पत्र है १७७५ ईपू: कप, कुर्सी, बिस्तर न बाँटें — और मारी दरबार को भेजी वह पट्टी आज भी पढ़ी जाती है।
+
+=== PART #0076 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.52s ===
+[BN] দাঁতের ইমেল-রেখা পড়ে গবেষকেরা বলে — প্রথম রাষ্ট্র-শুরুর শতকগুলোতে স্বাস্থ্য সত্যিই কমেছিল, শহরের দাম শরীর দিয়েই প্রথম মেটাতে হলো।
+[EN] Tooth enamel records show nutrition and health actually dipped in the first proto-state centuries, and bodies paid the first instalment of the city price.
+[HI] दाँत-इमेल रेखें दिखाती हैं — पहली प्रोटो-राज्य सदियों में पोषण-स्वास्थ्य सचमुच गिरे, और शरीर ने शहर की कीमत की पहली किश्त चुकाई।
+
+=== PART #0077 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.69s ===
+[BN] আলগাজের ধাঁধা বলে — প্রথম নগরগুলো ছিল ক্ষয়প্রবণ: নতুন অভিবাসীর ধারা থামলেই সেগুলো ভাঙনের দিকে ঢলে পড়ত।
+[EN] The Algaze paradox states the early cities were entropic: the moment the tide of fresh migrants stopped, they slid toward collapse.
+[HI] अलगेज़ पहेली कहती है: प्रारंभिक शहर क्षयी थे — नए प्रवासियों की धारा थमते ही वे पतन की ओर ढल जाते थे।
+
+=== PART #0078 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.59s ===
+[BN] উত্তরের তেল ব্র্যাকও ১৩০ হেক্টরে ছড়াল, নিজের চক্ষু-মন্দির নিয়ে — প্রমাণ করে নগরায়ণ কখনোই এক শহরের অলৌকিক ঘটনা ছিল না।
+[EN] Tell Brak in the north also spread across 130 hectares with its own Eye Temple — proving urbanism was never a one-city miracle.
+[HI] उत्तर का तेल ब्रैक भी अपने दृष्टि-मंदिर के साथ १३० हेक्टेयर में फैला — साबित करता नगरीकरण कभी एक-शहर का चमत्कार नहीं था।
+
+=== PART #0079 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 11.23s ===
+[BN] উত্তরের শহরগুলো নতুন মানুষ টেনে বড় হলো, তবু রইল পৃথক পৃথক সামাজিক রেখা — পাশে বসত, কিন্তু মিশত না।
+[EN] The northern cities grew by pulling in newcomers, yet separate social lines survived — they lived side by side but never blended.
+[HI] उत्तरी शहर नए लोगों को खींचकर बड़े हुए, फिर भी अलग-अलग सामाजिक रेखें बचीं — साथ बसते थे, पर घुलते नहीं थे।
+
+=== PART #0080 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 12.87s ===
+[BN] তাহলে বোঝা গেল — প্রথম শহর কেবল একটা নয়, বহু জায়গায় জন্মাল একই যন্ত্রপাতি নিয়ে, যা একটাই ভাগ করা জ্ঞান-ভাণ্ডার থেকে উঠে এসেছিল।
+[EN] So the record clarifies: the first city was never one alone — many sprouted in many places with one shared toolbox, drawn from a single shared pool of craft.
+[HI] तो रिकॉर्ड साफ़ करता है: पहला शहर कभी एक नहीं था — एक साझा औज़ार-पेटी से बहुत जगह बहुत जन्मे, एक ही साझा हुनर-भंडार से उठे हुए।
+
+=== PART #0081 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 10.98s ===
+[BN] শেষ হিসেবে দাঁড়াল: জেরিকো তুলল প্রথম দেয়াল, রাজাহীন কাতালহায়ুক বাঁচল শহর হয়ে, আর উরুক গড়ল প্রথম প্রকৃত শহর।
+[EN] So the final tally: Jericho raised the first wall, kingless Çatalhöyük lived on as a city, and Uruk built the first true city.
+[HI] अंतिम गणना खड़ी हुई: यरीहो ने पहली दीवार उठाई, राजाविहीन कैटलहॉयुक शहर बनकर जिया, और उरुक ने पहला सच्चा शहर बनाया।
+
+=== PART #0082 | SPEAKER: NARRATOR | VOICE: Charon | STYLE: "deep, resonant, authoritative documentary narrator" | TARGET DUR: 12.78s ===
+[BN] শেষ সতর্কতা: প্রথম-শহর খেতাবটা দাঁড়ায় শহর-সংজ্ঞার মাপে — সংজ্ঞা বদলালে মুকুটও বদলায়, তাই তাড়াহুড়ো করে একক বিজয়ী ঘোষণা করা যায় না।
+[EN] One guarded note before the crown: the first-city title hinges on how you define city itself — change the definition and the crown moves too, so no single winner can be rushed.
+[HI] ताज से पहले एक बचाव टिप्पणी: पहला-शहर खिताब टिका है शहर की परिभाषा पर — परिभाषा बदली तो ताज भी बदला, इसलिए एकल विजेता की जल्दबाज़ी नहीं हो सकती।
+
+=== PART #0083 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 12.58s ===
+[BN] ইতিহাস ধরে রাখে তিন প্রথম — দেয়াল, রাস্তাহীন নগর, আর সত্যিকার শহর — পাশাপাশি চলা, কখনোই একা চ্যাম্পিয়ন নয়, এটাই খননের সবচেয়ে নিরাপদ রায়।
+[EN] History keeps three firsts running side by side — wall, streetless city, true city — never a lone champion, and that is the safest verdict of excavation.
+[HI] इतिहास रखता है तीन प्रथम साथ-साथ — दीवार, बेसड़क नगर और असली शहर — कभी अकेला चैंपियन नहीं, और यही खुदाई का सबसे सुरक्षित फैसला है।
+
+=== PART #0084 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 9.46s ===
+[BN] আর সবার সাধারণ উপহার: দেয়াল, হিসেব-খাতা, রোগ-পত্র — সভ্যতার পুরো যন্ত্র-সেট, যা আজও আমাদের হাতে।
+[EN] And their shared gift: the wall, the tax ledger, the epidemic memo — the whole toolkit of civilization, still in our hands.
+[HI] और उनका साझा उपहार: दीवार, हिसाब-खाता, महामारी-पत्र — सभ्यता का पूरा यन्त्र-सेट, आज भी हमारे हाथ में।
+
+=== PART #0085 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 10.54s ===
+[BN] তিন চ্যাম্পিয়নের মধ্যে তুমি কোনটা বেছে নিলে — টাওয়ার, ছাদ-শহর, না দেয়াল-নগর? নিচে কমেন্টে তোমার পছন্দ লিখে যাও।
+[EN] Which of the three champions convinced you — the Tower, the streetless town, or the walled metropolis? Drop your pick in the comments below.
+[HI] तीन चैंपियन में से तुम कौन चुनोगे — टावर, छत-शहर या दीवार-नगर? नीचे कमेंट में अपनी पसंद लिखो।
+
+=== PART #0086 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 11.73s ===
+[BN] এখানে প্রতিটি সংখ্যা যাচাই করা — UNESCO-র রিপোর্ট, Antiquity জার্নাল, ব্রিটানিকা আর জাদুঘর-হ্যান্ডবুক থেকে, যেখানে মতভেদ সেখানে দুটো মতই রাখা।
+[EN] Every number here was checked against UNESCO reports, the Antiquity journal, Britannica and museum handbooks — and where scholars disagree, both views were kept.
+[HI] यहाँ हर संख्या जाँची गई — UNESCO रिपोर्ट, Antiquity जर्नल, Britannica और म्यूज़ियम-हैंडबुक से — और जहाँ विद्वान असहमत हैं, दोनों मत रखे गए।
+
+=== PART #0087 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 10.98s ===
+[BN] সাবস্ক্রাইব করো, যেন সময়ের সাক্ষী আবার দরজায় নাড়া দেয় — ইতিহাসের প্রতিটি দরজা খুলতেই থাকবে তোমার জন্য।
+[EN] Subscribe, so the Time Chronicler keeps knocking at your door of history — every door of the past will keep opening for you.
+[HI] सबस्क्राइब करो, ताकि समय का साक्षी इतिहास के दरवाज़े पर दस्तक देता रहे — अतीत का हर दरवाज़ा तुम्हारे लिए खुलता रहेगा।
+
+=== PART #0088 | SPEAKER: TIME_CHRONICLER | VOICE: Cruz | STYLE: "An Old Story Teller, Old Man voice" | TARGET DUR: 9.32s ===
+[BN] পরের পর্ব: মানুষের প্রথম ভাষার গল্প — যেখানে হিসেবের ফলকই একদিন কবিতা হয়ে উঠবে।
+[EN] Next episode: the story of the first language of our species — where tablets of accounting will one day become poetry.
+[HI] अगला एपिसोड: हमारी प्रजाति की पहली भाषा की कहानी — जहाँ हिसाब की पट्टियाँ एक दिन कविता बनेंगी।

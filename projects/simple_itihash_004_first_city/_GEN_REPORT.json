@@ -1,0 +1,22 @@
+{
+  "project": "simple_itihash_004_first_city",
+  "scenes": 88,
+  "static": 72,
+  "dynamic": 16,
+  "dynamic_ratio_pct": 18.2,
+  "beats": 20,
+  "total_sec": 933.88,
+  "minutes": 15.6,
+  "min_shot_sec": 8.64,
+  "max_shot_sec": 13,
+  "bn_minutes": 15.4,
+  "en_minutes": 13.7,
+  "hi_minutes": 17.7,
+  "contract": {
+    "duration_900_1200": true,
+    "shots_70_90": true,
+    "shot_6_13s": true,
+    "dyn_ratio_10_20": true,
+    "hook_outro_dynamic": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "project_id": "simple_itihash_004_bronze_age_collapse",
+  "preset": "PRESET_SIMPLE_HISTORY",
+  "cast": {
+    "TIME_CHRONICLER": {
+      "role": "Anchor & Time Chronicler",
+      "gender": "Male",
+      "appearance": "Elderly human scholar with bald crown, long bushy white beard, circular wire-rim spectacles, brown linen scholar robe, holding bronze torch and ancient history book",
+      "voice_id": "Cruz",
+      "style_prompt": "An Old Story Teller, Old Man voice"
+    },
+    "NARRATOR": {
+      "role": "Lead Historical Narrator",
+      "gender": "Male",
+      "voice_id": "Charon",
+      "style_prompt": "An Authoritative Documentary Narrator, Deep Resonant voice"
+    },
+    "KING_AMMURAPI": {
+      "role": "Last King of Ugarit",
+      "gender": "Male",
+      "voice_id": "Charon",
+      "style_prompt": "Desperate King, Trembling Voice"
+    },
+    "PHARAOH_RAMESSES_III": {
+      "role": "Pharaoh of Egypt",
+      "gender": "Male",
+      "voice_id": "Fenrir",
+      "style_prompt": "Mighty Pharaoh, Commanding Battle Roar"
+    },
+    "HITTITE_QUEEN_PUDUHEPA": {
+      "role": "Queen of Hatti",
+      "gender": "Female",
+      "voice_id": "Aoede",
+      "style_prompt": "Sorrowful Queen, Despairing Plea"
+    }
+  }
+}

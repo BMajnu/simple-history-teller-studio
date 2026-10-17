@@ -1,0 +1,26 @@
+{
+  "_source": "crisng95/flowkit data model (enums + API field lists). Contract reference for staged pipelines.",
+  "RequestType": ["GENERATE_IMAGE", "REGENERATE_IMAGE", "EDIT_IMAGE", "GENERATE_VIDEO", "REGENERATE_VIDEO", "GENERATE_VIDEO_REFS", "UPSCALE_VIDEO", "GENERATE_CHARACTER_IMAGE", "REGENERATE_CHARACTER_IMAGE", "EDIT_CHARACTER_IMAGE"],
+  "Orientation": ["VERTICAL", "HORIZONTAL"],
+  "StatusType": ["PENDING", "PROCESSING", "COMPLETED", "FAILED"],
+  "ChainType": {
+    "ROOT": "fresh GENERATE_IMAGE, no dependency (standalone, chain head, perspective/location/time-break, all interviews)",
+    "CONTINUATION": "EDIT_IMAGE from parent_scene_id completed image; same-character/perspective continuity; prompt auto-prefixed with transform string",
+    "INSERT": "like continuation but source=user; auto-shifts display_order; multi-angle/cutaway anchored at parent_scene_id"
+  },
+  "EntityType": ["character", "location", "creature", "visual_asset", "generic_troop", "faction"],
+  "refOrientation": {"portrait": ["character", "creature", "visual_asset", "generic_troop", "faction"], "landscape": ["location"]},
+  "ProjectCreate": {"required": ["name"], "optional": ["description", "story", "language=en", "material (regex ^[a-z0-9][a-z0-9_]{1,63}$)", "flow_project_id (omit = fresh)", "video_model_family=veo", "allow_music=false", "allow_voice=false", "characters[]"]},
+  "CharacterInput": {"required": ["name"], "defaults": {"entity_type": "character"}, "optional": ["description", "image_prompt", "voice_description (~30 words)"]},
+  "Character": ["id", "name", "slug", "entity_type", "description", "image_prompt", "voice_description", "reference_image_url", "media_id (UUID, never CAMS...)", "created_at", "updated_at"],
+  "SceneCreate": {"required": ["video_id", "prompt"], "defaults": {"display_order": 0, "chain_type": "ROOT"}, "optional": ["image_prompt", "video_prompt", "transition_prompt", "character_names[] (entity names/slugs)", "parent_scene_id", "source=root|user|system"]},
+  "Scene": ["id", "video_id", "display_order", "prompt", "image_prompt", "video_prompt", "character_names[]", "parent_scene_id", "chain_type", "source", "vertical|horizontal × image_{url,media_id,status} / video_{url,media_id,status} / upscale_{url,media_id,status} (default PENDING)", "vertical|horizontal_end_scene_media_id", "transition_prompt (chain scenes with child; generator uses it instead of video_prompt when end set)", "trim_start", "trim_end", "duration", "narrator_text", "created_at", "updated_at"],
+  "VideoCreate": {"required": ["project_id", "title"], "defaults": {"display_order": 0, "status": "DRAFT", "privacy": "unlisted"}, "optional": ["description", "orientation (auto-set from batch)", "target_duration_s"]},
+  "RequestCreate": {"required": ["type"], "characterTypes_require": ["character_id", "project_id"], "sceneTypes_require": ["scene_id", "project_id", "video_id"], "optional": ["orientation", "source_media_id (EDIT)", "provider=flow|assistant|muse2api"]},
+  "Request": ["id", "project_id", "video_id", "scene_id", "character_id", "type", "status=PENDING", "request_id", "media_id", "output_url", "error_message", "retry_count=0", "source_media_id", "provider", "created_at", "updated_at"],
+  "BatchSubmit": {"body": {"requests": ["RequestCreate..."]}, "response": ["Request..."], "rules": ["server throttles", "duplicates return existing (same scene+type+orientation or character+type while PENDING/PROCESSING)"]},
+  "BatchStatus": {"query": ["video_id", "project_id", "type", "orientation"], "response": {"total": 0, "pending": 0, "processing": 0, "completed": 0, "failed": 0, "done": "pending==0&&processing==0", "all_succeeded": "completed==total&&total>0"}},
+  "regenerateRules": ["GENERATE_* skips when target already COMPLETED", "REGENERATE_*/EDIT_* always runs", "image result clears video+upscale to PENDING", "video result clears upscale", "CONTINUATION parent regen invalidates descendant images"],
+  "uuidRule": "media_id is always UUID ^[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}$; CAMS... is a mediaGenerationId — extract UUID from fifeUrl /image/{UUID}? instead",
+  "videoPromptRule": "100-150 words, 3-6 sentences, camera as separate sentence, ends with Audio:/SFX:/Negative:; sub-clip timing 0-3s/3-6s/6-8s; dialogue as Name says: \"line\" (no subtitles)"
+}

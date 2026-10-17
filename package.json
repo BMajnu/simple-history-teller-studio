@@ -1,7 +1,7 @@
 {
-  "name": "simple-itihash-production-studio",
-  "version": "1.0.0",
-  "description": "Autonomous Video Merging & Production Studio for Simple Itihash YouTube Network",
+  "name": "simple-studio",
+  "version": "2.0.0",
+  "description": "Simple Studio (সিম্পল স্টুডিও) — Multi-Track Non-Linear Video Editor & AI Production Studio",
   "main": "electron/main.js",
   "scripts": {
     "start": "node server.js",
@@ -20,8 +20,8 @@
     "electron-builder": "^26.15.3"
   },
   "build": {
-    "appId": "com.simplehistoryteller.studio",
-    "productName": "Simple Itihash Studio",
+    "appId": "com.simplestudio.app",
+    "productName": "Simple Studio",
     "asar": false,
     "files": [
       "electron/",

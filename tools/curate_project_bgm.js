@@ -3,11 +3,22 @@ const path = require('path');
 const { spawnSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
-const FFMPEG = path.join(ROOT, 'bin', 'ffmpeg.exe');
-const FFPROBE = path.join(ROOT, 'bin', 'ffprobe.exe');
+const FFMPEG = fs.existsSync(path.join(ROOT, 'bin', 'ffmpeg.exe')) ? path.join(ROOT, 'bin', 'ffmpeg.exe') : 'ffmpeg';
+const FFPROBE = fs.existsSync(path.join(ROOT, 'bin', 'ffprobe.exe')) ? path.join(ROOT, 'bin', 'ffprobe.exe') : 'ffprobe';
 
 // Historical Era procedural acoustic matrix
 const ERA_CONFIGS = {
+  bronze_age_collapse: {
+    name: 'Late Bronze Age Collapse (c. 1200 BCE Mediterranean)',
+    freq1: 130.81, // C3 (Aegean minor modal root)
+    freq2: 196.00, // G3 (Deep open fifth)
+    freq3: 155.56, // Eb3 (Tragic minor third)
+    pulseFreq: 72.00, // Deep bronze military kettle pulse
+    pulseBpmHz: 1.15, // 69 BPM driving ancient war tempo
+    filter: 'lowpass=f=400,highpass=f=45',
+    ambience: 'anoisesrc=color=brown:sample_rate=48000:amplitude=0.08',
+    reverb: 'aecho=0.8:0.86:75:0.38'
+  },
   prehistoric_mesopotamia: {
     name: 'Prehistory to Ancient Mesopotamia (First King)',
     freq1: 110.00, // A2 (Earth primal root)

@@ -1,10 +1,10 @@
 /**
- * Simple History Teller Studio — Native Windows Desktop Launcher
- * Launches the studio backend and opens a dedicated, frameless desktop window
+ * Simple Studio (সিম্পল স্টুডিও) — Native Windows Desktop Launcher
+ * Launches the studio backend and opens a dedicated desktop window
  * powered by Windows Edge/WebView Application Mode with GPU acceleration.
  */
 
-const { spawn, execFile } = require('child_process');
+const { spawn } = require('child_process');
 const http = require('http');
 const path = require('path');
 const fs = require('fs');
@@ -31,7 +31,7 @@ function isServerRunning() {
 }
 
 function startServer() {
-  console.log('🚀 Starting Studio Engine in background...');
+  console.log('🚀 Starting Simple Studio Engine in background...');
   const serverProc = spawn('node', ['server.js'], {
     cwd: path.resolve(__dirname, '..'),
     detached: true,
@@ -57,20 +57,20 @@ function findEdge() {
 
 async function launch() {
   console.log('======================================================');
-  console.log('🎬 Simple History Teller — Windows Desktop Studio');
+  console.log('🎬 Simple Studio (সিম্পল স্টুডিও) — Desktop Video Editor');
   console.log('======================================================');
 
   const running = await isServerRunning();
   if (!running) {
     startServer();
-    console.log('⏳ Waiting for Studio Server to initialize on port 4000...');
+    console.log('⏳ Waiting for Simple Studio Server to initialize on port 4000...');
     const ok = await waitForServer();
     if (!ok) {
-      console.error('❌ Failed to start Studio Server. Please check logs.');
+      console.error('❌ Failed to start Simple Studio Server. Please check logs.');
       process.exit(1);
     }
   }
-  console.log('✓ Studio Server is ONLINE at', URL);
+  console.log('✓ Simple Studio Server is ONLINE at', URL);
 
   const edgeBin = findEdge();
   const profileDir = path.resolve(__dirname, '..', '_desktop_profile');
@@ -79,7 +79,7 @@ async function launch() {
   }
 
   if (edgeBin) {
-    console.log('🖥️ Opening Native Windows Desktop Window...');
+    console.log('🖥️ Opening Simple Studio Desktop Window...');
     const edgeArgs = [
       `--app=${URL}`,
       '--window-size=1600,950',
@@ -93,9 +93,8 @@ async function launch() {
     ];
     const appWindow = spawn(edgeBin, edgeArgs, { detached: true, stdio: 'ignore' });
     appWindow.unref();
-    console.log('🎉 Desktop Studio launched successfully!');
+    console.log('🎉 Simple Studio launched successfully!');
   } else {
-    // Fallback: open default browser
     console.log('Opening in default browser...');
     const startCmd = spawn('cmd.exe', ['/c', 'start', URL], { detached: true, stdio: 'ignore' });
     startCmd.unref();

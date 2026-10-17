@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Through – Simple Automation</title>
+<style>
+  :root { --bg:#0f1115; --panel:#171a21; --line:#262b36; --txt:#e8eaf0; --mut:#9aa3b2; --acc:#4f7cff; --ok:#35c759; --err:#ff453a; }
+  * { box-sizing:border-box; font-family: system-ui, Segoe UI, sans-serif; }
+  body { margin:0; background:var(--bg); color:var(--txt); font-size:13px; }
+  header { padding:10px 12px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:8px; }
+  header b { font-size:14px; } header span { color:var(--mut); font-size:11px; }
+  .dot { width:8px; height:8px; border-radius:50%; background:#666; }
+  .dot.on { background:var(--ok); }
+  nav { display:flex; border-bottom:1px solid var(--line); }
+  nav button { flex:1; background:none; border:0; color:var(--mut); padding:9px 4px; cursor:pointer; font-size:12px; }
+  nav button.active { color:var(--txt); border-bottom:2px solid var(--acc); }
+  section { display:none; padding:12px; }
+  section.active { display:block; }
+  textarea, input, select { width:100%; background:var(--panel); border:1px solid var(--line); color:var(--txt); border-radius:6px; padding:8px; margin:6px 0; }
+  textarea { min-height:110px; resize:vertical; }
+  .row { display:flex; gap:6px; margin:6px 0; }
+  button.act { background:var(--acc); color:#fff; border:0; border-radius:6px; padding:8px 10px; cursor:pointer; flex:1; }
+  button.ghost { background:var(--panel); color:var(--txt); border:1px solid var(--line); border-radius:6px; padding:8px 10px; cursor:pointer; flex:1; }
+  button.warn { background:#3a2020; color:#ffb3ab; border:1px solid #5c2a2a; border-radius:6px; padding:8px 10px; cursor:pointer; flex:1; }
+  .hint { color:var(--mut); font-size:11px; line-height:1.5; }
+  #qList { margin:8px 0; display:flex; flex-direction:column; gap:6px; max-height:220px; overflow:auto; }
+  .job { background:var(--panel); border:1px solid var(--line); border-radius:6px; padding:6px 8px; font-size:12px; display:flex; justify-content:space-between; gap:6px; }
+  .st-pending{color:var(--mut)} .st-running{color:var(--acc)} .st-done{color:var(--ok)} .st-failed{color:var(--err)}
+  #logBox { background:#000; border:1px solid var(--line); border-radius:6px; padding:8px; height:260px; overflow:auto; font-family:Consolas,monospace; font-size:11px; }
+  #prog { color:var(--mut); font-size:11px; margin:4px 0; }
+  #progTrack { background:var(--panel); border:1px solid var(--line); border-radius:6px; height:8px; overflow:hidden; margin:4px 0; }
+  #progBar { background:var(--acc); height:100%; width:0%; transition:width .3s; }
+  .paused { background:#3a2f10; border:1px solid #6b5518; padding:8px; border-radius:6px; margin:6px 0; display:none; }
+  .fld { display:flex; align-items:center; gap:6px; margin:4px 0; font-size:12px; }
+  .fld label { flex:0 0 130px; color:var(--mut); }
+  .fld input[type=checkbox] { width:auto; }
+  .fld .sub { display:block; font-size:10px; color:var(--mut); }
+  .toolgrid { display:grid; grid-template-columns:1fr 1fr; gap:6px; margin:6px 0; }
+  .tool { background:var(--panel); border:1px solid var(--line); border-radius:6px; padding:8px; font-size:12px; }
+  .tool b { display:block; } .tool span { color:var(--mut); font-size:11px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="dot" id="dot"></div>
+  <div><b>Through</b> <span>Simple Automation · universal</span><br/><span id="domain">no tab</span></div>
+</header>
+<nav>
+  <button data-tab="jobs" class="active">Jobs</button>
+  <button data-tab="sites">Sites</button>
+  <button data-tab="flows">Flows</button>
+  <button data-tab="logs">Logs</button>
+</nav>
+
+<section id="tab-jobs" class="active">
+  <div id="prog">Ready.</div>
+  <div id="progTrack"><div id="progBar"></div></div>
+  <div class="paused" id="pausedBox"><b id="pausedTitle">Paused</b><div class="hint" id="pausedBody"></div>
+    <div class="row"><button class="act" id="btnContinue"><span id="continueLabel">Continue</span></button></div>
+  </div>
+  <label class="hint">Site pack (selectors come from pack — engine stays generic):</label>
+  <select id="siteSel"></select>
+  <div id="runSettings"></div>
+  <label class="hint">Bulk input — blank line = new job. First line per job = label (optional `##`). Rest = payload (prompt / URL / text). Works for ANY task: video prompts, form fills, research queries, upload lists.</label>
+  <textarea id="bulk" placeholder="Job one payload…&#10;&#10;Job two payload…"></textarea>
+  <div class="row">
+    <button class="act" id="btnEnqueue">Add to queue</button>
+    <button class="ghost" id="btnImport">Import .txt</button>
+    <input type="file" id="filePick" accept=".txt,.json" style="display:none" />
+  </div>
+  <div id="qList"></div>
+  <div id="failedList"></div>
+  <div class="row" id="failedActions" style="display:none">
+    <button class="ghost" id="btnRetryAll">Retry all failed</button>
+    <button class="ghost" id="btnClearFailed">Clear failed</button>
+  </div>
+  <div class="row">
+    <button class="act" id="btnStart">Start</button>
+    <button class="warn" id="btnStop">Stop</button>
+    <button class="ghost" id="btnClear">Clear done</button>
+  </div>
+  <p class="hint">Pause pattern: any job step can emit <code>askHuman</code> (attach file, approve credits, solve captcha, pick reference). Queue waits, you act in the page, then Continue. Same primitive VeoFlow used for reference images — now generic.</p>
+  <div class="job" style="align-items:center">
+    <span><b>Bridge</b> <span class="hint" id="bridgeState">off</span></span>
+    <span style="display:flex;gap:6px;flex:0 0 auto"><button class="ghost" id="btnBridgeSync">Sync now</button></span>
+  </div>
+  <div class="row"><input id="bridgeUrl" placeholder="http://127.0.0.1:4000" /><button class="ghost" id="btnBridgeSave">Save</button><button class="ghost" id="btnBridgeToggle">Enable</button></div>
+  <p class="hint">Bridge = let a local server feed jobs: extension polls <code>GET /api/through/pending?claim=1</code> every minute and POSTs results back. Any server speaking the contract works — studio <code>:4000</code> is just the default URL.</p>
+</section>
+
+<section id="tab-sites">
+  <p class="hint">Site packs = declarative JSON: match domains + named selectors + preset actions. Add a new site without touching the engine. Bundled: <code>generic</code>, <code>flow</code>, <code>aistudio</code>, <code>youtube</code>, <code>facebook</code>, <code>tiktok</code>.</p>
+  <select id="packView"></select>
+  <textarea id="packJson" readonly style="min-height:220px;font-family:Consolas,monospace;font-size:11px;"></textarea>
+  <p class="hint" id="packNote"></p>
+</section>
+
+<section id="tab-flows">
+  <p class="hint">Flows = reusable job templates (data, not code). Video ref→scene→clip is just <i>one</i> example flow here — the engine also runs research, form-fill, upload, QA flows.</p>
+  <div class="row"><button class="ghost" data-flow="bulk-generic">Load: Bulk generic</button></div>
+  <div class="row"><button class="ghost" data-flow="video-ref-scene-clip">Load example: video ref→scene→clip</button></div>
+  <div class="row"><button class="ghost" data-flow="research-extract">Load: research extract</button></div>
+  <div class="row"><button class="ghost" data-flow="social-upload">Load example: social upload (FB + TikTok)</button></div>
+  <pre id="flowPrev" class="hint" style="white-space:pre-wrap"></pre>
+  <div class="toolgrid">
+    <div class="tool"><b>Google Flow</b><span>Open Google Flow AI Studio</span><br/><a href="https://labs.google/fx/tools/video-fx" target="_blank">labs.google/fx/tools/video-fx</a></div>
+    <div class="tool"><b>Imagen 3</b><span>Google AI Image Generation</span><br/><a href="https://labs.google/fx/tools/image-fx" target="_blank">labs.google/fx/tools/image-fx</a></div>
+    <div class="tool"><b>MusicFX</b><span>Google AI Music Generation</span><br/><a href="https://labs.google/fx/tools/music-fx" target="_blank">labs.google/fx/tools/music-fx</a></div>
+    <div class="tool"><b>AI Studio</b><span>Google AI Studio for Developers</span><br/><a href="https://aistudio.google.com/" target="_blank">aistudio.google.com</a></div>
+  </div>
+  <p class="hint"><b>Tips &amp; Tricks</b><br/>Use double line breaks to separate prompts in your text file.<br/>Set human-like delays to reduce bot detection risk.<br/>Use "Veo 3.1 Quality" for important videos, "Fast" for bulk generation.<br/>Enable auto-download and disable "Ask where to save" in Chrome settings.</p>
+  <p class="hint">Through v0.1.0 — universal automation bridge. Flow console template ported from VeoFlow; pipeline docs ported from FlowKit skills.</p>
+</section>
+
+<section id="tab-logs">
+  <div class="row"><button class="ghost" id="btnRefreshLogs">Refresh</button><button class="ghost" id="btnClearLogs">Clear</button><button class="ghost" id="btnExport">Export JSON</button></div>
+  <div class="hint" id="statsRow"></div>
+  <div id="logBox"></div>
+</section>
+
+<script src="sidepanel.js"></script>
+</body>
+</html>

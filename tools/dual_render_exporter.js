@@ -9,8 +9,8 @@ const path = require('path');
 const fs = require('fs');
 const fsp = fs.promises;
 
-const FFMPEG_BIN = path.resolve('bin/ffmpeg.exe');
-const FFPROBE_BIN = path.resolve('bin/ffprobe.exe');
+const FFMPEG_BIN = fs.existsSync(path.resolve('bin/ffmpeg.exe')) ? path.resolve('bin/ffmpeg.exe') : 'ffmpeg';
+const FFPROBE_BIN = fs.existsSync(path.resolve('bin/ffprobe.exe')) ? path.resolve('bin/ffprobe.exe') : 'ffprobe';
 
 const LANG_CONFIG = {
   bn: {
@@ -201,7 +201,7 @@ async function exportProjectDual(projectId, options = {}) {
 
   const projectFile = path.join(projectDir, 'project.json');
   const projectData = JSON.parse(await fsp.readFile(projectFile, 'utf8'));
-  const rendersDir = path.join(projectDir, 'renders');
+  const rendersDir = fs.existsSync(path.join(projectDir, 'exports')) ? path.join(projectDir, 'exports') : path.join(projectDir, 'renders');
   const shortsDir = path.join(rendersDir, 'shorts');
 
   if (!fs.existsSync(shortsDir)) {

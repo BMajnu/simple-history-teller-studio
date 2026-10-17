@@ -1,8 +1,10 @@
 {
-  "brand": "Simple History Teller Network",
+  "brand": "Simple Studio",
   "category": "POLITICAL_DOCUMENTARY_NEW",
   "channels": {
-    "bn": "Simple History Teller Bangla"
+    "bn": "Simple Studio Bangla",
+    "en": "Simple Studio English",
+    "hi": "Simple Studio Hindi"
   },
   "language_mode": "bn_only",
   "metadata": {
@@ -34,7 +36,43 @@
       },
       "claims": [
         "L04"
-      ]
+      ],
+      "aistudio_voice": "Cruz",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "vfx_effect": "none",
+      "audio_effect": "studio_clean",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0001.wav",
+          "source_duration": 10.17,
+          "duration": 10.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0001.wav",
+          "source_duration": 10.17,
+          "duration": 10.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0001.wav",
+          "source_duration": 10.17,
+          "duration": 10.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0002.mp4",
@@ -60,7 +98,43 @@
       },
       "claims": [
         "L01"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0002.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0002.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0002.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0003.mp4",
@@ -86,7 +160,43 @@
       },
       "claims": [
         "L02"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0003.wav",
+          "source_duration": 7.85,
+          "duration": 8.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0003.wav",
+          "source_duration": 7.85,
+          "duration": 8.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0003.wav",
+          "source_duration": 7.85,
+          "duration": 8.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/shot_0004.jpg",
@@ -112,7 +222,43 @@
       },
       "claims": [
         "L03"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0004.wav",
+          "source_duration": 7.49,
+          "duration": 7.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0004.wav",
+          "source_duration": 7.49,
+          "duration": 7.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0004.wav",
+          "source_duration": 7.49,
+          "duration": 7.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0005.mp4",
@@ -138,7 +284,43 @@
       },
       "claims": [
         "L04"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0005.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0005.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0005.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/shot_0006.jpg",
@@ -164,7 +346,43 @@
       },
       "claims": [
         "L05"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0006.wav",
+          "source_duration": 7.09,
+          "duration": 7.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0006.wav",
+          "source_duration": 7.09,
+          "duration": 7.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0006.wav",
+          "source_duration": 7.09,
+          "duration": 7.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0007.mp4",
@@ -190,7 +408,43 @@
       },
       "claims": [
         "L06"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0007.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0007.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0007.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0008.mp4",
@@ -216,7 +470,43 @@
       },
       "claims": [
         "L06"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0008.wav",
+          "source_duration": 6.85,
+          "duration": 7.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0008.wav",
+          "source_duration": 6.85,
+          "duration": 7.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0008.wav",
+          "source_duration": 6.85,
+          "duration": 7.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0009.mp4",
@@ -242,7 +532,43 @@
       },
       "claims": [
         "L07"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0009.wav",
+          "source_duration": 4.25,
+          "duration": 4.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0009.wav",
+          "source_duration": 4.25,
+          "duration": 4.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0009.wav",
+          "source_duration": 4.25,
+          "duration": 4.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0010.mp4",
@@ -268,7 +594,43 @@
       },
       "claims": [
         "L07"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0010.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0010.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0010.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0011.mp4",
@@ -294,7 +656,43 @@
       },
       "claims": [
         "L08"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0011.wav",
+          "source_duration": 6.33,
+          "duration": 6.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0011.wav",
+          "source_duration": 6.33,
+          "duration": 6.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0011.wav",
+          "source_duration": 6.33,
+          "duration": 6.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0012.mp4",
@@ -320,7 +718,43 @@
       },
       "claims": [
         "L09"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0012.wav",
+          "source_duration": 6.25,
+          "duration": 6.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0012.wav",
+          "source_duration": 6.25,
+          "duration": 6.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0012.wav",
+          "source_duration": 6.25,
+          "duration": 6.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0013.mp4",
@@ -346,7 +780,43 @@
       },
       "claims": [
         "L10"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0013.wav",
+          "source_duration": 5.53,
+          "duration": 5.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0013.wav",
+          "source_duration": 5.53,
+          "duration": 5.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0013.wav",
+          "source_duration": 5.53,
+          "duration": 5.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0014.mp4",
@@ -372,7 +842,43 @@
       },
       "claims": [
         "L11"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0014.wav",
+          "source_duration": 5.45,
+          "duration": 5.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0014.wav",
+          "source_duration": 5.45,
+          "duration": 5.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0014.wav",
+          "source_duration": 5.45,
+          "duration": 5.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/shot_0015.jpg",
@@ -398,7 +904,43 @@
       },
       "claims": [
         "L12"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0015.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0015.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0015.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0016.mp4",
@@ -424,7 +966,43 @@
       },
       "claims": [
         "L13"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0016.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0016.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0016.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0017.mp4",
@@ -451,7 +1029,43 @@
       "claims": [
         "L13",
         "L14"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0017.wav",
+          "source_duration": 4.61,
+          "duration": 4.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0017.wav",
+          "source_duration": 4.61,
+          "duration": 4.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0017.wav",
+          "source_duration": 4.61,
+          "duration": 4.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0018.mp4",
@@ -477,7 +1091,43 @@
       },
       "claims": [
         "L15"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0018.wav",
+          "source_duration": 5.85,
+          "duration": 6.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0018.wav",
+          "source_duration": 5.85,
+          "duration": 6.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0018.wav",
+          "source_duration": 5.85,
+          "duration": 6.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0019.mp4",
@@ -504,7 +1154,43 @@
       "claims": [
         "L15",
         "L16"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0019.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0019.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0019.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "asset_file": "visual_assets/clip_shot_0020.mp4",
@@ -528,7 +1214,43 @@
       "language_durations": {
         "bn": 6.88
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0020.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0020.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0020.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 21,
@@ -554,7 +1276,43 @@
       },
       "claims": [
         "L17"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0021.wav",
+          "source_duration": 8.01,
+          "duration": 8.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0021.wav",
+          "source_duration": 8.01,
+          "duration": 8.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0021.wav",
+          "source_duration": 8.01,
+          "duration": 8.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 22,
@@ -580,7 +1338,43 @@
       },
       "claims": [
         "L18"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0022.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0022.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0022.wav",
+          "source_duration": 6.13,
+          "duration": 6.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 23,
@@ -606,7 +1400,43 @@
       },
       "claims": [
         "L18"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0023.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0023.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0023.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 24,
@@ -632,7 +1462,43 @@
       },
       "claims": [
         "L08"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0024.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0024.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0024.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 25,
@@ -658,7 +1524,43 @@
       },
       "claims": [
         "L19"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0025.wav",
+          "source_duration": 10.93,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0025.wav",
+          "source_duration": 10.93,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0025.wav",
+          "source_duration": 10.93,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 26,
@@ -684,7 +1586,43 @@
       },
       "claims": [
         "L19"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0026.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0026.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0026.wav",
+          "source_duration": 5.17,
+          "duration": 5.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 27,
@@ -710,7 +1648,43 @@
       },
       "claims": [
         "L20"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0027.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0027.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0027.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 28,
@@ -736,7 +1710,43 @@
       },
       "claims": [
         "L21"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0028.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0028.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0028.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 29,
@@ -762,7 +1772,43 @@
       },
       "claims": [
         "L22"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0029.wav",
+          "source_duration": 7.05,
+          "duration": 7.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0029.wav",
+          "source_duration": 7.05,
+          "duration": 7.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0029.wav",
+          "source_duration": 7.05,
+          "duration": 7.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 30,
@@ -788,7 +1834,43 @@
       },
       "claims": [
         "L23"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0030.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0030.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0030.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 31,
@@ -814,7 +1896,43 @@
       },
       "claims": [
         "L23"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0031.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0031.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0031.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 32,
@@ -840,7 +1958,43 @@
       },
       "claims": [
         "L20"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0032.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0032.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0032.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 33,
@@ -867,7 +2021,43 @@
       "claims": [
         "L15",
         "L16"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0033.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0033.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0033.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 34,
@@ -893,7 +2083,43 @@
       },
       "claims": [
         "L24"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0034.wav",
+          "source_duration": 8.09,
+          "duration": 8.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0034.wav",
+          "source_duration": 8.09,
+          "duration": 8.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0034.wav",
+          "source_duration": 8.09,
+          "duration": 8.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 35,
@@ -919,7 +2145,43 @@
       },
       "claims": [
         "L25"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0035.wav",
+          "source_duration": 5.05,
+          "duration": 5.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0035.wav",
+          "source_duration": 5.05,
+          "duration": 5.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0035.wav",
+          "source_duration": 5.05,
+          "duration": 5.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 36,
@@ -945,7 +2207,43 @@
       },
       "claims": [
         "L26"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0036.wav",
+          "source_duration": 8.45,
+          "duration": 8.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0036.wav",
+          "source_duration": 8.45,
+          "duration": 8.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0036.wav",
+          "source_duration": 8.45,
+          "duration": 8.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 37,
@@ -971,7 +2269,43 @@
       },
       "claims": [
         "L27"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0037.wav",
+          "source_duration": 7.77,
+          "duration": 8.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0037.wav",
+          "source_duration": 7.77,
+          "duration": 8.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0037.wav",
+          "source_duration": 7.77,
+          "duration": 8.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 38,
@@ -997,7 +2331,43 @@
       },
       "claims": [
         "L28"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0038.wav",
+          "source_duration": 6.41,
+          "duration": 6.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0038.wav",
+          "source_duration": 6.41,
+          "duration": 6.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0038.wav",
+          "source_duration": 6.41,
+          "duration": 6.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 39,
@@ -1024,7 +2394,43 @@
       "claims": [
         "C17",
         "C16"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0039.wav",
+          "source_duration": 8.29,
+          "duration": 8.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0039.wav",
+          "source_duration": 8.29,
+          "duration": 8.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0039.wav",
+          "source_duration": 8.29,
+          "duration": 8.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 40,
@@ -1050,7 +2456,43 @@
       },
       "claims": [
         "C17"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0040.wav",
+          "source_duration": 5.61,
+          "duration": 5.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0040.wav",
+          "source_duration": 5.61,
+          "duration": 5.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0040.wav",
+          "source_duration": 5.61,
+          "duration": 5.96,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 41,
@@ -1076,7 +2518,43 @@
       },
       "claims": [
         "L32"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0041.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0041.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0041.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 42,
@@ -1102,7 +2580,43 @@
       },
       "claims": [
         "L33"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0042.wav",
+          "source_duration": 7.17,
+          "duration": 7.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0042.wav",
+          "source_duration": 7.17,
+          "duration": 7.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0042.wav",
+          "source_duration": 7.17,
+          "duration": 7.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 43,
@@ -1128,7 +2642,43 @@
       },
       "claims": [
         "L34"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0043.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0043.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0043.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 44,
@@ -1154,7 +2704,43 @@
       },
       "claims": [
         "L35"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0044.wav",
+          "source_duration": 7.45,
+          "duration": 7.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0044.wav",
+          "source_duration": 7.45,
+          "duration": 7.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0044.wav",
+          "source_duration": 7.45,
+          "duration": 7.8,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 45,
@@ -1178,7 +2764,43 @@
       "language_durations": {
         "bn": 6.4
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0045.wav",
+          "source_duration": 6.05,
+          "duration": 6.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0045.wav",
+          "source_duration": 6.05,
+          "duration": 6.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0045.wav",
+          "source_duration": 6.05,
+          "duration": 6.4,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 46,
@@ -1204,7 +2826,43 @@
       },
       "claims": [
         "L36"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0046.wav",
+          "source_duration": 7.89,
+          "duration": 8.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0046.wav",
+          "source_duration": 7.89,
+          "duration": 8.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0046.wav",
+          "source_duration": 7.89,
+          "duration": 8.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 47,
@@ -1230,7 +2888,43 @@
       },
       "claims": [
         "L37"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0047.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0047.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0047.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 48,
@@ -1256,7 +2950,43 @@
       },
       "claims": [
         "L37"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0048.wav",
+          "source_duration": 7.21,
+          "duration": 7.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0048.wav",
+          "source_duration": 7.21,
+          "duration": 7.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0048.wav",
+          "source_duration": 7.21,
+          "duration": 7.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 49,
@@ -1282,7 +3012,43 @@
       },
       "claims": [
         "L38"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0049.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0049.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0049.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 50,
@@ -1308,7 +3074,43 @@
       },
       "claims": [
         "L38"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0050.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0050.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0050.wav",
+          "source_duration": 5.89,
+          "duration": 6.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 51,
@@ -1334,7 +3136,43 @@
       },
       "claims": [
         "L38"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0051.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0051.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0051.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 52,
@@ -1360,7 +3198,43 @@
       },
       "claims": [
         "L38"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0052.wav",
+          "source_duration": 3.97,
+          "duration": 4.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0052.wav",
+          "source_duration": 3.97,
+          "duration": 4.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0052.wav",
+          "source_duration": 3.97,
+          "duration": 4.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 53,
@@ -1386,7 +3260,43 @@
       },
       "claims": [
         "L38"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0053.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0053.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0053.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 54,
@@ -1412,7 +3322,43 @@
       },
       "claims": [
         "L39"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0054.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0054.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0054.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 55,
@@ -1438,7 +3384,43 @@
       },
       "claims": [
         "L40"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0055.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0055.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0055.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 56,
@@ -1464,7 +3446,43 @@
       },
       "claims": [
         "L41"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0056.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0056.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0056.wav",
+          "source_duration": 7.01,
+          "duration": 7.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 57,
@@ -1490,7 +3508,43 @@
       },
       "claims": [
         "L41"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0057.wav",
+          "source_duration": 6.81,
+          "duration": 7.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0057.wav",
+          "source_duration": 6.81,
+          "duration": 7.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0057.wav",
+          "source_duration": 6.81,
+          "duration": 7.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 58,
@@ -1516,7 +3570,43 @@
       },
       "claims": [
         "L42"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0058.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0058.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0058.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 59,
@@ -1542,7 +3632,43 @@
       },
       "claims": [
         "L43"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0059.wav",
+          "source_duration": 4.85,
+          "duration": 5.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0059.wav",
+          "source_duration": 4.85,
+          "duration": 5.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0059.wav",
+          "source_duration": 4.85,
+          "duration": 5.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 60,
@@ -1568,7 +3694,43 @@
       },
       "claims": [
         "L13"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0060.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0060.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0060.wav",
+          "source_duration": 5.25,
+          "duration": 5.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 61,
@@ -1594,7 +3756,43 @@
       },
       "claims": [
         "L44"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0061.wav",
+          "source_duration": 6.73,
+          "duration": 7.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0061.wav",
+          "source_duration": 6.73,
+          "duration": 7.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0061.wav",
+          "source_duration": 6.73,
+          "duration": 7.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 62,
@@ -1620,7 +3818,43 @@
       },
       "claims": [
         "L45"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0062.wav",
+          "source_duration": 5.97,
+          "duration": 6.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0062.wav",
+          "source_duration": 5.97,
+          "duration": 6.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0062.wav",
+          "source_duration": 5.97,
+          "duration": 6.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 63,
@@ -1646,7 +3880,43 @@
       },
       "claims": [
         "L46"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0063.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0063.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0063.wav",
+          "source_duration": 6.69,
+          "duration": 7.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 64,
@@ -1672,7 +3942,43 @@
       },
       "claims": [
         "L46"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0064.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0064.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0064.wav",
+          "source_duration": 4.53,
+          "duration": 4.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 65,
@@ -1698,7 +4004,43 @@
       },
       "claims": [
         "L47"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0065.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0065.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0065.wav",
+          "source_duration": 5.41,
+          "duration": 5.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 66,
@@ -1724,7 +4066,43 @@
       },
       "claims": [
         "L48"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0066.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0066.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0066.wav",
+          "source_duration": 6.97,
+          "duration": 7.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 67,
@@ -1750,7 +4128,43 @@
       },
       "claims": [
         "L49"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0067.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0067.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0067.wav",
+          "source_duration": 7.37,
+          "duration": 7.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 68,
@@ -1776,7 +4190,43 @@
       },
       "claims": [
         "L50"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0068.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0068.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0068.wav",
+          "source_duration": 6.37,
+          "duration": 6.72,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 69,
@@ -1802,7 +4252,43 @@
       },
       "claims": [
         "C17"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0069.wav",
+          "source_duration": 3.17,
+          "duration": 3.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0069.wav",
+          "source_duration": 3.17,
+          "duration": 3.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0069.wav",
+          "source_duration": 3.17,
+          "duration": 3.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 70,
@@ -1826,7 +4312,43 @@
       "language_durations": {
         "bn": 5.48
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0070.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0070.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0070.wav",
+          "source_duration": 5.13,
+          "duration": 5.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 71,
@@ -1850,7 +4372,43 @@
       "language_durations": {
         "bn": 4.56
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Cruz",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "vfx_effect": "none",
+      "audio_effect": "studio_clean",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0071.wav",
+          "source_duration": 4.21,
+          "duration": 4.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0071.wav",
+          "source_duration": 4.21,
+          "duration": 4.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0071.wav",
+          "source_duration": 4.21,
+          "duration": 4.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 72,
@@ -1877,7 +4435,43 @@
       "claims": [
         "L09",
         "L13"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0072.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0072.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0072.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 73,
@@ -1903,7 +4497,43 @@
       },
       "claims": [
         "L15"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0073.wav",
+          "source_duration": 5.29,
+          "duration": 5.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0073.wav",
+          "source_duration": 5.29,
+          "duration": 5.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0073.wav",
+          "source_duration": 5.29,
+          "duration": 5.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 74,
@@ -1929,7 +4559,43 @@
       },
       "claims": [
         "L41"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0074.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0074.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0074.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 75,
@@ -1956,7 +4622,43 @@
       "claims": [
         "C17",
         "C16"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0075.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0075.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0075.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 76,
@@ -1982,7 +4684,43 @@
       },
       "claims": [
         "C19"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0076.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0076.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0076.wav",
+          "source_duration": 5.93,
+          "duration": 6.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 77,
@@ -2008,7 +4746,43 @@
       },
       "claims": [
         "L42"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0077.wav",
+          "source_duration": 7.57,
+          "duration": 7.92,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0077.wav",
+          "source_duration": 7.57,
+          "duration": 7.92,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0077.wav",
+          "source_duration": 7.57,
+          "duration": 7.92,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 78,
@@ -2034,7 +4808,43 @@
       },
       "claims": [
         "L49"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0078.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0078.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0078.wav",
+          "source_duration": 6.89,
+          "duration": 7.24,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 79,
@@ -2060,7 +4870,43 @@
       },
       "claims": [
         "R5"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0079.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0079.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0079.wav",
+          "source_duration": 6.65,
+          "duration": 7.0,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 80,
@@ -2088,7 +4934,43 @@
         "C17",
         "C19",
         "C32"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0080.wav",
+          "source_duration": 9.97,
+          "duration": 10.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0080.wav",
+          "source_duration": 9.97,
+          "duration": 10.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0080.wav",
+          "source_duration": 9.97,
+          "duration": 10.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 81,
@@ -2114,7 +4996,43 @@
       },
       "claims": [
         "R4"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0081.wav",
+          "source_duration": 8.21,
+          "duration": 8.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0081.wav",
+          "source_duration": 8.21,
+          "duration": 8.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0081.wav",
+          "source_duration": 8.21,
+          "duration": 8.56,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 82,
@@ -2138,7 +5056,43 @@
       "language_durations": {
         "bn": 6.88
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0082.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0082.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0082.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 83,
@@ -2162,7 +5116,43 @@
       "language_durations": {
         "bn": 6.08
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0083.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0083.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0083.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 84,
@@ -2190,7 +5180,43 @@
         "L04",
         "L15",
         "L34"
-      ]
+      ],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0084.wav",
+          "source_duration": 7.13,
+          "duration": 7.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0084.wav",
+          "source_duration": 7.13,
+          "duration": 7.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0084.wav",
+          "source_duration": 7.13,
+          "duration": 7.48,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 85,
@@ -2214,7 +5240,43 @@
       "language_durations": {
         "bn": 8.28
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0085.wav",
+          "source_duration": 7.93,
+          "duration": 8.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0085.wav",
+          "source_duration": 7.93,
+          "duration": 8.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0085.wav",
+          "source_duration": 7.93,
+          "duration": 8.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 86,
@@ -2238,7 +5300,43 @@
       "language_durations": {
         "bn": 6.64
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0086.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0086.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0086.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 87,
@@ -2262,7 +5360,43 @@
       "language_durations": {
         "bn": 5.16
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0087.wav",
+          "source_duration": 4.81,
+          "duration": 5.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0087.wav",
+          "source_duration": 4.81,
+          "duration": 5.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0087.wav",
+          "source_duration": 4.81,
+          "duration": 5.16,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 88,
@@ -2286,7 +5420,43 @@
       "language_durations": {
         "bn": 6.08
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0088.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0088.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0088.wav",
+          "source_duration": 5.73,
+          "duration": 6.08,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 89,
@@ -2310,7 +5480,43 @@
       "language_durations": {
         "bn": 6.12
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0089.wav",
+          "source_duration": 5.77,
+          "duration": 6.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0089.wav",
+          "source_duration": 5.77,
+          "duration": 6.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0089.wav",
+          "source_duration": 5.77,
+          "duration": 6.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 90,
@@ -2334,7 +5540,43 @@
       "language_durations": {
         "bn": 6.52
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0090.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0090.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0090.wav",
+          "source_duration": 6.17,
+          "duration": 6.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 91,
@@ -2358,7 +5600,43 @@
       "language_durations": {
         "bn": 5.32
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0091.wav",
+          "source_duration": 4.97,
+          "duration": 5.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0091.wav",
+          "source_duration": 4.97,
+          "duration": 5.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0091.wav",
+          "source_duration": 4.97,
+          "duration": 5.32,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 92,
@@ -2382,7 +5660,43 @@
       "language_durations": {
         "bn": 4.84
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0092.wav",
+          "source_duration": 4.49,
+          "duration": 4.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0092.wav",
+          "source_duration": 4.49,
+          "duration": 4.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0092.wav",
+          "source_duration": 4.49,
+          "duration": 4.84,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 93,
@@ -2406,7 +5720,43 @@
       "language_durations": {
         "bn": 5.68
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Cruz",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "vfx_effect": "none",
+      "audio_effect": "studio_clean",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0093.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0093.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0093.wav",
+          "source_duration": 5.33,
+          "duration": 5.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 94,
@@ -2430,7 +5780,43 @@
       "language_durations": {
         "bn": 6.88
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Charon",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "vfx_effect": "none",
+      "audio_effect": "warm_tube_narrator",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0094.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0094.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0094.wav",
+          "source_duration": 6.53,
+          "duration": 6.88,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     },
     {
       "scene_id": 95,
@@ -2454,12 +5840,94 @@
       "language_durations": {
         "bn": 6.64
       },
-      "claims": []
+      "claims": [],
+      "aistudio_voice": "Cruz",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "vfx_effect": "none",
+      "audio_effect": "studio_clean",
+      "audio_clips": {
+        "bn": {
+          "file": "audio/bn/scene_0095.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "en": {
+          "file": "audio/en/scene_0095.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        },
+        "hi": {
+          "file": "audio/hi/scene_0095.wav",
+          "source_duration": 6.29,
+          "duration": 6.64,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0
+        }
+      }
     }
   ],
   "style_preset": "PRESET_SIMPLE_HISTORY",
   "target_duration_seconds": 950,
   "total_duration_seconds": 635.76,
   "visual_policy": "VIDEO-FIRST (special documentary): real footage>archival still-to-video>AI video>AI image. No 20pct cap. Every scene carries source+courtesy burn-in. AI marked as recreation, never as archival.",
-  "asset_rule": "VIDEO if exists (or still-to-video Ken Burns mp4) else IMAGE else AI. Static only for document legibility (shots 4,6,15)."
+  "asset_rule": "VIDEO if exists (or still-to-video Ken Burns mp4) else IMAGE else AI. Static only for document legibility (shots 4,6,15).",
+  "characters": [
+    {
+      "id": "TIME_CHRONICLER",
+      "name_bn": "সময়ের সাক্ষী",
+      "name_en": "The Time Chronicler",
+      "name_hi": "समय का साक्षी",
+      "role_bn": "হোস্ট ও সূত্রधार",
+      "role_en": "Host & Storyteller",
+      "role_hi": "सूत्रधार एवं कहानीकार",
+      "gender": "Male",
+      "age_group": "Elderly",
+      "icon": "🎙️",
+      "badge_class": "speaker-badge-host",
+      "aistudio_voice": "Cruz",
+      "fallback_voice": "Charon",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "default_wpm": 135,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "references/ref_host_chronicler.jpg",
+      "noor_veil": false,
+      "visual_dna": "Elderly male scholar with fluffy white beard, round wire spectacles, brown scholar tunic, holding history journal."
+    },
+    {
+      "id": "NARRATOR",
+      "name_bn": "ইতিহাস কথক",
+      "name_en": "Historical Narrator",
+      "name_hi": "इतिहास वाचक",
+      "role_bn": "মূল ধারাভাষ্যকার",
+      "role_en": "Documentary Narrator",
+      "role_hi": "मुख्य कथावाचक",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "📜",
+      "badge_class": "speaker-badge-narrator",
+      "aistudio_voice": "Charon",
+      "fallback_voice": "Orus",
+      "style_prompt": "deep, resonant, authoritative documentary narrator",
+      "default_wpm": 140,
+      "volume_db": 0,
+      "audio_effect": "warm_tube_narrator",
+      "ref_image": "references/ref_host_simple_history.jpg",
+      "noor_veil": false,
+      "visual_dna": "Authoritative historical documentary narrator with classic archival aesthetic."
+    }
+  ]
 }
