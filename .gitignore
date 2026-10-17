@@ -101,4 +101,6 @@ projects/*/fleet_logs/
 projects/*/audio/**/*.png
 *_debug*.png
 tools/raw_response.txt
+chrome_yt_sessions/
+tools/_yt_evidence/
 
