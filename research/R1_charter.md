@@ -1,62 +1,69 @@
 # R1 — CHARTER
 
-**Working title:** "Was Rabindranath Tagore Against Bangladesh?" — Tagore, the 1905 Partition of Bengal, and the Document Record
+**Working Title:**
+- 🇧🇩 বাংলা: ৩০০০ বছর আগে প্রাচীন পৃথিবীর মহাবিপর্যয়: ব্রোঞ্জ এজ কলাপ্স — একটি সুসংহত বৈশ্বিক সভ্যতার হঠাৎ পতন
+- 🌍 English: The Bronze Age Collapse (1177 BC): When the Ancient Globalized World Fell into Darkness
+- 🇮🇳 हिन्दी: कांस्य युग का महाविनाश: ३२०० साल पहले कैसे रातों-रात तबाह हुईं दुनिया की सबसे बड़ी सभ्यताएं?
 
-**Intended audience:** Bengali-speaking and South-Asia-history viewers of an explainer-documentary channel; the video must survive both Bangladeshi nationalist scrutiny and Tagore-scholar scrutiny.
+**Intended Audience:**
+A multi-lingual global audience (Bengali, Hindi, English) of documentary, archaeology, and ancient history enthusiasts seeking high-retention, archaeologically grounded, animated narrative explainers explaining how advanced ancient civilizations suddenly collapsed simultaneously.
 
-**Angle:** Pro-Bangladesh AND strictly truthful. Documented Tagore opposition to the 1905 Partition (and his East Bengal zamindari/rural record) must be shown with sources; every allegation against him must be hunted down to a primary source or stamped UNPROVEN on the record — never upgraded, never hidden. Counter-evidence (unity motive claims, goodwill works, no-proof verdicts) is actively sought.
+**Angle:**
+An objective, evidence-based archaeological and historical investigation into the Late Bronze Age Collapse (c. 1200–1150 BCE). We reject sensationalist pseudoscience (aliens, lost continents) and simplistic monocausal myths. Instead, we present the modern scholarly consensus of a multi-causal "systems collapse" (Eric Cline, Colin Renfrew, David Kaniewski) — an interconnected ancient world brought down by a perfect storm of severe megadrought/famine, tectonic earthquake storms, trade breakdown, Sea Peoples migrations/raids, and internal socio-economic rebellion. The narration maintains documentary dignity, historical rigor, and religious sensitivity (pro-Islamic reverence when referencing ancient lands and civilizations mentioned in religious history).
 
 **Non-goals:**
-- No hagiography: we do not defend Tagore beyond what documents show.
-- No prosecution: we do not convict Tagore on viral social-media quotes.
-- LLM outputs are brainstorming aids only, never sources.
-- No claims without a ledger row (mechanical law, R6).
+- No monocausal reductionism: the "Sea Peoples" will not be portrayed as supernatural super-villains who alone destroyed the world without context of famine, drought, and systemic fragility.
+- No historical speculation without archaeological/epigraphic evidence (all core events must link to primary texts like RS 20.238, Medinet Habu reliefs, Merneptah Stele, or paleoclimate proxy data).
+- No ungrounded claims: every narration sentence must trace to an entry in `R6_ledger.md` (mechanical law).
+- LLM outputs are brainstorming aids only, never historical sources.
 
-## Research questions
+---
 
-1. What did the 1905 Partition of Bengal actually do (Dhaka as the eastern administrative capital), and what is the documented record of Rabindranath Tagore's role in the anti-partition movement (meetings, Rakhi Bandhan, the songs of 1905)?
-2. What does Tagore's zamindari record (Shilaidaha, Shahzadpur, Patisar; the Krishi Bank / agricultural bank) show about his material and administrative relationship with East Bengal's peasants — and what does it NOT show?
-3. Who provably opposed the founding of Dhaka University (1912–1921 record), and is there any primary document placing Tagore among those opponents — including the Garer Math allegation that he presided over an anti-DU meeting?
-4. Does any primary source exist for the viral insult quote attributed to Tagore about Bangladesh / Bengali Muslims — or must it be recorded as unproven?
-5. What is the documented content and context of Tagore's 1926 Dhaka lecture, and what is the record of the 1936 Dhaka University DLitt conferred on him?
-6. How does the Sriniketan rural-reconstruction work (1921–) compare with Tagore's documented impact in East Bengal (i.e., was his rural work "only" Santiniketan, or did East Bengal also receive it)?
-7. What is the documented origin of the song "Amar Sonar Bangla" (1905), its adoption as Bangladesh's national anthem (1971–72), and its place in the 1972 Constitution?
-8. What counter-evidence exists to the "Tagore was against East Bengal / against Bangladesh" thesis — including claims that he (or his family) benefited from or supported the 1905 Partition, and any recorded goodwill toward Dhaka / East Bengal?
+## Research Questions (5–9 Questions)
 
-## Load-bearing claims (max 10 — each must earn ≥2 independent sources in R6)
+1. **Interconnected World:** What was the degree of diplomatic, economic, and maritime interconnection among the Late Bronze Age superpowers (New Kingdom Egypt, the Hittite Empire, Mycenaean Greece, Kassite Babylon, and Ugarit) prior to 1200 BCE?
+2. **Metallurgical Dependency:** How did the dependency on bronze (alloy of ~90% copper from Cyprus and ~10% tin from remote regions like Afghanistan) create an acute supply-chain vulnerability for weapons and agricultural tools?
+3. **Primary Textual Evidence:** What primary epigraphic records and clay tablets (e.g. Ugarit tablet RS 20.238, Amarna archives, Hittite royal letters) record the frantic, final moments of these civilizations?
+4. **Identity of the Sea Peoples:** Who were the confederations collectively termed the "Sea Peoples" (Peleset/Philistines, Sherden, Lukka, Tjekker, Denyen, Weshesh) according to Egyptian inscriptions at Karnak and Medinet Habu, and what drove their mass migrations?
+5. **Paleoclimatic Evidence:** What scientific proxy evidence (fossil pollen cores from Larnaca Salt Lake, Soreq cave speleothems, Mediterranean deep-sea sediment cores) proves a prolonged megadrought and agricultural crisis c. 1200–1150 BCE?
+6. **Archaeoseismic Evidence:** What archaeological physical evidence supports the hypothesis of "earthquake storms" along the North Anatolian and Dead Sea Faults destroying palace complexes during this window?
+7. **Divergent Fates:** Why did Mycenae and Hattusa suffer total destruction and administrative collapse (including the total extinction of the Linear B script), whereas Egypt survived in a weakened state and Assyria remained resilient?
+8. **Transformation & Legacy:** How did the Bronze Age catastrophe midwife the Iron Age, democratize metallurgy, and allow the rise of alphabetic writing (Phoenician) and new regional societies in the Levant?
 
-| ID | Draft claim (to be proven or revised by ledger) |
-|----|-------------------------------------------------|
-| LC1 | Tagore actively opposed the 1905 Partition of Bengal through documented actions (public stance, Rakhi observance, protest songs of 1905). |
-| LC2 | "Amar Sonar Bangla" was composed in 1905 in the context of the anti-partition protest. |
-| LC3 | The Rakhi Bandhan unity ritual was mobilised in 1905 as an anti-partition symbol, with Tagore's involvement documented. |
-| LC4 | Tagore administered an agricultural bank (Krishi Bank) for peasants on his Shilaidaha estate. |
-| LC5 | Dhaka University was formally established by the Dhaka University Act of 1920 and opened 1921; the documented opposition during 1912–1920 came from identifiable actors (to be named from documents). |
-| LC6 | The allegation that Tagore opposed the Dhaka University scheme / presided over the Garer Math meeting against it is UNPROVEN (no primary document found after systematic search). |
-| LC7 | The viral insult quote attributed to Tagore about Bangladesh/Bengali Muslims has no traceable primary source (to be verified by search; upgraded or downgraded accordingly). |
-| LC8 | Dhaka University conferred an honorary DLitt on Tagore in 1936. |
-| LC9 | "Amar Sonar Bangla" was adopted as the national anthem of Bangladesh around independence (1971–72) and is referenced in the 1972 Constitution. |
-| LC10 | Tagore's documented rural/social work centred on Sriniketan (from 1921), with his earlier East Bengal record being his zamindari administration — presented honestly, without inflating either. |
+---
 
-## Counter-positions that MUST be investigated (not hidden)
+## Load-Bearing Claims (Max 10 — Each requires ≥2 independent sources in R6)
 
-1. **"Tagore / Tagore family supported the 1905 Partition because they benefited from East Bengal estates."** — must be checked against the petition/press record and family estate history; if evidence exists it is reported, if not it is labelled UNPROVEN.
-2. **"Tagore opposed Dhaka University / was indifferent to Muslim educational aspiration."** — the Garer Math allegation and the 1912–1920 DU debates; verdict must follow documents.
-3. **"Tagore made derogatory remarks about Muslims / about what would become Bangladesh."** — hunt for the viral quote's earliest trace; document the failure to find a primary source if none exists.
-4. **Goodwill counter-evidence for the defence side:** Tagore's visits and speeches in Dhaka (incl. 1926), his friendship with Muslim litterateurs (e.g., Kazi Nazrul Islam), donations/help records — must be verified, not assumed.
-5. **Honest variance reporting:** where sources disagree (dates, attendance numbers, quote wording), the video reports the variance instead of silently picking one number.
+| ID | Draft Claim (To be verified or refined in R6 Ledger) |
+|---|---|
+| **LC1** | The Late Bronze Age (c. 1400–1200 BCE) was an intensely globalized, interconnected network of specialized trade, diplomatic gift exchange, and royal treaties spanning Greece, Egypt, the Levant, and Anatolia. |
+| **LC2** | The Bronze economy relied on copper (chiefly from Alashiya/Cyprus) and tin (imported over thousands of kilometers from Central Asia/Afghanistan), meaning any maritime or trade disruption paralyzed the imperial military and economy. |
+| **LC3** | Between roughly 1200 and 1150 BCE, nearly every major urban citadel and trading capital in the Eastern Mediterranean—including Mycenae, Tiryns, Hattusa, Ugarit, and Megiddo—was burned, sacked, or permanently abandoned. |
+| **LC4** | Clay tablet RS 20.238, discovered unbaked in a kiln at Ugarit, preserves the desperate plea of King Ammurapi: enemy ships were burning coastal settlements while his own military and fleet were stationed in Anatolia. |
+| **LC5** | Pharaoh Ramesses III's mortuary temple inscriptions at Medinet Habu depict a climactic land and sea battle (c. 1177 BCE) against an allied coalition of displaced peoples (Peleset, Tjekker, Shekelesh, Denyen, Weshesh). |
+| **LC6** | Modern paleoclimatology (Kaniewski et al., Drake, Langgut) confirms an abrupt, multi-decade megadrought starting around 1200 BCE that caused severe crop failure and famine across the Aegean and Levant. |
+| **LC7** | Archaeoseismic analysis (Amos Nur, Eric Cline) confirms a cluster of tectonic earthquakes ("earthquake storm") collapsed fortified stone walls in Mycenae, Tiryns, Knossos, and Troy during the late 13th and early 12th centuries BCE. |
+| **LC8** | Scholarly consensus (Eric Cline's *1177 B.C.*, Colin Renfrew) views the collapse as a complex "systems collapse," wherein climate failure, famine, trade breakdown, raids, and internal rebellions triggered a cascading domino effect. |
+| **LC9** | In Greece, the collapse was so absolute that the palatial administrative system vanished, the syllabic Linear B script became totally extinct, and the region plunged into a 400-year illiterate "Greek Dark Age." |
+| **LC10** | The collapse of centralized bronze-hoarding empires decentralized power, incentivizing the adoption of widespread iron metallurgy, alphabetic script development (Phoenician), and the formation of smaller Iron Age states. |
 
-## Addendum — scope extension (producer request, 2026-10-15)
+---
 
-Added research axes (same truthfulness rules; new claims enter ledger as C35+):
+## Counter-Positions & Controversies to Address (IDA Requirement)
 
-- **A1. Religious critique of "Amar Sonar Bangla":** which lines/frames are called un-Islamic or shirk, by whom (theological vs political framing kept distinct), and the documented counter-record (constitutional, cabinet, public).
-- **A2. The man, not the icon:** documented personal/family controversies (child marriages in his own household, Kadambari episode, zamindari critiques, 1906 relief record) — angle: **respect for the literary contribution, not blind veneration**; flaws shown with documents, allegations without documents stay UNPROVEN.
-- **A3. The "foreign poet" question:** logic and world precedents of an Indian poet's song as Bangladesh's anthem; how India honours (and doesn't honour) Tagore; Bangladesh's honour-and-dishonour record; the debate itself (for/against) on the record.
+1. **The "Single Barbarian Invasion" Myth:**
+   - *Traditional view:* The Sea Peoples (or "Dorian Greeks") were brutal, outside invaders who sailed in and annihilated civilized kingdoms out of pure conquest.
+   - *Counter-position / Modern consensus:* The Sea Peoples were likely refugees and displaced migrants driven from their homes by the same famine and drought that crippled the empires. Many were already known as mercenaries in Egyptian and Hittite armies.
+2. **Climate Determinism vs. Human Agency:**
+   - *Determinism critique:* Attributing everything to drought ignores political blunders, military changes (chariot warfare giving way to skirmishing javelin infantry as noted by Robert Drews), and peasant revolts against oppressive palatial elite taxation.
+   - *Editorial resolution:* We frame drought and earthquakes as catalysts that overwhelmed an already hyper-specialized, rigid, and fragile administrative system.
 
-## Exit checklist (R1)
+---
 
-- [x] `research/R1_charter.md` exists with title, audience, angle, non-goals
-- [x] 8 research questions written AS QUESTIONS
-- [x] 10 load-bearing claims listed
-- [x] Counter-positions named for investigation
+## Exit Checklist
+- [x] Working title established in 3 languages.
+- [x] Intended audience defined in one concise sentence.
+- [x] Angle and non-goals established.
+- [x] 8 focused research questions formulated with question words.
+- [x] Exactly 10 load-bearing claims defined.
+- [x] Counter-positions identified for active investigation.

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en" class="h-full">
+<html lang="bn" class="h-full">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Simple History Teller — Production Studio</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+  <title>Simple Studio Pro (সিম্পল স্টুডিও প্রো) — Multi-Track NLE, Shorts Builder & AI Studio</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hind+Siliguri:wght@400;600&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hind+Siliguri:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet" />
   <script>
     tailwind.config = {
       theme: { extend: {
@@ -18,263 +18,1137 @@
   </script>
   <link rel="stylesheet" href="/css/studio.css" />
 </head>
-<body class="h-full bg-[#0b0f17] text-slate-200 font-sans antialiased overflow-hidden">
+<body class="h-full bg-[#090d14] text-slate-200 font-sans antialiased overflow-hidden select-none">
 <div class="h-full flex flex-col">
 
-  <!-- ===================== HEADER ===================== -->
-  <header class="h-14 shrink-0 flex items-center gap-4 px-4 border-b border-white/5 bg-[#0e131d]/90 backdrop-blur">
-    <div class="flex items-center gap-2.5">
-      <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-brand-400 to-amber-700 grid place-items-center shadow-lg shadow-amber-900/30">
-        <i data-lucide="hourglass" class="w-4 h-4 text-black"></i>
+  <!-- ===================== HEADER (CAPCUT / FILMORA PRO NLE BAR) ===================== -->
+  <header class="h-11 shrink-0 flex items-center justify-between gap-2 px-3 border-b border-white/10 bg-[#0b0f17] z-40">
+    <div class="flex items-center gap-2.5 min-w-0">
+      <div class="flex items-center gap-2 shrink-0">
+        <div class="w-7 h-7 rounded-lg bg-gradient-to-br from-brand-400 to-amber-600 grid place-items-center shadow-md shadow-amber-900/30">
+          <i data-lucide="clapperboard" class="w-3.5 h-3.5 text-black"></i>
+        </div>
+        <div class="font-bold tracking-tight text-sm flex items-center gap-1.5">
+          <span>Simple</span><span class="text-brand-400">Studio</span>
+          <span class="text-[10.5px] font-medium text-slate-400 border-l border-white/15 pl-1.5 hidden xl:inline">সিম্পল স্টুডিও প্রো</span>
+        </div>
       </div>
-      <div class="leading-tight">
-        <div class="font-semibold tracking-tight">Simple History Teller <span class="text-brand-400">Studio</span></div>
-        <div class="text-[10px] uppercase tracking-[0.18em] text-slate-500">Simple History Teller Bangla · Hindi</div>
+
+      <div class="h-4 w-px bg-white/10 shrink-0"></div>
+
+      <div class="flex items-center gap-1.5 min-w-0">
+        <select id="projectSelect" class="glass-input py-1 pr-6 min-w-[180px] max-w-[270px] text-xs font-medium"></select>
+        <button id="btnAutoSync" class="btn-ghost px-2 py-1 text-xs border border-emerald-500/25 text-emerald-300" title="Auto-Folder Sync Active: Scans audio/bn/, audio/en/, audio/hi/, thumbnails/ & visual_assets/">
+          <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+          <i data-lucide="folder-sync" class="w-3.5 h-3.5"></i>
+          <span class="hidden md:inline">Sync</span>
+        </button>
+        <button id="btnOpenFolder" class="btn-ghost px-1.5 py-1 text-slate-400 hover:text-white" title="Open project root folder"><i data-lucide="folder-open" class="w-3.5 h-3.5"></i></button>
       </div>
+
+      <!-- MASTER 16:9 vs SHORTS 9:16 STUDIO MODE SWITCHER -->
+      <div class="flex items-center gap-1 p-0.5 rounded-lg bg-slate-900/90 border border-white/15 ml-1">
+        <button type="button" id="btnModeMaster" class="lang-pill active flex items-center gap-1 text-xs py-1 px-2.5" title="16:9 Master Documentary Mode">
+          <i data-lucide="monitor" class="w-3.5 h-3.5"></i><span>16:9 Master</span>
+        </button>
+        <button type="button" id="btnModeShorts" class="lang-pill flex items-center gap-1 text-xs py-1 px-2.5" title="9:16 Vertical Shorts Studio Mode (Portrait Player + Branded Overlays)">
+          <i data-lucide="smartphone" class="w-3.5 h-3.5 text-amber-400"></i><span>9:16 Shorts</span>
+        </button>
+        <button type="button" id="btnOpenShortsDialog" class="btn-accent text-[11px] py-0.5 px-2 ml-0.5" title="Configure Shorts Parts Count, Scene Ranges (e.g. 10 parts) & AI Auto-Suggest">
+          <i data-lucide="sliders" class="w-3 h-3"></i><span>Shorts Builder</span>
+        </button>
+      </div>
+
+      <span id="presetBadge" class="badge hidden 2xl:inline-flex"></span>
     </div>
 
-    <div class="h-6 w-px bg-white/10 mx-1"></div>
+    <!-- Right Action & Layout Controls -->
+    <div class="flex items-center gap-1.5 shrink-0">
+      <div class="hidden lg:flex items-center gap-0.5 bg-white/[0.03] px-1.5 py-0.5 rounded-md border border-white/10 mr-1" title="Workspace Layout Presets">
+        <button type="button" id="btnLayoutBalanced" class="px-1.5 py-0.5 rounded text-[10px] text-slate-300 hover:bg-white/10" title="Balanced 3-Column View">Balanced</button>
+        <button type="button" id="btnLayoutMaxStage" class="px-1.5 py-0.5 rounded text-[10px] text-brand-400 hover:bg-white/10 font-semibold" title="Maximize Video Preview Stage">Max Player</button>
+        <button type="button" id="btnLayoutWideInsp" class="px-1.5 py-0.5 rounded text-[10px] text-slate-300 hover:bg-white/10" title="Expand Clips & Inspector">Wide Tools</button>
+      </div>
 
-    <div class="flex items-center gap-2">
-      <i data-lucide="folder-open" class="w-4 h-4 text-slate-500"></i>
-      <select id="projectSelect" class="glass-input py-1.5 pr-8 min-w-[260px]"></select>
-      <button id="btnOpenFolder" class="btn-ghost" title="Open project folder"><i data-lucide="external-link" class="w-4 h-4"></i></button>
-    </div>
-
-    <span id="presetBadge" class="badge hidden"></span>
-
-    <div class="ml-auto flex items-center gap-3">
-      <span id="dirtyDot" class="hidden text-xs text-amber-400 flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>Unsaved changes</span>
-      <button id="btnReload" class="btn-ghost" title="Reload from disk"><i data-lucide="refresh-cw" class="w-4 h-4"></i></button>
-      <button id="btnSave" class="btn-primary"><i data-lucide="save" class="w-4 h-4"></i>Save <kbd class="kbd">Ctrl S</kbd></button>
+      <span id="dirtyDot" class="hidden text-[11px] text-amber-400 items-center gap-1 mr-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>Unsaved</span>
+      <button id="btnUndo" class="btn-ghost px-1.5 py-1" title="Undo (Ctrl+Z)"><i data-lucide="undo-2" class="w-3.5 h-3.5"></i></button>
+      <button id="btnRedo" class="btn-ghost px-1.5 py-1" title="Redo (Ctrl+Y)"><i data-lucide="redo-2" class="w-3.5 h-3.5"></i></button>
+      <button id="btnReload" class="btn-ghost px-1.5 py-1" title="Reload project from disk"><i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i></button>
+      <div class="h-4 w-px bg-white/10 mx-0.5"></div>
+      <button id="btnSave" class="btn-ghost border border-white/15 text-xs py-1 px-2.5" title="Save Project (Ctrl+S)"><i data-lucide="save" class="w-3.5 h-3.5"></i>Save</button>
+      <button id="btnQuickRender" class="btn-primary text-xs py-1 px-3"><i data-lucide="zap" class="w-3.5 h-3.5"></i>Export</button>
     </div>
   </header>
 
-  <!-- ===================== MAIN ===================== -->
-  <main class="flex-1 min-h-0 grid grid-cols-[290px_1fr_400px]">
+  <!-- ===================== UPPER WORKSPACE (FLEXIBLE RESIZABLE 3-PANE) ===================== -->
+  <div id="upperWorkspace" class="flex-1 min-h-[260px] flex overflow-hidden relative">
 
-    <!-- ---------- LEFT: scene list ---------- -->
-    <aside class="min-h-0 flex flex-col border-r border-white/5 bg-[#0d121b]">
-      <div class="px-4 py-3 flex items-center justify-between border-b border-white/5">
-        <div class="text-xs font-semibold uppercase tracking-wider text-slate-400">Scenes</div>
-        <div id="sceneStats" class="text-[11px] text-slate-500"></div>
+    <!-- ---------- LEFT PANE: Clips, Shorts Episodes & Quick FX/Overlays ---------- -->
+    <aside id="leftPane" style="width: 300px;" class="min-w-[210px] max-w-[540px] shrink-0 min-h-0 flex flex-col bg-[#0b1019]">
+      <!-- CapCut-Style Left Mode Switcher -->
+      <div class="p-1.5 border-b border-white/10 bg-[#080c14] flex items-center gap-1">
+        <button type="button" data-left-mode="clips" class="left-mode-pill active"><i data-lucide="film" class="w-3 h-3"></i>Clips</button>
+        <button type="button" data-left-mode="shorts" class="left-mode-pill"><i data-lucide="smartphone" class="w-3 h-3"></i>Shorts (<span id="leftShortsCount">5</span>)</button>
+        <button type="button" data-left-mode="fxquick" class="left-mode-pill"><i data-lucide="sparkles" class="w-3 h-3"></i>FX (120+)</button>
+        <button type="button" data-left-mode="overlays" class="left-mode-pill"><i data-lucide="type" class="w-3 h-3"></i>Text/Logo</button>
       </div>
-      <div id="sceneList" class="flex-1 overflow-y-auto p-2 space-y-1.5 scroll-thin"></div>
+
+      <!-- SUB-VIEW 1: Master Clips & Parts List -->
+      <div id="leftViewClips" class="flex-1 min-h-0 flex flex-col">
+        <div class="px-3 py-1.5 flex items-center justify-between border-b border-white/10">
+          <div class="flex items-center gap-1.5">
+            <span class="text-[10.5px] font-bold uppercase tracking-wider text-slate-300">Scenes & Clips</span>
+            <span id="sceneStats" class="text-[10px] text-slate-400 font-mono"></span>
+          </div>
+          <button id="btnAddPartLeft" class="btn-ghost text-[10.5px] px-2 py-0.5 border border-white/10" title="Add a new part/clip">
+            <i data-lucide="plus" class="w-3 h-3 text-brand-400"></i>Add Part
+          </button>
+        </div>
+        <div class="px-3 py-1 bg-white/[0.02] border-b border-white/5 flex items-center justify-between text-[9.5px] text-slate-400">
+          <span class="truncate" id="watchedFolderHint">📁 audio/bn·en·hi/ · thumbnails/</span>
+          <span id="partAudioReadyBadge" class="text-emerald-400 font-mono shrink-0 ml-1"></span>
+        </div>
+        <div id="sceneList" class="flex-1 overflow-y-auto p-2 space-y-1 scroll-thin"></div>
+      </div>
+
+      <!-- SUB-VIEW 2: Shorts Episodes List (Active in Shorts Mode) -->
+      <div id="leftViewShorts" class="hidden flex-1 min-h-0 flex flex-col">
+        <div class="px-3 py-2 border-b border-white/10 bg-amber-500/[0.04] flex items-center justify-between gap-1">
+          <div>
+            <div class="text-[11px] font-bold text-amber-300 flex items-center gap-1"><i data-lucide="smartphone" class="w-3.5 h-3.5"></i>Episodic Shorts List</div>
+            <div class="text-[9.5px] text-slate-400">যেকোনো পর্বে ক্লিক করে 9:16 শর্টস প্রিভিউ দেখুন</div>
+          </div>
+          <button type="button" id="btnOpenShortsBuilderLeft" class="btn-primary text-[10.5px] py-1 px-2">
+            <i data-lucide="wand-2" class="w-3 h-3"></i>পার্ট সাজান
+          </button>
+        </div>
+        <div id="shortsPartsList" class="flex-1 overflow-y-auto p-2 space-y-1.5 scroll-thin"></div>
+      </div>
+
+      <!-- SUB-VIEW 3: Quick Transitions & VFX Sidebar (CapCut Left Drawer Style) -->
+      <div id="leftViewFxQuick" class="hidden flex-1 min-h-0 flex flex-col p-2 space-y-2">
+        <div class="flex items-center gap-1">
+          <button type="button" id="btnLeftFxMotions" class="btn-primary text-[10.5px] py-1 px-2 flex-1 justify-center">🎞️ 64 Motions</button>
+          <button type="button" id="btnLeftFxVfx" class="btn-ghost border border-white/15 text-[10.5px] py-1 px-2 flex-1 justify-center">✨ 60 VFX</button>
+        </div>
+        <input id="leftFxSearch" type="text" placeholder="Search effect (hover to live preview)..." class="glass-input w-full text-xs py-1 px-2" />
+        <div class="text-[10px] text-amber-300/90 px-1 flex items-center justify-between">
+          <span>👁️ ইফেক্টের ওপর মাউস নিলে লাইভ প্রিভিউ দেখাবে</span>
+          <button type="button" id="btnLeftApplyFxAll" class="underline text-emerald-300 font-semibold">Apply All</button>
+        </div>
+        <div id="leftFxList" class="flex-1 overflow-y-auto space-y-1 pr-0.5 scroll-thin"></div>
+      </div>
+
+      <!-- SUB-VIEW 4: Text Cards, TV News Ticker & Channel Logo Studio -->
+      <div id="leftViewOverlays" class="hidden flex-1 min-h-0 overflow-y-auto p-2.5 space-y-3 scroll-thin select-text">
+        <!-- Channel Logo & AI Emblem Card -->
+        <div class="card p-2.5 space-y-2 border border-amber-500/30 bg-amber-950/10">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0 text-amber-300 flex items-center gap-1"><i data-lucide="shield-check" class="w-3.5 h-3.5"></i>Channel Logo & Branding</span>
+            <label class="check-row text-[10.5px] text-emerald-300">
+              <input type="checkbox" id="chkLogoEnabled" checked /> <span>Show Logo</span>
+            </label>
+          </div>
+          <div class="flex items-center gap-2">
+            <img id="logoPreviewThumb" src="/references/mascot_logo_ref.jpg" class="w-11 h-11 rounded-full object-cover border-2 border-brand-400 shrink-0 bg-slate-900" alt="Logo" />
+            <div class="flex-1 min-w-0 space-y-1">
+              <div class="flex gap-1">
+                <label class="btn-ghost border border-white/15 text-[10.5px] py-1 px-2 cursor-pointer flex-1 justify-center">
+                  <i data-lucide="upload" class="w-3 h-3 text-brand-400"></i>Upload Logo
+                  <input type="file" id="logoUploadInput" accept="image/*" class="hidden" />
+                </label>
+                <button type="button" id="btnAiLogoPreset" class="btn-accent text-[10.5px] py-1 px-2" title="Cycle AI Mascot & Emblem Logos">
+                  <i data-lucide="sparkles" class="w-3 h-3"></i>AI Logo
+                </button>
+              </div>
+              <select id="logoPositionSelect" class="glass-input w-full text-[11px] py-0.5">
+                <option value="top-right">Position: Top-Right Corner</option>
+                <option value="top-left">Position: Top-Left Corner</option>
+                <option value="bottom-right">Position: Bottom-Right Corner</option>
+                <option value="bottom-left">Position: Bottom-Left Corner</option>
+              </select>
+            </div>
+          </div>
+          <div>
+            <div class="label">Channel Brand Name (On-Screen Pill)</div>
+            <input id="fBrandChannelName" type="text" class="glass-input w-full text-xs" placeholder="Simple History Teller Bangla" />
+          </div>
+        </div>
+
+        <!-- Motion Text Card (Vox / Voice of Dhaka Style) -->
+        <div class="card p-2.5 space-y-2 border border-sky-500/30 bg-sky-950/10">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0 text-sky-300 flex items-center gap-1"><i data-lucide="type" class="w-3.5 h-3.5"></i>Scene Motion Text Card</span>
+            <span class="text-[9.5px] font-mono text-slate-400">Part #<span id="tcSceneNumLabel">1</span></span>
+          </div>
+          <div>
+            <div class="label">Text Card Style (ভয়েস অফ ঢাকা / ভক্স স্টাইল)</div>
+            <select id="fTextCardStyle" class="glass-input w-full text-xs">
+              <option value="voice_of_dhaka_quote">🎙️ Voice of Dhaka Quote Card + Spotlight</option>
+              <option value="vox_yellow_highlighter">📰 Vox Yellow Highlighter Cutout Card</option>
+              <option value="vox_crimson_stamp">📛 Classified Crimson Stamp Banner</option>
+              <option value="breaking_news_lower_third">📺 TV Breaking News Lower-Third</option>
+              <option value="historical_date_plate">🏛️ Historical Era & Location Gold Plate</option>
+              <option value="thinker_minimal_stat">🧠 The Thinker Neon Concept Callout</option>
+            </select>
+          </div>
+          <div>
+            <div class="label">Text Card Content (ইমেজের ওপর দিয়ে চলমান টেক্সট)</div>
+            <input id="fTextCardInput" type="text" class="glass-input w-full text-xs" placeholder="যেমন: ১২৭৪ খ্রিস্টপূর্বাব্দ — কাদেশের মহাযুদ্ধ" />
+          </div>
+          <div class="grid grid-cols-2 gap-1.5">
+            <div>
+              <div class="label">Card Motion</div>
+              <select id="fTextCardMotion" class="glass-input w-full text-[11px]">
+                <option value="lr">Slide Left → Right</option>
+                <option value="rl">Slide Right → Left</option>
+                <option value="pop">Pop & Hold + Pulse</option>
+              </select>
+            </div>
+            <div>
+              <div class="label">Synced Text SFX</div>
+              <select id="fTextCardSfx" class="glass-input w-full text-[11px]">
+                <option value="typewriter_mechanical_key">⌨️ Typewriter Key</option>
+                <option value="marker_highlighter_swipe">🖍️ Highlighter Swipe</option>
+                <option value="rubber_stamp_impact">📛 Rubber Stamp</option>
+                <option value="text_card_pop_chime">💬 Pop Chime</option>
+                <option value="vox_cutout_slide_swish">✂️ Cutout Swish</option>
+              </select>
+            </div>
+          </div>
+          <div class="flex gap-1.5">
+            <button type="button" id="btnAutoFillTextCard" class="btn-ghost border border-white/15 text-[11px] flex-1 justify-center">✨ সিন থেকে টেক্সট নিন</button>
+            <button type="button" id="btnPreviewTextCard" class="btn-accent text-[11px] px-2.5">▶ প্রিভিউ</button>
+          </div>
+        </div>
+
+        <!-- TV Channel Scrolling News Ticker / Crawl -->
+        <div class="card p-2.5 space-y-2 border border-red-500/30 bg-red-950/10">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0 text-red-300 flex items-center gap-1"><i data-lucide="tv" class="w-3.5 h-3.5"></i>TV Channel Scrolling Ticker</span>
+            <select id="fTickerPos" class="glass-input text-[10.5px] py-0.5 px-2">
+              <option value="none">Off (বন্ধ)</option>
+              <option value="bottom">Bottom Crawl (নিচ দিয়ে)</option>
+              <option value="top">Top Crawl (ওপর দিয়ে)</option>
+            </select>
+          </div>
+          <div class="grid grid-cols-[95px_1fr] gap-1.5">
+            <div>
+              <div class="label">Badge Label</div>
+              <input id="fTickerLabel" type="text" class="glass-input w-full text-xs font-bold" value="● আপডেট" />
+            </div>
+            <div>
+              <div class="label">Scrolling Ticker Text (টিভি স্ক্রলিং লেখা)</div>
+              <input id="fTickerText" type="text" class="glass-input w-full text-xs" placeholder="সম্পূর্ণ ঐতিহাসিক ডকুমেন্টারিটি দেখতে চ্যানেলটি সাবস্ক্রাইব করুন..." />
+            </div>
+          </div>
+          <button type="button" id="btnAutoTickerText" class="btn-ghost border border-white/15 text-[10.5px] w-full justify-center">
+            ✨ ভিডিওর মূল তথ্য দিয়ে অটো-টিকার সেট করুন
+          </button>
+        </div>
+      </div>
     </aside>
 
-    <!-- ---------- CENTER: preview + timeline + panels ---------- -->
-    <section class="min-h-0 flex flex-col">
-      <div class="p-4 pb-2 flex flex-col items-center">
-        <div id="stage" class="relative w-full max-w-[880px] aspect-video rounded-xl overflow-hidden bg-black ring-1 ring-white/10 shadow-2xl shadow-black/60">
+    <!-- DRAGGABLE LEFT COLUMN SPLITTER -->
+    <div id="leftColResizer" class="col-resizer" title="Drag left or right to resize Clips panel & Video Player"></div>
+
+    <!-- ---------- CENTER PANE: Adaptive Stage Preview (16:9 Master & 9:16 Shorts) ---------- -->
+    <section id="centerPane" class="flex-1 min-w-[320px] min-h-0 flex flex-col items-center justify-between p-2.5 bg-[#070a10] overflow-hidden relative">
+
+      <!-- SHORTS MODE DOCK & EPISODE BAR (Visible when 9:16 Shorts Mode is active) -->
+      <div id="shortsStageToolbar" class="hidden w-full mb-1.5 px-3 py-1.5 rounded-lg bg-gradient-to-r from-amber-500/15 via-slate-900 to-purple-500/15 border border-amber-500/30 flex flex-wrap items-center justify-between gap-2 shrink-0">
+        <div class="flex items-center gap-2 min-w-0">
+          <span class="px-2 py-0.5 rounded bg-brand-500 text-black font-extrabold text-[10.5px] shrink-0" id="activeShortBadge">SHORTS PART #1</span>
+          <span class="text-xs font-bold text-amber-200 truncate" id="activeShortTitleLabel">পর্ব ১ — সিন ১ থেকে ১৭</span>
+          <span class="text-[10.5px] font-mono text-emerald-300 shrink-0" id="activeShortSpanLabel">(0:00.0 – 3:14.5)</span>
+        </div>
+        <div class="flex items-center gap-1 shrink-0">
+          <span class="text-[10px] text-slate-400 mr-1">Player Align:</span>
+          <button type="button" data-short-dock="left" class="px-2 py-0.5 rounded bg-white/5 hover:bg-white/10 text-[10px] font-semibold">⬅ Left</button>
+          <button type="button" data-short-dock="center" class="px-2 py-0.5 rounded bg-brand-500/20 text-brand-400 border border-brand-500/40 text-[10px] font-semibold">⏺ Center</button>
+          <button type="button" data-short-dock="right" class="px-2 py-0.5 rounded bg-white/5 hover:bg-white/10 text-[10px] font-semibold">Right ➡</button>
+          <button type="button" id="btnPlayActiveShortOnly" class="btn-primary text-[10.5px] py-0.5 px-2.5 ml-1"><i data-lucide="play" class="w-3 h-3"></i>Play This Short</button>
+        </div>
+      </div>
+
+      <!-- MAIN STAGE CONTAINER (Dynamically scaled via ResizeObserver to eliminate wasted blank space) -->
+      <div id="stageWrapper" class="w-full flex-1 min-h-0 flex items-center justify-center gap-4 overflow-hidden relative">
+        <div id="stage" class="relative aspect-video rounded-xl overflow-hidden bg-black ring-1 ring-white/15 shadow-2xl shadow-black/80 transition-[width,height] duration-150">
+
+          <!-- Background Blur / Parchment Layer (Used in 9:16 Shorts Mode & Vox/Voice of Dhaka Cutout Pan Mode) -->
+          <img id="pvBgBlurLayer" class="absolute inset-0 w-full h-full object-cover blur-xl scale-110 opacity-55 hidden pointer-events-none" alt="" />
+
+          <!-- Primary Visual Scene Image / Video -->
           <img id="pvImg" class="absolute inset-0 w-full h-full object-cover origin-center will-change-transform" alt="" />
           <video id="pvVid" class="absolute inset-0 w-full h-full object-cover hidden" muted playsinline preload="auto"></video>
-          <div id="pvEmpty" class="absolute inset-0 grid place-items-center text-slate-600 text-sm hidden">
-            <div class="text-center"><i data-lucide="image-off" class="w-10 h-10 mx-auto mb-2"></i>No asset for this scene</div>
+          <div id="pvEmpty" class="absolute inset-0 grid place-items-center text-slate-600 text-xs hidden">
+            <div class="text-center"><i data-lucide="image-off" class="w-8 h-8 mx-auto mb-1.5"></i>No visual asset for this part</div>
           </div>
 
-          <div class="absolute top-3 left-3 flex gap-2">
+          <!-- Real-Time VFX & Style Overlay Layer -->
+          <div id="pvVfxOverlay" class="absolute inset-0 z-10 pointer-events-none"></div>
+
+          <!-- Live Transition Flash / Wipe / Burn Overlay Layer -->
+          <div id="pvTransitionLayer" class="absolute inset-0 z-15 pointer-events-none opacity-0 transition-opacity duration-200"></div>
+
+          <!-- 9:16 SHORTS TOP BRANDED HEADER (Active in Shorts Studio Mode — Eliminates Plain Top Gap!) -->
+          <div id="pvShortsTopBar" class="hidden absolute top-0 inset-x-0 z-30 p-2.5 bg-gradient-to-b from-slate-950/95 via-slate-950/88 to-transparent pointer-events-none">
+            <div class="rounded-xl bg-slate-950/90 border border-amber-400/50 p-2 shadow-xl space-y-1.5">
+              <div class="flex items-center justify-between gap-1.5">
+                <div class="flex items-center gap-1.5 min-w-0">
+                  <img id="pvShortsLogoImg" src="/references/mascot_logo_ref.jpg" class="w-6 h-6 rounded-full object-cover border border-amber-400 shrink-0" alt="" />
+                  <div class="min-w-0">
+                    <div id="pvShortsChannelName" class="text-[10px] font-extrabold text-white truncate leading-tight">Simple History Teller Bangla</div>
+                    <div id="pvShortsChannelHandle" class="text-[8.5px] text-slate-400 font-mono truncate leading-tight">@SimpleHistoryTellerBangla</div>
+                  </div>
+                </div>
+                <span id="pvShortsPartPill" class="px-2 py-0.5 rounded-full bg-brand-400 text-black font-extrabold text-[9.5px] shrink-0">পর্ব ১ / ১০</span>
+              </div>
+              <div id="pvShortsHookTitle" class="px-2 py-1 rounded-lg bg-slate-900/95 border border-yellow-400/60 text-center text-[11px] font-extrabold text-yellow-300 leading-snug line-clamp-2 shadow-inner">
+                ৩০০০ বছর আগে প্রাচীন বিশ্বায়ন ও উলুবুরুন জাহাজডুবি!
+              </div>
+            </div>
+          </div>
+
+          <!-- 9:16 SHORTS BOTTOM BRANDED FOOTER (Active in Shorts Studio Mode — Eliminates Plain Bottom Gap!) -->
+          <div id="pvShortsBottomBar" class="hidden absolute bottom-0 inset-x-0 z-30 p-2.5 bg-gradient-to-t from-slate-950/95 via-slate-950/88 to-transparent pointer-events-none">
+            <div class="rounded-xl bg-slate-950/90 border border-sky-400/40 p-2 shadow-xl space-y-1.5">
+              <div class="flex items-center gap-1.5">
+                <span class="px-1.5 py-0.2 rounded bg-amber-500/20 border border-amber-400/40 text-amber-300 text-[8.5px] font-bold shrink-0">🎬 মূল ভিডিও</span>
+                <div id="pvShortsMainVideoTitle" class="text-[9.5px] font-bold text-slate-100 truncate">৩০০০ বছর আগে প্রাচীন পৃথিবীর মহাবিপর্যয়: ব্রোঞ্জ এজ কলাপ্স</div>
+              </div>
+              <div id="pvShortsCtaBar" class="w-full py-1 px-2 rounded-lg bg-red-600/95 border border-white/30 text-center text-[9.5px] font-extrabold text-white tracking-wide shadow">
+                ▶ সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE
+              </div>
+            </div>
+          </div>
+
+          <!-- Top-left Overlay Info Badges (16:9 Mode) -->
+          <div id="pvTopDebugBadges" class="absolute top-2.5 left-2.5 flex flex-wrap gap-1.5 z-20 pointer-events-none">
             <span id="pvSceneTag" class="badge-dark"></span>
             <span id="pvTypeTag" class="badge-dark"></span>
+            <span id="pvVfxTag" class="badge-dark text-purple-300"></span>
+            <span id="pvAudioClipTag" class="badge-dark text-emerald-300"></span>
+            <span id="pvBgmActiveTag" class="badge-dark text-pink-300"></span>
+            <span id="pvHoverFxBadge" class="hidden px-2 py-0.5 rounded bg-brand-500 text-black font-extrabold text-[10.5px] shadow-lg animate-pulse"></span>
           </div>
 
-          <!-- Floating Corner Character & Host Speaker Badge (Compact, 40% Transparent, Bottom-Left Corner) -->
+          <!-- CHANNEL LOGO WATERMARK OVERLAY (16:9 Master Mode) -->
+          <div id="pvChannelLogoOverlay" class="absolute top-2.5 right-3 z-25 flex items-center gap-1.5 pointer-events-none">
+            <span id="pvChannelLogoName" class="px-2 py-0.5 rounded-md bg-slate-950/80 border border-amber-400/40 text-[10px] font-bold text-amber-300 backdrop-blur-md">Simple History Teller</span>
+            <img id="pvChannelLogoImg" src="/references/mascot_logo_ref.jpg" class="w-8 h-8 rounded-full object-cover border-2 border-brand-400 shadow-lg" alt="Channel Logo" />
+          </div>
+
+          <!-- MOTION TEXT CARD / KINETIC QUOTE OVERLAY (Vox & Voice of Dhaka Styles) -->
+          <div id="pvTextCardOverlay" class="hidden absolute top-14 left-6 max-w-[68%] px-4 py-2.5 rounded-xl z-25 pointer-events-none">
+            <div id="pvTextCardInner" class="text-sm font-extrabold leading-snug"></div>
+          </div>
+
+          <!-- Callout Badge -->
+          <div id="pvCalloutBanner" class="hidden absolute top-12 right-3 max-w-[46%] px-3 py-1.5 rounded-lg bg-amber-400/95 text-black font-bold text-xs shadow-xl border border-white/40 z-20 pointer-events-none"></div>
+
+          <!-- Floating Corner Character & Host Speaker Badge (STRICTLY NO GEMINI VOICE NAME!) -->
           <div id="pvSpeakerBadge" class="speaker-badge-container speaker-badge-host hidden">
             <span id="pvSpeakerIcon" class="text-xs leading-none">🎙️</span>
             <span id="pvSpeakerName" class="text-[11px] font-bold tracking-wide">সময়ের সাক্ষী</span>
-            <span id="pvSpeakerRole" class="text-[10px] font-medium opacity-80 border-l border-white/20 pl-1.5 ml-0.5">হোস্ট ও গল্পকথক</span>
+            <span id="pvSpeakerRole" class="text-[10px] font-medium opacity-85 border-l border-white/20 pl-1.5 ml-0.5">হোস্ট ও গল্পকথক</span>
           </div>
 
-          <!-- Subtitle (Centered, Above Corner Badge, Completely Unobstructed) -->
-          <div id="pvSubtitle" class="absolute bottom-8 inset-x-12 text-center text-[15px] font-semibold leading-snug text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.95)]"></div>
-        </div>
+          <!-- Subtitle -->
+          <div id="pvSubtitle" class="absolute bottom-8 inset-x-8 text-center text-[13.5px] font-semibold leading-snug text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.95)] z-20 pointer-events-none bg-black/35 px-3 py-1 rounded-lg backdrop-blur-[2px]"></div>
 
-        <!-- transport -->
-        <div class="w-full max-w-[880px] mt-3 flex items-center gap-3">
-          <button id="btnPlay" class="w-10 h-10 rounded-full bg-brand-500 hover:bg-brand-400 text-black grid place-items-center transition shadow-lg shadow-amber-900/30">
-            <i data-lucide="play" class="w-5 h-5 ml-0.5" id="playIcon"></i>
-          </button>
-          <button id="btnPrev" class="btn-ghost" title="Previous scene"><i data-lucide="skip-back" class="w-4 h-4"></i></button>
-          <button id="btnNext" class="btn-ghost" title="Next scene"><i data-lucide="skip-forward" class="w-4 h-4"></i></button>
-          <div class="font-mono text-sm tabular-nums text-slate-300"><span id="tCur">0:00.0</span><span class="text-slate-600"> / </span><span id="tTot">0:00.0</span></div>
-
-          <div class="ml-auto flex items-center gap-1 p-1 rounded-lg bg-white/5" id="previewLangSwitch">
-            <button data-lang="bn" class="lang-pill active">বাংলা</button>
-            <button data-lang="en" class="lang-pill">English</button>
-            <button data-lang="hi" class="lang-pill">हिंदी</button>
-          </div>
-          <div class="flex items-center gap-2 text-xs text-slate-400" title="Background music level (preview + render)">
-            <i data-lucide="music-2" class="w-4 h-4"></i>
-            <input id="bgmDb" type="range" min="-40" max="0" step="1" value="-20" class="w-24 accent-amber-500" />
-            <span id="bgmDbLabel" class="font-mono w-12">-20 dB</span>
+          <!-- TV CHANNEL SCROLLING NEWS TICKER OVERLAY (Bottom or Top) -->
+          <div id="pvNewsTickerOverlay" class="hidden absolute bottom-0 inset-x-0 h-7 bg-slate-950/95 border-t border-brand-400/60 z-30 flex items-center overflow-hidden pointer-events-none">
+            <div id="pvNewsTickerLabel" class="h-full px-2.5 bg-red-600 text-white font-extrabold text-[10px] flex items-center shrink-0 tracking-wider uppercase z-10">● আপডেট</div>
+            <div class="flex-1 overflow-hidden relative h-full flex items-center">
+              <div id="pvNewsTickerTrack" class="studio-ticker-track text-[11px] font-medium text-slate-100 pl-4"></div>
+            </div>
           </div>
         </div>
 
-        <!-- timeline -->
-        <div class="w-full max-w-[880px] mt-3">
-          <div id="timeline" class="relative h-12 rounded-lg bg-white/[0.03] ring-1 ring-white/5 flex overflow-hidden cursor-pointer select-none"></div>
-          <div id="audioLane" class="relative h-3 mt-1 rounded bg-white/[0.03] overflow-hidden"></div>
+        <!-- SHORTS MODE COMPANION INFO CARD (Visible next to the 9:16 Portrait Player when in Shorts Mode) -->
+        <div id="shortsSideCompanion" class="hidden w-[290px] max-h-full overflow-y-auto card p-3 space-y-2.5 border border-amber-500/30 bg-slate-950/90 shrink-0 select-text">
+          <div class="flex items-center justify-between border-b border-white/10 pb-2">
+            <span class="text-xs font-bold text-amber-300 flex items-center gap-1.5"><i data-lucide="sparkles" class="w-3.5 h-3.5"></i>Shorts Branding & Info</span>
+            <button type="button" id="btnEditShortsPlanCompanion" class="text-[10.5px] text-brand-400 underline font-semibold">Edit Parts →</button>
+          </div>
+          <div class="space-y-1.5 text-[11px]">
+            <div>
+              <div class="label">Active Short Title (শর্টসের টাইটেল)</div>
+              <input id="fActiveShortTitle" type="text" class="glass-input w-full text-xs font-semibold text-amber-200" />
+            </div>
+            <div class="grid grid-cols-2 gap-1.5">
+              <div>
+                <div class="label">From Scene #</div>
+                <input id="fActiveShortStartScene" type="number" min="1" class="glass-input w-full text-xs font-mono" />
+              </div>
+              <div>
+                <div class="label">To Scene #</div>
+                <input id="fActiveShortEndScene" type="number" min="1" class="glass-input w-full text-xs font-mono" />
+              </div>
+            </div>
+            <div>
+              <div class="label">Bottom CTA Text</div>
+              <input id="fActiveShortCta" type="text" class="glass-input w-full text-xs" value="▶ সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE" />
+            </div>
+            <label class="check-row text-[11px] text-emerald-300 pt-1">
+              <input type="checkbox" id="chkShortsIntroThumb" checked />
+              <span>প্রথম ০.৮ সেকেন্ডে শর্টস থাম্বনেইল যুক্ত করুন</span>
+            </label>
+          </div>
+          <div class="pt-1 border-t border-white/10 flex flex-col gap-1.5">
+            <button type="button" id="btnGenActiveShortThumb" class="btn-accent w-full justify-center text-xs py-1.5">
+              <i data-lucide="image" class="w-3.5 h-3.5"></i>Generate Short Thumbnail
+            </button>
+            <button type="button" id="btnExportAllShortsNow" class="btn-primary w-full justify-center text-xs py-1.5">
+              <i data-lucide="clapperboard" class="w-3.5 h-3.5"></i>Render All Branded Shorts
+            </button>
+          </div>
         </div>
       </div>
 
-      <!-- bottom tabs -->
-      <div class="flex-1 min-h-0 flex flex-col border-t border-white/5 mt-2">
-        <nav class="flex gap-1 px-4 pt-2 border-b border-white/5" id="tabs">
-          <button data-tab="render" class="tab active"><i data-lucide="clapperboard" class="w-4 h-4"></i>Triple Render</button>
-          <button data-tab="audio" class="tab"><i data-lucide="audio-lines" class="w-4 h-4"></i>Audio Tracks</button>
-          <button data-tab="launch" class="tab"><i data-lucide="rocket" class="w-4 h-4"></i>YouTube Launchpad</button>
-        </nav>
-
-        <!-- RENDER -->
-        <div data-panel="render" class="panel flex-1 min-h-0 overflow-y-auto p-4 scroll-thin">
-          <div class="grid grid-cols-[300px_1fr] gap-4 h-full">
-            <div class="space-y-3">
-              <!-- Hardware Acceleration Card -->
-              <div class="card p-3 space-y-1.5 bg-gradient-to-br from-emerald-950/40 via-slate-900 to-slate-950 border border-emerald-500/30 shadow-sm">
-                <div class="flex items-center gap-2 text-xs font-semibold text-emerald-400">
-                  <span id="gpuStatusDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                  <i data-lucide="cpu" class="w-3.5 h-3.5"></i>
-                  <span id="gpuStatusText">GPU Acceleration: ACTIVE</span>
-                </div>
-                <div id="gpuDeviceText" class="text-[11px] text-slate-300 font-mono">GeForce GTX 1050 Ti (D3D11 MFT)</div>
-                <div id="gpuSubText" class="text-[10px] text-emerald-400/80">⚡ ~3.5x real-time GPU render with CPU fallback</div>
-              </div>
-
-              <div class="card p-3 space-y-2">
-                <div class="label">Export languages</div>
-                <label class="check-row"><input type="checkbox" class="rlang" value="bn" checked /> <span>🇧🇩 Simple History Teller Bangla</span><span class="ml-auto text-[10px] text-slate-500">video_bn.mp4</span></label>
-                <label class="check-row"><input type="checkbox" class="rlang" value="en" checked /> <span>🌍 Simple History Teller</span><span class="ml-auto text-[10px] text-slate-500">video_en.mp4</span></label>
-                <label class="check-row"><input type="checkbox" class="rlang" value="hi" checked /> <span>🇮🇳 Simple History Teller Hindi</span><span class="ml-auto text-[10px] text-slate-500">video_hi.mp4</span></label>
-              </div>
-
-              <!-- Dual-Export Toggle -->
-              <div class="card p-3 space-y-2 border border-brand-500/30 bg-brand-500/[0.03]">
-                <div class="label text-brand-400 flex items-center gap-1.5"><i data-lucide="split" class="w-3.5 h-3.5"></i>Dual-Export Engine</div>
-                <label class="check-row font-medium text-slate-200"><input type="checkbox" id="optDualShorts" checked /> <span>Auto-Export 9:16 Shorts & Reels</span></label>
-                <div class="text-[10px] text-slate-400">Slices narrative into 60-80s episodic clips (Part 1, 2...) for TikTok, IG, YT Shorts & FB Reels alongside 16:9 Master.</div>
-              </div>
-
-              <div class="card p-3 space-y-2">
-                <div class="label">Audio mix</div>
-                <label class="check-row"><input type="checkbox" id="optBgm" checked /> Include BGM</label>
-                <label class="check-row"><input type="checkbox" id="optDuck" checked /> Auto-duck BGM under voice</label>
-                <div class="text-[11px] text-slate-500">Output: 1920×1080 · 60 fps · H.264 · AAC 192k · −14 LUFS</div>
-              </div>
-              <div class="flex gap-2">
-                <button id="btnRender" class="btn-primary flex-1 justify-center py-2.5"><i data-lucide="zap" class="w-4 h-4"></i>Render Master & Shorts</button>
-                <button id="btnCancel" class="btn-danger hidden"><i data-lucide="square" class="w-4 h-4"></i>Cancel</button>
-              </div>
-            </div>
-            <div class="min-h-0 flex flex-col gap-3">
-              <div class="card p-3">
-                <div class="flex items-center justify-between text-sm mb-2">
-                  <span id="renderStage" class="text-slate-300">Idle</span>
-                  <span id="renderPct" class="font-mono text-brand-400">0%</span>
-                </div>
-                <div class="h-2 rounded-full bg-white/5 overflow-hidden"><div id="renderBar" class="h-full w-0 bg-gradient-to-r from-amber-600 to-brand-400 transition-[width] duration-300"></div></div>
-                <div id="renderOutputs" class="flex flex-wrap gap-2 mt-3"></div>
-              </div>
-              <pre id="renderLog" class="card flex-1 min-h-[120px] p-3 text-[11px] leading-relaxed font-mono text-slate-400 overflow-auto scroll-thin whitespace-pre-wrap"></pre>
-            </div>
-          </div>
+      <!-- Transport & Language Bar -->
+      <div class="w-full max-w-[980px] pt-2 flex flex-wrap items-center gap-2 shrink-0">
+        <button id="btnJumpStart" class="btn-ghost px-2 py-1" title="Jump to start (Home)"><i data-lucide="chevrons-left" class="w-4 h-4"></i></button>
+        <button id="btnPrev" class="btn-ghost px-2 py-1" title="Previous part"><i data-lucide="skip-back" class="w-4 h-4"></i></button>
+        <button id="btnPlay" class="w-8 h-8 rounded-full bg-brand-500 hover:bg-brand-400 text-black grid place-items-center transition shadow-lg shadow-amber-900/30 cursor-pointer">
+          <i data-lucide="play" class="w-4 h-4 ml-0.5" id="playIcon"></i>
+        </button>
+        <button id="btnNext" class="btn-ghost px-2 py-1" title="Next part"><i data-lucide="skip-forward" class="w-4 h-4"></i></button>
+        <div class="font-mono text-xs tabular-nums text-slate-200 bg-white/5 px-2.5 py-1 rounded-md border border-white/10">
+          <span id="tCur" class="text-brand-400 font-semibold">0:00.0</span>
+          <span class="text-slate-600"> / </span>
+          <span id="tTot">0:00.0</span>
         </div>
 
-        <!-- AUDIO -->
-        <div data-panel="audio" class="panel hidden flex-1 min-h-0 overflow-y-auto p-4 scroll-thin">
-          <div id="audioRows" class="space-y-2"></div>
+        <select id="pvSpeedSelect" class="glass-input py-1 px-2 text-[11px] font-mono" title="Preview Playback Speed">
+          <option value="0.5">0.5x</option>
+          <option value="0.75">0.75x</option>
+          <option value="1" selected>1.0x</option>
+          <option value="1.25">1.25x</option>
+          <option value="1.5">1.5x</option>
+          <option value="2">2.0x</option>
+        </select>
+
+        <!-- Language Switcher (Immediately switches voiceover audio track & preview!) -->
+        <div class="ml-auto flex items-center gap-1 p-0.5 rounded-lg bg-white/5 border border-white/10" id="previewLangSwitch" title="Switch Active Language (Immediately switches voiceover audio track & preview)">
+          <button data-lang="bn" class="lang-pill active">বাংলা</button>
+          <button data-lang="en" class="lang-pill">English</button>
+          <button data-lang="hi" class="lang-pill">हिंदी</button>
         </div>
 
-        <!-- LAUNCHPAD -->
-        <div data-panel="launch" class="panel hidden flex-1 min-h-0 overflow-y-auto p-4 scroll-thin">
-          <div class="flex items-center justify-between mb-3">
-            <div class="text-sm text-slate-400">Per-channel thumbnail & SEO. Copy straight into YouTube Studio.</div>
-            <button id="btnSaveSeo" class="btn-ghost border border-white/10"><i data-lucide="save" class="w-4 h-4"></i>Save SEO</button>
-          </div>
-          <div id="launchCards" class="grid grid-cols-3 gap-3"></div>
+        <div class="flex items-center gap-1.5 text-xs text-slate-400 bg-white/[0.03] px-2.5 py-1 rounded-lg border border-white/5" title="Master BGM level (dB)">
+          <i data-lucide="music-2" class="w-3.5 h-3.5 text-pink-400"></i>
+          <input id="bgmDb" type="range" min="-40" max="0" step="1" value="-20" class="w-16 accent-amber-500 cursor-pointer" />
+          <span id="bgmDbLabel" class="font-mono text-[10.5px] w-10">-20 dB</span>
         </div>
       </div>
     </section>
 
-    <!-- ---------- RIGHT: inspector ---------- -->
-    <aside class="min-h-0 flex flex-col border-l border-white/5 bg-[#0d121b]">
-      <div class="px-4 py-3 flex items-center justify-between border-b border-white/5">
-        <div class="text-xs font-semibold uppercase tracking-wider text-slate-400">Scene Inspector</div>
-        <div id="inspId" class="text-xs font-mono text-brand-400"></div>
+    <!-- DRAGGABLE RIGHT COLUMN SPLITTER -->
+    <div id="rightColResizer" class="col-resizer" title="Drag left or right to resize Inspector panel"></div>
+
+    <!-- ---------- RIGHT PANE: Clip, Motion, Voice & Overlay Inspector ---------- -->
+    <aside id="rightPane" style="width: 360px;" class="min-w-[240px] max-w-[540px] shrink-0 min-h-0 flex flex-col bg-[#0b1019]">
+      <div class="px-3.5 py-2 flex items-center justify-between border-b border-white/10">
+        <div class="flex items-center gap-1.5">
+          <i data-lucide="sliders-horizontal" class="w-3.5 h-3.5 text-brand-400"></i>
+          <span id="inspTitle" class="text-[11px] font-bold uppercase tracking-wider text-slate-300">Clip & Part Inspector</span>
+        </div>
+        <div id="inspId" class="text-[11px] font-mono text-brand-400"></div>
       </div>
-      <div id="inspector" class="flex-1 overflow-y-auto p-4 space-y-4 scroll-thin">
-        <!-- asset dropzone -->
+
+      <div id="inspector" class="flex-1 overflow-y-auto p-3 space-y-2.5 scroll-thin select-text">
+        <!-- Selected Track Badge -->
+        <div class="flex items-center justify-between px-2.5 py-1.5 rounded-lg bg-white/[0.03] border border-white/10 text-xs">
+          <span class="text-slate-400">Selected Track:</span>
+          <span id="inspTrackBadge" class="font-semibold text-brand-400">🖼️ Image Track</span>
+        </div>
+
+        <!-- Visual Asset Dropzone -->
         <div id="dropzone" class="dropzone">
           <input type="file" id="fileInput" class="hidden" accept="image/*,video/*" />
           <img id="dzThumb" class="w-full aspect-video object-cover rounded-md hidden" alt="" />
           <video id="dzVid" class="w-full aspect-video object-cover rounded-md hidden" muted loop autoplay playsinline></video>
-          <div class="flex items-center gap-2 text-xs text-slate-400 mt-2">
-            <i data-lucide="upload-cloud" class="w-4 h-4"></i>
-            <span>Drop image / AI clip to replace — or click</span>
+          <div class="flex items-center justify-between gap-2 text-[11px] text-slate-400 mt-1.5">
+            <span class="flex items-center gap-1.5"><i data-lucide="upload-cloud" class="w-3.5 h-3.5 text-brand-400"></i>Drop or click to swap Image / Video clip</span>
           </div>
-          <div id="dzPath" class="text-[10px] font-mono text-slate-600 mt-1 truncate"></div>
+          <div id="dzPath" class="text-[10px] font-mono text-slate-500 mt-0.5 truncate"></div>
         </div>
 
-        <div class="grid grid-cols-2 gap-3">
-          <div>
-            <div class="label">Duration (s)</div>
-            <input id="fDuration" type="number" min="0.5" max="30" step="0.1" class="glass-input w-full" />
+        <!-- Timing, Trim & Track Placement -->
+        <div class="card p-2.5 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0">Timing & Trim (<span id="inspTimingLangBadge" class="text-emerald-300">BN</span>)</span>
+            <div class="flex gap-1">
+              <button id="btnDurMinus" class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-white/10 text-[10px] font-mono" title="Shrink duration by 0.5s for active language">-0.5s</button>
+              <button id="btnDurPlus" class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-white/10 text-[10px] font-mono" title="Extend duration by 0.5s for active language">+0.5s</button>
+            </div>
           </div>
-          <div>
-            <div class="label">Speaker</div>
-            <input id="fSpeaker" type="text" class="glass-input w-full" placeholder="NARRATOR" />
+          <div class="grid grid-cols-3 gap-2">
+            <div>
+              <div class="label">Start (s)</div>
+              <input id="fStartTime" type="number" min="0" step="0.1" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Duration (s)</div>
+              <input id="fDuration" type="number" min="0.5" max="120" step="0.1" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Trim In (s)</div>
+              <input id="fTrimIn" type="number" min="0" max="60" step="0.1" value="0" class="glass-input w-full font-mono text-xs" />
+            </div>
           </div>
-          <div>
-            <div class="label">Type</div>
-            <select id="fType" class="glass-input w-full">
-              <option value="STATIC_IMAGE">Static image</option>
-              <option value="DYNAMIC_AI_VIDEO">AI motion clip</option>
-            </select>
-          </div>
-          <div>
-            <div class="label">Motion</div>
-            <select id="fMotion" class="glass-input w-full"></select>
-          </div>
-          <div class="col-span-2">
-            <div class="label">SFX cue</div>
-            <input id="fSfx" type="text" class="glass-input w-full" placeholder="campfire_crackle_wind" />
+          <div class="grid grid-cols-3 gap-2 pt-1">
+            <div>
+              <div class="label">Speed (x)</div>
+              <input id="fClipSpeed" type="number" min="0.25" max="4" step="0.25" value="1" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Opacity (%)</div>
+              <input id="fClipOpacity" type="number" min="10" max="100" step="5" value="100" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Callout Badge</div>
+              <input id="fCalloutText" type="text" placeholder="e.g. 1274 BCE" class="glass-input w-full text-xs" />
+            </div>
           </div>
         </div>
 
-        <div id="durWarn" class="hidden text-[11px] text-amber-400 flex items-center gap-1.5"><i data-lucide="alert-triangle" class="w-3.5 h-3.5"></i>Pacing rule: keep static scenes between 3.0s and 5.0s</div>
+        <!-- Visual Type, Motion Effect, VFX Overlay & Audio Effect -->
+        <div class="card p-2.5 space-y-2 border border-purple-500/25 bg-purple-950/10">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0 text-purple-300 flex items-center gap-1"><i data-lucide="sparkles" class="w-3 h-3"></i>Visual, Motion & VFX (120+)</span>
+            <button type="button" id="btnOpenFxBrowser" class="text-[10px] text-purple-300 hover:text-brand-400 underline font-semibold cursor-pointer">Browse 120+ FX Grid →</button>
+          </div>
+          <div class="grid grid-cols-2 gap-2">
+            <div>
+              <div class="label">Visual Track Type</div>
+              <select id="fType" class="glass-input w-full text-xs">
+                <option value="STATIC_IMAGE">🖼️ Image Track (Static)</option>
+                <option value="DYNAMIC_AI_VIDEO">🎬 Video Track (AI Clip)</option>
+              </select>
+            </div>
+            <div>
+              <div class="label">Camera / Motion FX</div>
+              <select id="fMotion" class="glass-input w-full text-xs"></select>
+            </div>
+            <div>
+              <div class="label">VFX / Image Filter</div>
+              <select id="fVfx" class="glass-input w-full text-xs"></select>
+            </div>
+            <div>
+              <div class="label">Voice Audio FX</div>
+              <select id="fAudioFx" class="glass-input w-full text-xs"></select>
+            </div>
+          </div>
+        </div>
 
+        <!-- Character Mapping, Clean Speaker Badge & 5-Layer SFX -->
+        <div class="card p-2.5 space-y-2 border border-amber-500/25 bg-amber-950/10">
+          <div class="flex items-center justify-between">
+            <span class="label mb-0 text-amber-300 flex items-center gap-1"><i data-lucide="user-check" class="w-3 h-3"></i>Character & Real SFX</span>
+            <div class="flex items-center gap-2">
+              <label class="check-row text-[10px] text-slate-300" title="Show/Hide Character Badge on Video">
+                <input type="checkbox" id="chkShowSpeakerBadge" checked /> <span>Badge</span>
+              </label>
+              <button id="btnOpenCharModal" class="text-[10px] text-brand-400 hover:underline font-semibold">Roster →</button>
+            </div>
+          </div>
+          <div class="grid grid-cols-2 gap-2">
+            <div>
+              <div class="label">Speaker Character</div>
+              <input id="fSpeaker" list="characterListDatalist" type="text" class="glass-input w-full text-xs" placeholder="TIME_CHRONICLER" />
+              <datalist id="characterListDatalist"></datalist>
+            </div>
+            <div>
+              <div class="label">TTS Voice (Internal Only)</div>
+              <select id="fAiVoice" class="glass-input w-full text-xs" title="Used for AI Studio TTS generation only — never shown on video screen!"></select>
+            </div>
+          </div>
+          <div>
+            <div class="label">Google AI Studio Style ▾ Prompt</div>
+            <input id="fVoiceStyle" type="text" class="glass-input w-full text-xs font-mono" placeholder="An Old Story Teller, Old Man voice" />
+          </div>
+          <div class="grid grid-cols-[1fr_auto] gap-1.5 items-end">
+            <div>
+              <div class="label">5-Layer Real SFX Cue (34 WAV Presets)</div>
+              <div class="flex gap-1">
+                <select id="fSfxSelect" class="glass-input w-1/2 text-xs"></select>
+                <input id="fSfx" type="text" class="glass-input w-1/2 text-xs font-mono" placeholder="paper_unfold_crisp" />
+              </div>
+            </div>
+            <button id="btnTestSfx" class="btn-accent py-1.5 px-2.5 text-[11px]" title="Play real WAV SFX & synthesize to audio/sfx/"><i data-lucide="volume-2" class="w-3.5 h-3.5"></i>Play SFX</button>
+          </div>
+        </div>
+
+        <div id="durWarn" class="hidden text-[10.5px] text-amber-400 flex items-center gap-1.5"><i data-lucide="alert-triangle" class="w-3.5 h-3.5"></i>Note: static image duration outside 3.0s–15.0s</div>
+
+        <!-- Per-Part Voiceover Audio Clip Control (Language-Isolated!) -->
+        <div class="card p-2.5 space-y-2 border border-emerald-500/25 bg-emerald-950/10">
+          <div class="flex items-center justify-between">
+            <div class="label mb-0 text-emerald-400 flex items-center gap-1"><i data-lucide="mic" class="w-3 h-3"></i>Part Audio (<span id="inspAudioLang">BN</span> Only)</div>
+            <label class="btn-ghost text-[10.5px] py-0.5 px-2 border border-emerald-500/30 text-emerald-300 cursor-pointer">
+              <i data-lucide="upload" class="w-3 h-3"></i>Replace <span id="inspAudioLangBtn">BN</span> WAV
+              <input type="file" id="partAudioInput" accept="audio/*" class="hidden" />
+            </label>
+          </div>
+          <div id="inspPartAudioFile" class="text-[10.5px] font-mono text-slate-300 truncate">audio/bn/scene_0001.wav</div>
+          <audio id="inspPartAudioPlayer" controls preload="none" class="w-full h-7 hidden"></audio>
+          <div class="grid grid-cols-3 gap-2 pt-0.5">
+            <div>
+              <div class="label">Vol (dB)</div>
+              <input id="fAudioVol" type="number" min="-30" max="12" step="1" value="0" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Fade In (s)</div>
+              <input id="fAudioFadeIn" type="number" min="0" max="5" step="0.1" value="0" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">Fade Out (s)</div>
+              <input id="fAudioFadeOut" type="number" min="0" max="5" step="0.1" value="0" class="glass-input w-full font-mono text-xs" />
+            </div>
+          </div>
+        </div>
+
+        <!-- BGM Segment Control -->
+        <div id="bgmInspectorBox" class="card p-2.5 space-y-2 border border-pink-500/25 bg-pink-950/10">
+          <div class="flex items-center justify-between">
+            <div class="label mb-0 text-pink-400 flex items-center gap-1"><i data-lucide="music" class="w-3 h-3"></i>BGM Segment Inspector</div>
+            <button id="btnAddBgmSeg" class="btn-ghost text-[10.5px] py-0.5 px-2 border border-pink-500/30 text-pink-300"><i data-lucide="plus" class="w-3 h-3"></i>+ BGM Range</button>
+          </div>
+          <div class="grid grid-cols-3 gap-2">
+            <div>
+              <div class="label">BGM Start (s)</div>
+              <input id="fBgmStart" type="number" min="0" step="0.5" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">BGM Dur (s)</div>
+              <input id="fBgmDur" type="number" min="1" step="0.5" class="glass-input w-full font-mono text-xs" />
+            </div>
+            <div>
+              <div class="label">BGM Level (dB)</div>
+              <input id="fBgmSegDb" type="number" min="-45" max="6" step="1" class="glass-input w-full font-mono text-xs" />
+            </div>
+          </div>
+        </div>
+
+        <!-- Narration Script -->
         <div>
           <div class="flex items-center justify-between">
-            <div class="label">Narration</div>
+            <div class="label">Narration Script</div>
             <div class="flex gap-1" id="narTabs">
               <button data-lang="bn" class="lang-pill sm active">BN</button>
               <button data-lang="en" class="lang-pill sm">EN</button>
               <button data-lang="hi" class="lang-pill sm">HI</button>
             </div>
           </div>
-          <textarea id="fNarration" rows="4" class="glass-input w-full mt-1 text-[15px] leading-relaxed"></textarea>
-          <div class="flex justify-between text-[10px] text-slate-500 mt-1"><span id="narWords"></span><span id="narPace"></span></div>
+          <textarea id="fNarration" rows="3" class="glass-input w-full mt-1 text-xs leading-relaxed"></textarea>
+          <div class="flex flex-wrap items-center gap-1 mt-1" id="vocalTagBar">
+            <span class="text-[9.5px] text-slate-500 mr-0.5">Tags:</span>
+            <button type="button" data-vtag="<gasp> " class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[9.5px] font-mono text-slate-300">&lt;gasp&gt;</button>
+            <button type="button" data-vtag="<sigh> " class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[9.5px] font-mono text-slate-300">&lt;sigh&gt;</button>
+            <button type="button" data-vtag="<laugh> " class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[9.5px] font-mono text-slate-300">&lt;laugh&gt;</button>
+            <button type="button" data-vtag="<short pause> " class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[9.5px] font-mono text-slate-300">&lt;short pause&gt;</button>
+            <button type="button" data-vtag="<whisper> " class="px-1.5 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[9.5px] font-mono text-slate-300">&lt;whisper&gt;</button>
+          </div>
+          <div class="flex justify-between text-[10px] text-slate-500 mt-0.5"><span id="narWords"></span><span id="narPace"></span></div>
         </div>
 
+        <!-- Visual Prompt -->
         <div>
           <div class="flex items-center justify-between">
-            <div class="label">Visual prompt</div>
-            <button id="btnCopyPrompt" class="text-[11px] text-slate-400 hover:text-brand-400 flex items-center gap-1"><i data-lucide="copy" class="w-3 h-3"></i>Copy</button>
+            <div class="label">Visual Prompt</div>
+            <button id="btnCopyPrompt" class="text-[10.5px] text-slate-400 hover:text-brand-400 flex items-center gap-1"><i data-lucide="copy" class="w-3 h-3"></i>Copy</button>
           </div>
-          <textarea id="fPrompt" rows="6" class="glass-input w-full mt-1 text-xs font-mono leading-relaxed"></textarea>
+          <textarea id="fPrompt" rows="2" class="glass-input w-full mt-1 text-[11px] font-mono leading-relaxed"></textarea>
         </div>
 
-        <div class="flex gap-2 pt-1">
-          <button id="btnAddScene" class="btn-ghost border border-white/10 flex-1 justify-center"><i data-lucide="plus" class="w-4 h-4"></i>Insert after</button>
-          <button id="btnDupScene" class="btn-ghost border border-white/10" title="Duplicate"><i data-lucide="copy-plus" class="w-4 h-4"></i></button>
-          <button id="btnDelScene" class="btn-ghost border border-red-500/20 text-red-400 hover:bg-red-500/10" title="Delete"><i data-lucide="trash-2" class="w-4 h-4"></i></button>
+        <!-- Clip Actions -->
+        <div class="flex gap-1.5 pt-1">
+          <button id="btnAddScene" class="btn-ghost border border-white/10 flex-1 justify-center text-xs"><i data-lucide="plus" class="w-3.5 h-3.5"></i>Insert Part</button>
+          <button id="btnSplitScene" class="btn-ghost border border-white/10 text-xs" title="Split clip at playhead"><i data-lucide="scissors" class="w-3.5 h-3.5"></i>Split</button>
+          <button id="btnDupScene" class="btn-ghost border border-white/10 text-xs" title="Duplicate part"><i data-lucide="copy-plus" class="w-3.5 h-3.5"></i></button>
+          <button id="btnDelScene" class="btn-ghost border border-red-500/20 text-red-400 hover:bg-red-500/10 text-xs" title="Delete part"><i data-lucide="trash-2" class="w-3.5 h-3.5"></i></button>
         </div>
       </div>
     </aside>
-  </main>
+  </div>
+
+  <!-- ===================== DRAGGABLE VERTICAL RESIZER ===================== -->
+  <div id="timelineResizer" class="nle-resizer shrink-0" title="Drag up or down to resize timeline dock"></div>
+
+  <!-- ===================== BOTTOM DOCK: REDESIGNED CAPCUT / FILMORA TIMELINE & STUDIO TOOLS ===================== -->
+  <section id="bottomDock" class="h-[310px] shrink-0 flex flex-col bg-[#080c13]">
+
+    <!-- Unified CapCut / Filmora Top Toolbar (Tools on Left, Studio Hubs in Center, Smart Zoom on Right) -->
+    <div class="h-10 shrink-0 flex items-center justify-between gap-2 px-3 border-b border-white/10 bg-[#0d121c]">
+      <!-- Left: Professional NLE Editing Tools (No redundant Timeline Title!) -->
+      <div id="nleToolbar" class="flex items-center gap-1 shrink-0">
+        <button id="toolSelect" class="btn-ghost active-tool px-2 py-1 text-xs" title="Select & Drag Move Tool (V)"><i data-lucide="mouse-pointer" class="w-3.5 h-3.5"></i>Select</button>
+        <button id="toolRazor" class="btn-ghost px-2 py-1 text-xs" title="Razor Blade Split Tool — click any clip to split (B)"><i data-lucide="scissors" class="w-3.5 h-3.5"></i>Razor</button>
+        <button id="btnSplitAtPlayhead" class="btn-ghost border border-white/10 px-2 py-1 text-xs" title="Split active clip at Playhead"><i data-lucide="split-square-horizontal" class="w-3.5 h-3.5"></i>Split</button>
+        <button id="btnAddMarker" class="btn-ghost border border-white/10 px-2 py-1 text-xs" title="Add Timeline Marker at Playhead (M)"><i data-lucide="bookmark-plus" class="w-3.5 h-3.5 text-amber-400"></i>Marker</button>
+        <button id="btnToolbarTextCard" class="btn-ghost border border-sky-500/25 text-sky-300 px-2 py-1 text-xs" title="Add or Edit Motion Text Card & TV Ticker"><i data-lucide="type" class="w-3.5 h-3.5"></i>Text/Ticker</button>
+
+        <div class="h-4 w-px bg-white/10 mx-0.5"></div>
+
+        <button id="btnToggle3LangTracks" class="btn-ghost border border-emerald-500/25 text-emerald-300 px-2 py-1 text-xs" title="Toggle between Active Language Voice Track (1-Lane) and All 3 Languages (BN/EN/HI Lanes)">
+          <i data-lucide="languages" class="w-3.5 h-3.5"></i><span id="langTrackModeLabel">1-Lang Audio</span>
+        </button>
+        <button id="btnToggleMode" class="btn-ghost border border-white/10 px-2 py-1 text-xs" title="Switch between Ripple Sync and Free Multi-Track mode">
+          <i data-lucide="magnet" class="w-3.5 h-3.5 text-brand-400"></i><span id="modeLabel">Ripple Sync</span>
+        </button>
+        <button id="btnTrackSize" class="btn-ghost border border-white/10 px-1.5 py-1 text-xs" title="Resize track height">
+          <i data-lucide="chevrons-up-down" class="w-3.5 h-3.5"></i><span id="trackSizeLabel" class="hidden 2xl:inline">Normal</span>
+        </button>
+      </div>
+
+      <!-- Center: Studio Workspace Drawer Tabs -->
+      <nav class="flex items-center gap-0.5 overflow-x-auto" id="tabs">
+        <button data-tab="timeline" class="tab active"><i data-lucide="layers" class="w-3.5 h-3.5"></i>Timeline</button>
+        <button data-tab="fxlibrary" class="tab"><i data-lucide="sparkles" class="w-3.5 h-3.5 text-purple-400"></i>FX Library (120+)</button>
+        <button data-tab="audio" class="tab"><i data-lucide="folder-tree" class="w-3.5 h-3.5 text-emerald-400"></i>3-Lang Audio & SFX</button>
+        <button data-tab="characters" class="tab"><i data-lucide="mic-vocal" class="w-3.5 h-3.5 text-amber-400"></i>Voices (33)</button>
+        <button data-tab="workflow" class="tab"><i data-lucide="wand-sparkles" class="w-3.5 h-3.5 text-brand-400"></i>AI Wizard</button>
+        <button data-tab="launch" class="tab"><i data-lucide="image" class="w-3.5 h-3.5 text-pink-400"></i>Thumbnails & SEO</button>
+        <button data-tab="instructions" class="tab"><i data-lucide="book-open-check" class="w-3.5 h-3.5 text-sky-400"></i>Prompts</button>
+        <button data-tab="render" class="tab"><i data-lucide="clapperboard" class="w-3.5 h-3.5"></i>Export (<span id="exportCountBadge">0</span>)</button>
+      </nav>
+
+      <!-- Right: Smart Fractional Zoom Controls (Fits 100% of long projects without overflow!) -->
+      <div class="flex items-center gap-1 bg-white/[0.04] px-2 py-0.5 rounded-md border border-white/10 shrink-0">
+        <button id="btnZoomOut" class="text-slate-400 hover:text-white px-1" title="Zoom out timeline"><i data-lucide="zoom-out" class="w-3.5 h-3.5"></i></button>
+        <input id="tlZoom" type="range" min="0.2" max="50" step="0.1" value="12" class="w-24 accent-amber-500 cursor-pointer" title="Timeline zoom (pixels per second — supports fractional zoom to fit entire video)" />
+        <button id="btnZoomIn" class="text-slate-400 hover:text-white px-1" title="Zoom in timeline"><i data-lucide="zoom-in" class="w-3.5 h-3.5"></i></button>
+        <span id="zoomReadout" class="text-[10px] font-mono text-brand-400 w-12 text-right">12 px/s</span>
+        <button id="btnZoomFit" class="text-[10.5px] font-bold text-emerald-300 hover:text-brand-400 px-1.5 border-l border-white/10" title="Fit entire project cleanly inside screen width with zero horizontal overflow">Fit</button>
+      </div>
+    </div>
+
+    <!-- PANEL 1: MULTI-TRACK NLE TIMELINE (Clean CapCut/Filmora Track Header without redundant title) -->
+    <div data-panel="timeline" class="panel flex-1 min-h-0 flex flex-col overflow-hidden">
+      <div id="nleScrollContainer" class="flex-1 min-h-0 overflow-auto scroll-thin relative">
+        <div id="nleCanvas" class="relative min-w-full">
+          <!-- Sticky Time Ruler Row -->
+          <div class="flex sticky top-0 z-30 bg-[#0c111c] border-b border-white/10">
+            <div class="w-[196px] shrink-0 px-2.5 py-1 flex items-center justify-between border-r border-white/10 bg-[#0d131f] text-[10px] font-mono text-slate-400 sticky left-0 z-40">
+              <span id="timelineActiveLangIndicator" class="text-emerald-300 font-bold">🎙️ Audio: বাংলা (BN)</span>
+              <span id="timelineShortsIndicator" class="text-amber-300">16:9 Master</span>
+            </div>
+            <div id="nleRuler" class="nle-ruler flex-1 relative"></div>
+          </div>
+
+          <!-- Multi-Track Lanes Container -->
+          <div id="nleTracksContainer" class="relative"></div>
+
+          <!-- Global Playhead -->
+          <div id="playhead" class="nle-playhead" style="left: 196px;">
+            <div class="nle-playhead-head"></div>
+          </div>
+          <!-- Snap Guideline -->
+          <div id="snapLine" class="nle-snap-line hidden"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 1B: 120+ TRANSITIONS & VFX LIBRARY BROWSER (With Live Hover Previews!) -->
+    <div data-panel="fxlibrary" class="panel hidden flex-1 min-h-0 flex flex-col overflow-hidden p-3 select-text">
+      <div class="flex flex-wrap items-center justify-between gap-2 pb-2.5 mb-2.5 border-b border-white/10 shrink-0">
+        <div class="flex items-center gap-1.5">
+          <button type="button" data-fx-tab="motions" class="btn-primary text-xs py-1 px-3" id="fxTabMotions">🎞️ 64 Transitions & Camera Motions</button>
+          <button type="button" data-fx-tab="vfx" class="btn-ghost border border-white/15 text-xs py-1 px-3" id="fxTabVfx">✨ 60 VFX & Color Grading Filters</button>
+          <select id="fxCategoryFilter" class="glass-input text-xs py-1 px-2.5 ml-1">
+            <option value="ALL">All Categories</option>
+          </select>
+          <input id="fxSearchInput" type="text" placeholder="Search 120+ effects (hover any card to live preview on video)..." class="glass-input text-xs py-1 px-2.5 w-64" />
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-[11px] text-amber-300">👁️ Hover any effect to preview live on player!</span>
+          <span class="text-[11px] text-slate-400">Target: <b class="text-brand-400" id="fxTargetClipLabel">Part #1</b></span>
+          <button type="button" id="btnApplyFxAll" class="btn-accent text-xs py-1 px-2.5" title="Apply active Transition & VFX to all scenes in project"><i data-lucide="check-check" class="w-3.5 h-3.5"></i>Apply Current FX to All Scenes</button>
+        </div>
+      </div>
+      <div id="fxBrowserGrid" class="flex-1 min-h-0 overflow-y-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-2 pr-1 scroll-thin"></div>
+    </div>
+
+    <!-- PANEL 2: RENDER & EXPORT ENGINE (With Project Thumbnails & 0.8s Intro Thumbnail Embed!) -->
+    <div data-panel="render" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin">
+      <div class="grid grid-cols-[340px_1fr] gap-4 h-full">
+        <div class="space-y-2.5">
+          <div class="card p-2.5 space-y-1 bg-gradient-to-br from-emerald-950/40 via-slate-900 to-slate-950 border border-emerald-500/30">
+            <div class="flex items-center gap-2 text-xs font-semibold text-emerald-400">
+              <span id="gpuStatusDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              <i data-lucide="cpu" class="w-3.5 h-3.5"></i>
+              <span id="gpuStatusText">GPU Acceleration: ACTIVE</span>
+            </div>
+            <div id="gpuDeviceText" class="text-[11px] text-slate-300 font-mono">Hardware / Universal libx264 Engine</div>
+            <div id="gpuSubText" class="text-[10px] text-emerald-400/80">⚡ Renders Master + Branded Shorts + Intro Thumbnails</div>
+          </div>
+
+          <div class="card p-2.5 space-y-1.5">
+            <div class="label">Export Channels & Languages</div>
+            <label class="check-row"><input type="checkbox" class="rlang" value="bn" checked /> <span>🇧🇩 Simple Studio Bangla</span><span class="ml-auto text-[10px] text-slate-500 font-mono">exports/video_bn.mp4</span></label>
+            <label class="check-row"><input type="checkbox" class="rlang" value="en" checked /> <span>🌍 Simple Studio English</span><span class="ml-auto text-[10px] text-slate-500 font-mono">exports/video_en.mp4</span></label>
+            <label class="check-row"><input type="checkbox" class="rlang" value="hi" checked /> <span>🇮🇳 Simple Studio Hindi</span><span class="ml-auto text-[10px] text-slate-500 font-mono">exports/video_hi.mp4</span></label>
+          </div>
+
+          <div class="card p-2.5 space-y-1.5 border border-brand-500/30 bg-brand-500/[0.03]">
+            <div class="label text-brand-400 flex items-center gap-1.5"><i data-lucide="split" class="w-3.5 h-3.5"></i>Dual-Export, Intro Thumbnail & Audio Mix</div>
+            <label class="check-row text-xs"><input type="checkbox" id="optDualShorts" checked /> <span>Auto-Export Branded 9:16 Vertical Shorts</span></label>
+            <label class="check-row text-xs text-amber-300"><input type="checkbox" id="optEmbedIntroThumb" checked /> <span>প্রথম ০.৮ সেকেন্ডে থাম্বনেইল সংযুক্ত করুন (Auto-Thumbnail)</span></label>
+            <label class="check-row text-xs"><input type="checkbox" id="optBgm" checked /> <span>Include BGM & 5-Layer SFX Tracks</span></label>
+            <label class="check-row text-xs"><input type="checkbox" id="optDuck" checked /> <span>Auto-duck BGM under Voiceover Track</span></label>
+          </div>
+
+          <div class="flex gap-2">
+            <button id="btnRender" class="btn-primary flex-1 justify-center py-2"><i data-lucide="zap" class="w-4 h-4"></i>Render Master & Shorts</button>
+            <button id="btnCancel" class="btn-danger hidden"><i data-lucide="square" class="w-4 h-4"></i>Cancel</button>
+          </div>
+        </div>
+
+        <div class="min-h-0 flex flex-col gap-2.5">
+          <div class="card p-3">
+            <div class="flex items-center justify-between text-xs mb-1.5">
+              <span id="renderStage" class="text-slate-300 font-medium">Idle — Ready to render edited multi-track timeline to exports/</span>
+              <span id="renderPct" class="font-mono text-brand-400 font-bold">0%</span>
+            </div>
+            <div class="h-2 rounded-full bg-white/5 overflow-hidden"><div id="renderBar" class="h-full w-0 bg-gradient-to-r from-amber-600 to-brand-400 transition-[width] duration-300"></div></div>
+            <div id="renderOutputs" class="flex flex-wrap gap-2 mt-2.5"></div>
+          </div>
+          <pre id="renderLog" class="card flex-1 min-h-[100px] p-2.5 text-[11px] leading-relaxed font-mono text-slate-400 overflow-auto scroll-thin whitespace-pre-wrap"></pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 3: 3-LANGUAGE SCENE-BY-SCENE AUDIO FOLDERS & REAL SFX COLLECTION HUB -->
+    <div data-panel="audio" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin select-text">
+      <div class="grid grid-cols-1 xl:grid-cols-[1fr_450px] gap-4">
+        <div class="space-y-3">
+          <div class="p-3 rounded-xl bg-emerald-950/25 border border-emerald-500/30 flex flex-wrap items-center justify-between gap-2">
+            <div>
+              <div class="text-xs font-bold text-emerald-300 flex items-center gap-1.5">
+                <i data-lucide="folder-tree" class="w-4 h-4"></i>
+                ৩টি ভাষার আলাদা সিন-বাই-সিন অডিও ফোল্ডার (`audio/bn/`, `audio/en/`, `audio/hi/`)
+              </div>
+              <div class="text-[11px] text-slate-300 mt-0.5">
+                ল্যাঙ্গুয়েজ সুইচ করলেই নির্দিষ্ট ভাষার অডিও ক্লিপ প্রিভিউ ও টাইমলাইনে চলে আসবে এবং যেকোনো এডিট কেবল সেই ভাষার জন্যই প্রযোজ্য হবে।
+              </div>
+            </div>
+            <div class="flex gap-1.5 shrink-0">
+              <button id="btnOpenPartsFolder" class="btn-ghost border border-white/15 text-xs"><i data-lucide="folder-open" class="w-3.5 h-3.5"></i>Open audio/ Folder</button>
+              <button id="btnSyncAudioTab" class="btn-accent text-xs"><i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i>Scan & Sync Folders</button>
+            </div>
+          </div>
+          <div id="audioRows" class="space-y-2"></div>
+        </div>
+
+        <div class="card p-3 space-y-2.5 border border-brand-500/30 bg-slate-950/70">
+          <div class="flex items-center justify-between border-b border-white/10 pb-2">
+            <div class="text-xs font-bold text-brand-400 flex items-center gap-1.5">
+              <i data-lucide="volume-2" class="w-4 h-4"></i>
+              ৩৪টি বিল্ট-ইন রিয়েল WAV সাউন্ড ইফেক্টস (`public/assets/sfx/`) ও অনলাইন সোর্স
+            </div>
+            <button type="button" id="btnOpenAudioGuideDoc" class="text-[10.5px] text-sky-400 hover:underline font-semibold cursor-pointer">Full Guide →</button>
+          </div>
+          <div class="text-[11px] text-slate-300 leading-relaxed">
+            সবগুলো ৩৪টি SFX কিউ এখন আসল `.wav` অডিও ফাইল হিসেবে স্টুডিওতে প্রি-জেনারেটেড রয়েছে! যেকোনো বাটনে ক্লিক করে শুনুন:
+          </div>
+          <div id="sfxQuickPlayGrid" class="grid grid-cols-2 gap-1 max-h-40 overflow-y-auto pr-1 scroll-thin text-[10.5px]"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 4: PROJECT-BASED THUMBNAILS (`thumbnails/master/` & `thumbnails/shorts/`) & YOUTUBE SEO LAUNCHPAD -->
+    <div data-panel="launch" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin">
+      <div class="flex flex-wrap items-center justify-between gap-2 mb-3 p-2.5 rounded-xl bg-pink-950/20 border border-pink-500/30">
+        <div>
+          <div class="text-xs font-bold text-pink-300 flex items-center gap-1.5">
+            <i data-lucide="folder-heart" class="w-4 h-4"></i>
+            প্রজেক্ট-ভিত্তিক মাস্টার ও শর্টস থাম্বনেইল হাব (`projects/&lt;id&gt;/thumbnails/master/` ও `thumbnails/shorts/`)
+          </div>
+          <div class="text-[11px] text-slate-300 mt-0.5">
+            মাস্টার ভিডিওর থাম্বনেইল `thumbnails/master/` ফোল্ডারে এবং শর্টসের থাম্বনেইল শর্টসের নাম্বার ও নাম অনুসারে `thumbnails/shorts/` ফোল্ডারে সংরক্ষিত থাকে এবং রেন্ডারের সময় ভিডিওর শুরুতে ০.৮ সেকেন্ডের জন্য যুক্ত হয়।
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <button type="button" id="btnOpenThumbsFolder" class="btn-ghost border border-white/15 text-xs"><i data-lucide="folder-open" class="w-3.5 h-3.5"></i>Open thumbnails/ Folder</button>
+          <button type="button" id="btnGenerateAllProjectThumbs" class="btn-primary text-xs"><i data-lucide="sparkles" class="w-3.5 h-3.5"></i>Auto-Generate Master & Shorts Thumbnails</button>
+          <button id="btnSaveSeo" class="btn-accent text-xs"><i data-lucide="save" class="w-3.5 h-3.5"></i>Save SEO</button>
+        </div>
+      </div>
+      <div id="launchCards" class="grid grid-cols-3 gap-3 mb-3"></div>
+      <div id="shortsThumbnailsGallery" class="card p-3 space-y-2 border border-amber-500/30"></div>
+    </div>
+
+    <!-- PANEL 5: 10-STYLE AGENTIC WORKFLOW & PROJECT WIZARD -->
+    <div data-panel="workflow" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin select-text">
+      <div class="mb-3 p-2.5 rounded-xl bg-gradient-to-r from-amber-500/10 via-emerald-500/10 to-sky-500/10 border border-white/10 flex flex-wrap items-center justify-between gap-2">
+        <div class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-brand-500/20 border border-brand-500/40 grid place-items-center text-brand-400 shrink-0">
+            <i data-lucide="bot" class="w-4 h-4"></i>
+          </div>
+          <div>
+            <div class="text-xs font-bold text-white flex items-center gap-2">
+              <span>AI টুলস ও ওয়ার্কফ্লো কীভাবে কাজ করে? (How AI Tools & Agent Bridge Work)</span>
+              <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 text-[10px] font-mono" id="agentBridgeStatusBadge">● Agent Bridge: CONNECTED</span>
+            </div>
+            <div class="text-[11px] text-slate-300">
+              ১. স্টাইল ও টপিক সিলেক্ট করুন → ২. ক্যারেক্টার ও শর্টস পার্ট সেট করুন → ৩. <b class="text-brand-400">Send to Agent Queue</b> চাপুন।
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center gap-1.5">
+          <button id="btnSendToAgentNow" class="btn-primary text-xs py-1.5 px-3"><i data-lucide="send" class="w-3.5 h-3.5"></i>Send All to Agent Queue</button>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-[360px_1fr_380px] gap-3.5">
+        <div class="card p-3 space-y-2.5 border border-brand-500/30">
+          <div class="flex items-center justify-between border-b border-white/10 pb-2">
+            <div class="text-xs font-bold text-brand-400 flex items-center gap-1.5"><span class="w-5 h-5 rounded-full bg-brand-500 text-black text-[11px] font-extrabold grid place-items-center">1</span> ভিডিও ক্যাটাগরি ও প্রজেক্ট সেটআপ</div>
+            <span class="badge">10 Styles</span>
+          </div>
+          <div>
+            <div class="label">Select Video Style Preset (১০টি প্রফেশনাল স্টাইল)</div>
+            <select id="wizCategory" class="glass-input w-full text-xs font-semibold"></select>
+          </div>
+          <div id="wizCategoryRuleBox" class="p-2.5 rounded-lg bg-slate-950/70 border border-white/10 text-[11px] text-slate-300 space-y-1 leading-relaxed"></div>
+          <div class="grid grid-cols-2 gap-2">
+            <div>
+              <div class="label">Project Folder ID</div>
+              <input id="wizProjId" type="text" class="glass-input w-full text-xs font-mono" placeholder="new_history_ep" />
+            </div>
+            <div>
+              <div class="label">Target Duration (Min)</div>
+              <input id="wizMinutes" type="number" min="1" max="30" step="1" value="8" class="glass-input w-full text-xs font-mono" />
+            </div>
+          </div>
+          <div>
+            <div class="flex items-center justify-between">
+              <div class="label">Episode Topic / Title</div>
+              <button id="btnGenTopicIdeas" class="text-[10.5px] text-emerald-400 hover:underline flex items-center gap-1 font-semibold"><i data-lucide="sparkles" class="w-3 h-3"></i> ভাইরাল টপিক আইডিয়া</button>
+            </div>
+            <input id="wizTopic" type="text" class="glass-input w-full text-xs" placeholder="যেমন: নালন্দা মহাবিহারের ৯ তলা গ্রন্থাগারের রহস্য..." />
+          </div>
+          <label class="check-row text-xs text-emerald-300 bg-emerald-950/20 px-2.5 py-1.5 rounded-lg border border-emerald-500/20">
+            <input type="checkbox" id="wizHalalAudio" />
+            <span>🕌 Halal / Vocal-Only Audio</span>
+          </label>
+          <div class="flex gap-2 pt-1">
+            <button id="btnCreateWizardProject" class="btn-primary flex-1 justify-center text-xs"><i data-lucide="folder-plus" class="w-3.5 h-3.5"></i>নতুন প্রজেক্ট তৈরি করুন</button>
+            <button id="btnApplyCategoryToCurrent" class="btn-accent text-xs"><i data-lucide="wand-2" class="w-3.5 h-3.5"></i>বর্তমান প্রজেক্টে প্রয়োগ</button>
+          </div>
+        </div>
+
+        <div class="card p-3 space-y-2.5">
+          <div class="flex items-center justify-between border-b border-white/10 pb-2">
+            <div class="text-xs font-bold text-sky-400 flex items-center gap-1.5"><span class="w-5 h-5 rounded-full bg-sky-400 text-black text-[11px] font-extrabold grid place-items-center">2</span> অটোমেটেড ক্লিপ বাজেট ও ১০-ধাপের এআই পাইপলাইন</div>
+            <span id="calcSummaryBadge" class="text-[10.5px] font-mono text-sky-300 bg-sky-500/10 px-2 py-0.5 rounded border border-sky-500/20"></span>
+          </div>
+          <div id="calcMetricsGrid" class="grid grid-cols-4 gap-2 text-center"></div>
+          <div id="viralTopicsBox" class="hidden p-2 rounded-lg bg-emerald-950/30 border border-emerald-500/30 space-y-1 max-h-28 overflow-y-auto scroll-thin"></div>
+          <div id="pipelineStepsGrid" class="grid grid-cols-2 gap-1.5 text-[11px]"></div>
+        </div>
+
+        <div class="card p-3 space-y-2.5 border border-emerald-500/30">
+          <div class="flex items-center justify-between border-b border-white/10 pb-2">
+            <div class="text-xs font-bold text-emerald-300 flex items-center gap-1.5"><span class="w-5 h-5 rounded-full bg-emerald-400 text-black text-[11px] font-extrabold grid place-items-center">3</span> এজেন্ট কমান্ড ও প্রম্পট ব্রিজ</div>
+            <span class="text-[10px] font-mono text-emerald-400">Port :4000 / :9333</span>
+          </div>
+          <div class="flex flex-wrap gap-1">
+            <button type="button" data-quick-cmd="@00:00 vfx=vox_halftone_paper motion=vox_cutout_pan_lr sfx=paper_unfold_crisp" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] font-mono text-amber-300 border border-white/10">📰 Vox Cutout Pan @00:00</button>
+            <button type="button" data-quick-cmd="@00:10 vfx=archival_noir_vignette motion=vod_spotlight_glide sfx=typewriter_mechanical_key" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] font-mono text-sky-300 border border-white/10">🎙️ Voice of Dhaka @00:10</button>
+            <button type="button" data-quick-cmd="@00:20 vfx=noor_divine_bloom motion=zoom_in sfx=noor_ethereal_shimmer" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] font-mono text-emerald-300 border border-white/10">✨ Noor Glow @00:20</button>
+          </div>
+          <div class="flex gap-1.5">
+            <input id="agentCmdInput" type="text" class="glass-input flex-1 text-xs font-mono" value="@00:05 vfx=vox_halftone_paper motion=vox_cutout_pan_lr sfx=paper_unfold_crisp" />
+            <button id="btnRunAgentCmd" class="btn-accent text-xs px-2.5"><i data-lucide="zap" class="w-3.5 h-3.5"></i>Run</button>
+          </div>
+          <div class="flex gap-1.5">
+            <button id="btnExportPromptPack" class="btn-primary flex-1 justify-center text-xs"><i data-lucide="file-check-2" class="w-3.5 h-3.5"></i>প্রম্পট প্যাক ও এজেন্ট কিউ তৈরি করুন</button>
+            <button id="btnCopyAgentCli" class="btn-ghost border border-white/15 text-xs"><i data-lucide="terminal" class="w-3.5 h-3.5 text-emerald-400"></i>Copy CLI</button>
+          </div>
+          <pre id="promptPackPreview" class="p-2 rounded-lg bg-black/60 border border-white/10 text-[10px] font-mono text-emerald-200 max-h-28 overflow-auto scroll-thin whitespace-pre-wrap">Click "প্রম্পট প্যাক ও এজেন্ট কিউ তৈরি করুন" to generate CHARACTER_VOICE_MAP.json, AGENT_TASK_QUEUE.json, AISTUDIO_TTS_SCREENPLAY.txt, and FLOW_BATCH_PROMPTS.txt.</pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 6: CHARACTER MAPPING & GOOGLE AI STUDIO 33-VOICE STUDIO -->
+    <div data-panel="characters" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin select-text">
+      <div class="flex flex-wrap items-center justify-between gap-2 mb-3 p-2.5 rounded-xl bg-emerald-950/20 border border-emerald-500/30">
+        <div>
+          <div class="text-xs font-bold text-emerald-300 flex items-center gap-2">
+            <i data-lucide="mic-vocal" class="w-4 h-4"></i>
+            <span>ক্যারেক্টার ভয়েস ও ভিজ্যুয়াল ডিএনএ ম্যাপিং (জেমিনি ভয়েস নাম স্ক্রিনে হাইড করা হয়েছে)</span>
+            <span id="charSyncStatusBadge" class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-mono">● Clean Badge Mode Active</span>
+          </div>
+          <div class="text-[11px] text-slate-300 mt-0.5">
+            স্ক্রিনে শুধুমাত্র ক্যারেক্টারের নাম ও রোল দেখাবে (যেমন: <b>📜 মূল ধারাভাষ্যকার | ডকুমেন্টারি ভয়েস</b>) — জেমিনির অভ্যন্তরীণ ভয়েস ক্যারেক্টারের নাম (`Charon`, `Cruz` ইত্যাদি) ভিডিও স্ক্রিনে কখনোই দেখাবে না।
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <button id="btnAddCharacter" class="btn-ghost border border-white/15 text-xs"><i data-lucide="user-plus" class="w-3.5 h-3.5 text-brand-400"></i>+ নতুন চরিত্র যোগ করুন</button>
+          <button id="btnSyncCharsToScenes" class="btn-primary text-xs"><i data-lucide="check-check" class="w-3.5 h-3.5"></i>সব সিনে ভয়েস সিঙ্ক করুন</button>
+        </div>
+      </div>
+      <div id="charactersGrid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3"></div>
+    </div>
+
+    <!-- PANEL 7: SYSTEM INSTRUCTIONS & SOP EDITOR -->
+    <div data-panel="instructions" class="panel hidden flex-1 min-h-0 overflow-y-auto p-3.5 scroll-thin select-text">
+      <div class="grid grid-cols-[260px_1fr] gap-3.5 h-full">
+        <div class="card p-2.5 flex flex-col gap-1.5 overflow-y-auto scroll-thin" id="instFileList"></div>
+        <div class="card p-3 flex flex-col gap-2 min-h-0">
+          <div class="flex items-center justify-between">
+            <span id="instActiveTitle" class="text-xs font-bold font-mono text-brand-400">SYSTEM_PROMPT.md</span>
+            <div class="flex gap-2">
+              <button id="btnCopyInstruction" class="btn-ghost border border-white/10 text-xs"><i data-lucide="copy" class="w-3.5 h-3.5"></i>Copy Full Prompt</button>
+              <button id="btnSaveInstruction" class="btn-primary text-xs"><i data-lucide="save" class="w-3.5 h-3.5"></i>Save Instruction File</button>
+            </div>
+          </div>
+          <textarea id="instEditorTextarea" class="glass-input flex-1 min-h-[160px] font-mono text-[11px] leading-relaxed"></textarea>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>
+
+<!-- ===================== SHORTS EPISODE BUILDER DIALOG MODAL ===================== -->
+<div id="shortsBuilderModal" class="hidden fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 select-text">
+  <div class="card w-full max-w-4xl max-h-[90vh] flex flex-col border border-brand-500/40 bg-[#0b101b] shadow-2xl overflow-hidden">
+    <!-- Modal Header -->
+    <div class="px-4 py-3 border-b border-white/10 bg-[#080c14] flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-8 h-8 rounded-lg bg-brand-500 text-black grid place-items-center font-extrabold">
+          <i data-lucide="smartphone" class="w-4 h-4"></i>
+        </div>
+        <div>
+          <div class="text-sm font-bold text-white flex items-center gap-2">
+            <span>প্রফেশনাল শর্টস বিল্ডার ও পর্ব নির্ধারক (Shorts Episode & Scene Range Builder)</span>
+            <span class="badge">9:16 Vertical Pro</span>
+          </div>
+          <div class="text-[11px] text-slate-400">কয়টি শর্টস হবে এবং কত সিন থেকে কত সিন পর্যন্ত কোন পর্ব হবে তা নিজে নির্ধারণ করুন অথবা AI সাজেস্ট নিন</div>
+        </div>
+      </div>
+      <button type="button" id="btnCloseShortsModal" class="btn-ghost p-1.5 text-slate-400 hover:text-white"><i data-lucide="x" class="w-4 h-4"></i></button>
+    </div>
+
+    <!-- Modal Body -->
+    <div class="flex-1 overflow-y-auto p-4 space-y-4 scroll-thin">
+      <!-- Row 1: Total Parts Count + AI Auto-Suggest + Natural Language AI Prompt -->
+      <div class="grid grid-cols-1 md:grid-cols-[260px_1fr] gap-3 p-3 rounded-xl bg-white/[0.02] border border-white/10">
+        <div class="space-y-2">
+          <div class="label text-brand-400">১. মোট কয়টি শর্টস পার্ট করতে চান?</div>
+          <div class="flex items-center gap-2">
+            <input id="shortsModalCountInput" type="number" min="1" max="50" value="10" class="glass-input w-20 font-mono text-sm font-bold text-center text-brand-400" />
+            <button type="button" id="btnShortsAiAutoSuggest" class="btn-primary flex-1 justify-center py-2 text-xs">
+              <i data-lucide="wand-sparkles" class="w-3.5 h-3.5"></i>AI Auto-Suggest Parts
+            </button>
+          </div>
+          <div class="flex gap-1 pt-0.5">
+            <button type="button" data-quick-parts="5" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] text-slate-300 border border-white/10">5 Parts (~3m)</button>
+            <button type="button" data-quick-parts="8" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] text-slate-300 border border-white/10">8 Parts</button>
+            <button type="button" data-quick-parts="10" class="px-2 py-0.5 rounded bg-brand-500/20 text-brand-400 border border-brand-500/40 text-[10px] font-bold">10 Parts (~65s)</button>
+            <button type="button" data-quick-parts="12" class="px-2 py-0.5 rounded bg-white/5 hover:bg-brand-500/20 text-[10px] text-slate-300 border border-white/10">12 Parts</button>
+          </div>
+        </div>
+
+        <div class="space-y-2">
+          <div class="label text-emerald-300">২. অথবা AI/এজেন্টকে নির্দেশ দিন (কতগুলো পার্ট ও কত থেকে কত সিন):</div>
+          <div class="flex gap-2">
+            <input id="shortsModalAiPrompt" type="text" class="glass-input flex-1 text-xs" placeholder="যেমন: ১০টি পার্ট করো (বা লিখুন: 1-8, 9-17, 18-26, 27-35...)" />
+            <button type="button" id="btnShortsParsePrompt" class="btn-accent text-xs px-3">
+              <i data-lucide="bot" class="w-3.5 h-3.5"></i>AI সাজেস্ট লোড করুন
+            </button>
+          </div>
+          <div class="text-[10.5px] text-slate-400">
+            💡 আপনি সংখ্যা পরিবর্তন করে <b>AI Auto-Suggest Parts</b>-এ ক্লিক করলে এআই স্বয়ংক্রিয়ভাবে সবগুলো সিন ভাগ করে নিচে প্রিসেট টেবিল লোড করবে। চাইলে যেকোনো পর্বের সিন রেঞ্জ ও টাইটেল নিজেও এডিট করতে পারবেন।
+          </div>
+        </div>
+      </div>
+
+      <!-- Row 2: Shorts Top & Bottom Professional Branding Options -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-2.5 p-3 rounded-xl bg-amber-500/[0.04] border border-amber-500/25">
+        <div>
+          <div class="label text-amber-300">Top Header Channel Name</div>
+          <input id="shortsModalChannelName" type="text" class="glass-input w-full text-xs" value="Simple History Teller Bangla" />
+        </div>
+        <div>
+          <div class="label text-sky-300">Bottom Main Video Title</div>
+          <input id="shortsModalMainTitle" type="text" class="glass-input w-full text-xs" />
+        </div>
+        <div>
+          <div class="label text-red-300">Bottom CTA / Promo Text</div>
+          <input id="shortsModalCta" type="text" class="glass-input w-full text-xs" value="▶ সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE" />
+        </div>
+      </div>
+
+      <!-- Row 3: Editable Episodic Parts Table -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5">
+            <i data-lucide="list-ordered" class="w-4 h-4 text-brand-400"></i>
+            <span>শর্টস পর্বগুলোর তালিকা ও সিন রেঞ্জ (Editable Preset Table)</span>
+          </span>
+          <button type="button" id="btnShortsAddRow" class="btn-ghost border border-white/15 text-xs py-1 px-2.5">
+            <i data-lucide="plus" class="w-3.5 h-3.5 text-brand-400"></i>+ নতুন পর্ব যোগ করুন
+          </button>
+        </div>
+        <div class="border border-white/10 rounded-xl overflow-hidden bg-slate-950/60">
+          <table class="w-full text-left border-collapse text-xs">
+            <thead>
+              <tr class="bg-slate-900/90 border-b border-white/10 text-[10.5px] uppercase text-slate-400">
+                <th class="py-2 px-3 w-16">Part #</th>
+                <th class="py-2 px-2 w-28">From Scene</th>
+                <th class="py-2 px-2 w-28">To Scene</th>
+                <th class="py-2 px-2 w-28">Duration</th>
+                <th class="py-2 px-3">Short Viral Hook Title (হাইলাইটেড টাইটেল)</th>
+                <th class="py-2 px-2 w-24 text-right">Action</th>
+              </tr>
+            </thead>
+            <tbody id="shortsModalTableBody" class="divide-y divide-white/5"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Footer -->
+    <div class="px-4 py-3 border-t border-white/10 bg-[#080c14] flex flex-wrap items-center justify-between gap-2">
+      <label class="check-row text-xs text-emerald-300">
+        <input type="checkbox" id="shortsModalEmbedThumb" checked />
+        <span>রেন্ডারের সময় প্রতিটি শর্টসের শুরুতে ০.৮ সেকেন্ডের থাম্বনেইল সংযুক্ত করুন (`thumbnails/shorts/`)</span>
+      </label>
+      <div class="flex items-center gap-2">
+        <button type="button" id="btnCancelShortsModal" class="btn-ghost border border-white/15 text-xs py-1.5 px-3">Cancel</button>
+        <button type="button" id="btnApplyShortsModal" class="btn-primary text-xs py-1.5 px-4">
+          <i data-lucide="check-circle-2" class="w-4 h-4"></i>Apply & Open in Shorts Studio
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== CAPCUT / FILMORA FLOATING CLIP HOVER OVERVIEW TOOLTIP ===================== -->
+<div id="clipHoverTooltip" class="hidden">
+  <div class="relative aspect-video rounded-md overflow-hidden bg-black mb-1.5 border border-white/15">
+    <img id="chtImg" class="w-full h-full object-cover" alt="" />
+    <div id="chtVfxLayer" class="absolute inset-0 pointer-events-none"></div>
+    <span id="chtBadge" class="absolute top-1.5 left-1.5 px-1.5 py-0.5 rounded bg-black/80 text-brand-400 font-mono font-bold text-[9.5px]">Part #1</span>
+    <span id="chtTime" class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/80 text-emerald-300 font-mono text-[9.5px]">0:00.0 – 0:12.0</span>
+  </div>
+  <div id="chtSpeaker" class="text-[10.5px] font-bold text-amber-300 truncate">🎙️ সময়ের সাক্ষী</div>
+  <div id="chtFxInfo" class="text-[9.5px] font-mono text-purple-300 truncate mt-0.5">Motion: Zoom In · VFX: Clean</div>
+  <div id="chtAudInfo" class="text-[9.5px] font-mono text-emerald-400 truncate">🎙️ audio/bn/scene_0001.wav</div>
+  <div id="chtNarration" class="text-[10.5px] text-slate-300 line-clamp-2 mt-1 leading-snug border-t border-white/10 pt-1"></div>
 </div>
 
 <audio id="narAudio" preload="auto"></audio>
+<audio id="partAudio" preload="auto"></audio>
+<audio id="sfxAudio" preload="auto"></audio>
 <audio id="bgmAudio" preload="auto" loop></audio>
-<div id="toast" class="fixed bottom-5 left-1/2 -translate-x-1/2 px-4 py-2 rounded-lg bg-slate-800 ring-1 ring-white/10 text-sm shadow-xl opacity-0 pointer-events-none transition-opacity"></div>
+<div id="toast" class="fixed bottom-5 left-1/2 -translate-x-1/2 px-4 py-2 rounded-lg bg-slate-800 ring-1 ring-white/10 text-xs font-medium shadow-xl opacity-0 pointer-events-none transition-opacity z-50"></div>
 
 <script src="/js/app.js"></script>
 </body>

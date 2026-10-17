@@ -1,0 +1,24 @@
+=== GOOGLE AI STUDIO MUSIC / LYRIA 3.5 PRODUCTION SOUNDTRACK PROMPT ===
+Project: প্রথম শহর / Why Did Humans Build the First City? (Uruk, 6000 Years Ago)
+Target Duration: ~17.5 Minutes (Exact Multi-Act Dynamic Score)
+Format: 48kHz Stereo Master Instrumental (No Vocals, No Lyrics)
+
+[0:00 - 3:30] Act 1: The Memory-Keeper and the World of Villages
+Intensity: 3/10 to 4/10. Mysterious ancient Mesopotamian dawn - a solitary Egyptian ney (reed flute) drifting over a deep resonant low drone, gentle ambient desert wind and dry-earth texture, sparse frame-drum heartbeats. Atmosphere: enigmatic, timeless, prehistoric curiosity, a storyteller opening a 6000-year-old secret. Smooth transition, purely instrumental.
+
+[3:30 - 7:30] Act 2: The Surplus Revolution - Grain, Milk and Roaring Villages
+Intensity: 4/10 to 7/10. Warm awakening rhythm - plucked oud and harp arpeggios growing steadier,给您 harvest-time hand percussion (clay pots, claps, frame drums), a swelling major-mode melody portraying fields of barley and grain pits overflowing with surplus. Slowly accelerating tempo, the mechanical heartbeat of carts and new trade routes. Atmosphere: hopeful, industrious, humanity picking up pace for the first time.
+
+[7:30 - 11:30] Act 3: Uruk Rises - Walls, Temples and the First Kings
+Intensity: 7/10 to 9/10. Majestic full cinematic swell - regal bronze bells, deep war drums, soaring minor-key string ostinato and massed acoustic orchestration depicting ten thousand laborers raising temple platforms and the legendary Walls of Uruk, priest-kings and Gilgamesh-era grandeur. Trumpet-like reed calls echoing over brick ramparts. Atmosphere: monumental, awe-inspiring, the thunder of civilization being born.
+
+[11:30 - 14:40] Act 4: Beer Festival and the Secrets of the Scribes
+Intensity: 5/10 to 7/10. Playful turning warm - bouncy rustic folk rhythm with dayereh tambourine and cheerful flute for the communal beer celebration, then easing into delicate plucked lute and a celesta-like xylophone motif gliding like a reed-stylus across clay - the wonder of the first written words, tiny cuneiform marks becoming memory itself. Atmosphere: joyful, witty, quietly revolutionary.
+
+[14:40 - 17:30] Act 5: Legacy - From the First City to Tomorrow's Metropolis
+Intensity: 6/10 down to 3/10. Inspiring resolution - rich orchestral strings and dignified percussion rising in proud major-key harmonies as the story lands in the modern city skyline, then a contemplative decaying outro of lone ney echoes and soft harp plucks over the ambient desert wind, a long reverberant fade into awe. Atmosphere: wise, reflective, triumphant, deeply moving.
+
+Core Technical Constraints:
+- Purely instrumental, no spoken words, no choir lyrics, no singing voices.
+- 48kHz stereo, broadcast documentary balance, zero sudden volume spikes between sections.
+- Dynamic ducking-ready (-20dB under voiceover narration).

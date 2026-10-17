@@ -1,0 +1,28 @@
+{
+  "flow": "bulk-generic",
+  "about": "Universal bulk template. Duplicate per job. Any site, any payload.",
+  "jobs": [
+    {
+      "id": "example-generic-1",
+      "label": "First bulk item",
+      "siteId": "generic",
+      "url": "https://example.com/form",
+      "retries": 1,
+      "actions": [
+        { "op": "waitFor", "args": { "selectors": ["textarea", "input[type='text']"], "timeout": 15000 } },
+        { "op": "fill", "args": { "selector": "textarea", "text": "First bulk item payload…" } },
+        { "op": "extract", "id": "after", "args": { "fields": { "heading": "h1", "status": "[role='status']" } } }
+      ]
+    },
+    {
+      "id": "example-generic-2",
+      "label": "Second bulk item",
+      "siteId": "generic",
+      "url": "https://example.com/form",
+      "actions": [
+        { "op": "waitFor", "args": { "selectors": ["textarea"] } },
+        { "op": "fill", "args": { "selector": "textarea", "text": "Second bulk item payload…" } }
+      ]
+    }
+  ]
+}

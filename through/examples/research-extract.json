@@ -1,0 +1,18 @@
+{
+  "flow": "research-extract",
+  "about": "Non-video proof of universality: bulk research → extract facts. Same engine, different site.",
+  "jobs": [
+    {
+      "id": "search-1",
+      "label": "Search: topic background",
+      "siteId": "generic",
+      "url": "https://www.google.com/",
+      "actions": [
+        { "op": "waitFor", "args": { "selectors": ["textarea[name='q']", "input[name='q']"] } },
+        { "op": "fill", "args": { "selector": "textarea[name='q']", "text": "Topic background + sources", "submitKey": "Enter" } },
+        { "op": "sleep", "args": { "ms": 2000 } },
+        { "op": "extract", "id": "results", "args": { "fields": { "top": "h3", "body": "body" } } }
+      ]
+    }
+  ]
+}

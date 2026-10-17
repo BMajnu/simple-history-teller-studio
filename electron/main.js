@@ -304,7 +304,7 @@ async function createMain() {
   await ensureServer();
   await ensureDaemon();
   mainWin = new BrowserWindow({
-    width: 1600, height: 950, title: 'Simple Itihash Production Studio',
+    width: 1600, height: 950, title: 'Simple Studio (সিম্পল স্টুডিও)',
     webPreferences: {},
   });
   mainWin.loadURL(STUDIO_URL);
@@ -344,7 +344,7 @@ async function createMain() {
     }, 2000);
   } catch {}
   Menu.setApplicationMenu(Menu.buildFromTemplate([
-    { label: 'Studio', submenu: [{ role: 'reload' }, { type: 'separator' }, { label: 'Quit', click: () => app.quit() }] },
+    { label: 'Simple Studio', submenu: [{ role: 'reload' }, { type: 'separator' }, { label: 'Quit', click: () => app.quit() }] },
     {
       label: 'Automation Browser', submenu: [
         { label: 'Show / Hide browser (watch automation)', click: toggleAuto },

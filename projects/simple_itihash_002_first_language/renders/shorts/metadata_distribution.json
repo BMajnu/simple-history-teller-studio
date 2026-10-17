@@ -1,51 +1,620 @@
 {
   "project": "simple_itihash_002_first_language",
-  "generatedAt": "2026-10-10T11:59:43.911Z",
-  "distributionPlan": {
-    "longForm": [
-      "YouTube (Full Landscape 16:9)",
-      "Facebook In-Stream Video (Full Landscape 16:9)"
-    ],
-    "shortForm": [
-      "TikTok (9:16 Vertical)",
-      "Instagram Reels (9:16 Vertical)",
-      "YouTube Shorts (9:16 Vertical)",
-      "Facebook Reels (9:16 Vertical)"
-    ]
-  },
+  "title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+  "generatedAt": "2026-10-17T14:09:03.715Z",
+  "thumbnailsFolder": "projects/simple_itihash_002_first_language/thumbnails/",
   "parts": [
     {
       "lang": "bn",
       "part": 1,
+      "sceneRange": [
+        1,
+        7
+      ],
       "filename": "short_bn_part1.mp4",
-      "duration": 78.4,
-      "title": "Historical Mystery [পর্ব 1]",
-      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 1] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "reels_caption": "🔥 Historical Mystery [পর্ব 1]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "youtube_shorts_title": "Historical Mystery [পর্ব 1] 🏛️ #Shorts #History",
-      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+      "thumbnail": "thumbnails/shorts/short_part_01_bn.png",
+      "duration": 77.3,
+      "title": "এক লাখ বছর কেউ কথা বলেনি!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "এক লাখ বছর কেউ কথা বলেনি! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "এক লাখ বছর কেউ কথা বলেনি!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "এক লাখ বছর কেউ কথা বলেনি! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
     },
     {
       "lang": "bn",
       "part": 2,
+      "sceneRange": [
+        8,
+        14
+      ],
       "filename": "short_bn_part2.mp4",
-      "duration": 73.4,
-      "title": "Historical Mystery [পর্ব 2]",
-      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 2] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "reels_caption": "🔥 Historical Mystery [পর্ব 2]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "youtube_shorts_title": "Historical Mystery [পর্ব 2] 🏛️ #Shorts #History",
-      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+      "thumbnail": "thumbnails/shorts/short_part_02_bn.png",
+      "duration": 75.4,
+      "title": "রাজ় লুকায় শিশুর বাবলে!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "রাজ় লুকায় শিশুর বাবলে! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "রাজ় লুকায় শিশুর বাবলে!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "রাজ় লুকায় শিশুর বাবলে! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
     },
     {
       "lang": "bn",
       "part": 3,
+      "sceneRange": [
+        15,
+        21
+      ],
       "filename": "short_bn_part3.mp4",
-      "duration": 46.2,
-      "title": "Historical Mystery [পর্ব 3]",
-      "tiktok_caption": "🏛️ Historical Mystery [পর্ব 3] | সম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "reels_caption": "🔥 Historical Mystery [পর্ব 3]\n\nসম্পূর্ণ ভিডিও দেখুন YouTube-এ @SimpleHistoryTellerBangla\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
-      "youtube_shorts_title": "Historical Mystery [পর্ব 3] 🏛️ #Shorts #History",
-      "description_cta": "Watch the full 15-minute documentary with complete animation on YouTube: @SimpleHistoryTellerBangla"
+      "thumbnail": "thumbnails/shorts/short_part_03_bn.png",
+      "duration": 79.6,
+      "title": "ভাষা নিয়ে কথা বললেই বহিষ্কার!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "ভাষা নিয়ে কথা বললেই বহিষ্কার! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "ভাষা নিয়ে কথা বললেই বহিষ্কার!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "ভাষা নিয়ে কথা বললেই বহিষ্কার! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 4,
+      "sceneRange": [
+        22,
+        28
+      ],
+      "filename": "short_bn_part4.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_04_bn.png",
+      "duration": 81.3,
+      "title": "৪টি হাস্যকর তত্ত্ব — সব ভুল!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "৪টি হাস্যকর তত্ত্ব — সব ভুল! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "৪টি হাস্যকর তত্ত্ব — সব ভুল!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "৪টি হাস্যকর তত্ত্ব — সব ভুল! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 5,
+      "sceneRange": [
+        29,
+        35
+      ],
+      "filename": "short_bn_part5.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_05_bn.png",
+      "duration": 72.7,
+      "title": "ফারাওর গোপন পাহাড়-পরীক্ষা!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "ফারাওর গোপন পাহাড়-পরীক্ষা! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "ফারাওর গোপন পাহাড়-পরীক্ষা!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "ফারাওর গোপন পাহাড়-পরীক্ষা! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 6,
+      "sceneRange": [
+        36,
+        42
+      ],
+      "filename": "short_bn_part6.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_06_bn.png",
+      "duration": 75.8,
+      "title": "শিশু জুড়ে বললো 'বেকোস'!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "শিশু জুড়ে বললো 'বেকোস'! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "শিশু জুড়ে বললো 'বেকোস'!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "শিশু জুড়ে বললো 'বেকোস'! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 7,
+      "sceneRange": [
+        43,
+        49
+      ],
+      "filename": "short_bn_part7.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_07_bn.png",
+      "duration": 74.8,
+      "title": "আকবরের নীরব দাই-প্রাসাদ!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "আকবরের নীরব দাই-প্রাসাদ! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "আকবরের নীরব দাই-প্রাসাদ!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "আকবরের নীরব দাই-প্রাসাদ! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 8,
+      "sceneRange": [
+        50,
+        56
+      ],
+      "filename": "short_bn_part8.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_08_bn.png",
+      "duration": 73.2,
+      "title": "হাড়ের DNA-তে প্রথম ভাষা!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "হাড়ের DNA-তে প্রথম ভাষা! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "হাড়ের DNA-তে প্রথম ভাষা!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "হাড়ের DNA-তে প্রথম ভাষা! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 9,
+      "sceneRange": [
+        57,
+        63
+      ],
+      "filename": "short_bn_part9.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_09_bn.png",
+      "duration": 74.8,
+      "title": "নিয়ান্ডার্থাল হাসত পারত?",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "নিয়ান্ডার্থাল হাসত পারত? | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "নিয়ান্ডার্থাল হাসত পারত?\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "নিয়ান্ডার্থাল হাসত পারত? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 10,
+      "sceneRange": [
+        64,
+        70
+      ],
+      "filename": "short_bn_part10.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_10_bn.png",
+      "duration": 76.9,
+      "title": "ক্লিক-ভাষা: গোপন জন্মসূত্র?",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "ক্লিক-ভাষা: গোপন জন্মসূত্র? | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "ক্লিক-ভাষা: গোপন জন্মসূত্র?\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "ক্লিক-ভাষা: গোপন জন্মসূত্র? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 11,
+      "sceneRange": [
+        71,
+        77
+      ],
+      "filename": "short_bn_part11.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_11_bn.png",
+      "duration": 76,
+      "title": "অন্ধকারে ইশারা মরে যায়!",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "অন্ধকারে ইশারা মরে যায়! | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "অন্ধকারে ইশারা মরে যায়!\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "অন্ধকারে ইশারা মরে যায়! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "bn",
+      "part": 12,
+      "sceneRange": [
+        78,
+        84
+      ],
+      "filename": "short_bn_part12.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_12_bn.png",
+      "duration": 73,
+      "title": "আপনার প্রথম শব্দ কোনটি?",
+      "main_video_title": "মানুষের প্রথম ভাষা কী ছিল? (ফারাও এবং আকবরের নিষিদ্ধ পরীক্ষা)",
+      "tiktok_caption": "আপনার প্রথম শব্দ কোনটি? | সম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "reels_caption": "আপনার প্রথম শব্দ কোনটি?\n\nসম্পূর্ণ ভিডিও দেখুন চ্যানেলে • SUBSCRIBE\n\n#ইতিহাস #অ্যানিমেশন #রহস্য #banglahistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "আপনার প্রথম শব্দ কোনটি? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerBangla"
+    },
+    {
+      "lang": "en",
+      "part": 1,
+      "sceneRange": [
+        1,
+        7
+      ],
+      "filename": "short_en_part1.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_01_en.png",
+      "duration": 77,
+      "title": "Nobody Spoke For 100,000 Years!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Nobody Spoke For 100,000 Years! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Nobody Spoke For 100,000 Years!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Nobody Spoke For 100,000 Years! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 2,
+      "sceneRange": [
+        8,
+        14
+      ],
+      "filename": "short_en_part2.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_02_en.png",
+      "duration": 75.3,
+      "title": "The Answer Hides in Baby Babble!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "The Answer Hides in Baby Babble! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "The Answer Hides in Baby Babble!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "The Answer Hides in Baby Babble! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 3,
+      "sceneRange": [
+        15,
+        21
+      ],
+      "filename": "short_en_part3.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_03_en.png",
+      "duration": 74.7,
+      "title": "Once, Studying Language Was Banned!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Once, Studying Language Was Banned! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Once, Studying Language Was Banned!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Once, Studying Language Was Banned! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 4,
+      "sceneRange": [
+        22,
+        28
+      ],
+      "filename": "short_en_part4.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_04_en.png",
+      "duration": 79.4,
+      "title": "4 Hilarious Origin Theories — All Wrong!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "4 Hilarious Origin Theories — All Wrong! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "4 Hilarious Origin Theories — All Wrong!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "4 Hilarious Origin Theories — All Wrong! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 5,
+      "sceneRange": [
+        29,
+        35
+      ],
+      "filename": "short_en_part5.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_05_en.png",
+      "duration": 76.2,
+      "title": "Two Kids, One Secret Cliff Experiment!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Two Kids, One Secret Cliff Experiment! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Two Kids, One Secret Cliff Experiment!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Two Kids, One Secret Cliff Experiment! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 6,
+      "sceneRange": [
+        36,
+        42
+      ],
+      "filename": "short_en_part6.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_06_en.png",
+      "duration": 75.2,
+      "title": "The Child Cried: 'Bekos'!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "The Child Cried: 'Bekos'! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "The Child Cried: 'Bekos'!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "The Child Cried: 'Bekos'! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 7,
+      "sceneRange": [
+        43,
+        49
+      ],
+      "filename": "short_en_part7.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_07_en.png",
+      "duration": 76.4,
+      "title": "Akbar's Palace of Silent Nurses!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Akbar's Palace of Silent Nurses! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Akbar's Palace of Silent Nurses!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Akbar's Palace of Silent Nurses! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 8,
+      "sceneRange": [
+        50,
+        56
+      ],
+      "filename": "short_en_part8.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_08_en.png",
+      "duration": 77.9,
+      "title": "Bone DNA Rewrites First Speech!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Bone DNA Rewrites First Speech! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Bone DNA Rewrites First Speech!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Bone DNA Rewrites First Speech! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 9,
+      "sceneRange": [
+        57,
+        63
+      ],
+      "filename": "short_en_part9.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_09_en.png",
+      "duration": 77.6,
+      "title": "Did Neanderthals Have Humor?",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Did Neanderthals Have Humor? | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Did Neanderthals Have Humor?\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Did Neanderthals Have Humor? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 10,
+      "sceneRange": [
+        64,
+        70
+      ],
+      "filename": "short_en_part10.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_10_en.png",
+      "duration": 74.3,
+      "title": "Clicks! The Secret First Language?",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Clicks! The Secret First Language? | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Clicks! The Secret First Language?\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Clicks! The Secret First Language? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 11,
+      "sceneRange": [
+        71,
+        77
+      ],
+      "filename": "short_en_part11.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_11_en.png",
+      "duration": 78.6,
+      "title": "Gestures Die in the Dark Night!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Gestures Die in the Dark Night! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Gestures Die in the Dark Night!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Gestures Die in the Dark Night! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "en",
+      "part": 12,
+      "sceneRange": [
+        78,
+        84
+      ],
+      "filename": "short_en_part12.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_12_en.png",
+      "duration": 80.3,
+      "title": "Teach Us Your First Word!",
+      "main_video_title": "What Was the First Language Ever Spoken? (The Forbidden Experiments of Mad Kings)",
+      "tiktok_caption": "Teach Us Your First Word! | Watch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "reels_caption": "Teach Us Your First Word!\n\nWatch Full Story on Channel • SUBSCRIBE\n\n#history #animation #ancienthistory #mystery #shorts #reels #tiktok",
+      "youtube_shorts_title": "Teach Us Your First Word! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerOfficial"
+    },
+    {
+      "lang": "hi",
+      "part": 1,
+      "sceneRange": [
+        1,
+        7
+      ],
+      "filename": "short_hi_part1.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_01_hi.png",
+      "duration": 89.4,
+      "title": "एक लाख साल कोई नहीं बोलता था!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "एक लाख साल कोई नहीं बोलता था! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "एक लाख साल कोई नहीं बोलता था!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "एक लाख साल कोई नहीं बोलता था! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 2,
+      "sceneRange": [
+        8,
+        14
+      ],
+      "filename": "short_hi_part2.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_02_hi.png",
+      "duration": 84.1,
+      "title": "राज़ है शिशु की बबल में!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "राज़ है शिशु की बबल में! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "राज़ है शिशु की बबल में!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "राज़ है शिशु की बबल में! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 3,
+      "sceneRange": [
+        15,
+        21
+      ],
+      "filename": "short_hi_part3.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_03_hi.png",
+      "duration": 82.7,
+      "title": "भाषा पर रिसर्च था प्रतिबंधित!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "भाषा पर रिसर्च था प्रतिबंधित! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "भाषा पर रिसर्च था प्रतिबंधित!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "भाषा पर रिसर्च था प्रतिबंधित! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 4,
+      "sceneRange": [
+        22,
+        28
+      ],
+      "filename": "short_hi_part4.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_04_hi.png",
+      "duration": 86.2,
+      "title": "4 मज़ेदार थ्योरी — सब गलत!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "4 मज़ेदार थ्योरी — सब गलत! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "4 मज़ेदार थ्योरी — सब गलत!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "4 मज़ेदार थ्योरी — सब गलत! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 5,
+      "sceneRange": [
+        29,
+        35
+      ],
+      "filename": "short_hi_part5.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_05_hi.png",
+      "duration": 85.5,
+      "title": "दो शिशु, एक गुप्त प्रयोग!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "दो शिशु, एक गुप्त प्रयोग! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "दो शिशु, एक गुप्त प्रयोग!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "दो शिशु, एक गुप्त प्रयोग! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 6,
+      "sceneRange": [
+        36,
+        42
+      ],
+      "filename": "short_hi_part6.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_06_hi.png",
+      "duration": 84.5,
+      "title": "बच्चे ने कहा: 'बेकोस'!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "बच्चे ने कहा: 'बेकोस'! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "बच्चे ने कहा: 'बेकोस'!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "बच्चे ने कहा: 'बेकोस'! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 7,
+      "sceneRange": [
+        43,
+        49
+      ],
+      "filename": "short_hi_part7.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_07_hi.png",
+      "duration": 82.7,
+      "title": "अकबर का मौन दाइयों का महल!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "अकबर का मौन दाइयों का महल! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "अकबर का मौन दाइयों का महल!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "अकबर का मौन दाइयों का महल! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 8,
+      "sceneRange": [
+        50,
+        56
+      ],
+      "filename": "short_hi_part8.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_08_hi.png",
+      "duration": 89.4,
+      "title": "हड्डी के DNA में पहली भाषा!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "हड्डी के DNA में पहली भाषा! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "हड्डी के DNA में पहली भाषा!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "हड्डी के DNA में पहली भाषा! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 9,
+      "sceneRange": [
+        57,
+        63
+      ],
+      "filename": "short_hi_part9.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_09_hi.png",
+      "duration": 83,
+      "title": "क्या निएंडरथल हँस पाते थे?",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "क्या निएंडरथल हँस पाते थे? | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "क्या निएंडरथल हँस पाते थे?\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "क्या निएंडरथल हँस पाते थे? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 10,
+      "sceneRange": [
+        64,
+        70
+      ],
+      "filename": "short_hi_part10.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_10_hi.png",
+      "duration": 83.1,
+      "title": "क्लिक! गुप्त प्रथम भाषा?",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "क्लिक! गुप्त प्रथम भाषा? | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "क्लिक! गुप्त प्रथम भाषा?\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "क्लिक! गुप्त प्रथम भाषा? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 11,
+      "sceneRange": [
+        71,
+        77
+      ],
+      "filename": "short_hi_part11.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_11_hi.png",
+      "duration": 85,
+      "title": "अंधेरी रात में इशारे मर जाते!",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "अंधेरी रात में इशारे मर जाते! | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "अंधेरी रात में इशारे मर जाते!\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "अंधेरी रात में इशारे मर जाते! #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
+    },
+    {
+      "lang": "hi",
+      "part": 12,
+      "sceneRange": [
+        78,
+        84
+      ],
+      "filename": "short_hi_part12.mp4",
+      "thumbnail": "thumbnails/shorts/short_part_12_hi.png",
+      "duration": 82.5,
+      "title": "आपका पहला शब्द क्या था?",
+      "main_video_title": "इंसानों की पहली भाषा कौन सी थी? (राजाओं के भयानक गुप्त प्रयोग)",
+      "tiktok_caption": "आपका पहला शब्द क्या था? | पूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "reels_caption": "आपका पहला शब्द क्या था?\n\nपूरी कहानी देखिए चैनल पर • SUBSCRIBE\n\n#इतिहास #एनिमेशन #रोचक_तथ्य #hindihistory #shorts #reels #tiktok",
+      "youtube_shorts_title": "आपका पहला शब्द क्या था? #Shorts #History",
+      "description_cta": "Watch the full documentary on YouTube: @SimpleHistoryTellerHindi"
     }
   ]
 }

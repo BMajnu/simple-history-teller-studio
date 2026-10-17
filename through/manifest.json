@@ -1,0 +1,57 @@
+{
+  "manifest_version": 3,
+  "name": "Through – Simple Automation",
+  "version": "0.1.0",
+  "description": "Universal browser + workflow automation bridge. Domain-agnostic: any site, any task (bulk forms, media gen, uploads, research, QA). No hard-coded project.",
+  "icons": {
+    "16": "src/sidepanel/icon16.png",
+    "48": "src/sidepanel/icon48.png",
+    "128": "src/sidepanel/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "src/sidepanel/icon16.png",
+      "48": "src/sidepanel/icon48.png"
+    },
+    "default_title": "Through – Simple Automation"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "scripting",
+    "downloads",
+    "alarms",
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://127.0.0.1/*"
+  ],
+  "background": {
+    "service_worker": "src/background/engine.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*/*"],
+      "js": ["src/content/content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    },
+    {
+      "matches": ["https://flow.google.com/*", "https://labs.google/*"],
+      "js": ["src/sites/flow/flow-content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["src/injected/pageBridge.js"],
+      "matches": ["https://*/*"]
+    }
+  ],
+  "side_panel": {
+    "default_path": "src/sidepanel/sidepanel.html"
+  }
+}

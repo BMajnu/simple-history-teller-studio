@@ -1,0 +1,28 @@
+{
+  "project_id": "simple_itihash_004_first_city",
+  "status": "READY_FOR_AGENT_EXECUTION",
+  "updated_at": "2026-10-16T20:38:53.314Z",
+  "daemon_endpoint": "http://127.0.0.1:9333",
+  "cdp_endpoint": "http://127.0.0.1:9224",
+  "cli_commands": {
+    "tts_generation": "node tools/auto_account_and_model_switching_tts.js simple_itihash_004_first_city",
+    "image_batch": "node tools/parallel_batch_image_generator.js simple_itihash_004_first_city",
+    "video_clips": "node tools/generate_all_ai_videos.js simple_itihash_004_first_city",
+    "bgm_lyria": "node tools/generate_aistudio_bgm.js simple_itihash_004_first_city",
+    "master_render": "node tools/dual_render_exporter.js simple_itihash_004_first_city"
+  },
+  "files_written": [
+    "projects/simple_itihash_004_first_city/project.json",
+    "projects/simple_itihash_004_first_city/CHARACTER_VOICE_MAP.json",
+    "projects/simple_itihash_004_first_city/AISTUDIO_TTS_SCREENPLAY.txt",
+    "projects/simple_itihash_004_first_city/FLOW_BATCH_PROMPTS.txt",
+    "projects/simple_itihash_004_first_city/FLOW_VEO_VIDEO_PROMPT.txt"
+  ],
+  "stats": {
+    "total_scenes": 88,
+    "total_characters": 5,
+    "video_clips_count": 16,
+    "static_images_count": 72,
+    "total_duration_sec": 933.88
+  }
+}

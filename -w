@@ -1,0 +1,1 @@
+{"ok":true,"studio":"Simple Studio","ffmpeg":"D:\\Developing Projects\\Itihash Explainer Video\\bin\\ffmpeg.exe","gpu":{"name":"NVIDIA GeForce GTX 1050 Ti (D3D11 MFT)","isGpu":true,"isApu":false,"enc":["-c:v","h264_mf","-b:v","6500k","-pix_fmt","yuv420p","-r",60,"-an"]}}

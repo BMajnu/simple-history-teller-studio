@@ -94,3 +94,11 @@ studio.log
 Thumbs.db
 *cookies*.json
 *session*.json
+.chrome_cdp/
+_desktop_profile/
+.omc/
+projects/*/fleet_logs/
+projects/*/audio/**/*.png
+*_debug*.png
+tools/raw_response.txt
+

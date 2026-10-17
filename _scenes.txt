@@ -1,0 +1,84 @@
+1 | 12.0 | 10.3 | 10.5 | 12.0 | আমি সময়ের রক্ষক ইতিহাসের বিশাল গ্রন্থাগারে দাঁড়িয়ে গ | I am the Time Chronicler guarding a cosm
+2 | 14.2 | 10.5 | 11.2 | 14.2 | গভীর রাতে আমার লাইব্রেরিতে ফিসফিস করে একটাই প্রশ্ন ভাসে | Late at night my old library whispers on
+3 | 11.3 | 11.3 | 9.4 | 11.2 | আজ তুমি বন্ধুদের সঙ্গে আড্ডায় কিংবা স্মার্টফোনে প্রতিদ | Daily you gossip with friends in chat or
+4 | 12.2 | 10.9 | 11.3 | 12.2 | একটি জরুরি কথা হলো প্রাচীন পাণ্ডুলিপি জীবাশ্ম ও খনন থেক | One note is that we present only convent
+5 | 11.9 | 11.5 | 10.8 | 11.9 | কিন্তু এক লাখ বছর আগে পুরো পৃথিবীতে কোনো বই গান বা কথা  | But one hundred thousand years ago plane
+6 | 13.4 | 9.9 | 11.2 | 13.4 | তাহলে সেই মহাজাগতিক নীরবতা ভেঙে ভোরের আলোয় আদিম মানুষে | So think how that vast cosmic silence fi
+7 | 11.3 | 9.7 | 9.4 | 11.3 | আফ্রিকার সাভানায় ভারভেট বানর চিল দেখলে তীক্ষ্ণ চিৎকার  | In dry African savanna a vervet monkey g
+8 | 11.1 | 9.8 | 9.6 | 11.1 | কিন্তু ইতিহাসে কোনো বানর কখনো বলতে পারেনি গতকাল নদীর ওপ | But no monkey in history has ever gossip
+9 | 11.8 | 11.8 | 9.0 | 10.3 | জন্মের প্রথম তিন বছরে শিশুর মস্তিষ্কে প্রতি সেকেন্ডে লক | In the first three years a baby brain ra
+10 | 12.0 | 11.3 | 10.5 | 12.0 | প্রাণীদের ডাক কেবল সামনের বিপদের সংকেত দেয় তারা অতীতের | Animal calls signal only present danger 
+11 | 11.7 | 9.4 | 10.6 | 11.7 | দুই লাখ বছর আগের আফ্রিকার সাভানায় দুই শিকারি শিকারের খ | Two hundred thousand years ago in Africa
+12 | 11.4 | 9.9 | 10.4 | 11.4 | শিকার পালিয়ে যাওয়ার ভয়ে সে জোরে শব্দ করতে পারছিল না  | Afraid the prey would flee he could not 
+13 | 13.2 | 9.0 | 10.4 | 13.2 | এমন হাস্যকর ভুল বোঝাবুঝিতে শিকার হাতছাড়া হওয়া বা পিষ্ | Such comic confusion could bring starvat
+14 | 11.5 | 11.1 | 11.5 | 11.0 | ছয় মাস বয়সে শিশুর অর্থহীন বকবকানি আসলে সর্বজনীন ধ্বনি | At six months a baby babble is a global 
+15 | 11.6 | 11.4 | 11.0 | 11.6 | প্রায় পাঁচ হাজার বছর ধরে প্রাচীন সমাজগুলো দৃঢ়ভাবে বিশ | For five thousand years ancient societie
+16 | 11.4 | 10.8 | 10.2 | 11.4 | ব্যাবিলনের সুউচ্চ মিনারের রূপকথায় অহংকারী মানুষ আকাশ ছ | The old Babel myth says arrogant builder
+17 | 11.2 | 11.2 | 10.3 | 11.1 | কিন্তু রূপকথা সরিয়ে রাখলে আসল বিজ্ঞান কী বলে তা ভাবো ভ | But keeping myths aside think what real 
+18 | 10.8 | 9.2 | 9.7 | 10.8 | ঊনবিংশ শতকে ইউরোপের প্যারিস সম্মেলনে ভাষার জন্ম নিয়ে গ | By the mid nineteenth century debates ov
+19 | 11.7 | 10.6 | 10.4 | 11.7 | অবশেষে ১৮৬৬ সালে প্যারিসের বিশ্ববিখ্যাত ভাষাবিজ্ঞান সমি | Finally in eighteen sixty six the presti
+20 | 13.7 | 13.7 | 10.1 | 11.0 | সেই ২ নম্বর ধারায় ঘোষণা করা হয়েছিল এখন থেকে ভাষার উৎপ | That famous Article Two declared all pap
+21 | 11.9 | 9.6 | 9.8 | 11.9 | জার্মান ভাষাবিদ ম্যাক্স মুলার ঊনবিংশ শতকের প্রচলিত পাঁচ | German philologist Max Muller openly moc
+22 | 12.1 | 10.0 | 12.1 | 12.1 | প্রথমটি হলো বাউ ওয়াউ তত্ত্ব যেখানে বলা হয়েছিল আদিম মা | First came the Bow Wow Theory which clai
+23 | 12.2 | 12.2 | 10.7 | 12.2 | দ্বিতীয়টি হলো পুহ পুহ তত্ত্ব যেখানে বলা হয়েছিল পাথরে  | Second came the Pooh Pooh Theory which a
+24 | 11.8 | 10.6 | 10.5 | 11.8 | মরুভূমির বালিঝড়ে ছাগল সামলাতে সামলাতে আমি দুই বছর একটা | For two silent years I herded goats thro
+25 | 12.1 | 12.1 | 11.5 | 12.0 | তৃতীয়টি হলো ডিং ডং তত্ত্ব যেখানে দাবি করা হয়েছিল প্রক | Third came the Ding Dong Theory which cl
+26 | 12.2 | 11.5 | 10.2 | 12.2 | চতুর্থটি সবচেয়ে বাস্তব ইয়ো হে হো তত্ত্ব যেখানে আদিম য | Fourth stood the realistic Yo He Ho Theo
+27 | 11.4 | 10.3 | 10.3 | 11.4 | পাথরটি পাহাড়চূড়ায় তুলে সেই সমবেত উল্লাস ও ছন্দবদ্ধ গ | After dragging that boulder to the rocky
+28 | 11.3 | 11.3 | 10.9 | 11.2 | দুই বছরের নীরব লালনের পর শিশুদের মুখে শোনা বেকস ধ্বনিকে | After two silent years the bekos cry fro
+29 | 12.0 | 10.4 | 10.9 | 12.0 | শুরুর দিকের মজার তত্ত্বগুলো শুনতে ভালো লাগলেও বড় দুর্ব | These early theories sound funny but the
+30 | 10.5 | 9.7 | 9.6 | 10.5 | গলার গোঙানি দিয়ে পাথর টানার নির্দেশ দেওয়া গেলেও আগামী | Rhythmic grunts can help strong men drag
+31 | 13.4 | 11.0 | 9.8 | 13.4 | আদি ভাষার সত্য খুঁজতে প্রাচীনকালের ক্ষমতালোভী রাজারা নব | To discover the true mother tongue ancie
+32 | 11.6 | 8.6 | 11.0 | 11.6 | খ্রিস্টপূর্ব সপ্তম শতকে মিশরের ফারাও প্রথম সামটিক দৃঢ়ভ | In the seventh century BC Pharaoh Psamti
+33 | 11.4 | 8.6 | 10.2 | 11.4 | নিজের দাবির প্রমাণ পেতে ফারাও তখন গরিব পরিবার থেকে দুটি | To get proof for his claim in six forty 
+34 | 12.0 | 11.7 | 10.5 | 12.0 | শিকারি দলপতি হিসেবে আমি জানি নীরবতায় বেড়ে ওঠা শিশু শি | As a hunt leader I know a child raised i
+35 | 11.2 | 9.4 | 10.9 | 11.2 | রাজার কঠোর নির্দেশ ছিল একাকী পাহাড়ি কুটিরে ছাগলের দুধ  | The strict royal order was to raise the 
+36 | 12.8 | 10.5 | 11.1 | 12.8 | দুই বছর নীরবতায় কাটার পর এক সকালে রাখাল কাঠের দরজা খুল | After two silent years passed one mornin
+37 | 11.0 | 10.6 | 8.9 | 11.0 | হতভম্ব রাখাল তখনই দ্রুত খবর পাঠাল রাজপ্রাসাদে আর ফারাও  | The stunned shepherd rushed the news to 
+38 | 11.3 | 10.4 | 10.7 | 11.3 | প্রাচীন পুঁথি ঘেঁটে পণ্ডিতরা জানালেন বেকস মিশরীয় শব্দ  | After checking ancient manuscripts schol
+39 | 12.2 | 9.4 | 9.6 | 12.2 | ত্রয়োদশ শতকে সিসিলির পবিত্র রোমান সম্রাট দ্বিতীয় ফ্রে | In the thirteenth century Holy Roman Emp
+40 | 12.1 | 9.8 | 9.8 | 12.1 | সম্রাট ধাত্রীদের কঠোর নির্দেশ দিলেন শিশুদের খাওয়াবে ও  | The emperor gave foster mothers strict r
+41 | 10.9 | 10.0 | 10.4 | 10.9 | ফলাফল ছিল ভয়াবহ হৃদয়বিদারক কারণ স্নেহের স্পর্শ ও ভালো | The outcome was tragic and heartbreaking
+42 | 11.8 | 11.8 | 11.5 | 10.9 | আমার ফতেহপুরের দরবারে পণ্ডিতরা যখন ভাষার উৎস নিয়ে তর্ক | When my Fatehpur scholars argued endless
+43 | 10.7 | 10.1 | 10.7 | 10.5 | চৌদ্দশো তিরানব্বই সালে স্কটল্যান্ডের রাজা চতুর্থ জেমস দ | In fourteen ninety three King James the 
+44 | 11.4 | 9.3 | 10.3 | 11.4 | কয়েক বছর পর রাজা গর্ব করে দাবি করলেন কথা বলার বয়সে পৌ | Years later the king proudly claimed tha
+45 | 12.2 | 12.2 | 9.8 | 11.1 | স্কটিশ রাজা জেমস ভেবেছিলেন নির্জন দ্বীপের শিশুরা ঈশ্বরে | Scottish King James hoped lonely island 
+46 | 11.6 | 10.6 | 9.5 | 11.6 | আধুনিক ঐতিহাসিকরা এই দাবিকে ধর্মীয় অহংকারের ফসল বলেন ক | Modern historians dismiss this claim as 
+47 | 12.3 | 8.7 | 10.3 | 12.3 | সবচেয়ে নির্ভরযোগ্য পরীক্ষাটি করেছিলেন মুঘল সম্রাট মহান | The most reliable isolation test in Indi
+48 | 11.3 | 9.6 | 11.3 | 11.3 | পনেরোশো উনআশি সালে আকবর ফতেহপুর সিক্রিতে গূং মহল নামে স | In fifteen seventy nine Akbar built a lo
+49 | 11.2 | 11.0 | 11.2 | 11.2 | চার বছর পর আকবর মহলে ঢুকে দেখলেন শিশুরা আরবি ফারসি বা স | Four years later Akbar entered the palac
+50 | 12.3 | 9.4 | 10.2 | 12.3 | আকবর চূড়ান্তভাবে প্রমাণ করলেন ভাষা আকাশ থেকে পাওয়া কো | In fifteen eighty three Akbar proved con
+51 | 13.2 | 12.2 | 12.0 | 13.2 | ফতেহপুরের গূং মহলে ত্রিশ শিশুকে বোবা ধাত্রীদের হাতে চার | Keeping thirty babies with mute nurses f
+52 | 12.2 | 9.6 | 9.6 | 12.2 | এবার প্রশ্ন হলো জীববিজ্ঞান কী বলে অর্থাৎ মানুষের শরীর ক | The next burning question is exactly wha
+53 | 11.5 | 9.3 | 10.9 | 11.5 | উনিশশো তিরাশি সালে ইসরায়েলের কেবারা গুহায় বিজ্ঞানীরা  | In nineteen eighty three scientists deep
+54 | 11.9 | 9.6 | 10.7 | 11.9 | পরীক্ষায় দেখা গেল সেই হাড় আধুনিক মানুষের গলার হাড়ের  | Modern lab tests showed that ancient bon
+55 | 13.1 | 10.5 | 10.3 | 13.1 | হাড়ের রহস্যের পাশাপাশি উনিশশো নব্বইয়ের দশকে লন্ডনের এ | Beyond fossil bones nineteen nineties re
+56 | 12.0 | 9.4 | 11.0 | 12.0 | এই FOXP2 জিনে সামান্য ত্রুটি দেখা দিলে মানুষের মস্তিষ্ক | Without this vital FOXP2 gene on chromos
+57 | 13.2 | 11.5 | 11.0 | 13.2 | সবচেয়ে চমকপ্রদ সত্য হলো বিলুপ্ত নিয়ান্ডারথালদের শরীরে | When scientists read Neanderthal DNA, th
+58 | 10.9 | 10.8 | 10.4 | 10.9 | শিম্পাঞ্জিদের স্বরযন্ত্র গলার অনেক উপরে থাকে বলে তারা এ | Wild chimpanzees in dense forests keep t
+59 | 12.0 | 9.6 | 10.6 | 12.0 | কথা বলার সুবিধার জন্য মানুষের স্বরযন্ত্র গলার অনেক নিচে | In humans the voice box dropped much low
+60 | 11.4 | 10.2 | 11.4 | 11.1 | কেবারা গুহার ষাট হাজার বছরের পুরোনো হাইঅয়েড হাড় হাতে  | Holding the sixty thousand year old hyoi
+61 | 10.6 | 8.6 | 10.4 | 10.6 | বিবর্তন এই মারাত্মক শ্বাসরোধের ঝুঁকি কেবল তখনই মেনে নিয | Evolution over millions of years accepte
+62 | 12.2 | 11.0 | 10.7 | 12.2 | প্রত্নবিদ হিসেবে আমি বলছি ক্রোমোজম সাতের এফওএক্সপি টু জ | As an archaeologist I say a fault in the
+63 | 10.0 | 10.0 | 10.0 | 9.7 | তাহলে প্রাচীন আফ্রিকার মাটিতে প্রথম ভাষা শুনতে কেমন ছিল | To imagine the sound of the first langua
+64 | 11.0 | 10.8 | 9.6 | 11.0 | তাদের খোয়েসান ভাষায় কথা বলার সময় জিভ তালুতে চাপ দিয় | Their Khoisan language uses sharp suctio
+65 | 11.6 | 11.2 | 11.6 | 11.6 | অনেক ভাষাবিদ মনে করেন মানুষের প্রথম ভাষা কোনো মিষ্টি গা | More than fifty linguists believe human 
+66 | 10.5 | 10.0 | 10.5 | 10.2 | ২০১১ সালে বিজ্ঞানী কুয়েন্টিন অ্যাটকিনসন বিশ্বখ্যাত সায | In 2011 British scientist Quentin Atkins
+67 | 11.7 | 9.4 | 9.0 | 11.7 | তিনি দেখতে পান দক্ষিণ আফ্রিকার ক্লিক ভাষাগুলোতে শতাধিক  | He found that ancient click languages in
+68 | 11.3 | 10.9 | 10.8 | 11.3 | আজ পৃথিবীতে সাত হাজার ভাষা টিকে আছে, আর প্রতিটি ভাষার ধ | Today seven thousand tongues survive on 
+69 | 10.7 | 10.4 | 8.8 | 10.7 | কিন্তু আফ্রিকা থেকে মানুষ যত দূরে সরে গেছে ধ্বনির সংখ্য | But as humans moved farther from Africa,
+70 | 13.4 | 10.8 | 10.6 | 13.4 | সত্তর হাজার বছর আগে তীব্র তুষারযুগের সময় সাহসী মানুষের | Around seventy thousand years ago during
+71 | 12.6 | 12.6 | 10.1 | 11.8 | উপকূল ধরে কেউ পৌঁছায় ভারতে, কেউ চীনে, কেউ ইউরোপে এবং ক | Some reached India along the coast, some
+72 | 11.0 | 9.9 | 11.0 | 10.7 | এভাবে ইন্দো ইউরোপীয়, দ্রাবিড় ও চীনা তিব্বতি পরিবারের  | Thus thousands of major families like In
+73 | 12.0 | 10.1 | 9.9 | 12.0 | আধুনিক বিজ্ঞানী মাইকেল করবালিস মনে করেন মানুষের প্রথম ভ | Modern thinker Michael Corballis argues 
+74 | 11.8 | 9.6 | 11.8 | 10.6 | বানর চিৎকার দিয়ে নতুন তথ্য দিতে পারে না, কিন্তু হাত দি | Wild apes cannot share new daily facts t
+75 | 13.2 | 10.5 | 10.6 | 13.2 | কিন্তু অন্ধকার রাতে হাতের ইশারা দেখা যায় না এবং হাতে ব | But hand signs vanish in dark nights and
+76 | 12.4 | 10.6 | 11.8 | 12.4 | মানুষের না আছে সিংহের মতো ধারালো দাঁত, না আছে চিতার মতো | Humans own neither sharp lion teeth nor 
+77 | 11.1 | 9.5 | 10.2 | 11.1 | কিন্তু ভাষার শক্তিতেই লাখো দুর্বল মানুষ একজোট হয়ে বিশা | But through language alone, millions of 
+78 | 13.0 | 9.4 | 10.8 | 13.0 | ভাষা কেবল যোগাযোগের মাধ্যম নয়, এটি কোটি কোটি মানুষের ম | Speech is far more than simple talk, for
+79 | 12.6 | 11.3 | 12.6 | 11.8 | তাই ফারাওয়ের বেকস হোক বা মরুভূমির ক্লিক ধ্বনি, মানুষের | So whether it was Pharaoh Bekos in Egypt
+80 | 10.1 | 7.8 | 10.1 | 9.8 | আজ তুমি যে ভাষায় প্রতিদিন নিজের ঘরে কথা বলো সেই ভাষার  | Which sweet word in the mother language 
+81 | 13.5 | 13.5 | 11.4 | 10.6 | হেরোডোটাস ফারাও সামটিকের বেকস পরীক্ষা লিখেছেন, আবুল ফজল | Greek Herodotus notes Psamtik Bekos tria
+82 | 11.0 | 9.2 | 10.5 | 11.0 | তোমার মায়ের ভাষার সবচেয়ে প্রিয় একটি শব্দ আজই কমেন্টে | Comment your most beloved word from your
+83 | 13.0 | 10.0 | 11.9 | 13.0 | পরের পর্বে আমরা যাব নালন্দার সেই বিশাল প্রাচীন লাইব্রের | In our next episode we enter ancient Nal
+84 | 10.2 | 8.6 | 9.7 | 10.2 | ইতিহাসের এমন মজার গল্প সহজভাবে জানতে এখনই সাবস্ক্রাইব ক | To enjoy such fun and easy stories from 

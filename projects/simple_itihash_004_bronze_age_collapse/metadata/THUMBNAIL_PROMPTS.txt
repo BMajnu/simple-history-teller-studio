@@ -1,0 +1,38 @@
+================================================================================
+SIMPLE HISTORY TELLER — HIGH-CTR 3D THUMBNAIL GENERATION PROMPTS
+Project: ৩০০০ বছর আগে প্রাচীন পৃথিবীর মহাবিপর্যয়: ব্রোঞ্জ এজ কলাপ্স (Late Bronze Age Collapse)
+Format: 16:9 Landscape (1920x1080) for Master & 9:16 Vertical (1080x1920) for Shorts
+Style: PRESET_SIMPLE_HISTORY (Dynamic Graphic Novel Art + 3D Volumetric Typography)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. MASTER VIDEO THUMBNAILS (16:9 Widescreen | 1920x1080)
+--------------------------------------------------------------------------------
+
+[BN MASTER THUMBNAIL]
+Prompt: Simple History 2D graphic novel documentary art, epic dramatic split confrontation. On the left, a fierce, horned-helmet Sea Peoples raider with glowing eyes holding a notched bronze slashing sword and round shield; on the right, Pharaoh Ramesses III in gleaming golden battle armor and blue royal khepresh crown drawing a golden war-bow; between them in the background, the royal palace of Ugarit and massive citadels burning in an apocalyptic orange inferno under dark stormy skies. Across the top center, massive 3D embossed comic text in Bengali: "৩০০০ বছর আগে মহাবিপর্যয়!" and below it in blazing red-orange fire gradient: "মুছে গেল সব সভ্যতা?!", 8px heavy black outer stroke, volumetric golden glow, dramatic YouTube thumbnail composition, 16:9 widescreen.
+
+[EN MASTER THUMBNAIL]
+Prompt: Simple History 2D graphic novel documentary art, epic dramatic split confrontation. On the left, a menacing barbarian Sea Peoples warrior with a horned bronze helmet and broadsword; on the right, Pharaoh Ramesses III drawing a majestic royal war bow; in the background, ancient Mediterranean citadels and stone temples collapsing in fire and smoke. Across the top, massive 3D embossed bold typography: "CIVILIZATION COLLAPSED!" with glowing golden-yellow gradient, thick black comic outline, and below it: "IN JUST 50 YEARS?!", high-CTR YouTube documentary thumbnail, 16:9 widescreen.
+
+[HI MASTER THUMBNAIL]
+Prompt: Simple History 2D graphic novel documentary art, epic dramatic split confrontation between a horned Sea Peoples sea warrior and Egyptian Pharaoh Ramesses III, with Hattusa and Ugarit burning in apocalyptic flames behind them. Across the top center, massive 3D embossed bold Hindi typography: "३२०० साल पहले महाविनाश!" and below it in fiery orange: "रातों-रात सब कुछ खत्म?!", heavy black stroke, glowing golden outer bevel, high-CTR YouTube thumbnail, 16:9 widescreen.
+
+--------------------------------------------------------------------------------
+2. EPISODIC SHORTS THUMBNAILS (9:16 Vertical | 1080x1920)
+--------------------------------------------------------------------------------
+
+[SHORT PART 1 - ULUBURUN SHIPWRECK]
+Prompt: Simple History 2D graphic novel style, 9:16 vertical smartphone composition. Top 25%: clear yellow badge "[ ১ম পর্ব ]" and massive 3D embossed Bengali text "উলুবুরুন জাহাজডুবির গোপন সূত্র!" with black stroke. Center 50%: Bronze Age merchant galley sinking into turbulent turquoise ocean waves, glowing copper oxhide ingots tumbling into the deep seabed. Bottom 15%: clean branding "Simple History Teller Bangla".
+
+[SHORT PART 2 - MEGADROUGHT & EARTHQUAKES]
+Prompt: Simple History 2D graphic novel style, 9:16 vertical smartphone composition. Top 25%: red badge "[ ২য় পর্ব ]" and massive 3D embossed Bengali text "৩০০ বছরের ভয়াবহ খরা!" with fiery glow. Center 50%: cracked parched white earth, dying olive trees, and massive stone cyclopean walls of Mycenae fracturing and collapsing in billowing dust clouds during an earthquake. Bottom 15%: branding "Simple History Teller Bangla".
+
+[SHORT PART 3 - THE LAST LETTER OF UGARIT]
+Prompt: Simple History 2D graphic novel style, 9:16 vertical smartphone composition. Top 25%: orange badge "[ ৩য় পর্ব ]" and massive 3D embossed Bengali text "রাজার শেষ আর্তনাদ!" with golden glow. Center 50%: King Ammurapi in royal purple robes desperately holding glowing clay tablet RS 20.238 while looking in horror out his palace window at invading dragon ships landing on the coast. Bottom 15%: branding "Simple History Teller Bangla".
+
+[SHORT PART 4 - BATTLE OF THE NILE DELTA]
+Prompt: Simple History 2D graphic novel style, 9:16 vertical smartphone composition. Top 25%: golden badge "[ ৪র্থ পর্ব ]" and massive 3D embossed Bengali text "নীল নদের রক্তক্ষয়ী যুদ্ধ!" with black contour. Center 50%: Pharaoh Ramesses III firing arrows into crowded enemy boats, grappling hooks pulling wooden boats into frothing river water, flaming arrows arching overhead. Bottom 15%: branding "Simple History Teller Bangla".
+
+[SHORT PART 5 - DAWN OF THE IRON AGE]
+Prompt: Simple History 2D graphic novel style, 9:16 vertical smartphone composition. Top 25%: green badge "[ ৫ম পর্ব ]" and massive 3D embossed Bengali text "লৌহ যুগের বৈপ্লবিক সূচনা!" with glowing golden glow. Center 50%: ancient muscular blacksmith striking a glowing red hot iron sword on an anvil with sparks raining down, alongside ancient Phoenician alphabet characters glowing in golden light. Bottom 15%: branding "Simple History Teller Bangla".

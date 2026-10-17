@@ -1,0 +1,32 @@
+{
+  "flow": "social-upload",
+  "about": "EXAMPLE flow: one vertical short → Facebook Page + TikTok. Publish gates are askHuman — a person always reviews before anything goes public. Replace FILE_DATA_URL with a real data: URL (or attach manually at the pause).",
+  "jobs": [
+    {
+      "id": "social-fb-1",
+      "label": "FB: post short Part 1",
+      "siteId": "facebook",
+      "url": "https://www.facebook.com/",
+      "actions": [
+        { "op": "click", "args": { "text": "Create", "tags": ["button", "div"] } },
+        { "op": "uploadDataUrl", "args": { "selector": "input[type='file']", "dataUrl": "{{FILE_DATA_URL}}", "filename": "short_part1.mp4" } },
+        { "op": "fill", "args": { "selector": "div[contenteditable='true']", "text": "Part 1 — full video on YouTube. #shorts" } },
+        { "op": "askHuman", "args": { "reason": "Pick Page/audience, review caption, then Continue to Publish" } }
+      ],
+      "meta": { "file": "renders/shorts/short_bn_part1.mp4" }
+    },
+    {
+      "id": "social-tt-1",
+      "label": "TikTok: upload short Part 1",
+      "siteId": "tiktok",
+      "url": "https://www.tiktok.com/upload",
+      "actions": [
+        { "op": "waitFor", "args": { "selectors": ["input[type='file']"], "timeout": 20000 } },
+        { "op": "uploadDataUrl", "args": { "selector": "input[type='file']", "dataUrl": "{{FILE_DATA_URL}}", "filename": "short_part1.mp4" } },
+        { "op": "fill", "args": { "selector": "div[contenteditable='true']", "text": "Part 1 — full video on YouTube #shorts" } },
+        { "op": "askHuman", "args": { "reason": "Solve captcha if shown, review caption/cover/visibility, then Continue to Post" } }
+      ],
+      "meta": { "file": "renders/shorts/short_bn_part1.mp4" }
+    }
+  ]
+}

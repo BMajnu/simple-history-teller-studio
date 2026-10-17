@@ -1,0 +1,63 @@
+{
+  "project_id": "simple_itihash_004_bronze_age_collapse",
+  "distribution_architecture": "ARCHITECTURE_A_FIVE_PARTS",
+  "total_scenes": 85,
+  "total_master_duration_seconds": 987.5,
+  "episodes": [
+    {
+      "part_number": 1,
+      "title_bn": "৩০০০ বছর আগে প্রাচীন বিশ্বায়ন ও উলুবুরুন জাহাজডুবির গোপন রহস্য [ পর্ব ১ ]",
+      "title_en": "Ancient Globalization & The Uluburun Shipwreck Secret [ Part 1 ]",
+      "title_hi": "३२०० साल पहले प्राचीन वैश्वीकरण और उलूबुरुन का रहस्य [ भाग १ ]",
+      "scene_range": [1, 17],
+      "scene_count": 17,
+      "approx_duration_seconds": 194.5,
+      "hook_text_bn": "৩০০০ বছর আগেও ছিল আধুনিক বিশ্বায়ন!",
+      "narrative_focus": "Introduction of Time Chronicler, Late Bronze Age superpower networks, Kadesh chariot war, bronze alloy formula (90% copper + 10% tin), and the Uluburun shipwreck discovery off Turkey."
+    },
+    {
+      "part_number": 2,
+      "title_bn": "৩০০ বছরের ভয়াবহ খরা ও ৫০ বছরের ভূমিকম্পের ঝড়! [ পর্ব ২ ]",
+      "title_en": "The 300-Year Megadrought & 50-Year Earthquake Storms [ Part 2 ]",
+      "title_hi": "३०० साल का महासूखा और ५० साल के भूकंपों का तूफ़ान! [ भाग २ ]",
+      "scene_range": [18, 35],
+      "scene_count": 18,
+      "approx_duration_seconds": 204.5,
+      "hook_text_bn": "মাটি ফেটে চৌচির! প্রকৃতির চরম অভিশাপ!",
+      "narrative_focus": "The 10:1 tin dependency crisis, Kaniewski's paleoclimate megadrought proof, Hittite royal grain distress letters, Amos Nur's earthquake storms shattering Mycenaean citadel walls."
+    },
+    {
+      "part_number": 3,
+      "title_bn": "কে এই রহস্যময় সাগর মানব? ইউগারিতের শেষ চিঠি! [ পর্ব ৩ ]",
+      "title_en": "Who Were the Sea Peoples? The Last Letter of Ugarit [ Part 3 ]",
+      "title_hi": "कौन थे रहस्यमयी सी पीपल्स? उगालित का अंतिम पत्र! [ भाग ३ ]",
+      "scene_range": [36, 53],
+      "scene_count": 18,
+      "approx_duration_seconds": 209.5,
+      "hook_text_bn": "শত্রুর জাহাজ এসে গেছে! রাজার শেষ আর্তনাদ!",
+      "narrative_focus": "Peasant rebellions, broken trade routes, arrival of the Sea Peoples (displaced climate refugees with ox-carts), King Ammurapi's desperate clay letter RS 20.238, and debunking the kiln myth."
+    },
+    {
+      "part_number": 4,
+      "title_bn": "আগুনে পুড়ল গ্রিস ও হাত্তুসা! নীল নদের মহাযুদ্ধ! [ পর্ব ৪ ]",
+      "title_en": "Hattusa in Flames & Battle of the Nile Delta! [ Part 4 ]",
+      "title_hi": "राख हुआ ग्रीस और हात्तुसा! नील नदी का महासंग्राम! [ भाग ४ ]",
+      "scene_range": [54, 67],
+      "scene_count": 14,
+      "approx_duration_seconds": 166.5,
+      "hook_text_bn": "৪০০ বছরের অন্ধকার! নীল নদে রক্তগঙ্গা!",
+      "narrative_focus": "Destruction of Ugarit and Hattusa, Mycenaean palaces burnt, complete extinction of Linear B writing script (Greek Dark Age), and Pharaoh Ramesses III's climactic naval ambush in the Nile Delta."
+    },
+    {
+      "part_number": 5,
+      "title_bn": "ধ্বংসের ছাই থেকে লৌহ যুগ ও আধুনিক বর্ণমালার জন্ম! [ পর্ব ৫ ]",
+      "title_en": "The Birth of the Iron Age & The Modern Alphabet! [ Part 5 ]",
+      "title_hi": "राख से जन्मा लौह युग और २२ अक्षरों की वर्णमाला! [ भाग ५ ]",
+      "scene_range": [68, 85],
+      "scene_count": 18,
+      "approx_duration_seconds": 212.5,
+      "hook_text_bn": "ধ্বংসের ছাই থেকে জন্ম নিল নতুন পৃথিবী!",
+      "narrative_focus": "Post-mortem analysis of systems collapse, democratization of iron smelting (start of the Iron Age), settlement of the Philistines, invention of the 22-letter Phoenician alphabet, and Time Chronicler's modern warning."
+    }
+  ]
+}

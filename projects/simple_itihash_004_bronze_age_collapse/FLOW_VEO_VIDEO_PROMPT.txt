@@ -1,0 +1,74 @@
+================================================================================
+GOOGLE FLOW DYNAMIC AI VIDEO MOTION PROMPTS (17 SCENES = EXACTLY 20%)
+Aspect Ratio: 16:9 | Framerate: 24fps Motion Clip
+Style: PRESET_SIMPLE_HISTORY (2D Historical Graphic Novel Animation)
+================================================================================
+
+### Scene 1 [CLIP CANDIDATE] (11s | Speaker: TIME_CHRONICLER) -> visual_assets/clip_scene_0001.mp4
+Action Description: আমি সময়ের সাক্ষী হয়ে আজ তোমাদের নিয়ে যাচ্ছি ঠিক ৩২০০ বছর পেছনের এক রহস্যময় ও রোমাঞ্চকর পৃথিবীতে।
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Time Chronicler, an elderly bald scholar with thick bushy white beard, circular wire spectacles and flowing brown linen robes holding a flaming bronze torch and ancient history book, stepping through a swirling celestial time portal into ancient Mediterranean ruins, warm amber glow, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 6 [CLIP CANDIDATE] (11s | Speaker: NARRATOR) -> visual_assets/clip_scene_0006.mp4
+Action Description: এজিয়ান সাগরের দ্বীপগুলোতে মাইসিনীয় গ্রিক রাজারা সমুদ্রের জল কেটে তাদের দ্রুতগামী যুদ্ধজাহাজ ছুটিয়ে নিয়ে যেত।
+Prompt: Dynamic 2D animation in Simple History graphic novel style. A sleek Mycenaean wooden war galley with bold painted eye at the prow cutting through foaming turquoise Aegean sea waves, bronze-clad oarsmen pulling rhythmically, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 9 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0009.mp4
+Action Description: ১২৭৪ খ্রিস্টপূর্বাব্দে কাদেশের বিশাল প্রান্তরে এই দুই পরাশক্তি পাঁচ হাজার যুদ্ধরথ নিয়ে মানব ইতিহাসের বৃহত্তম রথযুদ্ধে মুখোমুখি হয়েছিল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Hundreds of two-wheeled Egyptian and Hittite bronze war chariots thundering across a dusty desert battlefield, horses galloping at full sprint, arrows flying, heavy dust clouds billowing, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 16 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0016.mp4
+Action Description: কিন্তু খাঁটি টিন পেতে হলে বণিকদের পাড়ি দিতে হতো হাজার হাজার মাইল দূরের দুর্গম আফগানিস্তানের পর্বত কিংবা ব্রিটেনের কর্নওয়ালের উপকূল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. A merchant pack caravan of mules and bearded traders struggling against freezing mountain blizzards along treacherous narrow cliff paths in the Hindu Kush, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 23 [CLIP CANDIDATE] (11.5s | Speaker: NARRATOR) -> visual_assets/clip_scene_0023.mp4
+Action Description: ১২৫০ খ্রিস্টপূর্বাব্দ থেকে হঠাৎ করে এজিয়ান ও মধ্যপ্রাচ্যের নীল আকাশ থেকে বর্ষার মেঘগুলো কর্পূরের মতো উবে যেতে শুরু করল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Blistering desert sun scorching dry earth, moisture evaporating violently from cracking soil, heatwaves distorting the horizon, dying wheat field wilting under intense glare, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 28 [CLIP CANDIDATE] (11s | Speaker: HITTITE_QUEEN_PUDUHEPA) -> visual_assets/clip_scene_0028.mp4
+Action Description: হিট্টাইট রাণী পুদুহেপা তখন বুক চাপড়ে বলে উঠলেন: 'আমাদের দেশ অনাহারে শেষ হয়ে যাচ্ছে—আমাদের বাঁচাও!'
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Hittite Queen Puduhepa in ornate royal headdress and gold robes, eyes filled with tears, frantically raising her hands toward the heavens in a magnificent palace hall, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 32 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0032.mp4
+Action Description: ১২২৫ থেকে ১১৭৫ খ্রিস্টপূর্বাব্দের মধ্যে ভূমধ্যসাগরের টেকটোনিক ফল্ট লাইনে একের পর এক আঘাত হানল বিধ্বংসী ভূমিকম্পের ঝড়!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Massive cyclopean stone walls of Mycenae fracturing violently, giant multi-ton ashlar boulders tumbling downward in massive choking dust clouds, terracotta roof tiles smashing, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 38 [CLIP CANDIDATE] (11.5s | Speaker: NARRATOR) -> visual_assets/clip_scene_0038.mp4
+Action Description: পাহাড়ের ডাকাত ও যাযাবর দলগুলো রাতের অন্ধকারে মশাল জ্বালিয়ে অরক্ষিত গ্রামগুলোতে আগুন ধরিয়ে দিতে লাগল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Masked mountain raiders with crude spears and torches galloping past thatched mud-brick houses, flames licking thatched roofs, orange firelight casting chaotic shadows, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 43 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0043.mp4
+Action Description: সাগরের ঘন কুয়াশা ভেদ করে শত শত যুদ্ধজাহাজ উপকূলে এসে আছড়ে পড়ল, আর তাদের মধ্য থেকে লাফিয়ে নামল হিংস্র সশস্ত্র যোদ্ধারা!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Horn-prowed maritime galleys crashing onto golden sand, bronze-clad warriors with feathered crests leaping into crashing surf, brandishing long slashing swords and round shields, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 50 [CLIP CANDIDATE] (12s | Speaker: KING_AMMURAPI) -> visual_assets/clip_scene_0050.mp4
+Action Description: রাজা আম্মুরাপি কাঁপতে কাঁপতে মাটির ফলকে লিখলেন: 'হে আমার পিতা, শত্রুর জাহাজ এসে গেছে, তারা আমার নগরীগুলো পুড়িয়ে দিচ্ছে!'
+Prompt: Dynamic 2D animation in Simple History graphic novel style. King Ammurapi hastily pressing a reed stylus into a moist clay tablet by flickering torchlight, looking toward the window in terror as orange fire reflects in his eyes, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 54 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0054.mp4
+Action Description: মুহূর্তের মধ্যে সমৃদ্ধ ইউগারিত নগরী লেলিহান আগুনে পুড়ে ছাই হয়ে গেল, যা গত ৩০০০ বছরেও আর কোনোদিন পুনর্নির্মিত হয়নি!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Raging inferno devouring the cedar-wood roofs and limestone pillars of Ugarit's royal palace, sparks billowing into the black night sky, collapsing stone lintel, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 57 [CLIP CANDIDATE] (11.5s | Speaker: NARRATOR) -> visual_assets/clip_scene_0057.mp4
+Action Description: শত্রুরা পৌঁছানোর আগেই রাজপরিবার তাদের ধনরত্ন নিয়ে পালিয়ে গিয়েছিল, আর পরিত্যক্ত প্রাসাদটি পুড়ে অঙ্গার হয়ে গেল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Silhouette of royal Hittite court fleeing with loaded carts along a rocky gorge under a blood-red sky, behind them Hattusa's great temple burning in distance, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 62 [CLIP CANDIDATE] (12s | Speaker: PHARAOH_RAMESSES_III) -> visual_assets/clip_scene_0062.mp4
+Action Description: খ্রিস্টপূর্ব ১১৭৭ অব্দে নীল নদের মোহনায় মিশরের ফারাও ৩য় রামসেস চিৎকার করে আদেশ দিলেন: 'নীল নদের মাটি যেন তাদের সমাধি হয়!'
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Pharaoh Ramesses III in full golden battle armor and blue khepresh crown drawing a massive curved golden composite bow aboard an Egyptian flagship, his eyes blazing, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 64 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0064.mp4
+Action Description: মিশরীয় নাবিকরা দীর্ঘ রশি আর লোহার নোঙর ছুড়ে শত্রুর নৌকাগুলোকে উল্টে দিল এবং হাজার হাজার যোদ্ধাকে সাগরে ডুবিয়ে মারল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Egyptian warship crew throwing heavy bronze grappling hooks over the rails of a Sea Peoples galley, ropes tightening, enemy boat capsizing sideways into frothing Nile Delta waters, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 72 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0072.mp4
+Action Description: কামারশালায় চারকোল আর হাপরের তীব্র বাতাসে তাপমাত্রা বাড়িয়ে কর্মকাররা মাটির নিচে প্রচুর থাকা লোহার আকরিক গলাতে শিখে গেল!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Muscular ancient blacksmith fiercely slamming a heavy hammer down onto a glowing red-orange hot iron blade on a stone anvil, brilliant sparks showering across a dark forge, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 80 [CLIP CANDIDATE] (12s | Speaker: NARRATOR) -> visual_assets/clip_scene_0080.mp4
+Action Description: লেভান্টের উপকূলীয় ফোনিশীয় ব্যবসায়ীরা আবিষ্কার করল মাত্র বাইশটি সহজ অক্ষরের বৈপ্লবিক ধ্বনিভিত্তিক বর্ণমালা!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. A clever Phoenician merchant in purple robes swiftly carving simple alphabet symbols (Aleph, Beth, Gimel) into a fresh clay tablet with confident, elegant strokes, ink glowing softly, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 85 [CLIP CANDIDATE] (12s | Speaker: TIME_CHRONICLER) -> visual_assets/clip_scene_0085.mp4
+Action Description: ইতিহাসের এমন রোমাঞ্চকর ও অজানা সত্য উন্মোচনে আমাদের সাথে যুক্ত থাকতে এখনই 'সিম্পল হিস্ট্রি টেলার বাংলা' সাবস্ক্রাইব করে বেল বাটন বাজিয়ে রাখো!
+Prompt: Dynamic 2D animation in Simple History graphic novel style. Time Chronicler with a genial grandfatherly smile shutting the massive leather-bound chronicle with an echoing thud, golden dust motes rising, cheerfully waving to camera and pointing down toward the subscribe button, 24fps motion. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+

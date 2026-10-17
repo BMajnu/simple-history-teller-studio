@@ -1,3 +1,4 @@
+const { stripVoiceNameFromRole } = require('../lib/media-compositor');
 const { chromium } = require('playwright-core');
 const path = require('path');
 const fs = require('fs');
@@ -214,7 +215,7 @@ async function generateAll() {
   <div class="badge" id="targetBadge">
     <span class="icon">${data.icon}</span>
     <span class="name">${textData.name}</span>
-    <span class="role">${textData.role}</span>
+    <span class="role">${stripVoiceNameFromRole(textData.role)}</span>
   </div>
 </body>
 </html>

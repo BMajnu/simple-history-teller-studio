@@ -8,11 +8,11 @@
   },
   "style_preset": "PRESET_SIMPLE_HISTORY",
   "target_duration_seconds": 1100,
-  "total_duration_seconds": 1019.3,
+  "total_duration_seconds": 1086.86,
   "language_total_durations": {
-    "bn": 1133.8,
-    "en": 1007.92,
-    "hi": 1110.92
+    "bn": 1131,
+    "en": 1004.92,
+    "hi": 1108.02
   },
   "metadata": {
     "title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
@@ -35,14 +35,50 @@
       "asset_file": "visual_assets/clip_shot_0001.mp4",
       "sfx": "library_fire_crackle_intro",
       "motion_effect": "ai_video",
-      "duration": 10.74,
+      "duration": 12.75,
       "language_durations": {
-        "bn": 12.8,
-        "en": 10.32,
+        "bn": 12.75,
+        "en": 10.27,
         "hi": 13.2
       },
       "timestamp_start": 0,
-      "timestamp_end": 10.74
+      "timestamp_end": 12.75,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0001.wav",
+          "source_duration": 12.4,
+          "duration": 12.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0001.wav",
+          "source_duration": 9.92,
+          "duration": 10.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0001.wav",
+          "source_duration": 12.8,
+          "duration": 13.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 0
     },
     {
       "scene_id": 2,
@@ -59,14 +95,50 @@
       "asset_file": "visual_assets/shot_0002.jpg",
       "sfx": "library_fire_crackle_intro",
       "motion_effect": "zoom_out",
-      "duration": 11.56,
+      "duration": 11.91,
       "language_durations": {
-        "bn": 11.96,
-        "en": 11.08,
-        "hi": 15.72
+        "bn": 11.91,
+        "en": 11.03,
+        "hi": 15.67
       },
-      "timestamp_start": 10.74,
-      "timestamp_end": 22.3
+      "timestamp_start": 12.75,
+      "timestamp_end": 24.66,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0002.wav",
+          "source_duration": 11.56,
+          "duration": 11.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0002.wav",
+          "source_duration": 10.68,
+          "duration": 11.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0002.wav",
+          "source_duration": 15.32,
+          "duration": 15.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 12.75
     },
     {
       "scene_id": 3,
@@ -83,14 +155,50 @@
       "asset_file": "visual_assets/shot_0003.jpg",
       "sfx": "library_fire_crackle_intro",
       "motion_effect": "pan_left",
-      "duration": 11.63,
+      "duration": 14.19,
       "language_durations": {
-        "bn": 14.24,
-        "en": 10.4,
-        "hi": 14.64
+        "bn": 14.19,
+        "en": 10.35,
+        "hi": 14.59
       },
-      "timestamp_start": 22.3,
-      "timestamp_end": 33.93
+      "timestamp_start": 24.66,
+      "timestamp_end": 38.85,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0003.wav",
+          "source_duration": 13.84,
+          "duration": 14.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0003.wav",
+          "source_duration": 10,
+          "duration": 10.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0003.wav",
+          "source_duration": 14.24,
+          "duration": 14.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 24.66
     },
     {
       "scene_id": 4,
@@ -107,14 +215,50 @@
       "asset_file": "visual_assets/shot_0004.jpg",
       "sfx": "library_fire_crackle_intro",
       "motion_effect": "pan_right",
-      "duration": 10.67,
+      "duration": 12.79,
       "language_durations": {
-        "bn": 12.84,
-        "en": 9.92,
-        "hi": 10.88
+        "bn": 12.79,
+        "en": 9.87,
+        "hi": 10.83
       },
-      "timestamp_start": 33.93,
-      "timestamp_end": 44.6
+      "timestamp_start": 38.85,
+      "timestamp_end": 51.64,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0004.wav",
+          "source_duration": 12.44,
+          "duration": 12.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0004.wav",
+          "source_duration": 9.52,
+          "duration": 9.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0004.wav",
+          "source_duration": 10.48,
+          "duration": 10.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 38.85
     },
     {
       "scene_id": 5,
@@ -131,14 +275,50 @@
       "asset_file": "visual_assets/shot_0005.jpg",
       "sfx": "library_fire_crackle_intro",
       "motion_effect": "zoom_in",
-      "duration": 10.3,
+      "duration": 11.95,
       "language_durations": {
-        "bn": 12,
+        "bn": 11.95,
         "en": 11.28,
-        "hi": 10.88
+        "hi": 10.83
       },
-      "timestamp_start": 44.6,
-      "timestamp_end": 54.9
+      "timestamp_start": 51.64,
+      "timestamp_end": 63.59,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0005.wav",
+          "source_duration": 11.6,
+          "duration": 11.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0005.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0005.wav",
+          "source_duration": 10.48,
+          "duration": 10.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 51.64
     },
     {
       "scene_id": 6,
@@ -158,11 +338,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 11.12,
-        "en": 11.16,
-        "hi": 11.56
+        "en": 11.11,
+        "hi": 11.51
       },
-      "timestamp_start": 54.9,
-      "timestamp_end": 65.05
+      "timestamp_start": 63.59,
+      "timestamp_end": 73.74,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0006.wav",
+          "source_duration": 10.72,
+          "duration": 11.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0006.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0006.wav",
+          "source_duration": 11.16,
+          "duration": 11.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 63.59
     },
     {
       "scene_id": 7,
@@ -179,14 +395,50 @@
       "asset_file": "visual_assets/shot_0007.jpg",
       "sfx": "wind_over_ruins_ambient",
       "motion_effect": "pan_left",
-      "duration": 10.44,
+      "duration": 11.87,
       "language_durations": {
-        "bn": 11.92,
-        "en": 9.72,
+        "bn": 11.87,
+        "en": 9.67,
         "hi": 12.28
       },
-      "timestamp_start": 65.05,
-      "timestamp_end": 75.49
+      "timestamp_start": 73.74,
+      "timestamp_end": 85.61,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0007.wav",
+          "source_duration": 11.52,
+          "duration": 11.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0007.wav",
+          "source_duration": 9.32,
+          "duration": 9.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0007.wav",
+          "source_duration": 11.88,
+          "duration": 12.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 73.74
     },
     {
       "scene_id": 8,
@@ -209,8 +461,44 @@
         "en": 9.04,
         "hi": 11.68
       },
-      "timestamp_start": 75.49,
-      "timestamp_end": 85.86
+      "timestamp_start": 85.61,
+      "timestamp_end": 95.98,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0008.wav",
+          "source_duration": 11.64,
+          "duration": 12.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0008.wav",
+          "source_duration": 8.64,
+          "duration": 9.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0008.wav",
+          "source_duration": 11.28,
+          "duration": 11.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 85.61
     },
     {
       "scene_id": 9,
@@ -231,10 +519,46 @@
       "language_durations": {
         "bn": 12.68,
         "en": 10.36,
-        "hi": 11.64
+        "hi": 11.59
       },
-      "timestamp_start": 85.86,
-      "timestamp_end": 96.08
+      "timestamp_start": 95.98,
+      "timestamp_end": 106.2,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0009.wav",
+          "source_duration": 12.28,
+          "duration": 12.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0009.wav",
+          "source_duration": 9.96,
+          "duration": 10.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0009.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 95.98
     },
     {
       "scene_id": 10,
@@ -254,11 +578,47 @@
       "duration": 10,
       "language_durations": {
         "bn": 10.6,
-        "en": 8.72,
-        "hi": 10.72
+        "en": 8.67,
+        "hi": 10.67
       },
-      "timestamp_start": 96.08,
-      "timestamp_end": 106.08
+      "timestamp_start": 106.2,
+      "timestamp_end": 116.2,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0010.wav",
+          "source_duration": 10.2,
+          "duration": 10.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0010.wav",
+          "source_duration": 8.32,
+          "duration": 8.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0010.wav",
+          "source_duration": 10.32,
+          "duration": 10.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 106.2
     },
     {
       "scene_id": 11,
@@ -278,11 +638,47 @@
       "duration": 10.37,
       "language_durations": {
         "bn": 11.2,
-        "en": 10.08,
-        "hi": 12.56
+        "en": 10.03,
+        "hi": 12.51
       },
-      "timestamp_start": 106.08,
-      "timestamp_end": 116.45
+      "timestamp_start": 116.2,
+      "timestamp_end": 126.57,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0011.wav",
+          "source_duration": 10.8,
+          "duration": 11.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0011.wav",
+          "source_duration": 9.68,
+          "duration": 10.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0011.wav",
+          "source_duration": 12.16,
+          "duration": 12.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 116.2
     },
     {
       "scene_id": 12,
@@ -299,14 +695,50 @@
       "asset_file": "visual_assets/shot_0012.jpg",
       "sfx": "ancient_gong_resonance",
       "motion_effect": "pan_right",
-      "duration": 10.52,
+      "duration": 11.75,
       "language_durations": {
-        "bn": 11.8,
-        "en": 9.8,
+        "bn": 11.75,
+        "en": 9.75,
         "hi": 9.68
       },
-      "timestamp_start": 116.45,
-      "timestamp_end": 126.97
+      "timestamp_start": 126.57,
+      "timestamp_end": 138.32,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0012.wav",
+          "source_duration": 11.4,
+          "duration": 11.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0012.wav",
+          "source_duration": 9.4,
+          "duration": 9.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0012.wav",
+          "source_duration": 9.28,
+          "duration": 9.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 126.57
     },
     {
       "scene_id": 13,
@@ -323,14 +755,50 @@
       "asset_file": "visual_assets/clip_shot_0013.mp4",
       "sfx": "ancient_gong_resonance",
       "motion_effect": "ai_video",
-      "duration": 10.15,
+      "duration": 12.43,
       "language_durations": {
-        "bn": 12.48,
-        "en": 11,
-        "hi": 11.24
+        "bn": 12.43,
+        "en": 10.95,
+        "hi": 11.19
       },
-      "timestamp_start": 126.97,
-      "timestamp_end": 137.12
+      "timestamp_start": 138.32,
+      "timestamp_end": 150.75,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0013.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0013.wav",
+          "source_duration": 10.6,
+          "duration": 10.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0013.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 138.32
     },
     {
       "scene_id": 14,
@@ -347,14 +815,50 @@
       "asset_file": "visual_assets/shot_0014.jpg",
       "sfx": "ancient_gong_resonance",
       "motion_effect": "zoom_out",
-      "duration": 10.15,
+      "duration": 12.83,
       "language_durations": {
-        "bn": 12.88,
-        "en": 10.72,
-        "hi": 13.92
+        "bn": 12.83,
+        "en": 10.67,
+        "hi": 13.87
       },
-      "timestamp_start": 137.12,
-      "timestamp_end": 147.27
+      "timestamp_start": 150.75,
+      "timestamp_end": 163.58,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0014.wav",
+          "source_duration": 12.48,
+          "duration": 12.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0014.wav",
+          "source_duration": 10.32,
+          "duration": 10.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0014.wav",
+          "source_duration": 13.52,
+          "duration": 13.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 150.75
     },
     {
       "scene_id": 15,
@@ -371,14 +875,50 @@
       "asset_file": "visual_assets/shot_0015.jpg",
       "sfx": "ancient_gong_resonance",
       "motion_effect": "pan_left",
-      "duration": 10.37,
+      "duration": 12.59,
       "language_durations": {
-        "bn": 12.64,
+        "bn": 12.59,
         "en": 8.44,
         "hi": 13.36
       },
-      "timestamp_start": 147.27,
-      "timestamp_end": 157.64
+      "timestamp_start": 163.58,
+      "timestamp_end": 176.17,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0015.wav",
+          "source_duration": 12.24,
+          "duration": 12.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0015.wav",
+          "source_duration": 8.04,
+          "duration": 8.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0015.wav",
+          "source_duration": 12.96,
+          "duration": 13.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 163.58
     },
     {
       "scene_id": 16,
@@ -401,8 +941,44 @@
         "en": 9.2,
         "hi": 11.36
       },
-      "timestamp_start": 157.64,
-      "timestamp_end": 167.79
+      "timestamp_start": 176.17,
+      "timestamp_end": 186.32,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0016.wav",
+          "source_duration": 10.28,
+          "duration": 10.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0016.wav",
+          "source_duration": 8.8,
+          "duration": 9.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0016.wav",
+          "source_duration": 10.96,
+          "duration": 11.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 176.17
     },
     {
       "scene_id": 17,
@@ -419,14 +995,50 @@
       "asset_file": "visual_assets/shot_0017.jpg",
       "sfx": "peaceful_chanting_bells",
       "motion_effect": "zoom_in",
-      "duration": 10.89,
+      "duration": 12.67,
       "language_durations": {
-        "bn": 12.72,
+        "bn": 12.67,
         "en": 10.36,
         "hi": 10.28
       },
-      "timestamp_start": 167.79,
-      "timestamp_end": 178.68
+      "timestamp_start": 186.32,
+      "timestamp_end": 198.99,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0017.wav",
+          "source_duration": 12.32,
+          "duration": 12.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0017.wav",
+          "source_duration": 9.96,
+          "duration": 10.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0017.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 186.32
     },
     {
       "scene_id": 18,
@@ -446,11 +1058,47 @@
       "duration": 10.37,
       "language_durations": {
         "bn": 11.28,
-        "en": 9.32,
-        "hi": 11.72
+        "en": 9.27,
+        "hi": 11.67
       },
-      "timestamp_start": 178.68,
-      "timestamp_end": 189.05
+      "timestamp_start": 198.99,
+      "timestamp_end": 209.36,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0018.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0018.wav",
+          "source_duration": 8.92,
+          "duration": 9.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0018.wav",
+          "source_duration": 11.32,
+          "duration": 11.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 198.99
     },
     {
       "scene_id": 19,
@@ -470,11 +1118,47 @@
       "duration": 10.59,
       "language_durations": {
         "bn": 13.2,
-        "en": 9.56,
+        "en": 9.51,
         "hi": 10.36
       },
-      "timestamp_start": 189.05,
-      "timestamp_end": 199.64
+      "timestamp_start": 209.36,
+      "timestamp_end": 219.95,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0019.wav",
+          "source_duration": 12.8,
+          "duration": 13.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0019.wav",
+          "source_duration": 9.16,
+          "duration": 9.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0019.wav",
+          "source_duration": 9.96,
+          "duration": 10.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 209.36
     },
     {
       "scene_id": 20,
@@ -491,14 +1175,50 @@
       "asset_file": "visual_assets/shot_0020.jpg",
       "sfx": "crowd_murmur_gate_test",
       "motion_effect": "pan_right",
-      "duration": 10.22,
+      "duration": 11.51,
       "language_durations": {
-        "bn": 11.56,
+        "bn": 11.51,
         "en": 9.12,
-        "hi": 9.92
+        "hi": 9.87
       },
-      "timestamp_start": 199.64,
-      "timestamp_end": 209.86
+      "timestamp_start": 219.95,
+      "timestamp_end": 231.46,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0020.wav",
+          "source_duration": 11.16,
+          "duration": 11.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0020.wav",
+          "source_duration": 8.72,
+          "duration": 9.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0020.wav",
+          "source_duration": 9.52,
+          "duration": 9.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 219.95
     },
     {
       "scene_id": 21,
@@ -515,14 +1235,50 @@
       "asset_file": "visual_assets/clip_shot_0021.mp4",
       "sfx": "crowd_murmur_gate_test",
       "motion_effect": "ai_video",
-      "duration": 10.44,
+      "duration": 12.91,
       "language_durations": {
-        "bn": 12.96,
+        "bn": 12.91,
         "en": 8.76,
-        "hi": 12
+        "hi": 11.95
       },
-      "timestamp_start": 209.86,
-      "timestamp_end": 220.3
+      "timestamp_start": 231.46,
+      "timestamp_end": 244.37,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0021.wav",
+          "source_duration": 12.56,
+          "duration": 12.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0021.wav",
+          "source_duration": 8.36,
+          "duration": 8.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0021.wav",
+          "source_duration": 11.6,
+          "duration": 11.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 231.46
     },
     {
       "scene_id": 22,
@@ -539,14 +1295,50 @@
       "asset_file": "visual_assets/shot_0022.jpg",
       "sfx": "crowd_murmur_gate_test",
       "motion_effect": "zoom_out",
-      "duration": 10.3,
+      "duration": 9.91,
       "language_durations": {
-        "bn": 9.96,
-        "en": 10.16,
+        "bn": 9.91,
+        "en": 10.11,
         "hi": 9.6
       },
-      "timestamp_start": 220.3,
-      "timestamp_end": 230.6
+      "timestamp_start": 244.37,
+      "timestamp_end": 254.28,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0022.wav",
+          "source_duration": 9.56,
+          "duration": 9.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0022.wav",
+          "source_duration": 9.76,
+          "duration": 10.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0022.wav",
+          "source_duration": 9.2,
+          "duration": 9.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 244.37
     },
     {
       "scene_id": 23,
@@ -566,11 +1358,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 12.2,
-        "en": 8.84,
+        "en": 8.79,
         "hi": 11.2
       },
-      "timestamp_start": 230.6,
-      "timestamp_end": 240.75
+      "timestamp_start": 254.28,
+      "timestamp_end": 264.43,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0023.wav",
+          "source_duration": 11.8,
+          "duration": 12.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0023.wav",
+          "source_duration": 8.44,
+          "duration": 8.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0023.wav",
+          "source_duration": 10.8,
+          "duration": 11.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 254.28
     },
     {
       "scene_id": 24,
@@ -587,14 +1415,50 @@
       "asset_file": "visual_assets/shot_0024.jpg",
       "sfx": "crowd_murmur_gate_test",
       "motion_effect": "pan_right",
-      "duration": 10.3,
+      "duration": 11.19,
       "language_durations": {
-        "bn": 11.24,
+        "bn": 11.19,
         "en": 8.6,
-        "hi": 11.88
+        "hi": 11.83
       },
-      "timestamp_start": 240.75,
-      "timestamp_end": 251.05
+      "timestamp_start": 264.43,
+      "timestamp_end": 275.62,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0024.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0024.wav",
+          "source_duration": 8.2,
+          "duration": 8.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0024.wav",
+          "source_duration": 11.48,
+          "duration": 11.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 264.43
     },
     {
       "scene_id": 25,
@@ -617,8 +1481,44 @@
         "en": 8.6,
         "hi": 11.12
       },
-      "timestamp_start": 251.05,
-      "timestamp_end": 261.05
+      "timestamp_start": 275.62,
+      "timestamp_end": 285.62,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0025.wav",
+          "source_duration": 10.72,
+          "duration": 11.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0025.wav",
+          "source_duration": 8.2,
+          "duration": 8.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0025.wav",
+          "source_duration": 10.72,
+          "duration": 11.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 275.62
     },
     {
       "scene_id": 26,
@@ -639,10 +1539,46 @@
       "language_durations": {
         "bn": 12.52,
         "en": 11.36,
-        "hi": 11.4
+        "hi": 11.35
       },
-      "timestamp_start": 261.05,
-      "timestamp_end": 271.05
+      "timestamp_start": 285.62,
+      "timestamp_end": 295.62,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0026.wav",
+          "source_duration": 12.12,
+          "duration": 12.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0026.wav",
+          "source_duration": 10.96,
+          "duration": 11.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0026.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 285.62
     },
     {
       "scene_id": 27,
@@ -662,11 +1598,47 @@
       "duration": 10.22,
       "language_durations": {
         "bn": 11.28,
-        "en": 9.56,
-        "hi": 11.64
+        "en": 9.51,
+        "hi": 11.59
       },
-      "timestamp_start": 271.05,
-      "timestamp_end": 281.27
+      "timestamp_start": 295.62,
+      "timestamp_end": 305.84,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0027.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0027.wav",
+          "source_duration": 9.16,
+          "duration": 9.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0027.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 295.62
     },
     {
       "scene_id": 28,
@@ -686,11 +1658,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 12.68,
-        "en": 9.84,
+        "en": 9.79,
         "hi": 11.68
       },
-      "timestamp_start": 281.27,
-      "timestamp_end": 291.42
+      "timestamp_start": 305.84,
+      "timestamp_end": 315.99,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0028.wav",
+          "source_duration": 12.28,
+          "duration": 12.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0028.wav",
+          "source_duration": 9.44,
+          "duration": 9.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0028.wav",
+          "source_duration": 11.28,
+          "duration": 11.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 305.84
     },
     {
       "scene_id": 29,
@@ -707,14 +1715,50 @@
       "asset_file": "visual_assets/shot_0029.jpg",
       "sfx": "library_pages_flipping_soft",
       "motion_effect": "zoom_in",
-      "duration": 10.22,
+      "duration": 10.75,
       "language_durations": {
-        "bn": 10.8,
+        "bn": 10.75,
         "en": 8.44,
-        "hi": 10.08
+        "hi": 10.03
       },
-      "timestamp_start": 291.42,
-      "timestamp_end": 301.64
+      "timestamp_start": 315.99,
+      "timestamp_end": 326.74,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0029.wav",
+          "source_duration": 10.4,
+          "duration": 10.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0029.wav",
+          "source_duration": 8.04,
+          "duration": 8.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0029.wav",
+          "source_duration": 9.68,
+          "duration": 10.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 315.99
     },
     {
       "scene_id": 30,
@@ -734,11 +1778,47 @@
       "duration": 10.44,
       "language_durations": {
         "bn": 11.68,
-        "en": 8.72,
-        "hi": 11.16
+        "en": 8.67,
+        "hi": 11.11
       },
-      "timestamp_start": 301.64,
-      "timestamp_end": 312.08
+      "timestamp_start": 326.74,
+      "timestamp_end": 337.18,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0030.wav",
+          "source_duration": 11.28,
+          "duration": 11.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0030.wav",
+          "source_duration": 8.32,
+          "duration": 8.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0030.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 326.74
     },
     {
       "scene_id": 31,
@@ -755,14 +1835,50 @@
       "asset_file": "visual_assets/shot_0031.jpg",
       "sfx": "desert_wind_caravan_bells",
       "motion_effect": "pan_left",
-      "duration": 10.22,
+      "duration": 12.87,
       "language_durations": {
-        "bn": 12.92,
-        "en": 10.56,
+        "bn": 12.87,
+        "en": 10.51,
         "hi": 11.04
       },
-      "timestamp_start": 312.08,
-      "timestamp_end": 322.3
+      "timestamp_start": 337.18,
+      "timestamp_end": 350.05,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0031.wav",
+          "source_duration": 12.52,
+          "duration": 12.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0031.wav",
+          "source_duration": 10.16,
+          "duration": 10.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0031.wav",
+          "source_duration": 10.64,
+          "duration": 11.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 337.18
     },
     {
       "scene_id": 32,
@@ -782,11 +1898,47 @@
       "duration": 10,
       "language_durations": {
         "bn": 11.52,
-        "en": 11.16,
+        "en": 11.11,
         "hi": 12.6
       },
-      "timestamp_start": 322.3,
-      "timestamp_end": 332.3
+      "timestamp_start": 350.05,
+      "timestamp_end": 360.05,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0032.wav",
+          "source_duration": 11.12,
+          "duration": 11.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0032.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0032.wav",
+          "source_duration": 12.2,
+          "duration": 12.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 350.05
     },
     {
       "scene_id": 33,
@@ -803,14 +1955,50 @@
       "asset_file": "visual_assets/shot_0033.jpg",
       "sfx": "desert_wind_caravan_bells",
       "motion_effect": "pan_right",
-      "duration": 10.67,
+      "duration": 11.79,
       "language_durations": {
-        "bn": 11.84,
-        "en": 10.32,
+        "bn": 11.79,
+        "en": 10.27,
         "hi": 11.52
       },
-      "timestamp_start": 332.3,
-      "timestamp_end": 342.97
+      "timestamp_start": 360.05,
+      "timestamp_end": 371.84,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0033.wav",
+          "source_duration": 11.44,
+          "duration": 11.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0033.wav",
+          "source_duration": 9.92,
+          "duration": 10.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0033.wav",
+          "source_duration": 11.12,
+          "duration": 11.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 360.05
     },
     {
       "scene_id": 34,
@@ -827,14 +2015,50 @@
       "asset_file": "visual_assets/clip_shot_0034.mp4",
       "sfx": "desert_wind_caravan_bells",
       "motion_effect": "ai_video",
-      "duration": 11.26,
+      "duration": 12.83,
       "language_durations": {
-        "bn": 12.88,
-        "en": 11.16,
+        "bn": 12.83,
+        "en": 11.11,
         "hi": 11.6
       },
-      "timestamp_start": 342.97,
-      "timestamp_end": 354.23
+      "timestamp_start": 371.84,
+      "timestamp_end": 384.67,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0034.wav",
+          "source_duration": 12.48,
+          "duration": 12.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0034.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0034.wav",
+          "source_duration": 11.2,
+          "duration": 11.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 371.84
     },
     {
       "scene_id": 35,
@@ -851,14 +2075,50 @@
       "asset_file": "visual_assets/clip_shot_0035.mp4",
       "sfx": "desert_wind_caravan_bells",
       "motion_effect": "ai_video",
-      "duration": 10.52,
+      "duration": 10.91,
       "language_durations": {
-        "bn": 10.96,
-        "en": 9.84,
-        "hi": 12.32
+        "bn": 10.91,
+        "en": 9.79,
+        "hi": 12.27
       },
-      "timestamp_start": 354.23,
-      "timestamp_end": 364.75
+      "timestamp_start": 384.67,
+      "timestamp_end": 395.58,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0035.wav",
+          "source_duration": 10.56,
+          "duration": 10.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0035.wav",
+          "source_duration": 9.44,
+          "duration": 9.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0035.wav",
+          "source_duration": 11.92,
+          "duration": 12.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 384.67
     },
     {
       "scene_id": 36,
@@ -878,11 +2138,47 @@
       "duration": 10.37,
       "language_durations": {
         "bn": 11.2,
-        "en": 11,
-        "hi": 11.4
+        "en": 10.95,
+        "hi": 11.35
       },
-      "timestamp_start": 364.75,
-      "timestamp_end": 375.12
+      "timestamp_start": 395.58,
+      "timestamp_end": 405.95,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0036.wav",
+          "source_duration": 10.8,
+          "duration": 11.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0036.wav",
+          "source_duration": 10.6,
+          "duration": 10.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0036.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 395.58
     },
     {
       "scene_id": 37,
@@ -899,14 +2195,50 @@
       "asset_file": "visual_assets/clip_shot_0037.mp4",
       "sfx": "courtyard_debate_murmur",
       "motion_effect": "ai_video",
-      "duration": 11.63,
+      "duration": 12.87,
       "language_durations": {
-        "bn": 12.92,
-        "en": 11.8,
-        "hi": 12.56
+        "bn": 12.87,
+        "en": 11.75,
+        "hi": 12.51
       },
-      "timestamp_start": 375.12,
-      "timestamp_end": 386.75
+      "timestamp_start": 405.95,
+      "timestamp_end": 418.82,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0037.wav",
+          "source_duration": 12.52,
+          "duration": 12.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0037.wav",
+          "source_duration": 11.4,
+          "duration": 11.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0037.wav",
+          "source_duration": 12.16,
+          "duration": 12.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 405.95
     },
     {
       "scene_id": 38,
@@ -923,14 +2255,50 @@
       "asset_file": "visual_assets/shot_0038.jpg",
       "sfx": "courtyard_debate_murmur",
       "motion_effect": "pan_left",
-      "duration": 11.41,
+      "duration": 12.43,
       "language_durations": {
-        "bn": 12.48,
-        "en": 9.92,
-        "hi": 13.72
+        "bn": 12.43,
+        "en": 9.87,
+        "hi": 13.67
       },
-      "timestamp_start": 386.75,
-      "timestamp_end": 398.16
+      "timestamp_start": 418.82,
+      "timestamp_end": 431.25,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0038.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0038.wav",
+          "source_duration": 9.52,
+          "duration": 9.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0038.wav",
+          "source_duration": 13.32,
+          "duration": 13.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 418.82
     },
     {
       "scene_id": 39,
@@ -950,11 +2318,47 @@
       "duration": 12.59,
       "language_durations": {
         "bn": 11.44,
-        "en": 12.48,
-        "hi": 12.48
+        "en": 12.43,
+        "hi": 12.43
       },
-      "timestamp_start": 398.16,
-      "timestamp_end": 410.75
+      "timestamp_start": 431.25,
+      "timestamp_end": 443.84,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0039.wav",
+          "source_duration": 11.04,
+          "duration": 11.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0039.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0039.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 431.25
     },
     {
       "scene_id": 40,
@@ -977,8 +2381,44 @@
         "en": 10.6,
         "hi": 10.28
       },
-      "timestamp_start": 410.75,
-      "timestamp_end": 421.94
+      "timestamp_start": 443.84,
+      "timestamp_end": 455.03,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0040.wav",
+          "source_duration": 12.04,
+          "duration": 12.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0040.wav",
+          "source_duration": 10.2,
+          "duration": 10.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0040.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 443.84
     },
     {
       "scene_id": 41,
@@ -995,14 +2435,50 @@
       "asset_file": "visual_assets/shot_0041.jpg",
       "sfx": "himalayan_wind_prayer_bowls",
       "motion_effect": "zoom_out",
-      "duration": 10.67,
+      "duration": 12.43,
       "language_durations": {
-        "bn": 12.48,
-        "en": 13.72,
-        "hi": 11.4
+        "bn": 12.43,
+        "en": 13.67,
+        "hi": 11.35
       },
-      "timestamp_start": 421.94,
-      "timestamp_end": 432.61
+      "timestamp_start": 455.03,
+      "timestamp_end": 467.46,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0041.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0041.wav",
+          "source_duration": 13.32,
+          "duration": 13.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0041.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 455.03
     },
     {
       "scene_id": 42,
@@ -1023,10 +2499,46 @@
       "language_durations": {
         "bn": 11.6,
         "en": 10.36,
-        "hi": 10.32
+        "hi": 10.27
       },
-      "timestamp_start": 432.61,
-      "timestamp_end": 443.5
+      "timestamp_start": 467.46,
+      "timestamp_end": 478.35,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0042.wav",
+          "source_duration": 11.2,
+          "duration": 11.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0042.wav",
+          "source_duration": 9.96,
+          "duration": 10.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0042.wav",
+          "source_duration": 9.92,
+          "duration": 10.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 467.46
     },
     {
       "scene_id": 43,
@@ -1043,14 +2555,50 @@
       "asset_file": "visual_assets/shot_0043.jpg",
       "sfx": "himalayan_wind_prayer_bowls",
       "motion_effect": "pan_right",
-      "duration": 11.48,
+      "duration": 11.91,
       "language_durations": {
-        "bn": 11.96,
-        "en": 11.24,
-        "hi": 10.92
+        "bn": 11.91,
+        "en": 11.19,
+        "hi": 10.87
       },
-      "timestamp_start": 443.5,
-      "timestamp_end": 454.98
+      "timestamp_start": 478.35,
+      "timestamp_end": 490.26,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0043.wav",
+          "source_duration": 11.56,
+          "duration": 11.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0043.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0043.wav",
+          "source_duration": 10.52,
+          "duration": 10.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 478.35
     },
     {
       "scene_id": 44,
@@ -1070,11 +2618,47 @@
       "duration": 11.26,
       "language_durations": {
         "bn": 11.76,
-        "en": 11.88,
-        "hi": 11.64
+        "en": 11.83,
+        "hi": 11.59
       },
-      "timestamp_start": 454.98,
-      "timestamp_end": 466.24
+      "timestamp_start": 490.26,
+      "timestamp_end": 501.52,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0044.wav",
+          "source_duration": 11.36,
+          "duration": 11.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0044.wav",
+          "source_duration": 11.48,
+          "duration": 11.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0044.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 490.26
     },
     {
       "scene_id": 45,
@@ -1095,10 +2679,46 @@
       "language_durations": {
         "bn": 11.36,
         "en": 11.28,
-        "hi": 11.56
+        "hi": 11.51
       },
-      "timestamp_start": 466.24,
-      "timestamp_end": 477.65
+      "timestamp_start": 501.52,
+      "timestamp_end": 512.93,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0045.wav",
+          "source_duration": 10.96,
+          "duration": 11.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0045.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0045.wav",
+          "source_duration": 11.16,
+          "duration": 11.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 501.52
     },
     {
       "scene_id": 46,
@@ -1119,10 +2739,46 @@
       "language_durations": {
         "bn": 13.44,
         "en": 11.76,
-        "hi": 12.4
+        "hi": 12.35
       },
-      "timestamp_start": 477.65,
-      "timestamp_end": 489.72
+      "timestamp_start": 512.93,
+      "timestamp_end": 525,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0046.wav",
+          "source_duration": 13.04,
+          "duration": 13.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0046.wav",
+          "source_duration": 11.36,
+          "duration": 11.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0046.wav",
+          "source_duration": 12,
+          "duration": 12.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 512.93
     },
     {
       "scene_id": 47,
@@ -1139,14 +2795,50 @@
       "asset_file": "visual_assets/shot_0047.jpg",
       "sfx": "dawn_bell_meditation",
       "motion_effect": "zoom_out",
-      "duration": 11.7,
+      "duration": 13.75,
       "language_durations": {
-        "bn": 13.8,
-        "en": 11.32,
-        "hi": 14.32
+        "bn": 13.75,
+        "en": 11.27,
+        "hi": 14.27
       },
-      "timestamp_start": 489.72,
-      "timestamp_end": 501.42
+      "timestamp_start": 525,
+      "timestamp_end": 538.75,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0047.wav",
+          "source_duration": 13.4,
+          "duration": 13.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0047.wav",
+          "source_duration": 10.92,
+          "duration": 11.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0047.wav",
+          "source_duration": 13.92,
+          "duration": 14.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 525
     },
     {
       "scene_id": 48,
@@ -1166,11 +2858,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 11.36,
-        "en": 11.16,
-        "hi": 13.4
+        "en": 11.11,
+        "hi": 13.35
       },
-      "timestamp_start": 501.42,
-      "timestamp_end": 511.57
+      "timestamp_start": 538.75,
+      "timestamp_end": 548.9,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0048.wav",
+          "source_duration": 10.96,
+          "duration": 11.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0048.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0048.wav",
+          "source_duration": 13,
+          "duration": 13.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 538.75
     },
     {
       "scene_id": 49,
@@ -1187,14 +2915,50 @@
       "asset_file": "visual_assets/shot_0049.jpg",
       "sfx": "refectory_bowls_clatter",
       "motion_effect": "pan_right",
-      "duration": 10.81,
+      "duration": 11.59,
       "language_durations": {
-        "bn": 11.64,
+        "bn": 11.59,
         "en": 10.52,
-        "hi": 11.4
+        "hi": 11.35
       },
-      "timestamp_start": 511.57,
-      "timestamp_end": 522.38
+      "timestamp_start": 548.9,
+      "timestamp_end": 560.49,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0049.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0049.wav",
+          "source_duration": 10.12,
+          "duration": 10.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0049.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 548.9
     },
     {
       "scene_id": 50,
@@ -1214,11 +2978,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 11.68,
-        "en": 11.88,
-        "hi": 10.72
+        "en": 11.83,
+        "hi": 10.67
       },
-      "timestamp_start": 522.38,
-      "timestamp_end": 532.53
+      "timestamp_start": 560.49,
+      "timestamp_end": 570.64,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0050.wav",
+          "source_duration": 11.28,
+          "duration": 11.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0050.wav",
+          "source_duration": 11.48,
+          "duration": 11.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0050.wav",
+          "source_duration": 10.32,
+          "duration": 10.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 560.49
     },
     {
       "scene_id": 51,
@@ -1238,11 +3038,47 @@
       "duration": 11.63,
       "language_durations": {
         "bn": 13.76,
-        "en": 12.48,
-        "hi": 12.24
+        "en": 12.43,
+        "hi": 12.19
       },
-      "timestamp_start": 532.53,
-      "timestamp_end": 544.16
+      "timestamp_start": 570.64,
+      "timestamp_end": 582.27,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0051.wav",
+          "source_duration": 13.36,
+          "duration": 13.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0051.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0051.wav",
+          "source_duration": 11.84,
+          "duration": 12.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 570.64
     },
     {
       "scene_id": 52,
@@ -1259,14 +3095,50 @@
       "asset_file": "visual_assets/shot_0052.jpg",
       "sfx": "campus_celebration_conch",
       "motion_effect": "pan_left",
-      "duration": 11.63,
+      "duration": 13.43,
       "language_durations": {
-        "bn": 13.48,
-        "en": 12.92,
-        "hi": 11.92
+        "bn": 13.43,
+        "en": 12.87,
+        "hi": 11.87
       },
-      "timestamp_start": 544.16,
-      "timestamp_end": 555.79
+      "timestamp_start": 582.27,
+      "timestamp_end": 595.7,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0052.wav",
+          "source_duration": 13.08,
+          "duration": 13.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0052.wav",
+          "source_duration": 12.52,
+          "duration": 12.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0052.wav",
+          "source_duration": 11.52,
+          "duration": 11.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 582.27
     },
     {
       "scene_id": 53,
@@ -1283,14 +3155,50 @@
       "asset_file": "visual_assets/shot_0053.jpg",
       "sfx": "decline_wind_monsoon",
       "motion_effect": "pan_right",
-      "duration": 10.96,
+      "duration": 13.59,
       "language_durations": {
-        "bn": 13.64,
+        "bn": 13.59,
         "en": 9.52,
         "hi": 12.04
       },
-      "timestamp_start": 555.79,
-      "timestamp_end": 566.75
+      "timestamp_start": 595.7,
+      "timestamp_end": 609.29,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0053.wav",
+          "source_duration": 13.24,
+          "duration": 13.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0053.wav",
+          "source_duration": 9.12,
+          "duration": 9.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0053.wav",
+          "source_duration": 11.64,
+          "duration": 12.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 595.7
     },
     {
       "scene_id": 54,
@@ -1307,14 +3215,50 @@
       "asset_file": "visual_assets/shot_0054.jpg",
       "sfx": "court_tension_strings",
       "motion_effect": "zoom_in",
-      "duration": 11.33,
+      "duration": 10.91,
       "language_durations": {
-        "bn": 10.96,
-        "en": 11,
+        "bn": 10.91,
+        "en": 10.95,
         "hi": 10.76
       },
-      "timestamp_start": 566.75,
-      "timestamp_end": 578.08
+      "timestamp_start": 609.29,
+      "timestamp_end": 620.2,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0054.wav",
+          "source_duration": 10.56,
+          "duration": 10.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0054.wav",
+          "source_duration": 10.6,
+          "duration": 10.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0054.wav",
+          "source_duration": 10.36,
+          "duration": 10.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 609.29
     },
     {
       "scene_id": 55,
@@ -1331,14 +3275,50 @@
       "asset_file": "visual_assets/shot_0055.jpg",
       "sfx": "empty_granary_echo",
       "motion_effect": "zoom_out",
-      "duration": 10.15,
+      "duration": 11.59,
       "language_durations": {
-        "bn": 11.64,
-        "en": 10.4,
+        "bn": 11.59,
+        "en": 10.35,
         "hi": 12.36
       },
-      "timestamp_start": 578.08,
-      "timestamp_end": 588.23
+      "timestamp_start": 620.2,
+      "timestamp_end": 631.79,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0055.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0055.wav",
+          "source_duration": 10,
+          "duration": 10.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0055.wav",
+          "source_duration": 11.96,
+          "duration": 12.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 620.2
     },
     {
       "scene_id": 56,
@@ -1355,14 +3335,50 @@
       "asset_file": "visual_assets/shot_0056.jpg",
       "sfx": "distant_army_drums",
       "motion_effect": "pan_left",
-      "duration": 10.89,
+      "duration": 11.87,
       "language_durations": {
-        "bn": 11.92,
-        "en": 10.88,
+        "bn": 11.87,
+        "en": 10.83,
         "hi": 12.2
       },
-      "timestamp_start": 588.23,
-      "timestamp_end": 599.12
+      "timestamp_start": 631.79,
+      "timestamp_end": 643.66,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0056.wav",
+          "source_duration": 11.52,
+          "duration": 11.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0056.wav",
+          "source_duration": 10.48,
+          "duration": 10.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0056.wav",
+          "source_duration": 11.8,
+          "duration": 12.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 631.79
     },
     {
       "scene_id": 57,
@@ -1379,14 +3395,50 @@
       "asset_file": "visual_assets/shot_0057.jpg",
       "sfx": "flickering_lamp_wind",
       "motion_effect": "pan_right",
-      "duration": 10,
+      "duration": 11.03,
       "language_durations": {
-        "bn": 11.08,
-        "en": 10.88,
+        "bn": 11.03,
+        "en": 10.83,
         "hi": 12.12
       },
-      "timestamp_start": 599.12,
-      "timestamp_end": 609.12
+      "timestamp_start": 643.66,
+      "timestamp_end": 654.69,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0057.wav",
+          "source_duration": 10.68,
+          "duration": 11.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0057.wav",
+          "source_duration": 10.48,
+          "duration": 10.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0057.wav",
+          "source_duration": 11.72,
+          "duration": 12.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 643.66
     },
     {
       "scene_id": 58,
@@ -1403,14 +3455,50 @@
       "asset_file": "visual_assets/clip_shot_0058.mp4",
       "sfx": "cavalry_gallop_dust",
       "motion_effect": "ai_video",
-      "duration": 10.74,
+      "duration": 10.95,
       "language_durations": {
-        "bn": 11,
+        "bn": 10.95,
         "en": 10.28,
-        "hi": 10.4
+        "hi": 10.35
       },
-      "timestamp_start": 609.12,
-      "timestamp_end": 619.86
+      "timestamp_start": 654.69,
+      "timestamp_end": 665.64,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0058.wav",
+          "source_duration": 10.6,
+          "duration": 10.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0058.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0058.wav",
+          "source_duration": 10,
+          "duration": 10.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 654.69
     },
     {
       "scene_id": 59,
@@ -1430,11 +3518,47 @@
       "duration": 11.56,
       "language_durations": {
         "bn": 12.44,
-        "en": 10.32,
-        "hi": 11.24
+        "en": 10.27,
+        "hi": 11.19
       },
-      "timestamp_start": 619.86,
-      "timestamp_end": 631.42
+      "timestamp_start": 665.64,
+      "timestamp_end": 677.2,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0059.wav",
+          "source_duration": 12.04,
+          "duration": 12.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0059.wav",
+          "source_duration": 9.92,
+          "duration": 10.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0059.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 665.64
     },
     {
       "scene_id": 60,
@@ -1451,14 +3575,50 @@
       "asset_file": "visual_assets/clip_shot_0060.mp4",
       "sfx": "gate_confrontation_tension",
       "motion_effect": "ai_video",
-      "duration": 12.15,
+      "duration": 12.43,
       "language_durations": {
-        "bn": 12.48,
-        "en": 10.92,
-        "hi": 12.64
+        "bn": 12.43,
+        "en": 10.87,
+        "hi": 12.59
       },
-      "timestamp_start": 631.42,
-      "timestamp_end": 643.57
+      "timestamp_start": 677.2,
+      "timestamp_end": 689.63,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0060.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0060.wav",
+          "source_duration": 10.52,
+          "duration": 10.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0060.wav",
+          "source_duration": 12.24,
+          "duration": 12.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 677.2
     },
     {
       "scene_id": 61,
@@ -1478,11 +3638,47 @@
       "duration": 10.44,
       "language_durations": {
         "bn": 10.68,
-        "en": 11.32,
+        "en": 11.27,
         "hi": 10.68
       },
-      "timestamp_start": 643.57,
-      "timestamp_end": 654.01
+      "timestamp_start": 689.63,
+      "timestamp_end": 700.07,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0061.wav",
+          "source_duration": 10.28,
+          "duration": 10.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0061.wav",
+          "source_duration": 10.92,
+          "duration": 11.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0061.wav",
+          "source_duration": 10.28,
+          "duration": 10.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 689.63
     },
     {
       "scene_id": 62,
@@ -1499,14 +3695,50 @@
       "asset_file": "visual_assets/clip_shot_0062.mp4",
       "sfx": "survivor_breath_forest",
       "motion_effect": "ai_video",
-      "duration": 10.67,
+      "duration": 11.19,
       "language_durations": {
-        "bn": 11.24,
+        "bn": 11.19,
         "en": 11.6,
-        "hi": 10.56
+        "hi": 10.51
       },
-      "timestamp_start": 654.01,
-      "timestamp_end": 664.68
+      "timestamp_start": 700.07,
+      "timestamp_end": 711.26,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0062.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0062.wav",
+          "source_duration": 11.2,
+          "duration": 11.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0062.wav",
+          "source_duration": 10.16,
+          "duration": 10.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 700.07
     },
     {
       "scene_id": 63,
@@ -1523,14 +3755,50 @@
       "asset_file": "visual_assets/clip_shot_0063.mp4",
       "sfx": "tower_fire_roar",
       "motion_effect": "ai_video",
-      "duration": 10.37,
+      "duration": 11.87,
       "language_durations": {
-        "bn": 11.92,
+        "bn": 11.87,
         "en": 12.44,
         "hi": 11.76
       },
-      "timestamp_start": 664.68,
-      "timestamp_end": 675.05
+      "timestamp_start": 711.26,
+      "timestamp_end": 723.13,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0063.wav",
+          "source_duration": 11.52,
+          "duration": 11.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0063.wav",
+          "source_duration": 12.04,
+          "duration": 12.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0063.wav",
+          "source_duration": 11.36,
+          "duration": 11.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 711.26
     },
     {
       "scene_id": 64,
@@ -1547,14 +3815,50 @@
       "asset_file": "visual_assets/clip_shot_0064.mp4",
       "sfx": "smoke_column_wind",
       "motion_effect": "ai_video",
-      "duration": 10.59,
+      "duration": 11.67,
       "language_durations": {
-        "bn": 11.72,
+        "bn": 11.67,
         "en": 11.28,
         "hi": 13.36
       },
-      "timestamp_start": 675.05,
-      "timestamp_end": 685.64
+      "timestamp_start": 723.13,
+      "timestamp_end": 734.8,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0064.wav",
+          "source_duration": 11.32,
+          "duration": 11.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0064.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0064.wav",
+          "source_duration": 12.96,
+          "duration": 13.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 723.13
     },
     {
       "scene_id": 65,
@@ -1571,14 +3875,50 @@
       "asset_file": "visual_assets/clip_shot_0065.mp4",
       "sfx": "timelapse_fire_crackle",
       "motion_effect": "ai_video",
-      "duration": 10.07,
+      "duration": 11.35,
       "language_durations": {
-        "bn": 11.4,
-        "en": 9.32,
-        "hi": 11.32
+        "bn": 11.35,
+        "en": 9.27,
+        "hi": 11.27
       },
-      "timestamp_start": 685.64,
-      "timestamp_end": 695.71
+      "timestamp_start": 734.8,
+      "timestamp_end": 746.15,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0065.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0065.wav",
+          "source_duration": 8.92,
+          "duration": 9.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0065.wav",
+          "source_duration": 10.92,
+          "duration": 11.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 734.8
     },
     {
       "scene_id": 66,
@@ -1595,14 +3935,50 @@
       "asset_file": "visual_assets/clip_shot_0066.mp4",
       "sfx": "forest_escape_footsteps",
       "motion_effect": "ai_video",
-      "duration": 10.44,
+      "duration": 10.59,
       "language_durations": {
-        "bn": 10.64,
-        "en": 11.08,
+        "bn": 10.59,
+        "en": 11.03,
         "hi": 11.44
       },
-      "timestamp_start": 695.71,
-      "timestamp_end": 706.15
+      "timestamp_start": 746.15,
+      "timestamp_end": 756.74,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0066.wav",
+          "source_duration": 10.24,
+          "duration": 10.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0066.wav",
+          "source_duration": 10.68,
+          "duration": 11.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0066.wav",
+          "source_duration": 11.04,
+          "duration": 11.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 746.15
     },
     {
       "scene_id": 67,
@@ -1625,8 +4001,44 @@
         "en": 13.6,
         "hi": 11.52
       },
-      "timestamp_start": 706.15,
-      "timestamp_end": 716.15
+      "timestamp_start": 756.74,
+      "timestamp_end": 766.74,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0067.wav",
+          "source_duration": 11.8,
+          "duration": 12.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0067.wav",
+          "source_duration": 13.2,
+          "duration": 13.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0067.wav",
+          "source_duration": 11.12,
+          "duration": 11.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 756.74
     },
     {
       "scene_id": 68,
@@ -1646,11 +4058,47 @@
       "duration": 11.26,
       "language_durations": {
         "bn": 12.04,
-        "en": 10.16,
-        "hi": 10.96
+        "en": 10.11,
+        "hi": 10.91
       },
-      "timestamp_start": 716.15,
-      "timestamp_end": 727.41
+      "timestamp_start": 766.74,
+      "timestamp_end": 778,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0068.wav",
+          "source_duration": 11.64,
+          "duration": 12.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0068.wav",
+          "source_duration": 9.76,
+          "duration": 10.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0068.wav",
+          "source_duration": 10.56,
+          "duration": 10.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 766.74
     },
     {
       "scene_id": 69,
@@ -1667,14 +4115,50 @@
       "asset_file": "visual_assets/shot_0069.jpg",
       "sfx": "caution_chime_pause",
       "motion_effect": "zoom_out",
-      "duration": 10.3,
+      "duration": 11.19,
       "language_durations": {
-        "bn": 11.24,
+        "bn": 11.19,
         "en": 11.28,
-        "hi": 11.8
+        "hi": 11.75
       },
-      "timestamp_start": 727.41,
-      "timestamp_end": 737.71
+      "timestamp_start": 778,
+      "timestamp_end": 789.19,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0069.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0069.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0069.wav",
+          "source_duration": 11.4,
+          "duration": 11.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 778
     },
     {
       "scene_id": 70,
@@ -1691,14 +4175,50 @@
       "asset_file": "visual_assets/shot_0070.jpg",
       "sfx": "blank_page_flip",
       "motion_effect": "pan_left",
-      "duration": 10.37,
+      "duration": 10.75,
       "language_durations": {
-        "bn": 10.8,
-        "en": 10.84,
-        "hi": 10.64
+        "bn": 10.75,
+        "en": 10.79,
+        "hi": 10.59
       },
-      "timestamp_start": 737.71,
-      "timestamp_end": 748.08
+      "timestamp_start": 789.19,
+      "timestamp_end": 799.94,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0070.wav",
+          "source_duration": 10.4,
+          "duration": 10.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0070.wav",
+          "source_duration": 10.44,
+          "duration": 10.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0070.wav",
+          "source_duration": 10.24,
+          "duration": 10.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 789.19
     },
     {
       "scene_id": 71,
@@ -1715,14 +4235,50 @@
       "asset_file": "visual_assets/shot_0071.jpg",
       "sfx": "bonfire_storyteller",
       "motion_effect": "pan_right",
-      "duration": 10.22,
+      "duration": 11.51,
       "language_durations": {
-        "bn": 11.56,
-        "en": 10.4,
+        "bn": 11.51,
+        "en": 10.35,
         "hi": 11.44
       },
-      "timestamp_start": 748.08,
-      "timestamp_end": 758.3
+      "timestamp_start": 799.94,
+      "timestamp_end": 811.45,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0071.wav",
+          "source_duration": 11.16,
+          "duration": 11.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0071.wav",
+          "source_duration": 10,
+          "duration": 10.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0071.wav",
+          "source_duration": 11.04,
+          "duration": 11.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 799.94
     },
     {
       "scene_id": 72,
@@ -1743,10 +4299,46 @@
       "language_durations": {
         "bn": 12.68,
         "en": 11.52,
-        "hi": 13.16
+        "hi": 13.11
       },
-      "timestamp_start": 758.3,
-      "timestamp_end": 768.52
+      "timestamp_start": 811.45,
+      "timestamp_end": 821.67,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0072.wav",
+          "source_duration": 12.28,
+          "duration": 12.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0072.wav",
+          "source_duration": 11.12,
+          "duration": 11.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0072.wav",
+          "source_duration": 12.76,
+          "duration": 13.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 811.45
     },
     {
       "scene_id": 73,
@@ -1767,10 +4359,46 @@
       "language_durations": {
         "bn": 13.2,
         "en": 12.04,
-        "hi": 12.56
+        "hi": 12.51
       },
-      "timestamp_start": 768.52,
-      "timestamp_end": 780.22
+      "timestamp_start": 821.67,
+      "timestamp_end": 833.37,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0073.wav",
+          "source_duration": 12.8,
+          "duration": 13.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0073.wav",
+          "source_duration": 11.64,
+          "duration": 12.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0073.wav",
+          "source_duration": 12.16,
+          "duration": 12.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 821.67
     },
     {
       "scene_id": 74,
@@ -1787,14 +4415,50 @@
       "asset_file": "visual_assets/shot_0074.jpg",
       "sfx": "pilgrim_bow_bell",
       "motion_effect": "pan_left",
-      "duration": 11.04,
+      "duration": 12.35,
       "language_durations": {
-        "bn": 12.4,
-        "en": 12.56,
+        "bn": 12.35,
+        "en": 12.51,
         "hi": 14.12
       },
-      "timestamp_start": 780.22,
-      "timestamp_end": 791.26
+      "timestamp_start": 833.37,
+      "timestamp_end": 845.72,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0074.wav",
+          "source_duration": 12,
+          "duration": 12.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0074.wav",
+          "source_duration": 12.16,
+          "duration": 12.51,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0074.wav",
+          "source_duration": 13.72,
+          "duration": 14.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 833.37
     },
     {
       "scene_id": 75,
@@ -1811,14 +4475,50 @@
       "asset_file": "visual_assets/shot_0075.jpg",
       "sfx": "manuscripts_clutch_rustle",
       "motion_effect": "pan_right",
-      "duration": 10.44,
+      "duration": 13.67,
       "language_durations": {
-        "bn": 13.72,
-        "en": 10.64,
+        "bn": 13.67,
+        "en": 10.59,
         "hi": 9.12
       },
-      "timestamp_start": 791.26,
-      "timestamp_end": 801.7
+      "timestamp_start": 845.72,
+      "timestamp_end": 859.39,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0075.wav",
+          "source_duration": 13.32,
+          "duration": 13.67,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0075.wav",
+          "source_duration": 10.24,
+          "duration": 10.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0075.wav",
+          "source_duration": 8.72,
+          "duration": 9.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 845.72
     },
     {
       "scene_id": 76,
@@ -1835,14 +4535,50 @@
       "asset_file": "visual_assets/clip_shot_0076.mp4",
       "sfx": "seeds_wind_chime",
       "motion_effect": "ai_video",
-      "duration": 10,
+      "duration": 10.95,
       "language_durations": {
-        "bn": 11,
+        "bn": 10.95,
         "en": 11.2,
-        "hi": 12.24
+        "hi": 12.19
       },
-      "timestamp_start": 801.7,
-      "timestamp_end": 811.7
+      "timestamp_start": 859.39,
+      "timestamp_end": 870.34,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0076.wav",
+          "source_duration": 10.6,
+          "duration": 10.95,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0076.wav",
+          "source_duration": 10.8,
+          "duration": 11.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0076.wav",
+          "source_duration": 11.84,
+          "duration": 12.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 859.39
     },
     {
       "scene_id": 77,
@@ -1859,14 +4595,50 @@
       "asset_file": "visual_assets/shot_0077.jpg",
       "sfx": "buried_mound_wind",
       "motion_effect": "zoom_out",
-      "duration": 10.37,
+      "duration": 11.03,
       "language_durations": {
-        "bn": 11.08,
+        "bn": 11.03,
         "en": 10.44,
-        "hi": 12.4
+        "hi": 12.35
       },
-      "timestamp_start": 811.7,
-      "timestamp_end": 822.07
+      "timestamp_start": 870.34,
+      "timestamp_end": 881.37,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0077.wav",
+          "source_duration": 10.68,
+          "duration": 11.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0077.wav",
+          "source_duration": 10.04,
+          "duration": 10.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0077.wav",
+          "source_duration": 12,
+          "duration": 12.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 870.34
     },
     {
       "scene_id": 78,
@@ -1883,14 +4655,50 @@
       "asset_file": "visual_assets/shot_0078.jpg",
       "sfx": "surveyor_compass_chisel",
       "motion_effect": "pan_left",
-      "duration": 10.15,
+      "duration": 11.35,
       "language_durations": {
-        "bn": 11.4,
-        "en": 9.92,
+        "bn": 11.35,
+        "en": 9.87,
         "hi": 10.68
       },
-      "timestamp_start": 822.07,
-      "timestamp_end": 832.22
+      "timestamp_start": 881.37,
+      "timestamp_end": 892.72,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0078.wav",
+          "source_duration": 11,
+          "duration": 11.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0078.wav",
+          "source_duration": 9.52,
+          "duration": 9.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0078.wav",
+          "source_duration": 10.28,
+          "duration": 10.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 881.37
     },
     {
       "scene_id": 79,
@@ -1910,11 +4718,47 @@
       "duration": 10.37,
       "language_durations": {
         "bn": 11.2,
-        "en": 10.92,
+        "en": 10.87,
         "hi": 12.04
       },
-      "timestamp_start": 832.22,
-      "timestamp_end": 842.59
+      "timestamp_start": 892.72,
+      "timestamp_end": 903.09,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0079.wav",
+          "source_duration": 10.8,
+          "duration": 11.2,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0079.wav",
+          "source_duration": 10.52,
+          "duration": 10.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0079.wav",
+          "source_duration": 11.64,
+          "duration": 12.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 892.72
     },
     {
       "scene_id": 80,
@@ -1934,11 +4778,47 @@
       "duration": 10.07,
       "language_durations": {
         "bn": 12.28,
-        "en": 9.24,
+        "en": 9.19,
         "hi": 12.44
       },
-      "timestamp_start": 842.59,
-      "timestamp_end": 852.66
+      "timestamp_start": 903.09,
+      "timestamp_end": 913.16,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0080.wav",
+          "source_duration": 11.88,
+          "duration": 12.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0080.wav",
+          "source_duration": 8.84,
+          "duration": 9.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0080.wav",
+          "source_duration": 12.04,
+          "duration": 12.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 903.09
     },
     {
       "scene_id": 81,
@@ -1959,10 +4839,46 @@
       "language_durations": {
         "bn": 10.68,
         "en": 10.76,
-        "hi": 10.08
+        "hi": 10.03
       },
-      "timestamp_start": 852.66,
-      "timestamp_end": 863.03
+      "timestamp_start": 913.16,
+      "timestamp_end": 923.53,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0081.wav",
+          "source_duration": 10.28,
+          "duration": 10.68,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0081.wav",
+          "source_duration": 10.36,
+          "duration": 10.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0081.wav",
+          "source_duration": 9.68,
+          "duration": 10.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 913.16
     },
     {
       "scene_id": 82,
@@ -1982,11 +4898,47 @@
       "duration": 10.15,
       "language_durations": {
         "bn": 10.76,
-        "en": 9.64,
-        "hi": 10.32
+        "en": 9.59,
+        "hi": 10.27
       },
-      "timestamp_start": 863.03,
-      "timestamp_end": 873.18
+      "timestamp_start": 923.53,
+      "timestamp_end": 933.68,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0082.wav",
+          "source_duration": 10.36,
+          "duration": 10.76,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0082.wav",
+          "source_duration": 9.24,
+          "duration": 9.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0082.wav",
+          "source_duration": 9.92,
+          "duration": 10.27,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 923.53
     },
     {
       "scene_id": 83,
@@ -2003,14 +4955,50 @@
       "asset_file": "visual_assets/shot_0083.jpg",
       "sfx": "inauguration_cheer_tree",
       "motion_effect": "pan_right",
-      "duration": 10.37,
+      "duration": 10.79,
       "language_durations": {
-        "bn": 10.84,
+        "bn": 10.79,
         "en": 9.44,
-        "hi": 10.92
+        "hi": 10.87
       },
-      "timestamp_start": 873.18,
-      "timestamp_end": 883.55
+      "timestamp_start": 933.68,
+      "timestamp_end": 944.47,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0083.wav",
+          "source_duration": 10.44,
+          "duration": 10.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0083.wav",
+          "source_duration": 9.04,
+          "duration": 9.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0083.wav",
+          "source_duration": 10.52,
+          "duration": 10.87,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 933.68
     },
     {
       "scene_id": 84,
@@ -2027,14 +5015,50 @@
       "asset_file": "visual_assets/shot_0084.jpg",
       "sfx": "classroom_debate_energy",
       "motion_effect": "zoom_in",
-      "duration": 10.22,
+      "duration": 12.43,
       "language_durations": {
-        "bn": 12.48,
+        "bn": 12.43,
         "en": 9.6,
-        "hi": 10.8
+        "hi": 10.75
       },
-      "timestamp_start": 883.55,
-      "timestamp_end": 893.77
+      "timestamp_start": 944.47,
+      "timestamp_end": 956.9,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0084.wav",
+          "source_duration": 12.08,
+          "duration": 12.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0084.wav",
+          "source_duration": 9.2,
+          "duration": 9.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0084.wav",
+          "source_duration": 10.4,
+          "duration": 10.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 944.47
     },
     {
       "scene_id": 85,
@@ -2051,14 +5075,50 @@
       "asset_file": "visual_assets/shot_0085.jpg",
       "sfx": "lamp_rekindle_flame",
       "motion_effect": "zoom_out",
-      "duration": 10.07,
+      "duration": 12.03,
       "language_durations": {
-        "bn": 12.08,
-        "en": 9.84,
-        "hi": 10.48
+        "bn": 12.03,
+        "en": 9.79,
+        "hi": 10.43
       },
-      "timestamp_start": 893.77,
-      "timestamp_end": 903.84
+      "timestamp_start": 956.9,
+      "timestamp_end": 968.93,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0085.wav",
+          "source_duration": 11.68,
+          "duration": 12.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0085.wav",
+          "source_duration": 9.44,
+          "duration": 9.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0085.wav",
+          "source_duration": 10.08,
+          "duration": 10.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 956.9
     },
     {
       "scene_id": 86,
@@ -2079,10 +5139,46 @@
       "language_durations": {
         "bn": 11.36,
         "en": 10.28,
-        "hi": 11.8
+        "hi": 11.75
       },
-      "timestamp_start": 903.84,
-      "timestamp_end": 914.21
+      "timestamp_start": 968.93,
+      "timestamp_end": 979.3,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0086.wav",
+          "source_duration": 10.96,
+          "duration": 11.36,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0086.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0086.wav",
+          "source_duration": 11.4,
+          "duration": 11.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 968.93
     },
     {
       "scene_id": 87,
@@ -2102,11 +5198,47 @@
       "duration": 10.07,
       "language_durations": {
         "bn": 10.28,
-        "en": 10.8,
+        "en": 10.75,
         "hi": 12.12
       },
-      "timestamp_start": 914.21,
-      "timestamp_end": 924.28
+      "timestamp_start": 979.3,
+      "timestamp_end": 989.37,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0087.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0087.wav",
+          "source_duration": 10.4,
+          "duration": 10.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0087.wav",
+          "source_duration": 11.72,
+          "duration": 12.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 979.3
     },
     {
       "scene_id": 88,
@@ -2123,14 +5255,50 @@
       "asset_file": "visual_assets/shot_0088.jpg",
       "sfx": "dreams_stars_shimmer",
       "motion_effect": "zoom_in",
-      "duration": 10.37,
+      "duration": 11.75,
       "language_durations": {
-        "bn": 11.8,
-        "en": 9.84,
-        "hi": 11.64
+        "bn": 11.75,
+        "en": 9.79,
+        "hi": 11.59
       },
-      "timestamp_start": 924.28,
-      "timestamp_end": 934.65
+      "timestamp_start": 989.37,
+      "timestamp_end": 1001.12,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0088.wav",
+          "source_duration": 11.4,
+          "duration": 11.75,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0088.wav",
+          "source_duration": 9.44,
+          "duration": 9.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0088.wav",
+          "source_duration": 11.24,
+          "duration": 11.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 989.37
     },
     {
       "scene_id": 89,
@@ -2150,11 +5318,47 @@
       "duration": 10.44,
       "language_durations": {
         "bn": 11.28,
-        "en": 10.4,
-        "hi": 10.84
+        "en": 10.35,
+        "hi": 10.79
       },
-      "timestamp_start": 934.65,
-      "timestamp_end": 945.09
+      "timestamp_start": 1001.12,
+      "timestamp_end": 1011.56,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0089.wav",
+          "source_duration": 10.88,
+          "duration": 11.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0089.wav",
+          "source_duration": 10,
+          "duration": 10.35,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0089.wav",
+          "source_duration": 10.44,
+          "duration": 10.79,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1001.12
     },
     {
       "scene_id": 90,
@@ -2171,14 +5375,50 @@
       "asset_file": "visual_assets/shot_0090.jpg",
       "sfx": "curious_student_gasp",
       "motion_effect": "pan_left",
-      "duration": 10.52,
+      "duration": 11.19,
       "language_durations": {
-        "bn": 11.24,
+        "bn": 11.19,
         "en": 11.52,
         "hi": 10.12
       },
-      "timestamp_start": 945.09,
-      "timestamp_end": 955.61
+      "timestamp_start": 1011.56,
+      "timestamp_end": 1022.75,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0090.wav",
+          "source_duration": 10.84,
+          "duration": 11.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0090.wav",
+          "source_duration": 11.12,
+          "duration": 11.52,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0090.wav",
+          "source_duration": 9.72,
+          "duration": 10.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1011.56
     },
     {
       "scene_id": 91,
@@ -2198,11 +5438,47 @@
       "duration": 11.19,
       "language_durations": {
         "bn": 11.04,
-        "en": 10.16,
+        "en": 10.11,
         "hi": 10.28
       },
-      "timestamp_start": 955.61,
-      "timestamp_end": 966.8
+      "timestamp_start": 1022.75,
+      "timestamp_end": 1033.94,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0091.wav",
+          "source_duration": 10.64,
+          "duration": 11.04,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0091.wav",
+          "source_duration": 9.76,
+          "duration": 10.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0091.wav",
+          "source_duration": 9.88,
+          "duration": 10.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1022.75
     },
     {
       "scene_id": 92,
@@ -2219,14 +5495,50 @@
       "asset_file": "visual_assets/shot_0092.jpg",
       "sfx": "welcome_embrace_chime",
       "motion_effect": "zoom_in",
-      "duration": 10,
+      "duration": 9.03,
       "language_durations": {
-        "bn": 9.08,
+        "bn": 9.03,
         "en": 9.12,
-        "hi": 9.96
+        "hi": 9.91
       },
-      "timestamp_start": 966.8,
-      "timestamp_end": 976.8
+      "timestamp_start": 1033.94,
+      "timestamp_end": 1042.97,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0092.wav",
+          "source_duration": 8.68,
+          "duration": 9.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0092.wav",
+          "source_duration": 8.72,
+          "duration": 9.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0092.wav",
+          "source_duration": 9.56,
+          "duration": 9.91,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1033.94
     },
     {
       "scene_id": 93,
@@ -2243,14 +5555,50 @@
       "asset_file": "visual_assets/shot_0093.jpg",
       "sfx": "collage_question_pop",
       "motion_effect": "zoom_out",
-      "duration": 10.15,
+      "duration": 10.59,
       "language_durations": {
-        "bn": 10.64,
-        "en": 8.08,
-        "hi": 9.48
+        "bn": 10.59,
+        "en": 8.03,
+        "hi": 9.43
       },
-      "timestamp_start": 976.8,
-      "timestamp_end": 986.95
+      "timestamp_start": 1042.97,
+      "timestamp_end": 1053.56,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0093.wav",
+          "source_duration": 10.24,
+          "duration": 10.59,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0093.wav",
+          "source_duration": 7.68,
+          "duration": 8.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0093.wav",
+          "source_duration": 9.08,
+          "duration": 9.43,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1042.97
     },
     {
       "scene_id": 94,
@@ -2267,14 +5615,50 @@
       "asset_file": "visual_assets/shot_0094.jpg",
       "sfx": "subscribe_bell_ring",
       "motion_effect": "pan_left",
-      "duration": 11.7,
+      "duration": 11.11,
       "language_durations": {
-        "bn": 11.16,
+        "bn": 11.11,
         "en": 10.6,
-        "hi": 11.08
+        "hi": 11.03
       },
-      "timestamp_start": 986.95,
-      "timestamp_end": 998.65
+      "timestamp_start": 1053.56,
+      "timestamp_end": 1064.67,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0094.wav",
+          "source_duration": 10.76,
+          "duration": 11.11,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0094.wav",
+          "source_duration": 10.2,
+          "duration": 10.6,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0094.wav",
+          "source_duration": 10.68,
+          "duration": 11.03,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1053.56
     },
     {
       "scene_id": 95,
@@ -2297,8 +5681,44 @@
         "en": 8.12,
         "hi": 9.44
       },
-      "timestamp_start": 998.65,
-      "timestamp_end": 1008.65
+      "timestamp_start": 1064.67,
+      "timestamp_end": 1074.67,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0095.wav",
+          "source_duration": 8.88,
+          "duration": 9.28,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0095.wav",
+          "source_duration": 7.72,
+          "duration": 8.12,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0095.wav",
+          "source_duration": 9.04,
+          "duration": 9.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1064.67
     },
     {
       "scene_id": 96,
@@ -2315,14 +5735,489 @@
       "asset_file": "visual_assets/clip_shot_0096.mp4",
       "sfx": "sources_pages_stack",
       "motion_effect": "ai_video",
-      "duration": 10.67,
+      "duration": 12.19,
       "language_durations": {
-        "bn": 12.24,
-        "en": 11.88,
+        "bn": 12.19,
+        "en": 11.83,
         "hi": 12.44
       },
-      "timestamp_start": 1008.65,
-      "timestamp_end": 1019.32
+      "timestamp_start": 1074.67,
+      "timestamp_end": 1086.86,
+      "audio_clips": {
+        "bn": {
+          "file": "audio/raw/bn_shot_0096.wav",
+          "source_duration": 11.84,
+          "duration": 12.19,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "en": {
+          "file": "audio/raw/en_shot_0096.wav",
+          "source_duration": 11.48,
+          "duration": 11.83,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        },
+        "hi": {
+          "file": "audio/raw/hi_shot_0096.wav",
+          "source_duration": 12.04,
+          "duration": 12.44,
+          "trim_in": 0,
+          "trim_out": 0,
+          "volume_db": 0,
+          "fade_in": 0,
+          "fade_out": 0,
+          "manual_duration": false
+        }
+      },
+      "custom_start": 1074.67
     }
-  ]
+  ],
+  "tracks_config": {
+    "fx": {
+      "id": "fx",
+      "name": "FX & Motion",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 38
+    },
+    "video": {
+      "id": "video",
+      "name": "Video Track (AI Clips)",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 54
+    },
+    "image": {
+      "id": "image",
+      "name": "Image Track (Storyboard)",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 54
+    },
+    "voice": {
+      "id": "voice",
+      "name": "Voiceover / Part Audio",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 52
+    },
+    "sfx": {
+      "id": "sfx",
+      "name": "SFX & Ambience",
+      "muted": true,
+      "locked": false,
+      "visible": true,
+      "height": 38
+    },
+    "bgm": {
+      "id": "bgm",
+      "name": "BGM Soundtrack",
+      "muted": false,
+      "locked": false,
+      "visible": true,
+      "height": 44
+    }
+  },
+  "bgm_clips": [
+    {
+      "id": "bgm_clip_1",
+      "title": "Primary Era Soundtrack (bgm.mp3)",
+      "file": "audio/bgm.mp3",
+      "start_time": 0,
+      "duration": 1086.86,
+      "trim_in": 0,
+      "volume_db": -20,
+      "ducking": true,
+      "fade_in": 1.5,
+      "fade_out": 2.5,
+      "loop": true
+    }
+  ],
+  "characters": [
+    {
+      "id": "TIME_CHRONICLER",
+      "name_bn": "সময়ের সাক্ষী",
+      "name_en": "The Time Chronicler",
+      "name_hi": "समय का साक्षी",
+      "role_bn": "হোস্ট ও গল্পকথক",
+      "role_en": "Host & Storyteller",
+      "role_hi": "सूत्रधार एवं कहानीकार",
+      "gender": "Male",
+      "age_group": "Elderly",
+      "icon": "🎙️",
+      "badge_class": "speaker-badge-host",
+      "aistudio_voice": "Cruz",
+      "fallback_voice": "Charon",
+      "style_prompt": "An Old Story Teller, Old Man voice",
+      "default_wpm": 135,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "references/ref_host_sticky_meme.jpg",
+      "noor_veil": false,
+      "visual_dna": "Elderly male scholar, bald crown with fluffy white side hair, full bushy white beard, round wire-rim spectacles, earthy brown scholar robe/tunic, holding antique leather history journal and flaming torch."
+    },
+    {
+      "id": "NARRATOR",
+      "name_bn": "মূল ধারাভাষ্যকার",
+      "name_en": "Primary Narrator",
+      "name_hi": "मुख्य कथावाचक",
+      "role_bn": "ডকুমেন্টারি ভয়েস",
+      "role_en": "Documentary Voice",
+      "role_hi": "डॉक्यूमेंट्री वॉइस",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "📜",
+      "badge_class": "speaker-badge-narrator",
+      "aistudio_voice": "Charon",
+      "fallback_voice": "Orus",
+      "style_prompt": "informative, authoritative military & civilization historian",
+      "default_wpm": 140,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "",
+      "noor_veil": false,
+      "visual_dna": "Off-screen authoritative documentary narrator."
+    },
+    {
+      "id": "XUANZANG",
+      "name_bn": "XUANZANG",
+      "name_en": "XUANZANG",
+      "name_hi": "XUANZANG",
+      "role_bn": "গল্পের চরিত্র",
+      "role_en": "Story Character",
+      "role_hi": "कहानी का पात्र",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "🎭",
+      "badge_class": "speaker-badge-character",
+      "aistudio_voice": "Iapetus",
+      "fallback_voice": "Charon",
+      "style_prompt": "expressive, natural dramatic character acting",
+      "default_wpm": 138,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "",
+      "noor_veil": false,
+      "visual_dna": "Consistent character appearance for XUANZANG matching PRESET_SIMPLE_HISTORY."
+    },
+    {
+      "id": "ATISHA",
+      "name_bn": "ATISHA",
+      "name_en": "ATISHA",
+      "name_hi": "ATISHA",
+      "role_bn": "গল্পের চরিত্র",
+      "role_en": "Story Character",
+      "role_hi": "कहानी का पात्र",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "🎭",
+      "badge_class": "speaker-badge-character",
+      "aistudio_voice": "Iapetus",
+      "fallback_voice": "Charon",
+      "style_prompt": "expressive, natural dramatic character acting",
+      "default_wpm": 138,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "",
+      "noor_veil": false,
+      "visual_dna": "Consistent character appearance for ATISHA matching PRESET_SIMPLE_HISTORY."
+    },
+    {
+      "id": "KHALJI",
+      "name_bn": "KHALJI",
+      "name_en": "KHALJI",
+      "name_hi": "KHALJI",
+      "role_bn": "গল্পের চরিত্র",
+      "role_en": "Story Character",
+      "role_hi": "कहानी का पात्र",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "🎭",
+      "badge_class": "speaker-badge-character",
+      "aistudio_voice": "Iapetus",
+      "fallback_voice": "Charon",
+      "style_prompt": "expressive, natural dramatic character acting",
+      "default_wpm": 138,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "",
+      "noor_veil": false,
+      "visual_dna": "Consistent character appearance for KHALJI matching PRESET_SIMPLE_HISTORY."
+    },
+    {
+      "id": "SURVIVOR_MONK",
+      "name_bn": "SURVIVOR MONK",
+      "name_en": "SURVIVOR MONK",
+      "name_hi": "SURVIVOR MONK",
+      "role_bn": "গল্পের চরিত্র",
+      "role_en": "Story Character",
+      "role_hi": "कहानी का पात्र",
+      "gender": "Male",
+      "age_group": "Adult",
+      "icon": "🎭",
+      "badge_class": "speaker-badge-character",
+      "aistudio_voice": "Iapetus",
+      "fallback_voice": "Charon",
+      "style_prompt": "expressive, natural dramatic character acting",
+      "default_wpm": 138,
+      "volume_db": 0,
+      "audio_effect": "studio_clean",
+      "ref_image": "",
+      "noor_veil": false,
+      "visual_dna": "Consistent character appearance for SURVIVOR_MONK matching PRESET_SIMPLE_HISTORY."
+    }
+  ],
+  "branding": {
+    "enabled": true,
+    "logo_file": "references/mascot_logo_ref.jpg",
+    "position": "top-right",
+    "size": 64,
+    "opacity": 90,
+    "show_name": true,
+    "channel_name_bn": "Simple History Teller Bangla",
+    "channel_name_en": "Simple History Teller",
+    "channel_name_hi": "Simple History Teller Hindi"
+  },
+  "ticker_config": {
+    "position": "none",
+    "style": "broadcast_gold",
+    "speed": "medium",
+    "label_bn": "● আপডেট",
+    "label_en": "● UPDATE",
+    "label_hi": "● अपडेट",
+    "text_bn": "",
+    "text_en": "",
+    "text_hi": ""
+  },
+  "shorts_config": {
+    "total_parts": 5,
+    "embed_intro_thumbnail": true,
+    "intro_thumbnail_sec": 0.8,
+    "layout_dock": "right",
+    "parts": [
+      {
+        "partNum": 1,
+        "sceneRange": [
+          1,
+          18
+        ],
+        "sceneStart": 1,
+        "sceneEnd": 18,
+        "sceneCount": 18,
+        "startTime": 0,
+        "endTime": 217.33,
+        "duration": 217.33,
+        "language_spans": {
+          "bn": {
+            "start": 0,
+            "end": 217.33,
+            "duration": 217.33
+          },
+          "en": {
+            "start": 0,
+            "end": 180.32,
+            "duration": 180.32
+          },
+          "hi": {
+            "start": 0,
+            "end": 216.77,
+            "duration": 216.77
+          }
+        },
+        "title_bn": "আমি সময়ের সাক্ষী হয়ে মহাকালের ধুলোমাখা হাজার বছর… [পর্ব ১]",
+        "title_en": "I am the Time Chronicler crossing a thousand years… [Part 1]",
+        "title_hi": "मैं समय का साक्षी बनकर महाकाल की धूल भरी हज़ार साल… [भाग १]",
+        "main_title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+        "main_title_en": "Nalanda: The University That Burned for 3 Months",
+        "main_title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?",
+        "cover_scene_id": 9,
+        "thumbnail_files": {
+          "bn": "thumbnails/shorts/short_part_01_bn.png",
+          "en": "thumbnails/shorts/short_part_01_en.png",
+          "hi": "thumbnails/shorts/short_part_01_hi.png"
+        }
+      },
+      {
+        "partNum": 2,
+        "sceneRange": [
+          19,
+          36
+        ],
+        "sceneStart": 19,
+        "sceneEnd": 36,
+        "sceneCount": 18,
+        "startTime": 217.33,
+        "endTime": 429.4,
+        "duration": 212.07,
+        "language_spans": {
+          "bn": {
+            "start": 217.33,
+            "end": 429.4,
+            "duration": 212.07
+          },
+          "en": {
+            "start": 180.32,
+            "end": 355.32,
+            "duration": 175
+          },
+          "hi": {
+            "start": 216.77,
+            "end": 418.84,
+            "duration": 202.07
+          }
+        },
+        "title_bn": "সব ধর্মের ছাত্রদের জন্য মগধের নালন্দার ভারী কাঠের… [পর্ব ২]",
+        "title_en": "The heavy wooden gates of Nalanda stayed open for… [Part 2]",
+        "title_hi": "हर धर्म के छात्रों के लिए नालंदा के भारी लकड़ी के… [भाग २]",
+        "main_title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+        "main_title_en": "Nalanda: The University That Burned for 3 Months",
+        "main_title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?",
+        "cover_scene_id": 27,
+        "thumbnail_files": {
+          "bn": "thumbnails/shorts/short_part_02_bn.png",
+          "en": "thumbnails/shorts/short_part_02_en.png",
+          "hi": "thumbnails/shorts/short_part_02_hi.png"
+        }
+      },
+      {
+        "partNum": 3,
+        "sceneRange": [
+          37,
+          53
+        ],
+        "sceneStart": 37,
+        "sceneEnd": 53,
+        "sceneCount": 17,
+        "startTime": 429.4,
+        "endTime": 640.24,
+        "duration": 210.84,
+        "language_spans": {
+          "bn": {
+            "start": 429.4,
+            "end": 640.24,
+            "duration": 210.84
+          },
+          "en": {
+            "start": 355.32,
+            "end": 549.61,
+            "duration": 194.29
+          },
+          "hi": {
+            "start": 418.84,
+            "end": 621.41,
+            "duration": 202.57
+          }
+        },
+        "title_bn": "খোলা প্রাঙ্গণে দুপুরের রোদে দুই পণ্ডিত তীক্ষ্ণ যুক… [পর্ব ৩]",
+        "title_en": "In the courtyard under midday sun two scholars pre… [Part 3]",
+        "title_hi": "खुले आँगन में दोपहर की धूप में दो विद्वान तीखे तर्… [भाग ३]",
+        "main_title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+        "main_title_en": "Nalanda: The University That Burned for 3 Months",
+        "main_title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?",
+        "cover_scene_id": 45,
+        "thumbnail_files": {
+          "bn": "thumbnails/shorts/short_part_03_bn.png",
+          "en": "thumbnails/shorts/short_part_03_en.png",
+          "hi": "thumbnails/shorts/short_part_03_hi.png"
+        }
+      },
+      {
+        "partNum": 4,
+        "sceneRange": [
+          54,
+          72
+        ],
+        "sceneStart": 54,
+        "sceneEnd": 72,
+        "sceneCount": 19,
+        "startTime": 640.24,
+        "endTime": 859.18,
+        "duration": 218.94,
+        "language_spans": {
+          "bn": {
+            "start": 640.24,
+            "end": 859.18,
+            "duration": 218.94
+          },
+          "en": {
+            "start": 549.61,
+            "end": 758.53,
+            "duration": 208.92
+          },
+          "hi": {
+            "start": 621.41,
+            "end": 841.32,
+            "duration": 219.91
+          }
+        },
+        "title_bn": "পাল রাজাদের রাজকীয় পৃষ্ঠপোষকতা কমে যাওয়ায় কোষাগ… [পর্ব ৪]",
+        "title_en": "As royal patronage from the Pala kings declined an… [Part 4]",
+        "title_hi": "पाल राजाओं का शाही संरक्षण घटने से कोष का संचय चुक… [भाग ४]",
+        "main_title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+        "main_title_en": "Nalanda: The University That Burned for 3 Months",
+        "main_title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?",
+        "cover_scene_id": 63,
+        "thumbnail_files": {
+          "bn": "thumbnails/shorts/short_part_04_bn.png",
+          "en": "thumbnails/shorts/short_part_04_en.png",
+          "hi": "thumbnails/shorts/short_part_04_hi.png"
+        }
+      },
+      {
+        "partNum": 5,
+        "sceneRange": [
+          73,
+          96
+        ],
+        "sceneStart": 73,
+        "sceneEnd": 96,
+        "sceneCount": 24,
+        "startTime": 859.18,
+        "endTime": 1131,
+        "duration": 271.82,
+        "language_spans": {
+          "bn": {
+            "start": 859.18,
+            "end": 1131,
+            "duration": 271.82
+          },
+          "en": {
+            "start": 758.53,
+            "end": 1004.92,
+            "duration": 246.39
+          },
+          "hi": {
+            "start": 841.32,
+            "end": 1108.02,
+            "duration": 266.7
+          }
+        },
+        "title_bn": "ভয়াবহ ধ্বংসের পরও নালন্দা সম্পূর্ণ নিভে যায়নি [পর্ব ৫]",
+        "title_en": "Even after terrible ruin Nalanda did not vanish fu… [Part 5]",
+        "title_hi": "भयानक विनाश के बाद भी नालंदा इतिहास से पूरी तरह नह… [भाग ५]",
+        "main_title_bn": "৯০ লাখ বই ৩ মাস ধরে পুড়েছিল! নালন্দা ধ্বংসের আসল রহস্য",
+        "main_title_en": "Nalanda: The University That Burned for 3 Months",
+        "main_title_hi": "नालंदा: 90 लाख किताबें 3 महीने तक क्यों जलीं?",
+        "cover_scene_id": 84,
+        "thumbnail_files": {
+          "bn": "thumbnails/shorts/short_part_05_bn.png",
+          "en": "thumbnails/shorts/short_part_05_en.png",
+          "hi": "thumbnails/shorts/short_part_05_hi.png"
+        }
+      }
+    ]
+  }
 }

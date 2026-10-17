@@ -1,0 +1,211 @@
+================================================================================
+GOOGLE FLOW / AI STUDIO 1K IMAGE GENERATION BATCH PROMPTS (68 STATIC SCENES = 80%)
+Style: PRESET_SIMPLE_HISTORY (2D Historical Graphic Novel / Simple History)
+Aspect Ratio: 16:9 | Resolution: 1K Widescreen (1376x768)
+Negative Prompt Anchor: --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+================================================================================
+
+### Scene 2 (11.5s | CLM-01) -> visual_assets/scene_0002.png
+Simple History 2D graphic novel style, clean outlines, warm parchment palette, an ornate ancient world map depicting bustling shipping lanes across Egypt, Greece, Cyprus, and Anatolia with golden miniature ships and trade routes, 16:9 widescreen historical illustration. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 3 (12s | CLM-06, CLM-13) -> visual_assets/scene_0003.png
+Simple History 2D graphic novel style, dramatic split composition showing a gleaming bronze city on the left contrasting with blackened smoking ruins and broken stone pillars under stormy grey clouds on the right, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 4 (11s | CLM-06) -> visual_assets/scene_0004.png
+Simple History 2D graphic novel style, magnificent panoramic view of Thebes and Karnak temples, Pharaoh Ramesses II standing tall on a golden royal chariot overlooking monumental stone obelisks and the glistening Nile, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 5 (11s | CLM-06) -> visual_assets/scene_0005.png
+Simple History 2D graphic novel style, the monumental stone Lion Gate of Hattusa, heavily armored Hittite warriors with pointed bronze helmets and crested shields standing guard along cyclopean stone battlements, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 7 (11.5s | CLM-01, CLM-13) -> visual_assets/scene_0007.png
+Simple History 2D graphic novel style, vibrant bustling coastal port of Ugarit, merchant ships docked at stone quays, traders in colorful Levantine tunics trading wine jars, purple dyed fabrics, and ivory tusks, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 8 (11.5s | CLM-01) -> visual_assets/scene_0008.png
+Simple History 2D graphic novel style, royal scribe carefully stamping cuneiform wedge symbols into a moist clay tablet using a reed stylus, nearby an Egyptian golden diplomatic seal and rolled papyri, warm studio light, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 10 (11.5s | CLM-07) -> visual_assets/scene_0010.png
+Simple History 2D graphic novel style, close-up of the ancient Treaty of Kadesh baked clay tablet covered in fine Akkadian cuneiform inscriptions, flanked by the stylized silhouettes of Ramesses II and Hattusili III, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 11 (11s | CLM-02) -> visual_assets/scene_0011.png
+Simple History 2D graphic novel style, Time Chronicler looking up curiously with raised eyebrow and spectacles glinting, holding an ancient glowing bronze dagger over an open history scroll in a torchlit stone study, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 12 (10.5s | CLM-02) -> visual_assets/scene_0012.png
+Simple History 2D graphic novel style, gleaming golden-brown bronze broadsword and polished horned helmet resting heroically on an engraved stone pedestal under theatrical beam of light, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 13 (11s | CLM-02) -> visual_assets/scene_0013.png
+Simple History 2D graphic novel style, split illustration showing an ancient armorer sharpening a bronze spearhead on the left and a farmer tilling dry soil with a bronze-tipped wooden plow on the right, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 14 (12s | CLM-02) -> visual_assets/scene_0014.png
+Simple History 2D graphic novel style, clear educational visual diagram: a large orange block labeled 90% Copper next to a small silver ingot labeled 10% Tin pointing into a glowing crucible producing Bronze, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 15 (11s | CLM-03) -> visual_assets/scene_0015.png
+Simple History 2D graphic novel style, an ancient opencast copper mine on the island of Cyprus (Alashiya), workers loading raw reddish copper oxhide ingots into donkey panniers, turquoise sea in the backdrop, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 17 (11.5s | CLM-04) -> visual_assets/scene_0017.png
+Simple History 2D graphic novel style, underwater scene showing scuba divers carefully uncovering the wooden ribs of an ancient Bronze Age galley embedded in seabed sand surrounded by stacked oxhide ingots, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 18 (11.5s | CLM-04) -> visual_assets/scene_0018.png
+Simple History 2D graphic novel style, cross-section cutaway of the Uluburun cargo hold showing neat stacks of four-handled bronze oxhide ingots and triangular tin ingots, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 19 (11.5s | CLM-04) -> visual_assets/scene_0019.png
+Simple History 2D graphic novel style, thousands of newly forged bronze spears, helmets, and round shields arrayed symmetrically inside an imperial palace armory, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 20 (12s | CLM-05) -> visual_assets/scene_0020.png
+Simple History 2D graphic novel style, exquisite museum display layout of recovered Uluburun artifacts: carved ivory duck cosmetic box, golden scarab amulet, blue glass ingots, and amber beads, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 21 (11.5s | CLM-01, CLM-23) -> visual_assets/scene_0021.png
+Simple History 2D graphic novel style, Time Chronicler holding a glowing woven web of golden trade threads across miniature ancient cities, thoughtful analytical expression, warm parchment library background, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 22 (12s | CLM-23) -> visual_assets/scene_0022.png
+Simple History 2D graphic novel style, metaphorical cartoon illustration: a magnificent stone arch bridge of empires suddenly cracking in the middle as the central keystone slips, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 24 (11.5s | CLM-08, CLM-09) -> visual_assets/scene_0024.png
+Simple History 2D graphic novel style, modern scientist in laboratory peering through microscope at ancient fossil pollen grains, graphic overlay comparing lush green tree pollen vs arid desert scrub pollen charts, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 25 (11.5s | CLM-08) -> visual_assets/scene_0025.png
+Simple History 2D graphic novel style, vast dramatic landscape of withered ancient olive orchards with dead twisted grey branches standing in parched, cracked white earth under a pale blinding sky, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 26 (11.5s | CLM-09) -> visual_assets/scene_0026.png
+Simple History 2D graphic novel style, sorrowful Bronze Age shepherd holding an empty clay water jug next to an arid dry riverbed and the bones of sheep under a merciless sun, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 27 (11s | CLM-10) -> visual_assets/scene_0027.png
+Simple History 2D graphic novel style, crowds of impoverished Anatolian citizens gathered in front of closed palace grain storehouses holding empty woven baskets, despair on their faces, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 29 (12s | CLM-10) -> visual_assets/scene_0029.png
+Simple History 2D graphic novel style, macro close-up of cuneiform tablet RS 18.038 with authentic Akkadian wedges highlighted in subtle golden illumination against weathered terracotta clay, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 30 (11.5s | CLM-10) -> visual_assets/scene_0030.png
+Simple History 2D graphic novel style, Egyptian cargo vessel sailing heavy with woven wheat sacks past mountainous coastlines, dramatic twilight clouds, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 31 (11.5s | CLM-12) -> visual_assets/scene_0031.png
+Simple History 2D graphic novel style, Time Chronicler holding his torch high, looking down in alarm at deep jagged glowing cracks forming across an ancient tiled stone floor, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 33 (11.5s | CLM-12) -> visual_assets/scene_0033.png
+Simple History 2D graphic novel style, architectural cross-section diagram showing modern seismic shear fractures cutting through the Cyclopean masonry and Lion Gate of Mycenae, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 34 (11s | CLM-12) -> visual_assets/scene_0034.png
+Simple History 2D graphic novel style, fallen stone walls and crushed guard towers overlooking an Aegean valley, bewildered bronze guards staring at the gap in their defenses, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 35 (11s | CLM-23) -> visual_assets/scene_0035.png
+Simple History 2D graphic novel style, angry Bronze Age commoners staring upward with furrowed brows at a distant palace balcony where a golden king stands paralyzed in indecision, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 36 (11.5s | CLM-23) -> visual_assets/scene_0036.png
+Simple History 2D graphic novel style, angry peasants wielding wooden pitchforks and bronze sickles confronting palace guards in an open courtyard, smoke rising behind them, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 37 (11s | CLM-23) -> visual_assets/scene_0037.png
+Simple History 2D graphic novel style, villagers breaking open a heavy barred wooden granary door, spilled golden grain falling onto the stone pavers as guards flee, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 39 (11s | CLM-03, CLM-23) -> visual_assets/scene_0039.png
+Simple History 2D graphic novel style, an abandoned stone desert road littered with overturned wooden wagons and broken pottery wheels under a lonely crimson sunset, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 40 (11s | CLM-03, CLM-24) -> visual_assets/scene_0040.png
+Simple History 2D graphic novel style, an empty stone dock with rotting mooring ropes, no ships in sight, gloomy mist clinging to the deserted shoreline, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 41 (11.5s | CLM-02, CLM-24) -> visual_assets/scene_0041.png
+Simple History 2D graphic novel style, an ancient bronze foundry with cold, dark stone crucibles, an armorer staring down at an empty metal mold with empty hands, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 42 (12s | CLM-11, CLM-14) -> visual_assets/scene_0042.png
+Simple History 2D graphic novel style, Time Chronicler pointing with alarm toward an ominous maritime horizon shrouded in grey sea mist where dozens of jagged black ship sails emerge, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 44 (11.5s | CLM-11, CLM-19) -> visual_assets/scene_0044.png
+Simple History 2D graphic novel style, striking character lineup of three Sea Peoples warriors: one with feathered headdress (Peleset), one with horned bronze helmet (Sherden), and one with pointed kilts and round shield, bold ink outlines, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 45 (11s | CLM-19, CLM-20) -> visual_assets/scene_0045.png
+Simple History 2D graphic novel style, Time Chronicler examining ancient Egyptian temple stone reliefs depicting foreign captive warriors with a magnifying glass, intrigued scholar expression, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 46 (12s | CLM-19, CLM-20) -> visual_assets/scene_0046.png
+Simple History 2D graphic novel style, displaced families walking along dusty coastal trails, exhausted women and children carrying clay pots, weary men with crude weapons guarding wooden carts, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 47 (12.5s | CLM-19) -> visual_assets/scene_0047.png
+Simple History 2D graphic novel style, detailed historical rendering inspired by Medinet Habu reliefs showing heavy solid wooden ox-carts pulled by humped oxen, filled with wrapped bundles and children, escorted by horned-helmet guards, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 48 (11.5s | CLM-19, CLM-20) -> visual_assets/scene_0048.png
+Simple History 2D graphic novel style, vast army of migrating warriors and ships sweeping across a coastal plain like a dark swarm, smoke rising from villages in their wake, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 49 (11s | CLM-14) -> visual_assets/scene_0049.png
+Simple History 2D graphic novel style, King Ammurapi sitting upon a carved stone throne inside the palace of Ugarit, looking out through palace columns at the sea with anxious, heavy eyes, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 51 (12s | CLM-14) -> visual_assets/scene_0051.png
+Simple History 2D graphic novel style, panoramic tactical map showing Ugarit's armies stranded far inland in Anatolia while empty coastal fortresses face oncoming enemy warships, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 52 (12s | CLM-15) -> visual_assets/scene_0052.png
+Simple History 2D graphic novel style, dramatic illustration of an ancient clay oven with glowing red embers inside a palace archive, an unbaked clay tablet resting on hot coals, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 53 (12s | CLM-15) -> visual_assets/scene_0053.png
+Simple History 2D graphic novel style, Time Chronicler holding clay tablet RS 20.238 carefully with cotton gloves, nodding solemnly in scholarly verification, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 55 (11.5s | CLM-20) -> visual_assets/scene_0055.png
+Simple History 2D graphic novel style, smoking ruins of Byblos, Enkomi, and Megiddo marked on an ancient parchment map by blackened scorch marks and red falling arrows, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 56 (11.5s | CLM-16) -> visual_assets/scene_0056.png
+Simple History 2D graphic novel style, monumental cyclopean ruins of Hattusa, silent shattered stone ramparts overlooking the vast Anatolian plateau at bleak twilight, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 58 (11.5s | CLM-17) -> visual_assets/scene_0058.png
+Simple History 2D graphic novel style, charred ruins of the Palace of Nestor at Pylos, blackened megaron throne room hearth surrounded by collapsed stucco walls, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 59 (11.5s | CLM-18) -> visual_assets/scene_0059.png
+Simple History 2D graphic novel style, a clay tablet inscribed with Linear B syllabic signs crumbling into grey dust and floating away into dark smoke, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 60 (12s | CLM-18) -> visual_assets/scene_0060.png
+Simple History 2D graphic novel style, primitive Greek pastoral village during the Dark Ages, simple mud huts, illiterate goat herders around a small fire under a cold starry sky, forgotten palace ruins on the hill above, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 61 (12s | CLM-20) -> visual_assets/scene_0061.png
+Simple History 2D graphic novel style, vast army of Sea Peoples marchers and naval flotillas advancing relentlessly along the sandy Mediterranean coast toward the lush green delta of Egypt, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 63 (11.5s | CLM-21) -> visual_assets/scene_0063.png
+Simple History 2D graphic novel style, dense ranks of Egyptian archers kneeling in tall green Nile papyrus reeds, hundreds of drawn bows unleashing dark swarms of arrows upward, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 65 (12.5s | CLM-20, CLM-21) -> visual_assets/scene_0065.png
+Simple History 2D graphic novel style, monumental carved stone wall of Medinet Habu with deep hieroglyphic inscriptions illuminated by golden torchlight, depicting captured Sea Peoples in feathered caps led in chains, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 66 (11.5s | CLM-01, CLM-23) -> visual_assets/scene_0066.png
+Simple History 2D graphic novel style, Time Chronicler looking thoughtfully at an empty Egyptian treasury vault with empty gold pedestals and scattered account papyri, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 67 (12s | CLM-23) -> visual_assets/scene_0067.png
+Simple History 2D graphic novel style, Egyptian royal tomb artisans and sculptors sitting down on the stones of Deir el-Medina with folded arms, refusing to work for the vizier, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 68 (12s | CLM-23) -> visual_assets/scene_0068.png
+Simple History 2D graphic novel style, modern archaeological analysis diagram showing interlocking gears labeled: Megadrought, Earthquake Storms, Famine, Broken Trade Routes, Rebellion, and Sea Peoples Raids, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 69 (11.5s | CLM-23) -> visual_assets/scene_0069.png
+Simple History 2D graphic novel style, dramatic falling domino animation style: huge stone monuments tipping over and crushing one another in a sequence until all lie flat in dust, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 70 (12s | CLM-24, CLM-25) -> visual_assets/scene_0070.png
+Simple History 2D graphic novel style, Time Chronicler smiling with warmth and hope, a tiny green sprout breaking through charred black ash in front of ancient ruined columns at dawn, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 71 (11.5s | CLM-24) -> visual_assets/scene_0071.png
+Simple History 2D graphic novel style, an ancient artisan examining a heavy, rough chunk of dark red-brown iron ore with a look of intense discovery, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 73 (11.5s | CLM-24) -> visual_assets/scene_0073.png
+Simple History 2D graphic novel style, split illustration contrasting a decadent golden pharaoh with a single bronze sword against dozens of smiling ordinary villagers equipped with sturdy black iron sickles, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 74 (12s | CLM-24, CLM-25) -> visual_assets/scene_0074.png
+Simple History 2D graphic novel style, symbolic illustration showing a giant golden imperial crown gently crumbling into dust as sturdy iron farming tools and village workshop gears rise into prominence, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 75 (11.5s | CLM-25) -> visual_assets/scene_0075.png
+Simple History 2D graphic novel style, picturesque hill-country settlements in the Levant, independent farmers terracing olive groves and dry-farming barley on sunny mountain slopes, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 76 (12s | CLM-22) -> visual_assets/scene_0076.png
+Simple History 2D graphic novel style, fortified coastal Philistine city of Ashkelon with Aegean-style architecture and ceramic kilns, merchant docks busy with coastal trade, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 77 (12s | CLM-22) -> visual_assets/scene_0077.png
+Simple History 2D graphic novel style, beautiful Philistine bichrome ceramic vessel with stylized black-and-red painted water birds, excavated carefully by an archaeologist's brush, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 78 (12s | CLM-25, CLM-26) -> visual_assets/scene_0078.png
+Simple History 2D graphic novel style, ancient shepherd in simple woolen tunic standing upon the Judean hills at sunrise, looking out toward distant fertile valleys, dignified posture, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 79 (11.5s | CLM-25) -> visual_assets/scene_0079.png
+Simple History 2D graphic novel style, side-by-side comparison: an intimidating wall filled with hundreds of confusing Egyptian hieroglyphs next to a clean, simple clay tile, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 81 (12.5s | CLM-25) -> visual_assets/scene_0081.png
+Simple History 2D graphic novel style, genealogical tree of writing: starting from the Phoenician letter Aleph at the root branching out into Greek Alpha, Latin A, and Arabic Alif in luminous golden letters, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 82 (12s | CLM-23, CLM-26) -> visual_assets/scene_0082.png
+Simple History 2D graphic novel style, Time Chronicler standing among ancient weathered ruins under a vast starry night sky, looking forward with wise reflective gaze, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 83 (12s | CLM-01, CLM-23) -> visual_assets/scene_0083.png
+Simple History 2D graphic novel style, modern futuristic cityscape glowing with fiber-optic data streams and semiconductor circuit lines merging seamlessly into the ancient trade routes of old, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+
+### Scene 84 (11.5s | CLM-23) -> visual_assets/scene_0084.png
+Simple History 2D graphic novel style, Time Chronicler looking directly into the viewer's eyes with an intense, thought-provoking philosophical expression, raising his glowing bronze torch, 16:9 widescreen. --no text, typography, labels, numbers, titles, subtitles, words, speech bubbles, watermarks, signatures, captions, photorealism, 3d render, realistic textures, gradients
+

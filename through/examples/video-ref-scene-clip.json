@@ -1,0 +1,33 @@
+{
+  "flow": "video-ref-scene-clip",
+  "about": "EXAMPLE flow #1 (not the purpose). FlowKit's ref→scene→clip pattern expressed as Through jobs. Copy the SHAPE for any staged pipeline.",
+  "entities": [
+    { "name": "Host", "type": "character", "appearance": "Elderly scholar, white beard, round glasses, brown robe" },
+    { "name": "Market", "type": "location", "appearance": "Open-air market, awnings, lanterns" }
+  ],
+  "jobs": [
+    {
+      "id": "ref-host",
+      "label": "Ref: Host (appearance only)",
+      "siteId": "aistudio",
+      "url": "https://aistudio.google.com/prompts/new_chat",
+      "actions": [
+        { "op": "fill", "args": { "selector": "textarea", "text": "Portrait reference, front-facing, full body: Elderly scholar, white beard, round glasses, brown robe. No text, no watermark." } },
+        { "op": "click", "args": { "selector": "button.ctrl-enter-submits" } },
+        { "op": "extract", "id": "ref", "args": { "fields": { "image": "img" } } }
+      ],
+      "meta": { "stage": "refs", "entity": "Host" }
+    },
+    {
+      "id": "scene-1",
+      "label": "Scene 1 (action only, refs by name)",
+      "siteId": "flow",
+      "url": "https://flow.google.com/",
+      "actions": [
+        { "op": "fill", "args": { "selector": "textarea#PINHOLE_TEXT_AREA_ELEMENT_ID", "text": "Host stands behind Market stall arranging goods at sunrise. Wide shot. No text." } },
+        { "op": "askHuman", "args": { "reason": "Attach Host + Market refs, approve credits, then Continue" } }
+      ],
+      "meta": { "stage": "scenes", "character_names": ["Host", "Market"], "chain_type": "ROOT", "video_prompt": "0-3s: Wide push-in, Host arranges goods. 3-6s: Crowd passes. 6-8s: Host smiles at camera." }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 @echo off
-title Simple Itihash - Production Studio
+title Simple Studio (সিম্পল স্টুডিও)
 cd /d "%~dp0"
 
 where node >nul 2>nul || (echo [!] Node.js not found. Install from https://nodejs.org & pause & exit /b 1)
